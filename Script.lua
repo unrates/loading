@@ -573,7 +573,7 @@ local function createLoaderUI()
                         
                         -- Execute your script here
                         pcall(function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/unrates/test/refs/heads/main/test"))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Waguriiiii/Murder-mystery-2/refs/heads/main/Waguri.lua"))()
                         end)
                     end)
                 end)
