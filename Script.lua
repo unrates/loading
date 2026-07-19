@@ -1,4 +1,4 @@
--- Xena Loader - Fixed Version (Will NOT crash)
+-- Xena Loader - Pure Black & Red Edition
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
@@ -52,24 +52,25 @@ local function createLoaderUI()
     screenGui.DisplayOrder = 99999999
     screenGui.Parent = CoreGui
     
+    -- Main background (Dark)
     local background = Instance.new("Frame")
     background.Size = UDim2.new(1, 0, 1, 0)
-    background.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
+    background.BackgroundColor3 = Color3.fromRGB(5, 0, 0)
     background.BorderSizePixel = 0
     background.BackgroundTransparency = 1
     background.Parent = screenGui
     
     createGradient(background, {
-        {0, Color3.fromRGB(20, 20, 20)},
-        {1, Color3.fromRGB(5, 5, 5)}
+        {0, Color3.fromRGB(15, 0, 0)},
+        {1, Color3.fromRGB(0, 0, 0)}
     }, 130)
     
-    -- Animated Scanline
+    -- Animated Scanline (Bright Red)
     local scanline = Instance.new("Frame")
     scanline.Size = UDim2.new(1, 0, 0, 1)
     scanline.Position = UDim2.new(0, 0, 0, 0)
     scanline.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
-    scanline.BackgroundTransparency = 0.84
+    scanline.BackgroundTransparency = 0.8
     scanline.BorderSizePixel = 0
     scanline.ZIndex = 2
     scanline.Parent = background
@@ -77,35 +78,36 @@ local function createLoaderUI()
     local dialogSize = UDim2.new(0, 480, 0, 340)
     local dialogPosition = UDim2.new(0.5, 0, 0.5, 0)
     
+    -- Dialog Box (Pure Black)
     local dialog = Instance.new("Frame")
     dialog.AnchorPoint = Vector2.new(0.5, 0.5)
     dialog.Position = dialogPosition
     dialog.Size = dialogSize
-    dialog.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+    dialog.BackgroundColor3 = Color3.fromRGB(5, 5, 5)
     dialog.BorderSizePixel = 0
     dialog.ClipsDescendants = true
     dialog.Visible = false
     dialog.Parent = background
     
     createRoundedCorner(dialog, 16)
-    createStroke(dialog, Color3.fromRGB(180, 20, 20), 1, 0.4)
+    createStroke(dialog, Color3.fromRGB(255, 20, 20), 1, 0.4)
     createGradient(dialog, {
-        {0, Color3.fromRGB(25, 25, 25)},
-        {1, Color3.fromRGB(10, 10, 10)}
+        {0, Color3.fromRGB(15, 0, 0)},
+        {1, Color3.fromRGB(0, 0, 0)}
     }, 145)
     
-    -- Top Accent Line
+    -- Top Accent Line (Red Gradient)
     local accentLine = Instance.new("Frame")
     accentLine.Size = UDim2.new(1, 0, 0, 2)
-    accentLine.BackgroundColor3 = Color3.fromRGB(255, 40, 40)
+    accentLine.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
     accentLine.BorderSizePixel = 0
     accentLine.ZIndex = 3
     accentLine.Parent = dialog
     
     createGradient(accentLine, {
-        {0, Color3.fromRGB(150, 0, 0)},
-        {0.5, Color3.fromRGB(255, 100, 100)},
-        {1, Color3.fromRGB(150, 0, 0)}
+        {0, Color3.fromRGB(100, 0, 0)},
+        {0.5, Color3.fromRGB(255, 50, 50)},
+        {1, Color3.fromRGB(100, 0, 0)}
     }, 0)
     
     -- Logo Container
@@ -123,7 +125,7 @@ local function createLoaderUI()
     logoOuter.Parent = logoContainer
     
     createRoundedCorner(logoOuter, 34)
-    createStroke(logoOuter, Color3.fromRGB(220, 40, 40), 2.5, 0.05)
+    createStroke(logoOuter, Color3.fromRGB(255, 50, 50), 2.5, 0.05)
     
     local logoInner = Instance.new("Frame")
     logoInner.Size = UDim2.new(0.54, 0, 0.54, 0)
@@ -134,13 +136,13 @@ local function createLoaderUI()
     logoInner.Parent = logoContainer
     
     createRoundedCorner(logoInner, 34)
-    createStroke(logoInner, Color3.fromRGB(200, 30, 30), 1.5, 0.25)
+    createStroke(logoInner, Color3.fromRGB(200, 0, 0), 1.5, 0.25)
     
     local logoLine = Instance.new("Frame")
     logoLine.Size = UDim2.new(0, 50, 0, 2)
     logoLine.AnchorPoint = Vector2.new(0.5, 0.5)
     logoLine.Position = UDim2.new(0.5, 0, 0.5, 0)
-    logoLine.BackgroundColor3 = Color3.fromRGB(255, 120, 120)
+    logoLine.BackgroundColor3 = Color3.fromRGB(255, 100, 100)
     logoLine.BorderSizePixel = 0
     logoLine.Rotation = -22
     logoLine.ZIndex = 4
@@ -148,7 +150,7 @@ local function createLoaderUI()
     
     createRoundedCorner(logoLine, 34)
     
-    -- Title
+    -- Title (Bright Red)
     local title = Instance.new("TextLabel")
     title.Size = UDim2.new(0, 155, 0, 22)
     title.Position = UDim2.new(0, 60, 0, 16)
@@ -156,7 +158,7 @@ local function createLoaderUI()
     title.Text = "XENA"
     title.Font = Enum.Font.GothamBlack
     title.TextSize = 19
-    title.TextColor3 = Color3.fromRGB(255, 240, 240)
+    title.TextColor3 = Color3.fromRGB(255, 30, 30)
     title.TextXAlignment = Enum.TextXAlignment.Left
     title.ZIndex = 3
     title.Parent = dialog
@@ -165,7 +167,7 @@ local function createLoaderUI()
     local versionBadge = Instance.new("Frame")
     versionBadge.Size = UDim2.new(0, 122, 0, 14)
     versionBadge.Position = UDim2.new(0, 60, 0, 40)
-    versionBadge.BackgroundColor3 = Color3.fromRGB(150, 20, 20)
+    versionBadge.BackgroundColor3 = Color3.fromRGB(150, 0, 0)
     versionBadge.BorderSizePixel = 0
     versionBadge.ZIndex = 3
     versionBadge.Parent = dialog
@@ -178,7 +180,7 @@ local function createLoaderUI()
     versionText.Text = "BYPASS ENGINE  v3.2"
     versionText.Font = Enum.Font.GothamBold
     versionText.TextSize = 9
-    versionText.TextColor3 = Color3.fromRGB(255, 180, 180)
+    versionText.TextColor3 = Color3.fromRGB(255, 200, 200)
     versionText.ZIndex = 4
     versionText.Parent = versionBadge
     
@@ -199,18 +201,18 @@ local function createLoaderUI()
     
     createRoundedCorner(avatarBorder, 34)
     
-    local avatarStroke = createStroke(avatarBorder, Color3.fromRGB(255, 60, 60), 3, 0)
+    local avatarStroke = createStroke(avatarBorder, Color3.fromRGB(255, 0, 0), 3, 0)
     createGradient(avatarStroke, {
-        {0, Color3.fromRGB(255, 60, 60)},
-        {0.45, Color3.fromRGB(180, 20, 20)},
-        {1, Color3.fromRGB(100, 10, 10)}
+        {0, Color3.fromRGB(255, 0, 0)},
+        {0.45, Color3.fromRGB(150, 0, 0)},
+        {1, Color3.fromRGB(50, 0, 0)}
     }, 0)
     
     local avatarImage = Instance.new("ImageLabel")
     avatarImage.Size = UDim2.new(0.76, 0, 0.76, 0)
     avatarImage.AnchorPoint = Vector2.new(0.5, 0.5)
     avatarImage.Position = UDim2.new(0.5, 0, 0.5, 0)
-    avatarImage.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+    avatarImage.BackgroundColor3 = Color3.fromRGB(10, 0, 0)
     avatarImage.ScaleType = Enum.ScaleType.Crop
     avatarImage.ZIndex = 4
     avatarImage.Parent = avatarContainer
@@ -229,7 +231,7 @@ local function createLoaderUI()
     local separator = Instance.new("Frame")
     separator.Size = UDim2.new(1, -36, 0, 1)
     separator.Position = UDim2.new(0, 18, 0, 62)
-    separator.BackgroundColor3 = Color3.fromRGB(80, 30, 30)
+    separator.BackgroundColor3 = Color3.fromRGB(80, 0, 0)
     separator.BorderSizePixel = 0
     separator.ZIndex = 3
     separator.Parent = dialog
@@ -242,7 +244,7 @@ local function createLoaderUI()
     statusText.Text = "Initializing bypass engine..."
     statusText.Font = Enum.Font.GothamMedium
     statusText.TextSize = 12
-    statusText.TextColor3 = Color3.fromRGB(200, 160, 160)
+    statusText.TextColor3 = Color3.fromRGB(220, 100, 100)
     statusText.TextXAlignment = Enum.TextXAlignment.Left
     statusText.ZIndex = 3
     statusText.Parent = dialog
@@ -256,7 +258,7 @@ local function createLoaderUI()
     progressPercent.Text = "0.0%"
     progressPercent.Font = Enum.Font.GothamBold
     progressPercent.TextSize = 13
-    progressPercent.TextColor3 = Color3.fromRGB(255, 80, 80)
+    progressPercent.TextColor3 = Color3.fromRGB(255, 0, 0)
     progressPercent.TextXAlignment = Enum.TextXAlignment.Right
     progressPercent.ZIndex = 3
     progressPercent.Parent = dialog
@@ -265,7 +267,7 @@ local function createLoaderUI()
     local progressBarBg = Instance.new("Frame")
     progressBarBg.Size = UDim2.new(1, -36, 0, 5)
     progressBarBg.Position = UDim2.new(0, 18, 0, 93)
-    progressBarBg.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+    progressBarBg.BackgroundColor3 = Color3.fromRGB(20, 0, 0)
     progressBarBg.BorderSizePixel = 0
     progressBarBg.ZIndex = 3
     progressBarBg.Parent = dialog
@@ -275,33 +277,33 @@ local function createLoaderUI()
     -- Progress Bar Fill
     local progressBarFill = Instance.new("Frame")
     progressBarFill.Size = UDim2.new(0, 0, 1, 0)
-    progressBarFill.BackgroundColor3 = Color3.fromRGB(220, 40, 40)
+    progressBarFill.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
     progressBarFill.BorderSizePixel = 0
     progressBarFill.ZIndex = 4
     progressBarFill.Parent = progressBarBg
     
     createRoundedCorner(progressBarFill, 5)
     createGradient(progressBarFill, {
-        {0, Color3.fromRGB(180, 20, 20)},
-        {0.6, Color3.fromRGB(255, 60, 60)},
-        {1, Color3.fromRGB(255, 140, 140)}
+        {0, Color3.fromRGB(150, 0, 0)},
+        {0.6, Color3.fromRGB(255, 40, 40)},
+        {1, Color3.fromRGB(255, 100, 100)}
     }, 0)
     
     -- Log Scrolling Frame
     local logFrame = Instance.new("ScrollingFrame")
     logFrame.Size = UDim2.new(1, -36, 0, 148)
     logFrame.Position = UDim2.new(0, 18, 0, 106)
-    logFrame.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+    logFrame.BackgroundColor3 = Color3.fromRGB(8, 0, 0)
     logFrame.BorderSizePixel = 0
     logFrame.ScrollBarThickness = 3
-    logFrame.ScrollBarImageColor3 = Color3.fromRGB(150, 40, 40)
+    logFrame.ScrollBarImageColor3 = Color3.fromRGB(180, 0, 0)
     logFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
     logFrame.AutomaticCanvasSize = Enum.AutomaticSize.Y
     logFrame.ZIndex = 3
     logFrame.Parent = dialog
     
     createRoundedCorner(logFrame, 8)
-    createStroke(logFrame, Color3.fromRGB(80, 30, 30), 1, 0.4)
+    createStroke(logFrame, Color3.fromRGB(100, 0, 0), 1, 0.4)
     
     local logLayout = Instance.new("UIListLayout")
     logLayout.Padding = UDim.new(0, 1)
@@ -319,7 +321,7 @@ local function createLoaderUI()
     local discordBanner = Instance.new("Frame")
     discordBanner.Size = UDim2.new(1, -36, 0, 40)
     discordBanner.Position = UDim2.new(0, 18, 1, -52)
-    discordBanner.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
+    discordBanner.BackgroundColor3 = Color3.fromRGB(12, 0, 0)
     discordBanner.BackgroundTransparency = 1
     discordBanner.BorderSizePixel = 0
     discordBanner.ZIndex = 3
@@ -327,7 +329,7 @@ local function createLoaderUI()
     
     createRoundedCorner(discordBanner, 10)
     
-    local discordStroke = createStroke(discordBanner, Color3.fromRGB(140, 30, 30), 1, 1)
+    local discordStroke = createStroke(discordBanner, Color3.fromRGB(180, 0, 0), 1, 1)
     
     local discordIcon = Instance.new("TextLabel")
     discordIcon.Size = UDim2.new(0, 20, 0, 20)
@@ -336,7 +338,7 @@ local function createLoaderUI()
     discordIcon.Text = "🌐"
     discordIcon.Font = Enum.Font.Gotham
     discordIcon.TextSize = 14
-    discordIcon.TextColor3 = Color3.fromRGB(200, 80, 80)
+    discordIcon.TextColor3 = Color3.fromRGB(255, 80, 80)
     discordIcon.TextTransparency = 1
     discordIcon.ZIndex = 4
     discordIcon.Parent = discordBanner
@@ -348,7 +350,7 @@ local function createLoaderUI()
     discordText.Text = "Join Xena! discord.gg/xena"
     discordText.Font = Enum.Font.GothamMedium
     discordText.TextSize = 12
-    discordText.TextColor3 = Color3.fromRGB(255, 100, 100)
+    discordText.TextColor3 = Color3.fromRGB(255, 120, 120)
     discordText.TextXAlignment = Enum.TextXAlignment.Left
     discordText.TextTransparency = 1
     discordText.ZIndex = 4
@@ -358,7 +360,7 @@ local function createLoaderUI()
     copyButton.Size = UDim2.new(0, 60, 0, 24)
     copyButton.AnchorPoint = Vector2.new(1, 0.5)
     copyButton.Position = UDim2.new(1, -10, 0.5, 0)
-    copyButton.BackgroundColor3 = Color3.fromRGB(180, 30, 30)
+    copyButton.BackgroundColor3 = Color3.fromRGB(150, 0, 0)
     copyButton.BackgroundTransparency = 1
     copyButton.Text = "COPY"
     copyButton.Font = Enum.Font.GothamBold
@@ -375,13 +377,13 @@ local function createLoaderUI()
     -- Button hover effects
     copyButton.MouseEnter:Connect(function()
         TweenService:Create(copyButton, TweenInfo.new(0.15), {
-            BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+            BackgroundColor3 = Color3.fromRGB(220, 0, 0)
         }):Play()
     end)
     
     copyButton.MouseLeave:Connect(function()
         TweenService:Create(copyButton, TweenInfo.new(0.15), {
-            BackgroundColor3 = Color3.fromRGB(180, 30, 30)
+            BackgroundColor3 = Color3.fromRGB(150, 0, 0)
         }):Play()
     end)
     
@@ -422,7 +424,7 @@ local function createLoaderUI()
         logEntry.Text = message
         logEntry.Font = Enum.Font.Code
         logEntry.TextSize = 11
-        logEntry.TextColor3 = color or Color3.fromRGB(180, 150, 150)
+        logEntry.TextColor3 = color or Color3.fromRGB(255, 150, 150)
         logEntry.TextXAlignment = Enum.TextXAlignment.Left
         logEntry.ZIndex = 4
         logEntry.Parent = logFrame
@@ -484,19 +486,19 @@ local function createLoaderUI()
     
     -- Progress simulation data
     local logMessages = {
-        {pct = 0, msg = "> Enumerating anti-cheat modules...", color = Color3.fromRGB(180, 130, 130)},
-        {pct = 7, msg = "> Scanning memory map [0x0000 – 0xFFFF]...", color = Color3.fromRGB(180, 130, 130)},
-        {pct = 14, msg = "> Detected: Xena AC build 2140 — intercepting...", color = Color3.fromRGB(255, 120, 120)},
-        {pct = 21, msg = "> Hook table relocated → 0xC0FFEE44", color = Color3.fromRGB(180, 130, 130)},
-        {pct = 29, msg = "> Signature spoof layer: ACTIVE", color = Color3.fromRGB(255, 60, 60)},
-        {pct = 36, msg = "> Restoring original opcode stream...", color = Color3.fromRGB(180, 130, 130)},
-        {pct = 44, msg = "> Injecting __newindex detour...", color = Color3.fromRGB(255, 120, 120)},
-        {pct = 52, msg = "> Integrity checksum cleared (0x00000000)", color = Color3.fromRGB(255, 60, 60)},
-        {pct = 60, msg = "> WARNING: heartbeat probe triggered — suppressing", color = Color3.fromRGB(255, 150, 50)},
-        {pct = 68, msg = "> Re-routing event dispatcher...", color = Color3.fromRGB(180, 130, 130)},
-        {pct = 76, msg = "> Spoof layer stable — monitor silent.", color = Color3.fromRGB(255, 60, 60)},
-        {pct = 84, msg = "> Finalizing payload delivery...", color = Color3.fromRGB(255, 120, 120)},
-        {pct = 92, msg = "> All modules bypassed. Loader armed.", color = Color3.fromRGB(255, 60, 60)}
+        {pct = 0, msg = "> Enumerating anti-cheat modules...", color = Color3.fromRGB(200, 100, 100)},
+        {pct = 7, msg = "> Scanning memory map [0x0000 – 0xFFFF]...", color = Color3.fromRGB(200, 100, 100)},
+        {pct = 14, msg = "> Detected: Xena AC build 2140 — intercepting...", color = Color3.fromRGB(255, 50, 50)},
+        {pct = 21, msg = "> Hook table relocated → 0xC0FFEE44", color = Color3.fromRGB(200, 100, 100)},
+        {pct = 29, msg = "> Signature spoof layer: ACTIVE", color = Color3.fromRGB(255, 0, 0)},
+        {pct = 36, msg = "> Restoring original opcode stream...", color = Color3.fromRGB(200, 100, 100)},
+        {pct = 44, msg = "> Injecting __newindex detour...", color = Color3.fromRGB(255, 50, 50)},
+        {pct = 52, msg = "> Integrity checksum cleared (0x00000000)", color = Color3.fromRGB(255, 0, 0)},
+        {pct = 60, msg = "> WARNING: heartbeat probe triggered — suppressing", color = Color3.fromRGB(255, 120, 0)},
+        {pct = 68, msg = "> Re-routing event dispatcher...", color = Color3.fromRGB(200, 100, 100)},
+        {pct = 76, msg = "> Spoof layer stable — monitor silent.", color = Color3.fromRGB(255, 0, 0)},
+        {pct = 84, msg = "> Finalizing payload delivery...", color = Color3.fromRGB(255, 50, 50)},
+        {pct = 92, msg = "> All modules bypassed. Loader armed.", color = Color3.fromRGB(255, 0, 0)}
     }
     
     local statusMessages = {
@@ -541,7 +543,7 @@ local function createLoaderUI()
                 }):Play()
                 
                 statusText.Text = "Loader ready — standing by."
-                addLogEntry("> Loader ready. Waiting for game signal...", Color3.fromRGB(255, 60, 60))
+                addLogEntry("> Loader ready. Waiting for game signal...", Color3.fromRGB(255, 0, 0))
                 break
             end
             
