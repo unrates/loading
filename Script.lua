@@ -1,4 +1,4 @@
--- Xena Loader - Pure Black & Red Edition
+-- Xena Loader - Pure Black & Red Edition (Auto-Execute)
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
@@ -542,8 +542,42 @@ local function createLoaderUI()
                     Size = UDim2.new(1, 0, 1, 0)
                 }):Play()
                 
-                statusText.Text = "Loader ready — standing by."
-                addLogEntry("> Loader ready. Waiting for game signal...", Color3.fromRGB(255, 0, 0))
+                statusText.Text = "Loader ready — executing payload..."
+                addLogEntry("> Executing main script...", Color3.fromRGB(255, 0, 0))
+                
+                -- Wait 1 second before fading out
+                task.delay(1, function()
+                    local fadeInfo = TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
+                    TweenService:Create(background, fadeInfo, {BackgroundTransparency = 1}):Play()
+                    
+                    -- Fade out dialog elements
+                    for _, v in pairs(dialog:GetDescendants()) do
+                        if v:IsA("TextLabel") or v:IsA("TextButton") then
+                            TweenService:Create(v, fadeInfo, {TextTransparency = 1}):Play()
+                        end
+                        if v:IsA("Frame") or v:IsA("ImageLabel") or v:IsA("ScrollingFrame") then
+                            TweenService:Create(v, fadeInfo, {BackgroundTransparency = 1}):Play()
+                        end
+                        if v:IsA("UIStroke") then
+                            TweenService:Create(v, fadeInfo, {Transparency = 1}):Play()
+                        end
+                    end
+                    TweenService:Create(dialog, fadeInfo, {BackgroundTransparency = 1}):Play()
+                    
+                    -- Wait for fade out, destroy GUI, stop animations, execute script
+                    task.delay(0.6, function()
+                        stopAnimations = true
+                        if screenGui then
+                            screenGui:Destroy()
+                        end
+                        
+                        -- Execute your script here
+                        pcall(function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/unrates/test/refs/heads/main/test"))()
+                        end)
+                    end)
+                end)
+                
                 break
             end
             
