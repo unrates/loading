@@ -1,4 +1,4 @@
--- Xena Loader - Pink Edition (Auto-Execute) - 30s Loading
+-- Xena Loader - Pink Edition (Auto-Execute) - 1m 25s (85 seconds) Loading
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
@@ -519,7 +519,7 @@ local function createLoaderUI()
     local lastStatusPct = -1
    
     local startTime = os.clock()
-    local totalDuration = 30  -- ← 30 seconds loading screen
+    local totalDuration = 85  -- ← 1 minute 25 seconds (85s)
    
     local function getTargetProgress()
         local elapsed = math.clamp((os.clock() - startTime) / totalDuration, 0, 1)
@@ -543,7 +543,6 @@ local function createLoaderUI()
                 statusText.Text = "Loader ready — executing payload..."
                 addLogEntry("> Executing main script...", Color3.fromRGB(255, 100, 180))
                
-                -- Wait 1 second before fading out
                 task.delay(1, function()
                     local fadeInfo = TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
                     TweenService:Create(background, fadeInfo, {BackgroundTransparency = 1}):Play()
