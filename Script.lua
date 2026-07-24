@@ -1,4 +1,4 @@
--- Xena Loader - Pink Edition (Auto-Execute) - 1m 25s (85 seconds) Loading
+-- Xena Loader - Pink Edition (Auto-Execute) - 20s Loading (No Copy Button)
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
@@ -7,7 +7,6 @@ local StarterGui = game:GetService("StarterGui")
 local localPlayer = Players.LocalPlayer
 local loaderGui = nil
 local isLoaderVisible = false
-local rotatingElements = {}
 local stopAnimations = false
 
 -- Utility functions
@@ -51,7 +50,7 @@ local function createLoaderUI()
     screenGui.DisplayOrder = 99999999
     screenGui.Parent = CoreGui
    
-    -- Main background (Dark Pinkish-Black)
+    -- Main background
     local background = Instance.new("Frame")
     background.Size = UDim2.new(1, 0, 1, 0)
     background.BackgroundColor3 = Color3.fromRGB(7, 2, 5)
@@ -64,7 +63,7 @@ local function createLoaderUI()
         {1, Color3.fromRGB(2, 0, 2)}
     }, 130)
    
-    -- Animated Scanline (Bright Pink)
+    -- Animated Scanline
     local scanline = Instance.new("Frame")
     scanline.Size = UDim2.new(1, 0, 0, 1)
     scanline.Position = UDim2.new(0, 0, 0, 0)
@@ -77,7 +76,7 @@ local function createLoaderUI()
     local dialogSize = UDim2.new(0, 480, 0, 340)
     local dialogPosition = UDim2.new(0.5, 0, 0.5, 0)
    
-    -- Dialog Box (Dark Pink/Black)
+    -- Dialog Box
     local dialog = Instance.new("Frame")
     dialog.AnchorPoint = Vector2.new(0.5, 0.5)
     dialog.Position = dialogPosition
@@ -95,7 +94,7 @@ local function createLoaderUI()
         {1, Color3.fromRGB(4, 0, 3)}
     }, 145)
    
-    -- Top Accent Line (Pink Gradient)
+    -- Top Accent Line
     local accentLine = Instance.new("Frame")
     accentLine.Size = UDim2.new(1, 0, 0, 2)
     accentLine.BackgroundColor3 = Color3.fromRGB(255, 85, 163)
@@ -149,7 +148,7 @@ local function createLoaderUI()
    
     createRoundedCorner(logoLine, 34)
    
-    -- Title (Bright Pink)
+    -- Title
     local title = Instance.new("TextLabel")
     title.Size = UDim2.new(0, 155, 0, 22)
     title.Position = UDim2.new(0, 60, 0, 16)
@@ -218,7 +217,6 @@ local function createLoaderUI()
    
     createRoundedCorner(avatarImage, 34)
    
-    -- Load avatar
     pcall(function()
         local thumbnail = Players:GetUserThumbnailAsync(localPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)
         if thumbnail then
@@ -316,7 +314,7 @@ local function createLoaderUI()
     logPadding.PaddingBottom = UDim.new(0, 7)
     logPadding.Parent = logFrame
    
-    -- Discord Banner
+    -- Discord Banner (without copy button)
     local discordBanner = Instance.new("Frame")
     discordBanner.Size = UDim2.new(1, -36, 0, 40)
     discordBanner.Position = UDim2.new(0, 18, 1, -52)
@@ -343,7 +341,7 @@ local function createLoaderUI()
     discordIcon.Parent = discordBanner
    
     local discordText = Instance.new("TextLabel")
-    discordText.Size = UDim2.new(0, 200, 1, 0)
+    discordText.Size = UDim2.new(1, -50, 1, 0)
     discordText.Position = UDim2.new(0, 36, 0, 0)
     discordText.BackgroundTransparency = 1
     discordText.Text = "Join Xena! discord.gg/xena"
@@ -355,49 +353,6 @@ local function createLoaderUI()
     discordText.ZIndex = 4
     discordText.Parent = discordBanner
    
-    local copyButton = Instance.new("TextButton")
-    copyButton.Size = UDim2.new(0, 60, 0, 24)
-    copyButton.AnchorPoint = Vector2.new(1, 0.5)
-    copyButton.Position = UDim2.new(1, -10, 0.5, 0)
-    copyButton.BackgroundColor3 = Color3.fromRGB(150, 30, 90)
-    copyButton.BackgroundTransparency = 1
-    copyButton.Text = "COPY"
-    copyButton.Font = Enum.Font.GothamBold
-    copyButton.TextSize = 11
-    copyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
-    copyButton.TextTransparency = 1
-    copyButton.BorderSizePixel = 0
-    copyButton.AutoButtonColor = false
-    copyButton.ZIndex = 4
-    copyButton.Parent = discordBanner
-   
-    createRoundedCorner(copyButton, 6)
-   
-    -- Button hover effects
-    copyButton.MouseEnter:Connect(function()
-        TweenService:Create(copyButton, TweenInfo.new(0.15), {
-            BackgroundColor3 = Color3.fromRGB(220, 60, 140)
-        }):Play()
-    end)
-   
-    copyButton.MouseLeave:Connect(function()
-        TweenService:Create(copyButton, TweenInfo.new(0.15), {
-            BackgroundColor3 = Color3.fromRGB(150, 30, 90)
-        }):Play()
-    end)
-   
-    copyButton.MouseButton1Click:Connect(function()
-        if setclipboard then
-            setclipboard("https://discord.gg/xena")
-        end
-        copyButton.Text = "✓ COPIED"
-        task.delay(1.5, function()
-            if copyButton and copyButton.Parent then
-                copyButton.Text = "COPY"
-            end
-        end)
-    end)
-   
     -- Show discord banner after delay
     task.delay(math.random(150, 180), function()
         local tweenInfo = TweenInfo.new(0.7, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
@@ -406,10 +361,6 @@ local function createLoaderUI()
         TweenService:Create(discordStroke, tweenInfo, {Transparency = 0.42}):Play()
         TweenService:Create(discordIcon, tweenInfo, {TextTransparency = 0}):Play()
         TweenService:Create(discordText, tweenInfo, {TextTransparency = 0}):Play()
-        TweenService:Create(copyButton, tweenInfo, {
-            BackgroundTransparency = 0,
-            TextTransparency = 0
-        }):Play()
     end)
    
     -- Animation functions
@@ -519,7 +470,7 @@ local function createLoaderUI()
     local lastStatusPct = -1
    
     local startTime = os.clock()
-    local totalDuration = 85  -- ← 1 minute 25 seconds (85s)
+    local totalDuration = 20  -- ← Changed to 20 seconds
    
     local function getTargetProgress()
         local elapsed = math.clamp((os.clock() - startTime) / totalDuration, 0, 1)
@@ -581,7 +532,6 @@ local function createLoaderUI()
                 Size = UDim2.new(currentProgress / 100, 0, 1, 0)
             }):Play()
            
-            -- Update status text
             for i = #statusMessages, 1, -1 do
                 local msg = statusMessages[i]
                 if currentProgress >= msg.pct and msg.pct > lastStatusPct then
@@ -591,7 +541,6 @@ local function createLoaderUI()
                 end
             end
            
-            -- Add log messages
             for _, msg in ipairs(logMessages) do
                 if currentProgress >= msg.pct and not loggedPcts[msg.pct] then
                     loggedPcts[msg.pct] = true
@@ -606,7 +555,7 @@ local function createLoaderUI()
     return screenGui
 end
 
--- Disable CoreGui and cleanup existing loader
+-- Disable CoreGui and cleanup
 pcall(function()
     StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.All, false)
 end)
@@ -622,7 +571,6 @@ end)
 -- Initialize loader
 loaderGui = createLoaderUI()
 
--- Keep loader alive
 while loaderGui and loaderGui.Parent do
     task.wait(1)
 end
