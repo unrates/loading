@@ -518,7 +518,7 @@ local function createLoaderUI()
                         end
                        
                         pcall(function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/HoneyLua/refs/heads/main/Loader.luau"))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Waguriiiii/Murder-mystery-2/refs/heads/main/Waguri.lua"))()
                         end)
                     end)
                 end)
