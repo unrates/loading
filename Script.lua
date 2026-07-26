@@ -1,4 +1,4 @@
--- Xena Loader - Pink Version (Will NOT crash)
+-- Xena Loader - Pink Version (30 seconds)
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
@@ -518,8 +518,8 @@ local function createLoaderUI()
     local lastStatusPct = -1
     
     local startTime = os.clock()
-    local rampUpDuration = 8
-    local rampDownDuration = 12
+    local rampUpDuration = 12      -- ← changed
+    local rampDownDuration = 18    -- ← changed (total = 30 seconds)
     
     local function getTargetProgress()
         local elapsed = math.clamp((os.clock() - startTime) / (rampUpDuration + rampDownDuration), 0, 1)
