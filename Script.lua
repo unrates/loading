@@ -1,9 +1,9 @@
 -- Защита от повторной загрузки
-if getgenv().OnyxHubLoaded then
-    warn('⚠ OnyxHub is already running!')
+if getgenv().XenaHubLoaded then
+    warn('⚠ XenaHub is already running!')
     return
 end
-getgenv().OnyxHubLoaded = true
+getgenv().XenaHubLoaded = true
 
 -- Сервисы
 local Players = game:GetService("Players")
@@ -489,7 +489,6 @@ ESP_SYSTEM.ESP_HIGHLIGHT_STATES = {
 	ESPHighlightInnocent = true
 }
 
--- ESP Line состояния
 ESP_SYSTEM.ESP_LINE_STATES = {
     ESPLine = false,
     MurdererLine = true,
@@ -678,7 +677,7 @@ end
 
 function ESP_SYSTEM.InitializePlayerLines(targetPlayer)
     if not pcall(function() return Drawing.new("Line") end) then
-        warn("OnyxHub: Your executor does not support Drawing API for lines.")
+        warn("XenaHub: Your executor does not support Drawing API for lines.")
         return nil
     end
 
@@ -3926,12 +3925,83 @@ function UI_SYSTEM.init()
 		FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal),
 		TextColor3 = Color3.fromRGB(210, 220, 240),
 		BackgroundTransparency = 1,
-		Size = UDim2.new(0, 144, 0, 30),
+		Size = UDim2.new(0, 200, 0, 30),
 		BorderColor3 = Color3.fromRGB(255, 255, 255),
-		Text = "Murder Mystery 2 | OnyxHub",
+		Text = "Murder Mystery 2 | XenaHub",
 		Position = UDim2.new(0, 44, 0, -2),
 		ZIndex = 6
 	})
+
+	-- ========== DRAGGABLE MENU ==========
+	do
+		local isDragging = false
+		local dragStartPos
+		local frameStartPos
+		local dragTouchId
+		local DRAG_THRESHOLD = 5
+
+		local dragHandle = UTILS.createInstance("TextButton", headerFrame, {
+			Name = "DragHandle",
+			Size = UDim2.new(1, 0, 1, 0),
+			BackgroundTransparency = 1,
+			Text = "",
+			AutoButtonColor = false,
+			ZIndex = 20
+		})
+
+		local function onDragStart(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 or 
+			   input.UserInputType == Enum.UserInputType.Touch then
+				
+				isDragging = false
+				dragTouchId = input.UserInputType == Enum.UserInputType.Touch and input
+				dragStartPos = Vector2.new(input.Position.X, input.Position.Y)
+				frameStartPos = UI_ELEMENTS.MainFrame.Position
+				
+				return Enum.ContextActionResult.Sink
+			end
+		end
+		
+		local function onDrag(input)
+			if not dragStartPos then return end
+			
+			if input.UserInputType == Enum.UserInputType.Touch then
+				if not dragTouchId or dragTouchId ~= input then
+					return
+				end
+			end
+			
+			local currentPos = Vector2.new(input.Position.X, input.Position.Y)
+			local delta = currentPos - dragStartPos
+			
+			if not isDragging and delta.Magnitude > DRAG_THRESHOLD then
+				isDragging = true
+			end
+			
+			if isDragging then
+				local newPosition = UDim2.new(
+					frameStartPos.X.Scale,
+					frameStartPos.X.Offset + delta.X,
+					frameStartPos.Y.Scale,
+					frameStartPos.Y.Offset + delta.Y
+				)
+				
+				UI_ELEMENTS.MainFrame.Position = newPosition
+			end
+		end
+		
+		local function onDragEnd(input)
+			isDragging = false
+			dragStartPos = nil
+			dragTouchId = nil
+			frameStartPos = nil
+		end
+		
+		dragHandle.InputBegan:Connect(onDragStart)
+		dragHandle.InputChanged:Connect(onDrag)
+		dragHandle.InputEnded:Connect(onDragEnd)
+	end
+	-- ========== END DRAGGABLE ==========
 	
 	local tabNames = {"Main", "Visual", "Combat", "Optimization", "Teleport", "Auto Farm", "Emote", "ActMgr"}
 	local tabButtons = {}
@@ -4116,7 +4186,7 @@ local function init()
         end
     end)
 
-    UTILS.showNotification("OnyxHub", "Script successfully loaded!", 3.5)
+    UTILS.showNotification("XenaHub", "Script successfully loaded!", 3.5)
 
     return screenGui, openCloseGui
 end
