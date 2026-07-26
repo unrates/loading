@@ -1,2 +1,11336 @@
--- Protected by wYnFuscate: https://wynfuscate.com | https://discord.gg/Z5xQ47Mbnd
-return(function(Sq,Sx,Sv,...)if not Sq then Sq=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1092696799 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((168)-(65)),((182)-(81)),((213)-(97)),((131)-(29)),((146)-(45)),((170)-(60)),((194)-(76)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;return SG end)()end if not Sq then Sq=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1092696799 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((168)-(65)),((182)-(81)),((213)-(97)),((131)-(29)),((146)-(45)),((170)-(60)),((194)-(76)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;return SG end)()end if not Sx then Sx=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1105010341 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((180)-(65)),((182)-(81)),((213)-(97)),((138)-(29)),((146)-(45)),((176)-(60)),((173)-(76)),((208)-(92)),((121)-(24)),((138)-(40)),((164)-(56)),((172)-(71)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)()end if not Sx then Sx=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1105010341 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((180)-(65)),((182)-(81)),((213)-(97)),((138)-(29)),((146)-(45)),((176)-(60)),((173)-(76)),((208)-(92)),((121)-(24)),((138)-(40)),((164)-(56)),((172)-(71)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)()end if not Sv then Sv=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==435891738 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((179)-(65)),((178)-(81)),((216)-(97)),((132)-(29)),((146)-(45)),((176)-(60)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)()end if not Sv then Sv=(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==435891738 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((179)-(65)),((178)-(81)),((216)-(97)),((132)-(29)),((146)-(45)),((176)-(60)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)()end local SZ={}do local SV={177,122,79,69,102,202,217,210,254,168,153,3,153,196,255,136,235,196,68,115,117,192,42,166,31,176,213,139,125,121,43,51,173,22,113,64,200,223,253,169,92,113,142,73,20,99,104,11,73,90,247,30,87,169,109,70,51,216,75,192,253,172,71,140,195,250,23,246}local SX=1249170371 for SD=1,#SV do SX=((SX*5887)+544907050+(SD*19))%2147483647 SV[SD]=(SV[SD]+256-(SX%256))%256 end local Sa=1 for SD=1,17 do SZ[SD]=((((SV[Sa+3]or 0)*256+(SV[Sa+2]or 0))*256+(SV[Sa+1]or 0))*256+(SV[Sa]or 0))%4294967296 Sa=Sa+4 end end local S1="3rlbQ|3w|H|dmx^>3<k$N4A)H6q8y_7*k$ECs1/O[od?;%_KAeIz]47]h*B+#c>11VQpp]H]O]:c<S3#K4/`R*s-)cv(hr-gd?3UnY_8&C5^pxC]3!m,oCZY.Unb0O,e`W,,RZxGG<hIx8zVm*k|KJaB+$]ZsKFVpR0izg;P$tvq34YiJ^$5b,tbaj(kH7Bpm]pB$SH;h42pM!4PR%*2)`EUd.qjN1C)y{=+O^uq36}s3Xz!7Slyo8}L94A({!Y+K$=^ZnACK#iQ=6.1@bz{8Rqjs7$Ln|%(5e3eA.3wZM{63q@@0SBC64)ALiKtBc=4V3bb8iACwNJ]~ZrRDFFT8N<%DbOt{L[^>n=w#OgZpE%3a=gJvio)tv9Sjg48Rz)!YG|^X#wuwI-L$9D),8oN!!sY#dr*ea~%;7Z`Q~|GcRBE-3_kLbVcqc.VgQ;PF8gUmfYeATg4thD!.%~%_,u,6)R+HgHEYeCF44t,Rb!FU!!:x;x3{H~S`M;4YZ3(SeR?$^1>H{.4g#RbEJLi~L.Csq&y!98o*8~NM*d]m6.*0cu#,!C,<!&CzqR$GaDp=dO84157l9?7@81hl^zFcR$#pP-V^D`YwHq-lQ_Z>w.3H-|SVzH4tJ<}Ht&3}4HQR%3fLiyL275X5c9!,u8^gU-XQ40Wj^2!Nw`(AsEjLOXSFpO8xZA!KW?inMe7XbIL,e>i[)1>g)}Ph!`R=C2L8!Px9c<S{q04CSm^rHsd+>g91{i2@S|7+80iq=^tk$H2E}Szm%iq?7~8S3Z6%e2l+8ehD*:D;jq?r=|s#i]UgcX8iSlAft4h=4I3u%_YZE@zp)Bi2k%k]!XwIjMH`Y]._CVczMGalhRd2t==G^{?w!{!WisJGOpdgjnO{I)OcSDqH4Ez@^MbpdV?i2BI6mY9CF14RrD!Abq0R74wNZv8y>O*exEc6X#g{l.4EWn%@N)cKfc5#C%(^L7K;wleR=AsKF_K2n@Zd?Jg+VCe!I94Iq(%rigd)y@b8FCCsS3y48l2m*>xf%G#T2t]85P<<b+8S]JT%eq-o497:Z=4n,5!&%+%iwu|p^VTg-*=i4~bu(<X?3-LpU;Ps4tbO!XiE0%4(Rj*WB.w=H@@HB#>Dqu]2l~<.|@8m#5!2,2b/rkwcB9~DU7/Feb{N4Y,lbL>#E]7h9y)`7^<7Vq46$O!(Ip!]v3.TZIR6Q{PA8{)j4WN&!#&WJ/YEm!3i2o<#%e441y}aeJM{4$sibO7-ptIwwRbnCQXyXLOdpajDtWc1*bkb%59sd_Ye~-]:~?c>z36KPnZnO8)/d1SoZ+8cG]!i0HJL@{.VVnjF;oN2t&SR*O)p!S%/4&^.~[7KYQh*+I:;P#9#K].Yz361Sf-9e.zyX8ez?=9#;RM|8dd*7ee(za4GnN*mHf%{-_KvIg:gS-w14JQx^KCNw8W%r2xmyY{Q5myGLLdSutgN_tU1|W8}r9#1tE<_*1*{CD?>px$IR3;Zoa9rIt4w,/bJ4r%^KhrpJ*"local S8=65536 local S4=0 do local S0={87,24,94,22}local S5=1459219365 for S2=1,#S0 do S5=((S5*6965)+311841569+(S2*23))%2147483647 S0[S2]=(S0[S2]-(S5%256))%256 end S4=(((((S0[4]or 0)*256+(S0[3]or 0))*256+(S0[2]or 0))*256+(S0[1]or 0))%4294967296)end local c8={};local c3={};c3[(66100-2337)]=c3 local eA=4294967296 local el=2147483647 local eC=58+142 local eF=51686+28866+19447 local eT,ek,er,eE,eh,c7={},{},{},{},{},nil eT[15650-9388]=ek ek[15304-8005]=er er[11231-4645]=eT local S9=function(em,eI,ef)local eL=((em+eI)*ef)%el return eL-eL%1 end local S6=((119*9549+106*7256-1881133)%eA)local ec=function(eN,et,eu,eQ)local ej=eQ and S9(et,S6,eQ)or et if eu~=nil then eN[ej]=eu end return ej end local eS=function(eU,eB)local eG=0 for eb in pairs(eU)do eG=eG+1 end return eG==eB end local ee=function(eZ,eV,eD)if eZ and eV and eD then local eX=S9(eD,S6,1)if eZ[eX]then eV[eX]=eZ[eX]end end return eV end local ei=function(ea,ep)if ep and ep>0 and ea then return ea[S9(ep,S6,2)]end return nil end local e1={[4]="\133\41\174\189\138\69\142\246\49\76\89\191\101\97\78\106\212\28\116\170\121\126\131\187\121\34\33\37\173\125\73\254\107\113\141\66\163\69\22\44\207\207\140\69\150\133\140\119\13\164\177\66\161\2\42\231\215\231\71\180\186\81\83\116\161\45\112\240\153\176\43\99\234\136\6\172\107\84\74\194\106\69\25\172\194\85\248\113\6\223\202\140\130\131\206\208\227\225\82\135\245\205\95\238\219\136\144\127\105\226\226\50\249\72\78\172\87\79\19\150\64\78\55\222\43\66\162\211\200\97\187\53\33\221\35\158\126\113\2\212\40\213\9\161\0\123\251\140\218\138\234\50\24\177\254\49\133\25\68\0\191\233\216\11\15\173\245\117\223\84\228\164\139\37\28\139\234\190\155\241\57\110\103\170\123\5\185\162\124\30\105\252\138\138\145\119\78\68\123\55\203\227\13\27\230\153\81\213\41\241\77\63\17\81\51\103\165\23\74\114\61\41\247\255\120\221\154\102\149\197\185\45\165\208\57\94\116\153\84\109\12\176\118\43\117\253\178\175\33\238\207\225\33\78\16\215\170\244\202\8\172\185\211\249\154\53\173\149\227\107\167\159\163\10\20\191\55\15\126\96\48\237\160\207\49\159\95\150\216\92\215\71\171\30\32\48",[3]="\21\34\42\45\36\6\200\220\213\141\103\4\102\120\254\2\45\6\46\179\185\213\137\200\55\47\85\219\123\26\126\1\44\74\225\219\122\160\238\99\28\113\239\81\58\143\4\155\215\65\42\39\88\111\136\3\151\77\35\76\60\78\17\64\169\20\27\124\104\7\60\142\166\169\147\76\181\8\48\69\20\181\172\23\121\243\14\23\185\192\199\201\205\235\187\228\176\126\102\105\2\0\192\144\133\231\78\247\94\71\147\157\228\45\158\35\193\118\124\81\3\178\135\131\215\174\120\28\0\29\209\220\47\42\110\229\93\124\174\148\136\5\89\145\31\47\150\123\67\120\182\205\145\9\197\26\153\174\224\184\167\131\235\79\35\60\209\255\45\61\124\209\213\59\22\121\28\11\40\114\203\7\40\203\179\211\238\144\241\61\151\74\157\17\95\159\177\25\100\182\20\31\37\77\26\22\253\138\12\35\98\227\219\164\175\122\250\69\171\231\100\254\198\165\140\113\215\196\139\90\37\217\186\206\142\148\146\39\171\45\22\48\237\217\243\228\24\241\164\210\221\129\162\197\154\30\16\18\159\64\166\253\202\144\207\172\105\33\32\118\125\68\200\29\137\170\122\171\220\8\126\142\250\40\22\163\149\85\204\132\131\124\18\130\151\160",[2]="\171\170\130\218\101\231\172\215\123\1\246\166\110\84\98\199\233\110\235\202\5\193\42\225\123\181\98\167\47\103\234\231\187\134\163\252\0\135\208\234\56\2\63\23\73\35\108\202\55\57\206\23\208\186\28\147\75\215\219\12\150\9\150\233\20\146\248\26\241\165\14\176\7\200\140\152\23\150\179\70\63\29\213\121\152\183\90\229\149\122\252\76\145\27\215\188\41\47\11\22\135\0\235\25\13\48\240\105\240\1\95\105\177\25\128\128\179\98\78\57\198\94\33\217\93\153\191\178\162\129\130\65\111\2\103\121\17\102\216\193\21\211\41\66\80\199\0\181\237\229\238\90\78\173\230\246\227\102\15\25\134\145\124\209\114\70\19\52\179\145\135\221\5\148\241\229\172\76\241\112\100\47\16\147\188\11\22\131\115\34\229\75\113\206\72\245\166\14\229\35\120\118\216\151\176\131\230\62\163\253\91\145\127\23\196\127\33\156\76\166\23\124\84\199\38\224\88\71\196\168\134\121\244\29\165\195\125\254\217\118\90\61\93\199\138\246\140\188\177\130\164\108\207\109\16\65\219\172\245\45\49\214\130\100\123\195\35\243\5\141\35\151\160\55\3\45\60\227\102\164\2\15\222\176\157\10\158\42\58\60\175\107\90\115\21\31",[1]="\231\39\98\102\219\14\156\114\82\166\172\121\83\38\176\115\95\186\185\233\144\146\232\189\140\80\157\144\19\229\231\201\245\201\97\40\191\129\222\100\196\247\220\45\58\85\118\182\113\77\94\18\174\222\146\31\152\175\14\222\240\125\251\9\77\27\24\93\190\203\47\107\147\191\188\228\17\23\126\156\209\225\147\233\82\197\67\97\45\38\202\31\242\5\148\41\193\73\30\208\81\158\79\53\20\243\3\79\150\26\8\208\97\19\189\254\209\188\92\202\63\39\102\90\234\0\124\224\248\112\241\74\43\147\236\204\221\65\148\142\6\11\238\143\100\245\25\44\144\180\206\94\33\193\16\157\40\202\12\85\39\10\164\213\10\173\120\167\75\161\147\196\146\243\138\71\248\21\3\149\245\110\199\50\2\42\141\80\145\163\1\44\63\184\107\37\76\174\13\97\97\239\106\245\188\5\161\239\67\155\216\169\3\38\176\213\86\36\215\76\155\79\230\93\164\140\22\233\129\74\161\93\145\69\232\199\192\4\27\230\2\211\115\148\131\243\3\1\47\160\108\43\154\66\69\29\224\106\108\62\19\237\202\255\190\93\200\191\124\220\225\183\222\114\90\11\2\177\192\232\231\205\183\175\205\157\21\93\176\221\97\88\21\207\82\181",[5]="\208\195\85\180\48\136\201\224\69\47\4\131\45\15\232\249\31\41\160\208\138\141\154\186\63\247\40\50\149\197\115\245\102\190\226\6\200\41\234\230\34\76\189\76\43\107\28\24\252\17\159\210\158\105\154\65\74\222\53\139\208\195\98\180\217\167\50\134\128\73\7\253\251\61\20\92\158\125\105\45\78\179\43\250\34\47\163\234\226\199\244\2\126\11\114\45\247\87\231\57\130\86\81\255\72\230\82\195\70\43\107\161\95\78\130\89\60\50\191\62\129\247\238\43\61\169\253\131\59\43\39\67\142\140\218\197\39\205\214\246\249\125\16\172\103\131\95\136\236\25\21\218\252\249\97\159\172\188\77\196\174\56\11\5\7\135\214\237\225\112\66\93\99\33\75\57\71\135\198\95\128\85\228\165\157\70\133\103\13\24\117\163\181\5\83\215\91\115\200\252\128\9\146\27\151\245\104\145\72\156\125\105\224\61\140\246\0\205\164\70\27\43\55\251\89\54\151\178\208\160\232\30\48\190\246\195\165\147\162\73\133\18\95\173\165\90\216\28\19\165\132\228\172\148\11\227\29\85\78\148\225\92\117\75\22\90\99\201\211\127\91\112\53\191\93\5\200\45\198\94\26\233\198\199\5\19\126\174\118\240\96\24\137"}local eR=(e1[1]or"")..(e1[2]or"")..(e1[3]or"")..(e1[4]or"")..(e1[5]or"")local eM=((66*9549+110*7256-1423576)%eA)local en=0 local eJ=0 local eO=pcall local ey=Sv local eW=rawset local eo=getmetatable local eK=type local eq=nil local ex=nil local ev=nil local ez=nil local eg=nil local eP=nil local iS=function(ie,ii)local iI,iL=0,1 for iN=1,8 do local it,iu=ie%2,ii%2 if it~=iu then iI=iI+iL end ie,ii,iL=(ie-it)/2,(ii-iu)/2,iL*2 end return iI end local ew=function(e8,e3)local e0=1 local e2=eM local iY=((1664525+24)-24)local iT=((1013904223+24)-24)local ik=((256+24)-24)local iE=((77*9549+116*7256-1556682)%eA)local ih=((65*9549+84*7256-1230078)%eA)local iR=((118*9549+67*7256-1612596)%eA)local iw=((129*9549+60*7256-1667130)%eA)local iM=((82*9549+116*7256+1571278232)%eA)local iH=((117*9549+54*7256-1461362)%eA)local is=((81*9549+90*7256-1412562)%eA)local ir=((e8*iY)+24)%ik if ir==ik then ir=0 end local iK=0 local iq=1 while iq<=e8 do local e9=(string.byte(eR,e0)or 0)+((string.byte(eR,e0+1)or 0)*ik)local iJ=(e2+en+(iK*iR)+(e9%65536)+iE)%eA iJ=((iJ*iY)+iT+(iK*iH)+((e2%65536)*is))%eA if iJ==0 then iJ=(e2+1)%eA end iJ=((iJ*iY)+iT+(iK*iR)+iM+(e9%65536))%eA local iO=iJ%ik local iy=(((iJ-iO)/ik)%ik)local iW=(((iJ-(iJ%65536))/65536)%ik)local io=(((iJ-(iJ%16777216))/16777216)%ik)local e4=string.byte(eR,e0+2)if e4==nil then return"" end local e5=iS(e4,iS(iS(iO,iy),iS(iW,(io+iK)%ik)))e0=e0+3+e5 iK=iK+1 iq=iq+1 end local e9=(string.byte(eR,e0)or 0)+((string.byte(eR,e0+1)or 0)*ik)local iJ=(e2+en+(iK*iR)+(e9%65536)+iE)%eA iJ=((iJ*iY)+iT+(iK*iH)+((e2%65536)*is))%eA if iJ==0 then iJ=(e2+1)%eA end iJ=((iJ*iY)+iT+(iK*iR)+iM+(e9%65536))%eA local iO=iJ%ik local iy=(((iJ-iO)/ik)%ik)local iW=(((iJ-(iJ%65536))/65536)%ik)local io=(((iJ-(iJ%16777216))/16777216)%ik)local e4=string.byte(eR,e0+2)if e4==nil then return"" end local e5=iS(e4,iS(iS(iO,iy),iS(iW,(io+iK)%ik)))local e6={}local iz=1 while iz<=e5 do iJ=((iJ*iY)+iT+(iK*iR)+(iz*ih)+(e5*iw)+(e9%65536)+iM)%eA iO=iJ%ik iy=(((iJ-iO)/ik)%ik)iW=(((iJ-(iJ%65536))/65536)%ik)io=(((iJ-(iJ%16777216))/16777216)%ik)e4=string.byte(eR,e0+2+iz)if e4==nil then return"" end local e7=(e3+(iz*37)+(e5*13)+(iK*17)+(((e3-(e3%257))/257)%ik))%ik e6[iz]=string.char(iS(e4,iS(iS(iS(iO,(iy+iz)%ik),iS(iW,(io+iK+e5)%ik)),e7)))iz=iz+1 end return table.concat(e6)end local iQ=(Sq and Sq())or(Sq and Sq(0))or{}local ij=(Sq and Sq(0))or iQ local iB={}if Sx then Sx(iB,{[ew(97,((93*9549+73*7256-1409159)%eA))]=iQ})end local es=(iQ[ew(18,((63*9549+101*7256-1330902)%eA))])or Sv local iV=((127+33)-33)local iZ=((33*73)+19)%iV if iZ==iV then iZ=0 end local iG=function(iX,ia)local ip=es and es(iX,ia)or nil if ip~=nil then return ip end ip=iX[ia]if ip~=nil then return ip end if ij and ij~=iX then ip=es and es(ij,ia)or nil if ip~=nil then return ip end ip=ij[ia]if ip~=nil then return ip end end return nil end local i1=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))eP=i1 eq=(i1 and iG(i1,ew(68,((116*9549+102*7256-1806826)%eA))))or nil ex=(i1 and iG(i1,"traceback"))or nil ev=iG(iQ,ew(56,((48*9549+73*7256-979530)%eA)))ez=iG(iQ,ew(93,((38*9549+69*7256-804727)%eA)))eg=(ez and iG(ez,ew(120,((99*9549+104*7256-1658332)%eA))))or nil local iU=function(ia,ip)if ip~=nil then iB[ia]=ip end end local ih=0 local Ye=eK("")local Yi=nil local YY=nil local YT=nil local Yr=0 local YE=0 local Yh=0 local YR=0 local Yk,Yi=eO(function()return ew(56,((48*9549+73*7256-979530)%eA))end)Yk,YY=eO(function()return ew(93,((38*9549+69*7256-804727)%eA))end)Yk,YT=eO(function()return ew(81,((90*9549+87*7256-1474543)%eA))end)local iC=Yi and iG(iQ,Yi)or nil local iF=YY and iG(iQ,YY)or nil local im=YT and iG(iQ,YT)or nil do Yr=0 if iC~=nil then local i9=iC[ew(129,((135*9549+66*7256-1748419)%eA))]if eK(i9)==Ye then Yr=#i9 end end ih=(ih*133+Yr+29)%el end do YE=0 local i0=(iF and iF[ew(120,((99*9549+104*7256-1658332)%eA))])or nil if i0~=nil and eK(i0)==eK(eO)then local i3,i2=eO(i0,ew(72,((76*9549+96*7256-1369422)%eA)))if i3 and i2 then local i9=i2[ew(129,((135*9549+66*7256-1748419)%eA))]local i6=i2[ew(111,((100*9549+107*7256-1730365)%eA))]if eK(i9)==Ye then YE=YE+(#i9*19)end if eK(i6)==Ye then YE=YE+(#i6*7)end eO(function()local Yw=i2[ew(102,((74*9549+135*7256-1657700)%eA))];if i2 and Yw then Yw(i2)end end)end end ih=(ih*166+YE+30)%el end do Yh=0 local i4=iC and iC[ew(94,((81*9549+86*7256-1334910)%eA))]if i4~=nil and eK(i4)==eK(eO)then local i3,i5=eO(i4,iC,ew(64,((96*9549+55*7256-1286178)%eA)))if i3 and i5 then local i9=i5[ew(129,((135*9549+66*7256-1748419)%eA))]if eK(i9)==Ye then Yh=#i9 end end end ih=(ih*171+Yh+56)%el end do YR=0 local i3,i7=eO(function()local YM=im;local YH=YM and YM[ew(120,((99*9549+104*7256-1658332)%eA))];return YH and YH(1,2,3)end)if i3 and i7 then YR=(i7[ew(91,((58*9549+90*7256-1155533)%eA))]*(122+0x28)+i7[ew(121,((44*9549+121*7256-1251795)%eA))]*(0x104-71)+i7[ew(54,((48*9549+101*7256-1187632)%eA))]*(145+0x42))%el YR=((YR*(0x15B-82))+(0xC0EA+4153))%el if YR==0 then YR=1 end end ih=(ih*208+YR+61)%el end local Yc=((95*9549+151*7256+229353330)%eA)local YS=(ih+el-Yc)%el en=(en+YS)%el if YS~=0 then eJ=eJ+1 end iU(ew(18,((63*9549+101*7256-1330902)%eA)),iQ[ew(18,((63*9549+101*7256-1330902)%eA))])iU(ew(28,((59*9549+71*7256-1061236)%eA)),iG(iQ,ew(28,((59*9549+71*7256-1061236)%eA))))iU(ew(31,((48*9549+92*7256-1103773)%eA)),iG(iQ,ew(31,((48*9549+92*7256-1103773)%eA))))iU(ew(7,((49*9549+65*7256-881721)%eA)),iG(iQ,ew(7,((49*9549+65*7256-881721)%eA))))iU(ew(30,((107*9549+86*7256-1625262)%eA)),iG(iQ,ew(30,((107*9549+86*7256-1625262)%eA))))iU(ew(10,((46*9549+62*7256-828648)%eA)),iG(iQ,ew(10,((46*9549+62*7256-828648)%eA))))iU(ew(22,((127*9549+73*7256-1733762)%eA)),iG(iQ,ew(22,((127*9549+73*7256-1733762)%eA))))iU(ew(47,((64*9549+96*7256-1254813)%eA)),iG(iQ,ew(47,((64*9549+96*7256-1254813)%eA))))iU(ew(34,((71*9549+132*7256-1608534)%eA)),iG(iQ,ew(34,((71*9549+132*7256-1608534)%eA))))iU(ew(8,((130*9549+69*7256-1683362)%eA)),iG(iQ,ew(8,((130*9549+69*7256-1683362)%eA))))iU(ew(24,((127*9549+70*7256-1709236)%eA)),iG(iQ,ew(24,((127*9549+70*7256-1709236)%eA))))iU(ew(12,((46*9549+83*7256-979082)%eA)),iG(iQ,ew(12,((46*9549+83*7256-979082)%eA))))iU(ew(40,((111*9549+53*7256-1406140)%eA)),iG(iQ,ew(40,((111*9549+53*7256-1406140)%eA))))iU(ew(27,((40*9549+85*7256-982921)%eA)),iG(iQ,ew(27,((40*9549+85*7256-982921)%eA))))iU(ew(35,((72*9549+53*7256-1043089)%eA)),iG(iQ,ew(35,((72*9549+53*7256-1043089)%eA))))iU(ew(23,((116*9549+79*7256-1670897)%eA)),iG(iQ,ew(23,((116*9549+79*7256-1670897)%eA))))iU(ew(16,((83*9549+110*7256-1589536)%eA)),iG(iQ,ew(16,((83*9549+110*7256-1589536)%eA))))iU(ew(4,((130*9549+106*7256-1955038)%eA)),iG(iQ,ew(4,((130*9549+106*7256-1955038)%eA))))iU(ew(43,((120*9549+97*7256-1805321)%eA)),iG(iQ,ew(43,((120*9549+97*7256-1805321)%eA))))iU(ew(42,((75*9549+105*7256-1435706)%eA)),iG(iQ,ew(42,((75*9549+105*7256-1435706)%eA))))iU(ew(5,((61*9549+107*7256-1302663)%eA)),iG(iQ,ew(5,((61*9549+107*7256-1302663)%eA))))iU(ew(25,((88*9549+92*7256-1495027)%eA)),iG(iQ,ew(25,((88*9549+92*7256-1495027)%eA))))iU(ew(26,((75*9549+95*7256-1391194)%eA)),iG(iQ,ew(26,((75*9549+95*7256-1391194)%eA))))iU(ew(36,((99*9549+146*7256-1973916)%eA)),iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA))))iU(ew(29,((72*9549+61*7256-1111247)%eA)),iG(iQ,ew(29,((72*9549+61*7256-1111247)%eA))))iU(ew(46,((83*9549+104*7256-1496470)%eA)),iG(iQ,ew(46,((83*9549+104*7256-1496470)%eA))))iU(ew(44,((91*9549+121*7256-1700468)%eA)),iG(iQ,ew(44,((91*9549+121*7256-1700468)%eA))))iU(ew(17,((116*9549+97*7256-1809167)%eA)),iG(iQ,ew(17,((116*9549+97*7256-1809167)%eA))))iU(ew(41,((116*9549+145*7256-2119463)%eA)),iG(iQ,ew(41,((116*9549+145*7256-2119463)%eA))))iU(ew(9,((57*9549+58*7256-905583)%eA)),iG(iQ,ew(9,((57*9549+58*7256-905583)%eA))))iU(ew(2,((130*9549+115*7256-2021740)%eA)),iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA))))iU(ew(11,((69*9549+63*7256-1054577)%eA)),iG(iQ,ew(11,((69*9549+63*7256-1054577)%eA))))iU(ew(14,((38*9549+75*7256-842564)%eA)),iG(iQ,ew(14,((38*9549+75*7256-842564)%eA))))iU(ew(13,((77*9549+87*7256-1303103)%eA)),iG(iQ,ew(13,((77*9549+87*7256-1303103)%eA))))iU(ew(37,((76*9549+151*7256-1788731)%eA)),iG(iQ,ew(37,((76*9549+151*7256-1788731)%eA))))iU(ew(0,((46*9549+96*7256-1083022)%eA)),iG(iQ,ew(0,((46*9549+96*7256-1083022)%eA))))iU(ew(33,((96*9549+139*7256-1899787)%eA)),iG(iQ,ew(33,((96*9549+139*7256-1899787)%eA))))iU(ew(20,((95*9549+127*7256-1822640)%eA)),iG(iQ,ew(20,((95*9549+127*7256-1822640)%eA))))iU(ew(1,((77*9549+114*7256-1509035)%eA)),iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA))))iU(ew(38,((79*9549+140*7256-1735690)%eA)),iG(iQ,ew(38,((79*9549+140*7256-1735690)%eA))))iU(ew(3,((93*9549+117*7256-1682257)%eA)),iG(iQ,ew(3,((93*9549+117*7256-1682257)%eA))))iU(ew(15,((132*9549+106*7256-2029537)%eA)),iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA))))iU(ew(45,((84*9549+113*7256-1573467)%eA)),iG(iQ,ew(45,((84*9549+113*7256-1573467)%eA))))iU(ew(21,((128*9549+118*7256-2071159)%eA)),iG(iQ,ew(21,((128*9549+118*7256-2071159)%eA))))iU(ew(39,((120*9549+132*7256-2067245)%eA)),iG(iQ,ew(39,((120*9549+132*7256-2067245)%eA))))iU(ew(32,((119*9549+82*7256-1707524)%eA)),iG(iQ,ew(32,((119*9549+82*7256-1707524)%eA))))iU(ew(19,((108*9549+124*7256-1926269)%eA)),iG(iQ,ew(19,((108*9549+124*7256-1926269)%eA))))iU(ew(6,((90*9549+112*7256-1615080)%eA)),iG(iQ,ew(6,((90*9549+112*7256-1615080)%eA))))local eH=((46*9549+58*7256-815350)%eA)eM=(eM+eH)%el local Yn=ey local Ys=type local YJ=pcall local YO=(Sq and Sq(0))or nil local Yy=0 local YW=0 do local YK=ev local Yo=(YK~=nil and Ys(YK)~=Ys({}))if Yo then Yy=Yy+1 end YW=(YW*(((0xA0-17))-((0x5+0x7)))+(Yo and(((0x56-24))-(0x13))or(((0x39+0x14))-((12+4)))))%el end do local Yx=ez local Yv=(Yx~=nil and eg)or nil local Yq=(Yv~=nil and Ys(Yv)==Ys(YJ))if Yq then Yy=Yy+1 end YW=(YW*(((0xA0-17))-((0x5+0x7)))+(Yq and(((0xBF2*1)-0xB80)-((0xA2B4*0x1)-0xA2A3))or(((77+0x3B))-((0x208D*1)-8298))))%el end do local Yz=(Sq and YO and Ys(YO)==Ys({})and(_G==nil or YO~=_G))if Yz then Yy=Yy+1 end YW=(YW*(((0xA0-17))-((0x5+0x7)))+(Yz and(((0x25-7))-((38782*0x1)-0x9771))or(((0x2A+5))-((17+0x1)))))%el end local en=((((17+0x1))-((0x16-7)))-Yy)eM=(eM-eH)%el local Yg=en en=(en+(Yg*(YW+1)))%el eJ=eJ+Yg if en==0 then do local YP=false local YA=ev if YA~=nil then local Yl=YA[ew(94,((81*9549+86*7256-1334910)%eA))]if Ys(Yl)==Ys(YJ)then local YC,YF=YJ(Yl,YA,ew(64,((96*9549+55*7256-1286178)%eA)))if YC and YF and Ys(YF)==Ys(YA)then YP=true end end end if not YP then en=(en+(YW+1))%el eJ=eJ+1 end YW=(YW*(((0xA0-17))-((0x5+0x7)))+(YP and(((0x1C-10))-(0x7))or((0x34)-(0x21))))%el end end do local YL=0 local Ym=eP if Ym and Ys(Ym)~=Ys({})then Ym=nil end local YI=Ym and Ym.info local Yf=Ym and Ym.traceback if YI and Ys(YI)~=Ys(YJ)then YL=YL+1 end if Yf and Ys(Yf)~=Ys(YJ)then YL=YL+1 end if Sq and Ys(Sq)~=Ys(YJ)then YL=YL+1 end local YN,Yt=YJ(Yn)if YN then YL=YL+1 elseif Ys(Yt)==Ys("")then local Yu=(string and Ys(string)==Ys({}))and string or nil local YQ=Yu and Yu.match if YQ and YQ(Yt,ew(86,((117*9549+136*7256-2070730)%eA)))then YL=YL+1 end else YL=YL+1 end if YI then local Yj,Yd=YJ(function()return YI(4,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Yj and Yd~=nil then local _=Yd end end if YL>0 then eJ=eJ+YL en=(en+(YL*(YW+(((17292*1)-0x4363)-((0x24-2))))))%el end end do local YV=0 local YD=0 local YX=0 local Ya=false local TR=0 local Tw=(((0x5572*1)-21845)-((11+0x7)))local YZ=type local Yb=pcall local YU=eP if YU and YZ(YU)~=YZ({})then YU=nil end local YB=YU and YU.info local YG=YU and YU.traceback local Yp=(string and YZ(string)==YZ({}))and string or nil local Y1=Yp and Yp.match if YB and YG and Y1 then local Y8,Y3=Yb(function()return YB(YB,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Y8 and Y3==ew(118,((47*9549+152*7256-1519358)%eA))then YX=YX+1 else YV=YV+1 end Y8,Y3=Yb(function()return YB(YG,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Y8 and Y3==ew(118,((47*9549+152*7256-1519358)%eA))then YX=YX+1 else YV=YV+1 end local Y0=function()return 1 end Y8,Y2=Yb(function()return YB(Y0,ew(57,((67*9549+67*7256-1114907)%eA)))end)if Y8 and YZ(Y2)==YZ(0)then YX=YX+1 else YD=YD+1 end Y8,Y3=Yb(function()return YB(Yb,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Y8 and Y3==ew(118,((47*9549+152*7256-1519358)%eA))then YX=YX+1 else YV=YV+1 end Y8,Y3=Yb(function()return YB(Y1,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Y8 and Y3==ew(118,((47*9549+152*7256-1519358)%eA))then YX=YX+1 else YV=YV+1 end Y8,Y7=Yb(Yn)if Y8 then YV=YV+1 elseif YZ(Y7)==YZ("")then local Y3=Y1(Y7,ew(86,((117*9549+136*7256-2070730)%eA)))local Y2=Y1(Y7,ew(105,((53*9549+147*7256-1531895)%eA)))or Y1(Y7,ew(101,((113*9549+83*7256-1656847)%eA)))if Y3 then YV=YV+1 end if Y2 then YX=YX+1 else YV=YV+1 end else YV=YV+1 end local Y5=nil local Y4=ew(100,((122*9549+67*7256-1630706)%eA))local Tr,TE=Yb(function()return Y1(Y4,ew(52,((55*9549+75*7256-1005096)%eA)))end)if Tr and TE==ew(132,((128*9549+139*7256-2196162)%eA))then YX=YX+1 else YV=YV+1 end Tr,TE=Yb(function()return Y1(ew(126,((132*9549+124*7256-2155416)%eA)),ew(122,((127*9549+103*7256-1909026)%eA)))end)if Tr and TE==ew(82,((37*9549+66*7256-812702)%eA))then YX=YX+1 else YV=YV+1 end Tr,Y9=Yb(function()return Y1(ew(87,((94*9549+131*7256-1811285)%eA)),ew(98,((134*9549+90*7256-1920108)%eA)))end)if Tr and Y9==ew(85,((130*9549+58*7256-1632403)%eA))then YX=YX+1 else YV=YV+1 end Tr,Y6=Yb(function()return Y1(ew(87,((94*9549+131*7256-1811285)%eA)),"\94\95\95\110\111\95\109\97\116\99\104\95\95\36")end)if Tr and Y6==nil then YX=YX+1 else YV=YV+1 end local Tc=Yp and Yp.byte local TS=Yp and Yp.sub if Tc and TS then local Tk=#Y4 local Te=1 while Te<=Tk do local TY=Tc(Y4,Te)if TY==58 then local Ti=Te+1 while Ti<=Tk do local TT=Tc(Y4,Ti)if TT==58 then Y5=TS(Y4,Te+1,Ti-1)Ti=Tk+1 Te=Tk+1 end Ti=Ti+1 end end Te=Te+1 end elseif Y1 then Y5=Y1(Y4,"^[^:]+:(%d+):")end if Y5==ew(132,((128*9549+139*7256-2196162)%eA))then YX=YX+1 else YV=YV+1;Ya=true end if YX>=(((0xFA2A*0x1)-64014)-((0xC+0xB)))then Y8,Y3=Yb(function()return YB(4,ew(131,((67*9549+55*7256-1009237)%eA)))end)if Y8 and Y3==ew(118,((47*9549+152*7256-1519358)%eA))then YV=YV+1;Ya=true elseif Y8 and Y3~=nil then YD=YD+1 end end Y8,TO=Yb(YG)if Y8 and YZ(TO)==YZ("")and Tc then local Ty=1 for Te=1,#TO do if Tc(TO,Te)==10 then Ty=Ty+1 end end Tw=Ty+(((0x1C+0x1))-((0x25-13)))end TM,TH=Yb(function()local c=0 local TJ,Ts for Tn=1,(((0x2C+1))-(21))do TJ,Ts=Yb(function()return YB(Tn,ew(131,((67*9549+55*7256-1009237)%eA)))end)if(not TJ)or Ts==nil then break end c=c+1 end return c end)if TM and YZ(TH)==YZ(0)then TR=TH if TH>Tw then YV=YV+1;Ya=true end end else YV=YV+1 end if YB and YG then local TW,To=0,0 local TZ,TV,TD,TX,Ta=0,0,0,0,0 local Tq=function(Tg)Tg(function()local TA,Td=Yb(function()return YB((((17+0xC))-((61826*1)-0xF168)),ew(131,((67*9549+55*7256-1009237)%eA)))end)local Tl,TU=Yb(function()return YB((((27+0x8))-((0x85FA*0x1)-34267)),ew(131,((67*9549+55*7256-1009237)%eA)))end)local TC,TB=Yb(function()return YB((((0x16+0x10))-(2^5)),ew(131,((67*9549+55*7256-1009237)%eA)))end)local TF,TG=Yb(function()return YB((((0x30-11))-((20+9))),ew(131,((67*9549+55*7256-1009237)%eA)))end)local Tm,Tb=Yb(function()return YB((((0x1E+11))-((0xA4*1)-0x86)),ew(131,((67*9549+55*7256-1009237)%eA)))end)if TA and Td==ew(118,((47*9549+152*7256-1519358)%eA))then TZ=TZ+1 end if Tl and TU==ew(118,((47*9549+152*7256-1519358)%eA))then TV=TV+1 end if TC and TB==ew(118,((47*9549+152*7256-1519358)%eA))then TD=TD+1 end if TF and TG==ew(118,((47*9549+152*7256-1519358)%eA))then TX=TX+1 end if Tm and Tb==ew(118,((47*9549+152*7256-1519358)%eA))then Ta=Ta+1 end if Tm and Tb~=nil then if Tl and TU==ew(118,((47*9549+152*7256-1519358)%eA))then To=To+1 end if TC and TB==ew(118,((47*9549+152*7256-1519358)%eA))then To=To+1 end if TF and TG==ew(118,((47*9549+152*7256-1519358)%eA))then To=To+1 end end end)end local Tx=function(TP)TP()end local Tv=function(TP)local function Tu()local function TQ()local function Tj()TP()end Tj()end TQ()end Tu()end local Tz=function(TP)local TI=_ENV local Tf=TI and TI[ew(6,((90*9549+112*7256-1615080)%eA))]or nil local TL=Tf and Tf[ew(59,((103*9549+87*7256-1598653)%eA))]or nil local TN=Tf and Tf[ew(61,((115*9549+87*7256-1707967)%eA))]or nil if TL and TN then local Tt=TL(function()TP()end)TN(Tt)else TP()end end Tq(Tx)Tq(Tv)Tq(Tz)local Tp=0 if TZ>=(((0x43CA*1)-17333)-((0xC+7)))then Tp=Tp+1 end if TV>=(((0x43CA*1)-17333)-((0xC+7)))then Tp=Tp+1 end if TD>=(((0x43CA*1)-17333)-((0xC+7)))then Tp=Tp+1 end if TX>=(((0x43CA*1)-17333)-((0xC+7)))then Tp=Tp+1 end if Ta>=(((0x43CA*1)-17333)-((0xC+7)))then Tp=Tp+1 end TW=Tp local TK=(TW>=((21)-((30068*0x1)-0x7560)))or(To>=(((0x43CA*1)-17333)-((0xC+7))))if TW>=((21)-((30068*0x1)-0x7560))then YV=YV+1 Ya=true elseif To>=(((0x43CA*1)-17333)-((0xC+7)))then YD=YD+1 end local T8=(TW*(((0x12+1))-((0x1A-9))))+To if T8>0 then local T1=((T8*(((21247*1)-21232)-(10)))+(YX*(((0x7+0x7))-((0x11-6))))+((YW%(((0x9B-50))-(2^3)))+(((0xB+9))-((0x1565*0x1)-5468))))%(((37991*0x1)-0x9351)-((26+0x1)))if T1<1 then T1=1 end en=(en+(T1*((YW%(((38207*1)-38048)-(28)))+(((0x1C+14))-((0xED32*0x1)-0xED19)))))%el if TW>0 then eJ=eJ+1 end end end local Th=false if Ya then Th=true elseif(YV>=(((0x1D-5))-((0xF6B5*0x1)-63135))and YX>=(((7+8))-(0xB)))or(YD>=(((0x1D-5))-((0xF6B5*0x1)-63135))and YX>=((17)-((0x7+5))))then Th=true end if Th then local _mix=(YV*2)+YD local _pox=YV+((_mix>0)and 1 or 0)eJ=eJ+_pox en=(en+(_mix*(YW+YX+(((0x12+4))-((0x5+0x4))))))%el end end local T9=iG(iQ,ew(41,((116*9549+145*7256-2119463)%eA)))local T6=T9 and iG(T9,ew(67,((43*9549+54*7256-764353)%eA)))local kS=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))local T3=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))local T7=T3 and iG(T3,ew(104,((58*9549+131*7256-1467694)%eA)))local T0=T3 and iG(T3,ew(68,((116*9549+102*7256-1806826)%eA)))local T2=iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))local ki=false local ke=false if T6 and kS then local kk=function()return 1 end local kc=kS(T6,kk)if kc then ki=true else eJ=1 end end local kY=false if ki and kS and T7 then local kc=kS(T6,T7)if kc then eJ=1 else kY=true end end local kT=false if ki and kS and T0 then local kc=kS(T6,T0)if kc then eJ=1 else kT=true end end local kr=T3 and iG(T3,ew(125,((96*9549+79*7256-1424475)%eA)))if ki and kS and kr then local kc=kS(T6,kr)if kc then eJ=1 end end if kY and T7 then ec(c8,609,T7,5)end if kT and T0 then ec(c8,924,T0,5)end if ki and T7 and T6 then local T5=T7(T6,ew(127,((103*9549+77*7256-1532565)%eA)))local T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil if(not T4)or T4==""then T5=T7(T6)T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil end if T4 and T4~=ew(71,((111*9549+100*7256-1735689)%eA))then eJ=1 end end if kY and T2 then local T5=T7(T2,ew(127,((103*9549+77*7256-1532565)%eA)))local T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil if(not T4)or T4==""then T5=T7(T2)T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil end if T4 and T4~=ew(71,((111*9549+100*7256-1735689)%eA))then eJ=1 end end if kT and T2 then local T4=T0(T2,ew(131,((67*9549+55*7256-1009237)%eA)))if T4 and T4~=ew(118,((47*9549+152*7256-1519358)%eA))then eJ=1 end end if kY and kS then local T5=T7(kS,ew(127,((103*9549+77*7256-1532565)%eA)))local T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil if(not T4)or T4==""then T5=T7(kS)T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil end if T4 and T4~=ew(71,((111*9549+100*7256-1735689)%eA))then eJ=1 elseif T4 then ke=true end end if kT and kS then local T4=T0(kS,ew(131,((67*9549+55*7256-1009237)%eA)))if T4 and T4~=ew(118,((47*9549+152*7256-1519358)%eA))then eJ=1 elseif T4 then ke=true end end if not ke and ki and kS and T6 then local kc=kS(T6,kS)if kc then eJ=1 else ke=true end end if ke and kS then ec(c8,343,kS,5)end local kE=T9 and iG(T9,"byte")local kh=false if kY and kE then local T5=T7(kE,ew(127,((103*9549+77*7256-1532565)%eA)))local T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil if(not T4)or T4==""then T5=T7(kE)T4=(T5 and type(T5)==ew(11,((69*9549+63*7256-1054577)%eA)))and T5[ew(96,((118*9549+124*7256-2021818)%eA))]or nil end if T4 and T4~=ew(71,((111*9549+100*7256-1735689)%eA))then eJ=1 elseif T4 then kh=true end end if not kh and kT and kE then local T4=T0(kE,ew(131,((67*9549+55*7256-1009237)%eA)))if T4 and T4~=ew(118,((47*9549+152*7256-1519358)%eA))then eJ=1 elseif T4 then kh=true end end if not kh and ki and kE and T6 and kS then local kc=kS(T6,kE)if kc then eJ=1 else kh=true end end for k,v in pairs(ek)do if k>((10057)*(2)+(1))then break end end ec(er,((142)*(4)+(2)),iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA))),5)ec(eT,((85)*(2)+(1)),iG(iQ,ew(11,((69*9549+63*7256-1054577)%eA))),5)ec(eT,(5174-4303),iG(iQ,ew(24,((127*9549+70*7256-1709236)%eA))),5)ec(er,((9812%71)+763),iG(iQ,ew(14,((38*9549+75*7256-842564)%eA))),5)eh[((4082)*(5)+(3))]=nil ee(ek,er,(((6508)-(1999))+(15876)))ec(eE,(((658)*4%205)+332),iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA))),7)ec(er,(8340-7871),iG(iQ,ew(44,((91*9549+121*7256-1700468)%eA))),5)for k,v in pairs(ek)do if k>(27686-6571)then break end end ee(ek,er,(28636-7991))ee(ek,er,(((6828)-(1415))+(15534)))if ei(eT,3)then eE[(((5612)-(1367))+(17138))]=eh end ec(ek,(3573-3105),iG(iQ,ew(45,((84*9549+113*7256-1573467)%eA))),5)ec(ek,((239)*(3)+(1)),iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA))),5)ec(ek,((10608%139)+780),iG(iQ,ew(28,((59*9549+71*7256-1061236)%eA))),5)for k,v in pairs(ek)do if k>(((734)*4%669)+19895)then break end end if ei(eT,3)then eE[(((124)*4%575)+20455)]=eh end ec(eE,(407+160),iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA))),7)local _dv15=eS(eT,S9(8,S6,1))ee(ek,er,(30824-8995))eh[(29964-8899)]=nil for k,v in pairs(ek)do if k>(((6242)-(1469))+(16448))then break end end for k,v in pairs(ek)do if k>(25922-3973)then break end end if ei(eT,3)then eE[((9556%123)+19950)]=eh end for k,v in pairs(ek)do if k>((2540)*(8)+(3))then break end end local _dv13=eS(eT,S9(8,S6,1))ee(ek,er,(24298-3365))if ei(eT,3)then eE[((3026%137)+20203)]=eh end ee(ek,er,((5012%131)+21781))local _dv27=eS(eT,S9(8,S6,1))ec(ek,(180+537),iG(iQ,ew(23,((116*9549+79*7256-1670897)%eA))),5)if ei(eT,3)then eE[(((3662)-(2233))+(18940))]=eh end eh[((5064)*(4)+(3))]=nil local _dv0=eS(eT,S9(8,S6,1))ec(er,(((4686)-(1321))+(-2745)),(iG(iQ,ew(116,((75*9549+80*7256-1273448)%eA)))or function(_f)return _f end),5)ee(ek,er,((10090%93)+20635))ee(ek,er,(28686-7551))local _dv4=eS(eT,S9(8,S6,1))for k,v in pairs(ek)do if k>((5824%107)+20035)then break end end ec(ek,((2698%57)+424),iG(iQ,ew(5,((61*9549+107*7256-1302663)%eA))),5)for k,v in pairs(ek)do if k>(((7124)-(2159))+(15108))then break end end ec(er,(((656)*4%343)+140),iG(iQ,ew(6,((90*9549+112*7256-1615080)%eA))),5)if ei(eT,3)then eE[((4255)*(5)+(0))]=eh end local _dv18=eS(eT,S9(8,S6,1))for k,v in pairs(ek)do if k>(28402-7665)then break end end ec(er,((268)*(3)+(2)),iG(iQ,ew(41,((116*9549+145*7256-2119463)%eA))),5)ec(er,((3298%121)+241),iG(iQ,ew(0,((46*9549+96*7256-1083022)%eA))),5)ec(ek,(((4476)-(1023))+(-3054)),iG(iQ,ew(47,((64*9549+96*7256-1254813)%eA))),5)ee(ek,er,(25962-5375))ec(ek,(3031-2805),iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA))),5)ee(ek,er,(((6188)-(1615))+(16340)))ec(eT,(6368-5887),iG(iQ,ew(38,((79*9549+140*7256-1735690)%eA))),5)ec(eT,((421)*(2)+(0)),iG(iQ,ew(20,((95*9549+127*7256-1822640)%eA))),5)local _dv11=eS(eT,S9(8,S6,1))for k,v in pairs(ek)do if k>((7466%85)+20022)then break end end eh[((5239)*(4)+(1))]=nil local _dv21=eS(eT,S9(8,S6,1))if ei(eT,3)then eE[((1896%143)+21542)]=eh end ec(eT,((9806%121)+858),iG(iQ,ew(34,((71*9549+132*7256-1608534)%eA))),5)ec(ek,(((5520)-(907))+(-3971)),iG(iQ,ew(22,((127*9549+73*7256-1733762)%eA))),5)ee(ek,er,((3061)*(7)+(4)))local _dv12=eS(eT,S9(8,S6,1))if ei(eT,3)then eE[((6843)*(3)+(0))]=eh end ee(ek,er,((3698%57)+21341))eh[(24012-2957)]=nil local kR=(function()local kw=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))local kM=iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA)))local ks=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))if kw and kM and ks then local kH=iG(kw,ew(125,((96*9549+79*7256-1424475)%eA)))if kH then local kn local kJ=ks(function()kn=kH(kM,1)end)if kJ and kn~=nil and#kn>0 then return false end end end return true end)()if not kR then eM=0 end local kK=iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA)))ec(c8,448,kK,5)local ky=iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA)))if ky then ec(c8,436,ky,5)end local kO=iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA)))if kO then ec(c8,101,kO,5)end local ko=iG(iQ,ew(44,((91*9549+121*7256-1700468)%eA)))ec(c8,257,ko,5)local kq=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))local kx=S9(343,S6,5)if c8[kx]==nil and kq then ec(c8,343,kq,5)end local kW=iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))ec(c8,938,kW,5)local kv=iG(iQ,ew(38,((79*9549+140*7256-1735690)%eA)))local kz=S9(418,S6,5)if c8[kz]==nil and kv then ec(c8,418,kv,5)end do local km=0 local kg=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))if eO and kg and eO~=kg then km=km+1 end local kP=iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))if ey and kP and ey~=kP then km=km+3 end local kA=iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA)))if eK and kA and eK~=kA then km=km+5 end local kl=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))local kC=kl and iG(kl,ew(68,((116*9549+102*7256-1806826)%eA)))if eq and kC and eq~=kC then km=km+7 end local kF=kl and iG(kl,"traceback")if ex and kF and ex~=kF then km=km+11 end if km~=0 then local kI=((km*747457)+911)%el en=(en+kI)%el eJ=eJ+km end end local k1=(function()local kj=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))local ku=kj and iG(kj,ew(68,((116*9549+102*7256-1806826)%eA)))local kQ=kj and iG(kj,ew(104,((58*9549+131*7256-1467694)%eA)))local kb=iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA)))local kZ=iG(iQ,ew(23,((116*9549+79*7256-1670897)%eA)))local kV=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))local kX=iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))if not kb or not kZ or not kV or not kX then return end local kf=iG(iQ,ew(30,((107*9549+86*7256-1625262)%eA)))if not kf then local ka=iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA)))if ka and kb(ka)==ew(130,((120*9549+138*7256-2122616)%eA))then local kD,kp=kV(ka)if kD and kp and kb(kp)==ew(11,((69*9549+63*7256-1054577)%eA))then kf=iG(kp,ew(30,((107*9549+86*7256-1625262)%eA)))end if not kf then local kD,kp=kV(ka,1)if kD and kp and kb(kp)==ew(11,((69*9549+63*7256-1054577)%eA))then kf=iG(kp,ew(30,((107*9549+86*7256-1625262)%eA)))end end end end if not kf then return end if kb(kf)~=ew(130,((120*9549+138*7256-2122616)%eA))then return end local kD,kL=kV(kf)if not kD or not kL then return end if kb(kL)~=ew(11,((69*9549+63*7256-1054577)%eA))then return end do local k8=ew(130,((120*9549+138*7256-2122616)%eA))local k3=ew(11,((69*9549+63*7256-1054577)%eA))local k0=kX(kL,ew(25,((88*9549+92*7256-1495027)%eA)))local k2=kX(kL,ew(8,((130*9549+69*7256-1683362)%eA)))local k5=kX(kL,ew(3,((93*9549+117*7256-1682257)%eA)))local k4=kX(kL,ew(31,((48*9549+92*7256-1103773)%eA)))local k9=kX(kL,ew(29,((72*9549+61*7256-1111247)%eA)))local k6=kX(kL,ew(4,((130*9549+106*7256-1955038)%eA)))local rc=kX(kL,ew(32,((119*9549+82*7256-1707524)%eA)))local rS=kX(kL,ew(33,((96*9549+139*7256-1899787)%eA)))local re=kX(kL,ew(27,((40*9549+85*7256-982921)%eA)))local ri=kX(kL,ew(42,((75*9549+105*7256-1435706)%eA)))local rY=kX(kL,ew(21,((128*9549+118*7256-2071159)%eA)))local rT=kX(kL,ew(46,((83*9549+104*7256-1496470)%eA)))local rk=kj and iG(kj,ew(125,((96*9549+79*7256-1424475)%eA)))local k7=(kb(k0)==k8)or(kb(k2)==k8)or(kb(k5)==k8)or(kb(k4)==k8)or(kb(k9)==k8)or(kb(k6)==k8)or(kb(rc)==k8)or(kb(rS)==k8)or(kb(re)==k8)or(kb(ri)==k8)or(kb(rY)==k8)or(kb(rT)==k8)or(kb(kQ)==k8)if k7 then if kb(rk)~=k8 then eM=0 eJ=1 return end local rr=kX(kL,ew(40,((111*9549+53*7256-1406140)%eA)))if kb(rr)~=k8 then eM=0 eJ=1 return end local kD,rE=kV(rr)if not kD or kb(rE)~=k3 then local rh,rR=kV(rr,true)if rh and kb(rR)==k3 then kD=true;rE=rR end end if not kD or kb(rE)~=k3 then eM=0 eJ=1 return end local rw=kX(kL,ew(16,((83*9549+110*7256-1589536)%eA)))if kb(rw)~=k8 then rw=kX(kL,ew(9,((57*9549+58*7256-905583)%eA)))end if kb(rw)~=k8 and kj then rw=iG(kj,ew(16,((83*9549+110*7256-1589536)%eA)))end if kb(rw)~=k8 and kj then rw=iG(kj,ew(9,((57*9549+58*7256-905583)%eA)))end if kb(rw)~=k8 then eM=0 eJ=1 return end local rH,rM=kV(rw)if not rH or kb(rM)~=k3 then eM=0 eJ=1 return end end end local kt=kX(kL,ew(46,((83*9549+104*7256-1496470)%eA)))if not kt then return end if kb(kt)~=ew(130,((120*9549+138*7256-2122616)%eA))then return end if ku or kQ then local kN=kX(kL,ew(40,((111*9549+53*7256-1406140)%eA)))if kN and kb(kN)==ew(130,((120*9549+138*7256-2122616)%eA))then local kD,kd=kV(kN)if kD and kd and kb(kd)==ew(11,((69*9549+63*7256-1054577)%eA))then local kU=0 local rn=0 local rs=ew(130,((120*9549+138*7256-2122616)%eA))local rJ=ew(46,((83*9549+104*7256-1496470)%eA))for _,kB in kZ(kd)do rn=rn+1 if rn>10000 then break end if kb(kB)==rs then local rO,kG=false,nil if ku then rO,kG=kV(ku,kB,ew(117,((56*9549+134*7256-1479283)%eA)))else rO,ry=kV(kQ,kB,ew(117,((56*9549+134*7256-1479283)%eA)))kG=ry and ry[ew(134,((100*9549+99*7256-1628312)%eA))]end if rO and kG==rJ then kU=kU+1 if kU>=2 then break end end end end if kU>1 then eM=0 eJ=1 return end end end end ec(c8,341,kt,5)local rW=iG(iQ,ew(41,((116*9549+145*7256-2119463)%eA)))if rW then local ro=iG(rW,"byte")if ro then kV(kt,ro)end end local rK=iG(iQ,ew(22,((127*9549+73*7256-1733762)%eA)))if rK then kV(kt,rK)end local rq=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))if rq then kV(kt,rq)end local rx=iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))if rx then kV(kt,rx)end local rv=iG(iQ,ew(44,((91*9549+121*7256-1700468)%eA)))if rv then kV(kt,rv)end local rz=iG(iQ,ew(23,((116*9549+79*7256-1670897)%eA)))if rz then kV(kt,rz)end local rg=iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA)))if rg then kV(kt,rg)end local rP=iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA)))if rP then kV(kt,rP)end local rA=iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA)))if rA then kV(kt,rA)end end)()ec(c8,((9806%121)+858),iG(iQ,ew(34,((71*9549+132*7256-1608534)%eA))),5)ec(c8,((268)*(3)+(2)),iG(iQ,ew(41,((116*9549+145*7256-2119463)%eA))),5)ec(c8,((85)*(2)+(1)),iG(iQ,ew(11,((69*9549+63*7256-1054577)%eA))),5)ec(c8,((142)*(4)+(2)),iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA))),5)ec(c8,(8340-7871),iG(iQ,ew(44,((91*9549+121*7256-1700468)%eA))),5)ec(c8,(((5520)-(907))+(-3971)),iG(iQ,ew(22,((127*9549+73*7256-1733762)%eA))),5)ec(c8,((9812%71)+763),iG(iQ,ew(14,((38*9549+75*7256-842564)%eA))),5)ec(c8,((10608%139)+780),iG(iQ,ew(28,((59*9549+71*7256-1061236)%eA))),5)ec(c8,(((4476)-(1023))+(-3054)),iG(iQ,ew(47,((64*9549+96*7256-1254813)%eA))),5)ec(c8,((239)*(3)+(1)),iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA))),5)ec(c8,(180+537),iG(iQ,ew(23,((116*9549+79*7256-1670897)%eA))),5)ec(c8,((3298%121)+241),iG(iQ,ew(0,((46*9549+96*7256-1083022)%eA))),5)ec(c8,(5174-4303),iG(iQ,ew(24,((127*9549+70*7256-1709236)%eA))),5)ec(c8,(3031-2805),iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA))),5)ec(c8,(6368-5887),iG(iQ,ew(38,((79*9549+140*7256-1735690)%eA))),5)ec(c8,(3573-3105),iG(iQ,ew(45,((84*9549+113*7256-1573467)%eA))),5)ec(c8,((2698%57)+424),iG(iQ,ew(5,((61*9549+107*7256-1302663)%eA))),5)ec(c8,((421)*(2)+(0)),iG(iQ,ew(20,((95*9549+127*7256-1822640)%eA))),5)ec(c8,(((4686)-(1321))+(-2745)),(iG(iQ,ew(116,((75*9549+80*7256-1273448)%eA)))or function(_f)return _f end),5)ec(c8,(((656)*4%343)+140),iG(iQ,ew(6,((90*9549+112*7256-1615080)%eA))),5)ec(c8,(((658)*4%205)+332),iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA))),5)ec(c8,(407+160),iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA))),5)local rl=nil rl=function(rC,rF,rm)if not rC then return end rF=rF or 1 rm=rm or#rC local rI=rm-rF+1 if rI<=0 then return end if rI>=4 then return rC[rF],rC[rF+1],rC[rF+2],rC[rF+3],rl(rC,rF+4,rm)end if rI==3 then return rC[rF],rC[rF+1],rC[rF+2]end if rI==2 then return rC[rF],rC[rF+1]end return rC[rF]end ec(c8,((7156%135)+500),rl,5)local rL=(function()local rN=iG(iQ,ew(7,((49*9549+65*7256-881721)%eA)))local rt=iG(iQ,ew(36,((99*9549+146*7256-1973916)%eA)))local ru=iG(iQ,ew(2,((130*9549+115*7256-2021740)%eA)))local rQ=iG(iQ,ew(49,((80*9549+66*7256-1185459)%eA)))local rj=iG(iQ,ew(90,((97*9549+112*7256-1691250)%eA)))local rb=iG(iQ,ew(15,((132*9549+106*7256-2029537)%eA)))local rd=rN and iG(rN,ew(104,((58*9549+131*7256-1467694)%eA)))local rU=rN and iG(rN,ew(68,((116*9549+102*7256-1806826)%eA)))local function rD(rX,ra)if not rX or not rb then return 0 end local rp=0 if rt then local rZ=rb(rt,rX,{})if rZ then rp=(rp+ra)%el end end local rG=nil local rB local rV=rd and rb(function()rB=rd(rX,ew(127,((103*9549+77*7256-1532565)%eA)))end)if rV and rB and type(rB)==ew(11,((69*9549+63*7256-1054577)%eA))then rG=rB[ew(96,((118*9549+124*7256-2021818)%eA))]end if(not rG)or rG==""then local rV=rd and rb(function()rB=rd(rX)end)if rV and rB and type(rB)==ew(11,((69*9549+63*7256-1054577)%eA))then rG=rB[ew(96,((118*9549+124*7256-2021818)%eA))]end end if(not rG)or rG==""then if rU then rG=rU(rX,ew(131,((67*9549+55*7256-1009237)%eA)))end end if rG and rG~=ew(71,((111*9549+100*7256-1735689)%eA))and rG~=ew(118,((47*9549+152*7256-1519358)%eA))then rp=(rp+(ra*17))%el end return rp end local r1=0 r1=(r1+rD(rt,92821))%el r1=(r1+rD(ru,173347))%el r1=(r1+rD(rQ,286049))%el r1=(r1+rD(rj,421861))%el return r1 end)()if rL~=0 then en=(en+rL)%el eM=(eM+rL)%el eJ=eJ+1 ew=false end local EE=false do local r8=eO local r3=ey or iG(iQ,ew(18,((63*9549+101*7256-1330902)%eA)))local r7=eW local r0=eK or iG(iQ,ew(1,((77*9549+114*7256-1509035)%eA)))local r2=eo local r5=iG(iQ,"_G")local r4=0 if r8 and r3 and r7 and r5 then local r9="\x00949710372"local r6={}local Ec=r3(r5,r9)local ES,Ee,Ei=r8(function()r5[r9]=r6 local Ee=r3(r5,r9)local Ei=r5[r9]r7(r5,r9,Ec)return Ee,Ei end)if ES and(Ee~=r6 or Ei~=r6 or Ee~=Ei)then r4=r4+3 end end if r8 and r3 and r0 and r2 and r5 then local EY,ET=r8(r2,r5)if EY and r0(ET)==ew(11,((69*9549+63*7256-1054577)%eA))then local Ek=r3(ET,ew(97,((93*9549+73*7256-1409159)%eA)))local Er=r3(ET,ew(50,((55*9549+58*7256-886406)%eA)))if r0(Ek)==ew(130,((120*9549+138*7256-2122616)%eA))or r0(Er)==ew(130,((120*9549+138*7256-2122616)%eA))then r4=r4+5 end end end if r4~=0 then EE=true eJ=eJ+r4 en=(en+((r4*552791)+104723))%el end end local Eh=(function()local ER={}local Ew=142*6+240 ER[Ew]=(Sq and Sq(0))or{}local EM=ER[Ew]c7=c3 ER[Ew]=nil return EM end)()local EH=c8[S9(570,S6,5)]or es local En=function(t,k)return(EH and EH(t,k))or(t and t[k])or nil end c8[S9(771,S6,5)]=false c8[S9(725,S6,5)]=true c8[S9(752,S6,5)]=false c8[S9(974,S6,5)]=En(Eh,ew(10,((46*9549+62*7256-828648)%eA)))c8[S9(749,S6,5)]=c8[S9(501,S6,5)]c8[S9(364,S6,5)]=({})[(({})[0])]c8[S9(122,S6,5)]=false local EA=c8[S9(718,S6,5)]or eK or type local El=c8[S9(570,S6,5)]or ey local EC=c8[S9(567,S6,5)]local EF=EA(function()end)if EA(El)~=EF then El=nil end if EA(EC)~=EF then EC=nil end local En=function(t,k)return(El and El(t,k))or(t and t[k])or nil end c8[S9(214,S6,5)]=function(EW,Eo,EK)local Eq=(EK or 55)if EA(Eo)==ew(41,((116*9549+145*7256-2119463)%eA))then Eq=Eq+#Eo end local Ex=EC and EC(0)local Ev=Ex and En(Ex,EW)local Ez=Ev and En(Ev,Eo)if Ez~=nil then return Ez end local Eg=nil local EP=_G if EP and EA(EP)==ew(11,((69*9549+63*7256-1054577)%eA))then Eg=En(EP,EW)end Ez=Eg and En(Eg,Eo)if Eq>176 then Eq=Eq%176 end return Ez end local Em=c8[S9(214,S6,5)](ew(7,((49*9549+65*7256-881721)%eA)),ew(104,((58*9549+131*7256-1467694)%eA)),54)local EI=c8[S9(214,S6,5)](ew(7,((49*9549+65*7256-881721)%eA)),ew(68,((116*9549+102*7256-1806826)%eA)),247)if EA(EI)==ew(130,((120*9549+138*7256-2122616)%eA))then local EO=EI c8[S9(849,S6,5)]=function(Es)if EA(Es)~=ew(58,((116*9549+93*7256-1768912)%eA))then return nil end if Es<1 or Es>5 then return nil end return EO(Es+1,ew(57,((67*9549+67*7256-1114907)%eA)))end elseif EA(Em)==ew(130,((120*9549+138*7256-2122616)%eA))then local Ey=Em c8[S9(849,S6,5)]=function(Es)if EA(Es)~=ew(58,((116*9549+93*7256-1768912)%eA))then return nil end if Es<1 or Es>5 then return nil end local EJ=Ey(Es+1,ew(57,((67*9549+67*7256-1114907)%eA)))return EJ and EJ[ew(128,((40*9549+81*7256-955070)%eA))]or nil end end c8[S9(602,S6,5)]=function(Ef,EL,EN)local Et=Ef*46-EL local Eu=c8[S9(Et,S6,5)]if Eu then c3[EN]=Eu end end c8[S9(602,S6,5)](10,17,ew(5,((61*9549+107*7256-1302663)%eA)))c8[S9(602,S6,5)](19,11,ew(34,((71*9549+132*7256-1608534)%eA)))c8[S9(602,S6,5)](19,3,ew(24,((127*9549+70*7256-1709236)%eA)))c8[S9(602,S6,5)](18,22,ew(41,((116*9549+145*7256-2119463)%eA)))c8[S9(602,S6,5)](14,2,ew(22,((127*9549+73*7256-1733762)%eA)))c8[S9(602,S6,5)](8,5,ew(6,((90*9549+112*7256-1615080)%eA)))c8[S9(602,S6,5)](18,4,ew(28,((59*9549+71*7256-1061236)%eA)))c8[S9(602,S6,5)](11,38,ew(45,((84*9549+113*7256-1573467)%eA)))c8[S9(602,S6,5)](11,25,ew(38,((79*9549+140*7256-1735690)%eA)))c8[S9(602,S6,5)](14,24,ew(116,((75*9549+80*7256-1273448)%eA)))c8[S9(602,S6,5)](17,5,ew(14,((38*9549+75*7256-842564)%eA)))c8[S9(602,S6,5)](11,5,ew(26,((75*9549+95*7256-1391194)%eA)))c8[S9(602,S6,5)](9,15,ew(47,((64*9549+96*7256-1254813)%eA)))c8[S9(602,S6,5)](5,4,ew(15,((132*9549+106*7256-2029537)%eA)))c8[S9(602,S6,5)](13,28,ew(18,((63*9549+101*7256-1330902)%eA)))c8[S9(602,S6,5)](16,19,ew(23,((116*9549+79*7256-1670897)%eA)))c8[S9(602,S6,5)](6,4,ew(0,((46*9549+96*7256-1083022)%eA)))c8[S9(602,S6,5)](11,37,ew(44,((91*9549+121*7256-1700468)%eA)))c8[S9(602,S6,5)](19,32,ew(20,((95*9549+127*7256-1822640)%eA)))c8[S9(602,S6,5)](19,25,ew(104,((58*9549+131*7256-1467694)%eA)))c8[S9(602,S6,5)](16,18,ew(1,((77*9549+114*7256-1509035)%eA)))local EQ=c8[S9(806,S6,5)]and c8[S9(806,S6,5)][ew(83,((106*9549+77*7256-1547997)%eA))]if EQ then c3[ew(83,((106*9549+77*7256-1547997)%eA))]=EQ end local Ej=(39-7)*1000+812 local Ed=(617-3)*100+78 c7[Ej]=Ed c8[S9(602,S6,5)]=({})[(({})[0])]c8[S9(112,S6,5)]=function(E7,EV)if not E7 then return nil end if not EV then return nil end local ED=#E7 local EX=1 local E3=nil while EX<=ED do if EV(E7,EX)==58 then local Ea=EX+1 local Ep=0 local E1=false local E8=EV(E7,Ea)while Ea<=ED and E8 and E8>=48 and E8<=57 do Ep=(Ep*10)+(E8-48)E1=true Ea=Ea+1 E8=EV(E7,Ea)end if E1 and E8==58 then E3=Ep end end EX=EX+1 end return E3 end local _,EU=(eO or c8[S9(226,S6,5)]or pcall)(function(...)return(...)()end)local E0=(c8[S9(806,S6,5)]and c8[S9(806,S6,5)]["byte"])or string.byte local EB=c8[S9(112,S6,5)](EU,E0)local Eb=0 local EZ=c8[S9(849,S6,5)]if EZ then Eb=(function()return EZ(1)end)()or 0 end local EG=EB or 0 if Eb>0 then EG=Eb end if EG<=0 or EG>49157 then EG=0 end c3[0x29]=EG c3[((21+134-60))]=0 do local E2=(S4 or 0)local E5=c3[(10*4+1)]or 0 local E4=(E5>0 and E5<=49157)and 1 or 0 local function E9()return function()end end local E6=(E9()==E9())and 1 or 0 local he=0 local hi=0 local hT=(Eh and iG(Eh,ew(81,((90*9549+87*7256-1474543)%eA)))or nil)local hc,hS=(eO or c8[S9(226,S6,5)]or pcall)(function()local t=hT;local n=t and t[ew(120,((99*9549+104*7256-1658332)%eA))];return n and n(1,2,3)end)if hc and hS then he=(hS[ew(91,((58*9549+90*7256-1155533)%eA))]*(104+0x3A)+hS[ew(121,((44*9549+121*7256-1251795)%eA))]*189+hS[ew(54,((48*9549+101*7256-1187632)%eA))]*(0x129-86))%2147483647 he=((he*(0xBB+0x4E))+(34262+0x4B4D))%2147483647 if he==0 then he=1 end hi=1 end local hY=(E2%2147483647)hY=(hY*48271+E4+81)%2147483647 local hh=(Eh and iG(Eh,ew(56,((48*9549+73*7256-979530)%eA)))or nil)local hR=(Eh and iG(Eh,ew(93,((38*9549+69*7256-804727)%eA)))or nil)local hk=(hh~=nil and(c8[S9(718,S6,5)]or eK or type)(hh)~=(c8[S9(718,S6,5)]or eK or type)({}))and 1 or 0 local hr=(hR~=nil and hR[ew(120,((99*9549+104*7256-1658332)%eA))]~=nil and(c8[S9(718,S6,5)]or eK or type)(hR[ew(120,((99*9549+104*7256-1658332)%eA))])==(c8[S9(718,S6,5)]or eK or type)((eO or c8[S9(226,S6,5)]or pcall)))and 1 or 0 local hE=0 local hw=hh and hh[ew(94,((81*9549+86*7256-1334910)%eA))]or nil local hM=nil hc,hM=(eO or c8[S9(226,S6,5)]or pcall)(function()return hw and hw(hh,ew(64,((96*9549+55*7256-1286178)%eA)))end)if hc and hM and(c8[S9(718,S6,5)]or eK or type)(hM)==(c8[S9(718,S6,5)]or eK or type)(hh)then hE=1 end hY=(hY*48271+(hk*11)+81)%2147483647 hY=(hY*48271+(hr*17)+81)%2147483647 hY=(hY*48271+(hE*23)+81)%2147483647 local hH=(hk==0 or hr==0 or hE==0 or hi==0)if hH then local hn=((E2*48271)+(hk*17)+(hr*31)+(hE*43)+he+97)%2147483647 if hn==0 then hn=1 end hY=(hY+hn)%2147483647 end hY=(hY*48271+he+81)%2147483647 if hY==0 then hY=1 end c3[(167-72)]=hY end local hK=c8[S9(570,S6,5)]or ey local hq=c8[S9(718,S6,5)]or eK or type c8[S9(773,S6,5)]=function(hs,hJ)local hO=hK and hK(hs,hJ)or nil if hO then return hO end local hy=c8[S9(863,S6,5)]if hy and hq and hq(hJ)==ew(58,((116*9549+93*7256-1768912)%eA))then return hK and hK(hy,hJ)or nil end return nil end local ho={}local hx=(Sx or c8[S9(642,S6,5)])if hx then hx(ho,{[ew(97,((93*9549+73*7256-1409159)%eA))]=c8[S9(773,S6,5)]})end if hx then hx(c3,{[ew(97,((93*9549+73*7256-1409159)%eA))]=ho})end c8[S9(823,S6,5)]=function(hv,hz,...)local hl=c8[S9(468,S6,5)]or select local hC=c8[S9(718,S6,5)]or eK or type local hF=c8[S9(226,S6,5)]or eO or pcall local hm=c8[S9(469,S6,5)]or rawset local hg={}local hP=hl('#',...)if hC(hv)==ew(130,((120*9549+138*7256-2122616)%eA))then hg[1]=hP for hA=1,hP do hg[hA]=hg[hA]end end if hC(hz)==ew(11,((69*9549+63*7256-1054577)%eA))then hm(hg,0,hz)end end if c8[S9(504,S6,5)]and c8[S9(567,S6,5)]then local hI=function()end local hf={}c8[S9(504,S6,5)](hI,hf)if c8[S9(567,S6,5)](hI)~=hf then c8[S9(504,S6,5)]=({})[(({})[0])]end end c8[S9(456,S6,5)]=function(hL,hN,ht,hu)local hd=c8[S9(718,S6,5)]or eK or type local hU=c8[S9(570,S6,5)]or ey local hB=c8[S9(468,S6,5)]or select if hu then local hQ=c8[S9(504,S6,5)]local hj=c8[S9(567,S6,5)]if hQ then hQ(hL,hN)if hj and hj(hL)~=hN then c8[S9(504,S6,5)]=({})[(({})[0])]c8[S9(567,S6,5)]=({})[(({})[0])]end end return hL end local hG=ht and hN and hL if not hG then return(hU and hU(hN or{},94240))or((hN or{})[94240])end return({})[(({})[0])]end c8[S9(196,S6,5)]=(function(hD)local _ENV=hD return function(hb,hZ,hV,...)local c8=hb local hp=4294967296 local h1=2147483647 local h8=function(h3)repeat h3=(h3*48271+1)%h1 if h3==0 then h3=1 end until h3==0 end local S9=hb[(0-((37*9549+126*7256-1267370)%hp))]local S6=hb[(0-((129*9549+125*7256-2138521)%hp))]local c3=hZ local eJ=hb[(0-((82*9549+127*7256-1703523)%hp))]or 0 local h7=0 local h0=0 local Eh=hb[(0-((97*9549+125*7256-1832852)%hp))]local S1=hb[(0-((64*9549+128*7256-1539200)%hp))]local S8=hb[(0-((86*9549+127*7256-1741921)%hp))]local h2={[42]=0,[52]=1,[56]=2,[116]=3,[57]=4,[101]=5,[48]=6,[60]=7,[85]=8,[81]=9,[83]=10,[119]=11,[97]=12,[124]=13,[38]=14,[59]=15,[112]=16,[73]=17,[115]=18,[113]=19,[103]=20,[104]=21,[37]=22,[125]=23,[107]=24,[46]=25,[78]=26,[65]=27,[106]=28,[61]=29,[51]=30,[123]=31,[93]=32,[74]=33,[111]=34,[80]=35,[89]=36,[86]=37,[35]=38,[69]=39,[70]=40,[77]=41,[90]=42,[41]=43,[120]=44,[33]=45,[109]=46,[79]=47,[64]=48,[114]=49,[95]=50,[102]=51,[126]=52,[96]=53,[50]=54,[91]=55,[67]=56,[43]=57,[53]=58,[88]=59,[71]=60,[82]=61,[108]=62,[68]=63,[44]=64,[122]=65,[117]=66,[98]=67,[58]=68,[40]=69,[54]=70,[118]=71,[87]=72,[100]=73,[75]=74,[76]=75,[110]=76,[47]=77,[105]=78,[84]=79,[66]=80,[55]=81,[62]=82,[72]=83,[99]=84,[63]=85,[121]=86,[45]=87,[36]=88,[49]=89,[94]=90}local Rk=function(Rr)return Rr-(Rr%1)end local RE=string.byte local function h5(h4)local h9={}local h6=1 local Rc=-1 local RS=0 local Re=0 local Ri=1 while true do local RY=RE(h4,Ri)if not RY then break end local RT=h2[RY]if RT~=nil then if Rc<0 then Rc=RT else Rc=Rc+RT*91 RS=RS+Rc*(2^Re)if(Rc%8192)>88 then Re=Re+13 else Re=Re+14 end while Re>=8 do h9[h6]=RS%256 h6=h6+1 RS=Rk(RS/256)Re=Re-8 end Rc=-1 end end Ri=Ri+1 end if Rc>=0 then RS=RS+Rc*(2^Re)Re=Re+7 while Re>=8 do h9[h6]=RS%256 h6=h6+1 RS=Rk(RS/256)Re=Re-8 end end return h9 end do local Rh=h5(S1)local RR={}local Rw=0 local RM=0 local RH=1 local Rn=1 while RH<=#Rh do local RS=Rh[RH]or 0 Rw=Rw+(RS%128)*(2^RM)if RS>=128 then RM=RM+7 else RR[Rn]=Rw Rn=Rn+1 Rw=0 RM=0 end RH=RH+1 end S1=RR end local Sp={}do local Rs=2147483647 local RJ=function(a,b)local r=0;local p=1;while a>0 or b>0 do local aa=a%2;local bb=b%2;if aa~=bb then r=r+p end;a=(a-aa)/2;b=(b-bb)/2;p=p*2 end;return r end local Rz={211,226,188,214}local Rg={1267078800,886118979,1662049068,596159455}local RP=1681452805 local RA=Rg[2]RP=(((RP+1678323820)*30043)+((RA+404987148+0)%Rs))%Rs local RA=Rg[3]RP=(((RP+1678323820)*30043)+((RA+404987148+1)%Rs))%Rs local RA=Rg[1]RP=(((RP+1678323820)*30043)+((RA+404987148+2)%Rs))%Rs local RA=Rg[4]RP=(((RP+1678323820)*30043)+((RA+404987148+3)%Rs))%Rs local Rl={}local RC=RP local RF=(RP+6586)%Rs for RW=1,#Rz do local Rm=((RC%256)+((RF%256)*4)+RW*35057+6586)%256 local RI=RJ(Rz[RW],Rm)Rl[RW]=RI RC=(RJ(RC,RI)+6586+(RF*35057))%Rs RF=(((RF+Rz[RW])*10691)+6586+RW)%Rs end local Rx=((((Rl[4]or 0)*256+(Rl[3]or 0))*256+(Rl[2]or 0))*256+(Rl[1]or 0))%Rs if Rx==0 then Rx=1 end local RO=(RJ(Rx,S6)+0x9E3779B9)%Rs local Ry={}for RW=1,#S1 do RO=(RO*48271+1)%Rs local Ro=(RO%S8)+1 local RK=0 local Rq=Ro while Ry[Rq]do RK=RK+1 if RK>S8 then for Rv=1,S8 do if not Ry[Rv]then Rq=Rv break end end break end Rq=((Ro-1+RK*RK)%S8)+1 end Ry[Rq]=true Sp[S1[RW]]=Rq end Ry=nil end local S7=hb[(0-((52*9549+127*7256-1417154)%hp))]if _ENV~=c3 then eJ=1;h8((0-((93*9549+125*7256-1794555)%hp)))end h7=h7+1 local Rt=0 for Ru in pairs(_ENV)do Rt=Rt+1 end if Rt~=(43-17)then eJ=1;h8((Rt or 0)+1)end h7=h7+1 Rf=S9(436,S6,5)local RL=hb[Rf]if RL then local RN=RL(1);if RN and RN~=c3 then eJ=1;h8(Rf+1)end end local ha=false do local RB=nil local Rj=S9(196,S6,5)local RG=hb[Rj]if RG and RG~=hV then eJ=1;h8(Rj+1)end Rj=S9(924,S6,5)local Rd=hb[Rj]if Rd then RB=Rd(1,"\102")end if not RB then Rj=S9(609,S6,5)local RU=hb[Rj]if RU then local Rb=RU(1,"\102");RB=Rb and Rb["\102\117\110\99"]end end if RB and RB~=hV then eJ=1;h8(Rj+1)end end local R0=(function()local R7=0 local RD=c8[S9(718,S6,5)]local RX=RD(RD)local Ra=RD({})local RZ=S9(564,S6,5)local RV=hb[RZ]local R2=hb[S9(226,S6,5)]if RD(RV)==RX and R2 then local Rp,R1,R8,R3 local R5;R5,Rp,R1=R2(RV,hV,1)local R4;R4,R8,R3=R2(RV,hV,2)if R5 then local R9=nil if RD(Rp)==Ra then R9=Rp end if not R9 and RD(R1)==Ra then R9=R1 end local R6=R4 and((R8~=nil and R8~="")or(R3~=nil and R3~=""))if(not Rp and not R1)then R7=1 elseif R6 then R7=3 elseif R9 then R7=2 else R7=4 end end end if(R7==3 or R7==4)then ha=true end end)()local hX=false local iN=(function()local wR=0 local wS=c8[S9(718,S6,5)]local we=wS(wS)local wi=wS({})local wY=wS(0)if wS(hb)~=wi then hX=true;wR=1 end if wS(S9)~=we then hX=true;wR=(wR==0 and 2 or wR)end if wS(S6)~=wY then hX=true;wR=(wR==0 and 3 or wR)end local wT=S9(570,S6,5)local wk=hb[wT]wT=S9(469,S6,5)local wr=hb[wT]if wS(wk)~=we or wS(wr)~=we then hX=true;wR=(wR==0 and 4 or wR)end if not hX then local wE={};wr(wE,1,2);local wh=wk(wE,1);if wh~=2 then hX=true;wR=(wR==0 and 5 or wR)end end if wS(hb[(0-((97*9549+125*7256-1832852)%hp))])~=wi then hX=true;wR=(wR==0 and 6 or wR)end if hX then eJ=1;h8((wR or 0)+1)end end)()local c1={};local c2 local c5 local c4 local c9 local c6 local Sc local SS local cu local cU local SY local ST local SE local Se local Si local SH local Sn local Ss local SJ local SO c1[Sp[11186]]=c1 c1[Sp[18835]]={[(7437-1139)]=c1,[(10359-1513)]={c1}}local cI="0&h*8^8***aj2,VFi*Xe7RS*%/SQj(4N$wTt+e?OQ?pdn.]]q,TDioAIu4%_q!?pxNu9$8,*&2+D8B!u~985Gi5LF90ey%9*)-S!YlC#pE?Q#5,8w*}{^;o^9T5aAjm%Po>R-=!s)z.<H*zc|H1~tm9*E*|!C9YEw1Rn/Jigx4m3<5v.6JeHKg,u<IC***v.9v>HYjn0s%[=*m,HWirZtH[PPt@bk}chQ*L-<4/Ewq}@HOK85_FT))UU:g,]HkgqFqP}@@dFlG#l}1FS.Cv*wM0f2%Df#[L8/sW}@t|dowD*ycVrZ0}-*@NskC:P`)P/d9YcDNnZu<w;c%tvu0F*fTPfd*3z#.qM[m/J6SR1R2I^qdr=R_LmL~dfk9=C<*B7VBayo3uz300w+eRUC(&DxU!X}4{H%t[`#c[O{PMu)Qj*m%YwA>i?}X)0V!LdN@IF&j9hYcczhuLWBR!4cK4!5[acK`W8r=i7(vh51Wdi9>>A913S~tVI/3qaZ&;KO%tvKdlzXPd4@BM2nuGkS68!,b;HQSC`7sFUwU99M,[ct^Td~hEA.Yth<XjWUz7%n|<tB~=({4fh>yYw8Nm>[e<)%kve=dC$fErRbe{,i2Te63TA~x~q,$Xnb<Ob^Quu<*,@]lMQ$l}cg!-);d5Palw~?*Nl=w@n~4=3@w4zvt}sjwS5D0[XPab|/#f>h9DD.R}F`]NIQER+cI&rB7te{tFyG5/Q!=K7|mnndUyEQtV:]mi#gHQ*j)kI2J**E|D21B?Thw-3x*,]TH3FPI8^4u;{%d*q8*`|asn$x}AL/Jni(#K5[%Hf^wWWk.?Q$RD=2jYgpdCIN{F10Z275%/iEXBVE#B%y(w=S!]@b?c_F4dV5k(HQ!`xviKzkcmyQuF9W]}wA<7Q4~2AFFrt8Zt}w&/SLus||dA+>u$9**fT,8~b%v}b8*>fEUfX97@wWW_jt!GxieLO&2A1[%+hh#,o$:$AF{.C@f1ZpB>*[z@L+1ajdii.?i.P9BLOUCaJ(s9g8DT9%rtLq@WspuFZw{Ui]_A<X{d}1wb+5sT]uN+%t:4E*apM30:Hn*2l1?9qy@<2Yc9^se+Gsf8b*UNs#}-Hrwq8e8:,GDP?PtGerP,]{YHAW6F=);EmPMAF(.(A7pg}~,QHI*t1|(yONU+=(08!iOr4e-7_@Ep8}K`8(!q+B=BJl>p8:gWCwtJR,-]CHXrO8CyFfml*.w(]rxM2jzM/k}1rlyQ*v~l<(ML*18UvrZ`9xjyRMqF6qE0(a!PE*O#8P;/n6N<9K*|GW5dj8*%ly{}Fg&hs[YFrW`v3x5pd6e_m0.fuSt{q<*u3r3>DKpMQ<HJ4};!t4`:B2%,%z8K5bE/[Y.u8$Rw=@4tH<t$m!Yn*ZGa7j*x:x],kFUF&&j#,)^iJOXwNWi>kJ/_WnEdIWiRyazEvGbvU/r(JU+pmIaP=**h_bedBzB9qh-o5J*7o.?iRYggFkCGmA89~O%_C=P$@S.I4+h]r&QF+kyjC1L7+m,ka6|9^tl%4oxo$I{Zo}IB5H#}J,N8NTJ=dWd#+sZdiw56lTTMHZp+(fkQ/+.<;1G$CXUr|a<~?P9**JkZO;D9.$*5@BBZrna)HX0e1qu(Y!/)rg8HqJ5Kc`-BO%gLOyvZ=0_x5/%O;#?wm><g^Z*dKi;pTxMIJ%95hr^5s.B+GLOAT`J#/A1q8Ca~:F2WqGHb4WAb1dz)*rk+eyy_L7R3,h0ajq-_%>A4p1!)tc%Tr(JPgT.5msK|zVzs!2Nu<nG+SPmjNd+s*h4h4.YFiBsi8cRH|v*X1=uo^B>2/h#Q~4[**nciY/>ca6e1LwNQhEf[=s@xot!AaPxfEMTa!z!A(8P{V=g=rtR^}!WU!FO4!AAivgH$w/%S67VNm*kCJ:t7]arcrP*k{&<)OKPMB[~_OZm-z*_V^KdrR18*V?iga1tdY~%|=HYjWVro$Ceh/RHcF4~@_0&)AyGekQOA}GiHZ[b?;VxKEM4s8Ui=x8G7*VH.w&8r9P;Z4rzd>de2hl>/e]]]s%:}.li+AO;=}8^cjIG6V}LQ`5>YG]9%X4J[},*-c(G!^}P3*Qh}w&JKp:au*BTAwjp|~ftu4Zw%*6>Y}%=.8kCZp)K3=dB-UKFGD.K0A<*q-a*Dd%-`[H/Pq-Lrz.l*$6s;*9THz:>pH:e|dGeNqcmt$%^MRC${=)O$UGaq%Xgy%kp{*KN.n194B8gH}&mH9#j&Fg^EEieGgjPltkL@x}*x[KEh}U&W>m*eC?Y)PYEr4.T)w~GgC%}5[ONm.N>t378.ugB6tX_@,~wY^V|vqR_C`k}YaneK?(=0,(tS`a[j[Z^I{z_5ZjiBePn~[+`$!|IS52uA}>Zrtm+E>fFw0)9>05s^:&Z/;|.#*yiR~;g*I+be?)TE+&k*Oe0ck`bqURulWsjm0`:sfKAjCh-,P1Vu<U).~TB:*i9?x0fRwwMV*tTa]R[6q*#VcS!TXbP/zO|<*}!9G+.hwHZv!igN@I*i+lJ~mmT}JP^$V7kl4]}gbHvwMSYM0u^bb9~Y%AaOe{AJ/D>VKtR/U=xf?X]m%>|R<7ReMFx!DF8-^c9BBF18kuWbtH}y)]S;+Lm|}Saxd4|0NMle}-LcOejF49~>:UI**FUZq>`RSU/<!T3`P7dyi^8ALKX9ww*Fmi.1V:rKtH]#A`*}lV{UJ7c4xK8@32aaf<g9*CUa0Ds~b!UK8h=c*U/`w;^8n!R:@aIdQ|Q-^4<c71bmmML2Ylw2DUlb%*Bk^[|+S]29*ELF*4iH&;8Ih)i::f999Q^!.4j_92Qjj2A7by(Tn=9/;EZ&!zwl@v$*D^h}-jAK`m4i#i;Dqj$=m}=zKk}4RDU2S~6Q/b8:}GFnWV^{SpS/Qe-c9LiISoC~[pIVK/`4!%*&|HD~qC`{;[)G7fBzkGVC*)PAJMMm_q{g9tWx.YZ/qj0hq9DWk-vl5D8[PDk>p.2W!Y!M|Ny8kn|S1oCi;pEMm3S`mG*9MYI]?~5WEV.b6kc@ey>e%@bx=,,cz&2Z*|nrf(T8t=a{eH-tV0ts2|6$}fs!2X8Qh4Sh^GBI$5N!g,p<Xc[g{YB7tt!H?}g:@uUy9**.I]G6QIW)G<X}~Zl`yQ)j468q9_pD+uv(J3b)BvvW]K<l2K}o0&3^+:0@G+;aKb%(EGQ/J4huPur[)}b8^2x3U?R;#j4q[$Wu5p0DVt!$,6[~h]E4jr%0.H9~s5z+Q0J1H&Eb<^S%Er=9XX0u]SRE4Kxg*iEI0hsUtO;t^;g!K_2,4{L5]BE8-NO4!+D(qv.)kF9UFdFi9*hzD~bAQ[c!A7vWS$Cr:T38wQS;!]m$S7+1Awh=1;RKIGnEt{^)=`$R|7+,S%3d#{_-BWQ**Qzpc#o@y}S}w)h(;9RP$i88+k3S4)PK0I4&&GWp5~g*C27V@:bfE2ph*6iEp*;&a*^U*No[c=!(dtidiG]b;kgAT/9kWnyfhA#7C0!5N${nKk-Ut/+b1!w,7pj{*sZKCV)&m=(|*y6$a7lzU[0fS#c(6OhiAmnxjZ`5YS(4!5N4!^1PI`5..AtxaNiEYwo@w2bP510_+z_04g:gn*Ik.omS!Y;~Ux3CjEq**VP[:kwzKp!@7bq$SpcVgBBO(FwJW0H4!hC([)OAZs|**wVMH[RN*S9Su3b1}>W-9N*Vr?:8*8P@.NsYc.[sT,`Qu~Y4jfSJ&wxw*c>a?<V;n%<Obk-$hyzs(hazJ!v_e=d3S}ew;N65_SOe8&d?t7h:0zB/is^>t}ecW~Qkw;PN`r|8!v0k^iAUVmZET;4:~_:{H|Am-8*0H{z!JM@-gg~Zz2QhRdqw<4!?6o,ntY`>4x*&#sC|E11`80yTrmN<V;?(J5ws?pEX`A9w{$z=j?Mw2m%PvxZ!U<@`0Zo!oM/r4lAU^+}=<Vk%=}8R+hHw9aR<<S!2<y/B%L,.;Dq%dV1o!r)p*F7P(FY.HU&9,H:oys6oMxTaj>O219;~9J4|/.UzXev`qg:m/BgD|7wZu_%Vw3AU%S)>e@p`S/S`q9@owR2]+R.W.S[e*C6|fWnpCu*$LZ0c_U1{K[VDq`;arFMI#!**syA`.XVkM~Y}j_)O#f<m*RtS@]7OU{NVcM.[a;Zj+}$ajjocG*+)A]***a!OQ)?qdl4,Buz;iv/#Oe*(`U[28A#z8]pB@5JCm[QACqKg}?>C5Yq0*Cqmv1N*${h-)miMk)5?UT%6iS_=n4C!Pj40u$11<vv%kt!/_wv_?>,8z<^1j4{]c1;B9kw06q8)I}<74`7Nv;on`~ou^)4{CugfWH:/%s]jJj5~*S_{4050`TRzs:;8!WCw/z]z=>41/!ekWv-Cq@b:lCqcBk~O4CCA|ps0JE+S^<^DWSs5YZOe!pWhj6x5_L0s8}[AV4.m*w<IRgw~$1~B1%^[<*%P!BJo<jxj@x.n?d2s^~R;:l[(REg@t.4A!YBbM!]m%s<8=PCwGC*B;OfkeB:6<**gB3D_uZ`@[vi5Hg1ZX!zg8%%71^*-s}_{.;Z]aBl@a&Tw^*~eB9BS2T8mya.1-n[PO|!X[KB:@g9&Jt/W&/A|.RpdSB8Zoc:SEI!A3>L]*Km,z=8`YNA64J*({t3:M6y^m30MVy6~y+fT?^8-L=0E=eA.uot!)ZK,$*>gi84dR`b<l?z6E`bV0^Y~`8S%`1Ome1HKO]t01J!LrW5Q25&dj}858}u/A6Mf2R+ks?l|rv*p@NwbEDd}e<-]q9^AMRx$Xzm0t;PS=?wE<W!V*Q*^&agNRfuS*84}//xg.DSNs.~KL}s+7U^+/_bhfHVrs}LPzOMdXOq_wwDYW70(<.h2*lSU=Xj%wD.jja+Y;X03eXrO%/ICe(bsC)Q-LV4|8J]-k4U>ua^C60cbHea}w74y4:WX*F^:49xD8k.gle^jn:h!#p$6_w}:g.{$Yr4A$[4$k1s/~><Pst^tF*}i<h%He`r{wz-oVDjbzY:f0m2[B&A`j|85=ck13T(=7}4g:kLGr;KnUQ^2+Xv_#IiDt2:u2nghafOC!G_Y1!j3t&0Cj?yZ*Jf*..8]xDlY^@45l,7h6`xA*^K5ZkD8I^UeIhvL,9w+%jY0+Og*.=4_k-30G*,t<8Z!EvVo65et(RwW!fVBN}w;L(&:C4[;J%luNhqZ^q%`Vt*U)<Io;?XfeOb}=WmlDn_+4s6?Nm%V!a-b*:#v(jHao}XdJ$L*a]caBi5l+cFriRN-*aX-:MrbV[m~YX2185ELYIavz`[Y4;/(d/|Bi<e9!EXnwXa;twF,8_Rs#N*txH99@8^c_e;u@X=|+6%!RcS`0^>]2BI,*ep~@W`~d{;;*5=+x!#O0]k8>TT?eQt@]I4B8o57~7S=(VBfbG-zW!7liaQcp9qg==XFcA4M/?eVs}~Q}Jm9^X%d9kDTEh:xj:wA95bL-j6I*&ufhx&dk#l0y%l>!vG6qs!011ih:rtxG?`XBm!Y]v*L3fLe5.^~51:1d1C=U#6KRwJFaz+2<Dql@dtj!{Sl}36mlN)KNsNJt(,Mr1*~*l~Lir4zn?j);2vRGTt<[@*+L*PGK5m&m47r~k^Pp7;*GF43S%n{-p!CwUiwk!p|XM;S4q[(d&<[Xr/pPHi@jui>*t[9@+3G_p=Y3|J`[d%n@ONCw+V@tCa=.:~<s+aymvuU*kw+jT&Ss/{yw!}^s#cf[Wil(a*kc~Ido2O.|8,rO?C3661`<n8}F$C_GA(tk_b++Pa]g|Xbe0Gq-)4&E^9=1g4#m7r|eZ;7i8!Gesw`rTG:&KiD%ojCgbA6s}*08fD3!+>qa|>YmG~E.-|ne&!fU85J4!b#w*CK8rsZ|Bk`Y%?Q0A$*rI8!r$L]t4!EKUB|v(;$fOP[Y5%FbGv%:P{d!b[l/5bQtVEy_!474U7)}r4C]m%HR~2zV:o^4llCroXH2-zPCL@MUaDG/}ug^vm$6CHCLS9A0P00ry/Be3Mb9O%+Aaz-fZ{jUx:K8v%75XPRk**)J,I_3jDEJClfCO0{=>Y>&#^88Oar@OC(wTUjYrZB/{jK0WF>Nl#qQ)AS^sUP-y}de}U$U<7%}7G]LwABp]xK!?4Ua1epvPbQ@mBmbr=c400`Y|dlRY?xPuJ9+s*BGq!2(pt{QaG2%Xr(TB6M*5sgId}bD&)bv)`>conN+Fa%F_4c9(&L`PCmwa@m=-xdaHv0r=8Zo-CtFv}~Y]Rq!?kc@ARMd`Ol^]g>J,PeGK>**sN/GX~}xsmTOHlc:#QV1[HwoNW|oS!.AmLw^WVA~y;m7(f_Z*:;^3faV4Y(J7%N=)T0(Xz|dsjH8-ayA?4[wNBo|4JQzt4Ht0.Q@)w^8>S@@cH7SZx}sye5n$IY8r%P8r4}&ppUIMt2+Y!S*Y&&@3Bmhn]@UR9CWmC4Q.!Y*:h@d|;VPX=I*|(HB2`7*Os1LZ=uNG7vq8GSXK`YKz-b~wA6_1mU+BD`ejam*!Z)wl=[!oj5CWh!*)KlFR^r*)v/Ga_P9GutHkE$*#OZ%]c8*8_7|f<PnzB0Il)9t;L^.n/g*1?~,s`tei;Y~y3KX@|>RT%:}J`|6r}*kU!EtOq6m)*=r2:$ww2cN@4-wCJI^R8)=9ZD4/e/QEr:HP@T:w!]X|OjMT!3QADSLAc>jed.*,v:jjyk5Lh:~V&%[Z{oA;^veYCL|XK#01V6ZE;c?x9=^ryjV&I4b*wvXanLd>Rlce^U%Iv4T#_$&uN))r$=X5bv%Hs?P@E@_K_&*8s,R9&[E$u9~`L`KJ5}VQ*9**F~YEi@c#2^CB*)4VwD+&1O%54@Kz]<iN.h7atTXxRCe|t#6V,^kae;LmvObPH{ki5N3iaV.!]Wi;p]Ln4#3Kf7M^a&{Ut^8p<$d7.Cbiw@bV]BFwg?ci%~{.Oy<`}~4Pw9tSux5ea`-mX:j&%pUMUmbHw@C_Z30=Jj-s}(gNaY:y9pVjC4{(Y~I27;Xg!B5NT*!6J3hl_Qn9%j@QQOtsI!D5EIQj*V}I`J<qHu!;*Ec!Nc4N]bZ**}lb8j,LB{^SuBe`71{h_5{wX>&%}wH=N>|$wz$X<VPR(oOt!*qpog}c{:S5kH40@]]?WL*FUE,+C#xV$At@f5b[)(~-2cO8^@Hc9`A,/`NJ/>3znBg6Bjw/QGdvYicNRB_v[&skEHpaKnt{6VttM0.{<~pI]-L;|@{PMNxow^:`l/kYx-I@~Hb]aKe|+eXY}x*_8#Z|y,I>Lx*7:LEP|#wd.RaS;E4^^6)7-,*kpy!]_@Eu^hrlI7*t~R5saOb|q3]Ju/&}8O0]nOM$vJ/48z/sQWG42|m}!A@O_Z:S/m@:}bQ+e)>cw_*ylmTqf*p/x+e,gjCECGdn}^b>vJ!j~4PF}+%o?_.AwJE2?M<)(:p**74Fzx9W7G<*n+]^ON8%5cm5_DJnN(:h.R!kG5a;~@k)Lr4.VdCoF87|50!Pfkp}@>hSJ})Z@:|>+lCw*#mqb|pA*3*%}hq|slZ7FG0nkR+D(O~-EPo*8**[<fOA<pYT<_>w4p^!^Jw_t8ks2%XBO@S@Tu4cD?@rIDJM!|zlatxsK2SA4+E.CPt*IKWDtciX*g{#?)(JjU#7R+<k9o0^MQ}D<V0N=Dqt/X*R(0_:*/vATP-7c4R|S/.4Pdi.5RO}jc(,0R.UP?|`Y6b^WMwyN.(Lge!w)<*u8NAdiw+mXrbttu+]o)z%9b*{~/T[b<|0o2%vh$:)dv&>]**`.D5j@&1Xsi2;3KIRagWm!9#i[hGy}80Z8Q!>H;,h=DjBpTlY$$:f|.U**y;(UwdJ_it=DjwopH*D0y4N>cQi2K)W9`!U`~4x-=hSXc=leFUxw:{9<&#w^,tYIEzeKsU?JGMGo~8R]{*Tt<-u|e.X4K*uNOVZu(qUDKw44b].Z9+{[w<J?W*D4Z`)]/A^mecOT16:{5bs*5DiwCv@v{8RD)%E^7{[II?4Tu^Y>mg2%jX-YatgW2TGs~-JjG{F<7pXN3ulK@97V)bj{fUKQvA%,bWU*7b$GiXB!fcVUajAa$l+A+6f*Xu#2hdz&9oUX_pD+)@uH}jM`~rc$yG3Kbfn4`7atw/URZ/C4Gk(AmiS4^h4*3^B)),}&P}sZ`qsd[S:=`}f<,@iDnlX*oMWirc0<$qk_Bk,,:.@Tq&@[G4$C,(4&m32]n8ru;Hp4{btW*93lM*zruxm2K*`rO{[N/TrWFU6U_5A02ARt5el1!@RJ||X[gZWFo[{vtBI`;8(J#$:#{YWrm.FWMQf%.trYjPkCY!=u=q5.JCOb~fehF9Yq9*d:U$otsV.=I*@*5>EC/hD.6J7Nk3v;B)GM.CQS^Sa6?Vb}Rd*me!gdnW>g4H;!^~R7^VdsBUK|,YsPQOa~&*NohB#IVTlwMmE%%+,(C$)kn%|UZv|+&[3!1**]gL)?`DU4q-S08EzLoK=94!xo/O|I)v*9u58V@yymfG(_<:;tCC,~rW2wSgH=%=d^9{L*deevL+LlNLZ`;!+(MloUXQ#:>?OfxAy*Hx%8/d:8Lsx^&U+e[E!lav(r=10*fav$GAZM_Ebv$^evKBX[l42m{#>ZvthQWt02I?pnb5{X=L.*=ah|]>Bfp<Pw-%vA-G6;KO/fc:gJnGuC94lu&!nxv+D.l{+RK^0t1p}x;<&y6!pj5k:U,j=._Ot-k(*AJtypL&2m91PSsM0qm&0&oS.JTaY%/}oscm*#4(*|04KmZkiNmR2t#&Luk2%*jh<?7%@Gtt*9g-znaSmdhXQWbwhIp3BOB|Q2`RZ4&yO%ME=85?qus^e^G;&od|ML-m**Q7vx=oOtvC&d+%RJ:L-&0aao)uF`&^3HKv(!clhf**x,[O0^Uz{~]5DVQ*FUt$NG4&1-/i5Thc>Jn:}h8*>AV#c#+zo<c93VBr$yt)K*xT0*d>H@O8&!p,qlnTwSA_U*3lp/!xPp8d=dl_dG{0i%QD6ioA+N*o4~D.Z8xBA:4Edj6h);!yvG|1<e^*kJR%6Pt@7(0a829wy8L;!Jq4xu*/PX(26Jg|$:`2fWM8Hv`vi%i37YuTCUf;yi_w.t_Z@X$f/81b3gxwVcAOL%SGx,)L=|D1h0GGt4YZN9j:(0<wblX$1l,u.*5_a{IKR|t2de7w~t*YHR$@]mwO][@KT{AD|^0&!_T;;lWd0QQhE-e4ow>JH80@n~G`/xEq.#7p@Halapb?[*Xf;N*74tKZc}F<Jo6}ZO-3di4Z)dv*:jw|9*c)JjHF%780V],S_]}PUwKO;LACsZHCosH:(4vLljcdHBpf0!21PGmj$@*w|TH#aKcodDG*Yc0Z+h8,axs^SD`uJXDVNwVg[fH_^r_Bv_5_g1~ih@BQY4@S7HF3NDB{t*`[vS#j#%G8(43#oJ})NO(@B8V?GzQzdCbT9t}VKz.h!]PhA|G~^7%}t<}hMt>SpK*9j0CSfmMBlL2*P0=&Zwv9,G,/p0gEw*}A[|bb7.e#cpl9v*7r[Eg!hI:!Gi?a.Lw?L8=6N:w3Vk.+]*T@b(-ZtK(RR4:y8@1s5/AGS8j:Hw}NOWQ-]w:[vi2y8FKT8@G4nptfm_8SG9aj}`3JXXc)d}jjnto0aa*Zw!9~3.U*&x+l<zz+j;8Cq?Lim;a*SV}Btj;=aPc*z(12V[1F)/_bD,<WF#RBjt&nmZS>jVO6x%<XcIzB&@dzL^qGaJD1=Zr<etPE[^|/:Dol2*JEKy~V(3tRt!@f]gixL6A@vtgZ7d{*40sLK|xUAScj&kp][z5C-XlK,)*R!.ufVrCxi$13&TZxEkObg|:QheBZp4NUDp-l{N.Cl*%3l/&KU7C;7_G4@~k+iQG%3P!dTrGQ4hfz;]~b=m@i_$o$QUp*}@xJfsv?`U:~;R5/~!E?s^|Y0ILeo9xaq[3(ta0O6{40LOCGfo!,iuy^I{DPEC+5q0l*pg^&,T~mOcq-mKn{H0yY(t4!&5cae)qE7Qmy=cEz03i8J:v}WpFWCU<_1wPE(u}TTuQps|ac29=e]t+Hy,_w_J;Q`Qe<vlB*V{v7Exv_#2M`#4GJ<GK-a}-tl_&>E.cx_e.ez~{))YBTm%+(Zj9~x(?Az/0t2&oz2*,t`IRKArS&zgd%E/1L.+xO8t>^3]?XU,SwG^`*/HZhvtn*GAPEN.yKq2740!ME0SrL|3P*A4PL@DXlo_L#7pUOO%%pPV&*IF!7j=4GIa`OYcWT6{6U~u=K18kC:X**P^0K%t&(Ix,t1qpSnt6J(`Y~/+${O.&^X23.Alt^Pg~@ROjYg@b?`-d+j81`5q&I;W(ag*<A?s^A@^`&jI!Ml1v4!W{y$*z!_DWy:sH9ZhLOij%6hk;Mt!U^kXufY|L%t});MtGxUY8r`J?:]wVH=itp(7l+I@S7:/ATA`Q|Tto=<UaLmVM*-)}@bwoKTN`IdFSe[D:{O-fZ~b+$[Hz8IGs02%2[j-6)uQj;+ec&@BeE>Q#^;K}0_~m&-,**ao^9)FU?0<_%SUTa<n;_UbGakKaaw&v*W%<!:X6fr#>oeh@BO6%To7v]Uhd?d%iLX,.hk01=*5$4h40U?4xn4=fcwugio*OtJp{VQQaVt!$sN3U*o#x4RTFgc}I,PZu|[)o=MJOU2vs*{3CsE?p?)sqZD.N!Fz4kZmLOntBQeUT7@w9p(jV_39w]X4oKWljVmT~B_bpS~xy0T~cU@,Y$[zYrJ]3*H[q>Bp}g<YU?h*MJlQ_rvbn!@bO46+M*rK20JVAkUCt[LU@29![_lm>;VR8p3sHV!?=8I(Vg+e^1H:L02n9}ZNN{`gGb4OR9%mrGoRn)Mxn8=$ZZ4x~6n%J^k(.Zdx`?@e{P[W!ZCD9p]#`7VT%:XNi3&89a$Si^Xl_fY4Fj.v%wW1uo:*uN7R;$V{<Ie!y1|B1IXePO:c$Tm4[Jd[FN$F;&`x,80k4sX_oMQnELWbN<~cxBw:;5D!?u~*GvOam~RBZ=`,ii6OCkE}L!$5gdBHj3)64e#|ateK0}#+;DM!*43oqVJrRr!yaj!t5b+|%=j8jnndgOV:ZWEwzSL9V4g;v{a*|!y4b8U{C8BtqAC]Y]pEM&WF8&WpwLe`r*S|}nFX=!9`K83wAndL0nL0FU8=^gSY!#S9m%-JghAdf:TQz]Kel=vH#.uwKFk2f*8Wso?2fEHE|$%ShI@SVccAHl4PM^e9**nW<Z/7V_&eXEDW^KsmcmN<DqX,H#y5odow<f=79n-<it_|4*!?ZOx)B(6*~ky3A_l?SC@b:$pLRhD]N*JRiUI0J@qV7pS`nJ!ODNc<85*|bv(,e[be!MU4aq?-~Ou!P+>wjCuM.EA*HL$oUyl9u41VC|/W3.g|l!XM@,Ml-J[wH*^&MquUxD^!5eFO(x9~Q_{8)OQ.qmkS,,kwuSQkWmv67te}guyi;-X_F%6iyFoj;jXU)jVq;%)efpi.$6QOSouQ0(x.syGMX{*y&e60,N>m,q9;SZhNyPp@**ovmhE?nF{_1Ve,HIUi*9hM=.u1oRL}*P|u,m!It1yT8^7-+*uNze/pM};x8^6SxGM;B?.4h4X=TbJJ@qWiM/6Gifo(Y4nj_qz6z92u`%#T`-J5q2@!L;;lR%tWw12*H}ET7imq)x`4M>#l!rw|ToT}EAFIA{8^F&W*Jrh4T9BveIVc2jJT1I~vR4rhN!.>JPf8-we,(v(zvLK[e!{>pOKd@^Ma@@MC/boDqJYswTY}6DZu4Fy_|jlnk)2Zyn]8X{zb0Qq:qn1CKWVqMkiuspe!Nd4V`M==-a5$0=:~T)JN9%kC=AuF8Y&hEwer]bA__OHd<M&!c{n{EgSM=IBBHd@0j(~4A^LiOA?t@*4<58<88ZENHR2-;*3v`S=LHqWgJ*68m1~1?<s5jwNOK8_BMpQy(^Sn.-E.sZQ&i^/%E<ijsPq{Owu6#Tts-S1`+^Jr]+/b03*0d*Ot:;%ZF!8#LO476%-YYTLtkCu+H;;X2Kv30*Q$VytD6V|%Yc![=6>AN/Y^b86Ze&]lBXT%;=33QBIJC~0*C:J@YSlQ|o_%>>4!Qc~-S~`b0ZYX9z*x2]*]7rV~6qKA<Q**Z*%aE{hMn8Z_pl,YMU=#ywPHbq5E[STTD{U!j;yCMOu_N0A{&M;5:b`@w!cmK})TtQ@af[u_4@a4I4{^H|$5:r0`/4YgR;{m9usPp^;b}<k6mOOQKuk{kX[$`/p^AR6q+kSB{_c9?Sk509K0q(LOkLb+mV!I$*,nw^7,P]:A5eS4UUCqa)H:&dknlwg@:fx4%#eqfm>*GDt^3rAoE-V3P4$,HZD33DXgPE[QO.wnVXT4!1QHioa@N~9!Z4P%E2g`74_6j#!QarC00hBBES:[^K%vc8os=S~a(ejV_*!!wx1onGyV_%GFo4Q;f>@;9!Qx#),jnPK*[%/D3M2@L}qP}^EUnY.13=WSuNaq3p?w}r,*YJ;Ok[yGo3h!YK6ztc`OE*.4mi((sigq!@YE85W@j}/mw0t}malZiu(^Dt_==x[e|0Pr&&c95`o5FJR#eo.e4P0@jwOvNET5e%jW*Bt+%1!d&W%)8;hk:>=+%e4-9plZ8_%$Cpt/Jd(5eSlZ8Aw+!Bt1R^^?9jj::XeZC)O-pm^S8-}e+)8u_t}XeGCp@bq>%rt3j%muq7exOo.{TD0^OL}`Slc)OJs+!]0(_^^?9WqA}(<al^8osbwh9Q!!}~SalwOzai%@t).)}Awjl)O@;bw?9jj$*)86qtO=QNl(4%j!!U&2E*kjw6jG8V]gart*D*WsQfDD0ivAT$Q,EsNN3c%e9vq14:|Be~O?9rE%mm;9:^e:YUkY|jaGOvqK^99=wy%!8IjA}DeOE6ma<yoy9%jn:9<FC2m0<h+!QC%::5e.!6mF.:CZ8!E,*ptHqq}XeHJXOr%>%n8Ijx:%9IIvmuq#^7!.w6oh9.ZY:Ge{d(4@;&o)8PCP}:<bE#m].R!{0_`*k$9$iV4]s}}5e.Zz!Ge/eI@ujDb5e1OH}1w:_6mwh~CK8JCR4)UrwptbqDTOt@.K^Xe-Oh4GeJdym~%XT(<bYP}y9/b~9[%ET?9jd(42Salw8{wAT.e2%q}Xe0lh4dJj:dUQ!kk[IJd)OCYWC%9I&UkQ&nC58S<>^y4f%AT)8}jb}IQRbS8ypr!?9=-]kAw+wjOa&_^N8HQ:*w8vNr+Neleq8Q<4f?4Ys$Ch9nJlmy9GC6m=sHTiQQ{j:5eLe)8S&uoJ0Slg:BQ`!%rt#Fa@tF.e4J0slS8?poo5e.jx:S&,cZ8/Ny^r@5;[PV<WY2m>Q%lAO3wmmZUYZP}BQ00MUz)]ka8U!~:Ge$__t,_HwKUX`tv;Q_CZ8sj:C*0C`M(NC`!tt9{44(<&*K8DbK8TJh49*ZC?4]sPT5eLOQ(S&goe9a*KC(9yFUBNwK8O6V.~oB0g*;+`<rDWB?pLOcv,Yco,Qj*O+#[4^p!@hYc_e7!3s4+o*cFz+Z&=@pAPE$0I+lsnXZ*.MrGeV8rL]YcoUx:tqGl_*+MJDXXur)#PEWQvTPqxz|}-H]Z34t!nyu8*%j17pOtK8a*z!MU&^_^a8Ob_^|8hIp@4*=IB@6J5%U46i.!I8`I^_4*RIDf.C5%S4~YN!h8?Id`PtkCw4tQFWWFzw**.8%skCL8|*$CMU;^2^j8Ob2^=85sEX4*usaG6JX%p46iA!J8^s%l4*<qyl.CX%s4(Jj!V8{qez4*Eq(zviX%g46ij!M8DqTb4*vq~:kwG%%4(J=!!89gl64*agPv6JG%k46i=!r8Yg!d4*xgsK.CG%N4(J3!`8:gjn4*ng4/viG%j46i3!+8QhwT4*IhLTkwR%34(J{!R8Mh?74*rh5>6JR%]46i{!z8dh:ct^7hM?.Ce#N>t*|xDH9!?mpB<*$$^>U!z^W8Obz^d8ajJ!8*gj0m.wu%64(JM!_txjp@8*~jB@vJu%W46iM!2tnj^_8*cjDfNCu%K4(JZ!5tI=d`8*.=m2Wiu%n46iZ!ltr=CC8*+==+.wb%i4(J)!ut7=EX8*1=aGvJb%B46i)!6t%3%l8*33ylNCb%>4(Jx!Kt23ez8*l3(zWib%c46ix!ity3Tb8*t{~:.w:%y4(J!!>tA{l68*P{PvvJ:%$46i!!ytX{!d8*b{sKNC:%^4(Jm!^t*]jn8*U]4/Wi:%486im!t9]]wT8*F]LT.w(%t8(JO!<9,]?78*W]5>vJ(%e86iO!w9eJ:c8*pJM?NC(%gw4e^OPtYCt49*L[]*h9CxOt,en:EcD_r^U8MzW`YcPCM8VcM_4!9*K%Z8i8g!b^~%+!y9YjP^6<27LOi8fTt<6eM(Xee!24`Y=!!8|t~*m80gR.x4)f<4ms2%gtvJ5!-j;^R:cQh=#4ya[bP+zeFWdFT!f[:ZTblw0*L%pU.wX!O0|!tt<&3!f8Rt@*~82g>K!G2YxG[Y3!z3xcQtE4!M%lB8;HTPAsGnfKRbZ9z,3(PEk}@]~&?M(z_S9c>Z/i}ncQ%o4!rSYcz!3w>m**;h)T9<lb=4vq3*N|E.{!G85l_mBpECG<ZE3*dW9!t41C3wD^Z5KeN>_=n!}LGe-Dz*KS2yADKe5_#eE)z/2)Q!z8H-R*u8Uiu^Et.w?E%&v)@BAjb-m%$hd?l+mTN>i8)T:8y#I!Oe)[~tsZ{*P4UwW$**Sw$$N>nJz^ac<0C$IBJmH-3wg:W8AEI![ecxm%%w}wb^dJ4!]*xU#^`4zaNocUVEW*29.w4!2Sl%,@78gaMU%d>8U&4?o^V09*K!#0H{`<Re9:Xwu%P_B8G*|dF0[fQ`RwBBz*SW>%Ns^R;mPEeX@tbmQ!qG-e-At!,%CCyq%&+k[%n^xN^eI=E4]~]*_0_%)XUgy&}3v%%3QXPM+tx#[bNt9^H%ajYNA{F45yu9h|.VjtmNs!+00^n!kC|`Vzrjy#/85NJ!PJLbG4]|Bp5e(NSom4``c:B8m%]tiN^o.wq*EPU&$Jl4B~U*UWEE?bot<A^_=7l%D4.ic^D4MXP4!GxEbm(Jq*k#2Y$J3<KiMv9<![V8u}Ki,4z|m%Et)AHEG_h^kF)`<ah7_%E*17pjyb<QrbB^w/6e/MpS4JJ*y0_%(ci8.hz*c|Mh#4Xp:^xt?AC$X&{wH9&dyb!t9jJ!|PLb:4e&(J1C!fDbn8?w0mi8Soi8&j^^T%)E$*s@:_88U&*o]t6J4r/81qd44*wts!K<t<-4G;/+u*C4o!F&R%qvGeilQ`H8K8?t!{UWqS<Dz!)Pw}yt[{-Ax4P<14XsQ!}t>p~_Nw)D85y8*n%PGA.w!2@e!qVkoN?Y^`Cla?UOfTm!o9:G{Ig{L}|Ri,}HG)bJ}0D_6*?*+4XpqK140(G~pWh!9u)JLMI.X!/sEOLCUTrZIbM!YIwhlw)+_O{n,*#Ag]|%w&d=Uy]Jp.87UhYdl@>]::n,-ja3;gD6%zhrx{)})fWuus!7SCdG7*sS|qDJ6UGah~@ASbbJ%iHw:,C]v0%YlY<zy-$*YZHQ4=92064`F=@G?]HX{T7SrM,J!+ERDt[XDjg3w)%C)|9;AZPUS5i!w{:+%*V_pgb2s@c;x3-C0d%+WSG){K=>)0~ObxfmSq.>{r[?HX/fxf7/nAXEe[NZ)En;+1-Gbz:X278~Ht*_0Vk&(]MV3t+z[O8r5bDs$A*JHz5A24k8X!!b(NZpi|t:SIm:sEwdMR<S%p!u7RwIld?q^~(PWxz2p`N--=}~(-^^=R_~}CH#A{+-B^M=H^mZs`<{u*b?,2x_x6O-I|NtU8?QmkI91;YG;guY)[u6gNm<JCA9Ee>p&pP@V59LY<^ud,JK?]trMLV5l?]XritONq2!23Y+~RKWF7TI_~gz-0WVXQ]IOPVZK*V1nG_UdB~!S8mwM,D}B9hILJK1D*#iW4v$y}czBN}[@[kj,Y$zDA/R52]>z(:AtgfVqW9<ys71OvE+z);T6k[TO~_Z!sA2Qm~D6Y)YG}4e}[f~-SUvD;{g*?FgoHd0*16W46.Sf+E;kOGF)<~^R(h<^6YGy&54=895u!S#i2kvDF6MEp;t-2@GM/B6DZ+6UD{#NP)2/jHK}KU{s49bmQidJR5W@q+Bsv7/lbWQu@s7-_XC9fH70k*3`jwi,Z_1pO)|d3|^-U42i,dm~4[>&%es-.cnh:X5<O>Z7cbG>+Tljek+r3[b2r07S$Z/kdU=Pb8]-nNwa=J6OgOw`D2{t/Gx8e6}P1TboHBPV<7!yfMP/X+4OBEk~hJ/hrnZP1m:YmN,]3v5T)FA%PEm#f+u<Q/Ijcvp>.<;N+-eFlO;A,7}f^dJ>{:UN0B<e8}oIXzHaA(H|>}CmPFG%nQ!c3:/y,/(O]L`dHE?|:&}y<o~FbYIFId`t+IIl[eQsXgkLSpzN(;8ArWRY.RpGYKT%Of>8o=m!d4[bdL2MFvBOWlRSv9vEo)r&_eU/WG9i],UOi{_k~|`&&-j,JAQL`<9bs=T]$hutN`ve}(28Z9}%u/e8p;sgP(oJN[nJT8al;0=s9qY$I@FG}z]D+lnbsefE^,]i5)m$z2h{9h<?g[KU>vokc^)8q0B_5FhA{#J<kpX{M.g]=4twZ?}Y~u;:]r}v9mF5~oL71ieDL)9OfKwS[`K]u7}/KZc6:nxWTsQ1U#9|E@pfAUl|0[m]J1)J`Xz9U?=IaP<az&1PCx6P-dvBjZZOgw19vDoZ(nXznBl]#[D{m&0_7MYZ!)_YwfgWkgOcx6IZ$>v>k_Ozg_$q<}*_iP6A(I:f@vCg_)d96r?z3|Pak`sHS@`2aIt>=vj4(mHdR)t$vc]jt#P9:/@JG;[67`xV*j[g_+|.w&3J~mzSote&[T9<2!k1i-&}C8^%<Y*&zBC(Fv!#c#-{JFf~,))MP`WU0$9jbt4A[Rh0w_z(&)zSL,-E/gcDCMz#=b{VGp=#/@8Qs%N5B3)D=EwW&+#qh~0M|c7Jra|Oig&wp|og@;3RI{-TQ!9HtH)>5IN3H/O1-Av-e5LoI#+#}=(j_[3/{1(5[gIare{pC5s+fp&hg37l~7}a]:/}CHrS?X4{KA%}%H>(;w6GKF{{E&qR`9|n<+)r#9<A+H+f4$E($M^7!.0>ST;%M%7.VhyqAN,X1!C:UHKuwCTWyhA4>#_0b_T6,Cs}>[elk&/w}Sr;-DRNCm;B!#65^$(;>=):J](dQmDV8tM#|NsX=b0g}oI5P7<`bnl6df(~K#|t]7g2(ag:0~qdK;dz@nhphTHkr[5J&HlS!X)Igm+a!3KA]n43apZETWa$!|5{MaA^Dunp=b%##E,m9{?x@nPfz9(%OOH?)iq`my*`z|<pFSM_tE(yVyDNu%&o,_],Kp}tAqwGzk#d/:cqg:ef(E$29.{gJ>E4Kt?;C?TK(u26=G=%bvqm(&y@uWY4#|;H`Bi&(hU$=#E[Wq(PuZ)s4Ez6TI,$OoMmDC&ilEfL^j`2),[Yld,;*un<)#qQ2LhhOMe|yqwyaK4nQ}/i#5fD;PA~^tGP44wO$.`jwz{%5D{k^Z!8Ml1wd~QyPc#A.sm-1lZ>X#NL)?;tG9m](-/{g$-.K#JCK4/N7z+{LzH;]K&xRorPQw{H/`Rr:wth0e@tMqhluxqC6PD8bP8EvLC:A+,1g]lDoM]ZV&(JsN]J=N!0*]#2pwdxz]GP*O97*d(HP6oUvt]zYgA6*NP=bADrZ%KkYP}7(SM^BedgayuA8qF.X0E!pn_$B-xh);JZj/g<I(A67ZnF:$L=(Oc?],m]U`YaI~=yavJgmtT9U4m493P;p+|?=NPG.ChR=X:6w(Ckrx:,9RVy-douI;xY`jwas![tG9YXAi6{O[*ODR{QkO<wB@R$yE({;AGoDEewXeWc2B@-cVIJ0GqK9b=SU4jg>On5#c5`Bk/UdU&49Umk4NKM1~m)^P@&YY,I-%gfEz0gf,++@AF:73]8r7:=h%F0yAug)d0O~~kPV?<bQ/AylHxwS<U#gA:U)APQkz(1gvGKeY2MIruBXd)OUvrKHMi8w`%]}!z/Q%q{iJnv{`ah3Z4SVn`u.NJ^!]xbBd3asT6CI?+,=>XZ/<Ep/$P_Oh6y$J:4I7!7jJvW2_y4>Nmpxj3k$yX$H}VrW,NN7}#7B6qdi3R/mFH>3:(4^kO5jE/y?VuPDxA5!S`u%czSsrV@Odrz(2IcpJrO1&3)]Jh.DI[8kX(m.qgHHsD~M!dv4RL9n_t7uccim@-Z!4C/>#W<ExYgMj=Biy$S!%fAqN:@AKrgkFUS&!)<4#q9W>vRrr^v-H1Y$PB+9WFIFH9>k)&0hxwq1$D}o&^@y?vc;+[/pnmE.;or`j#^gIL4.waY/mrPNZ,LBLx6|lmVOifty%#QjirJXi:z=/k1Q`Yh3$X&qF:sa=a9:6}0>-jo38(9otM}|]6f0w;5xvZhr0@0@Hx;3u2emvcK)GGmPh/$:-}d?(n4yQ,9PiSl]$3Xx2Ecy|~68e<+.`+wD(hE{zBD>85~#K.GrHvVNUr;glj5jD0_Q4|sPpRKPhCS:Oj)kjaHi;jf/T;{RTaN$BHZ@Q%(%/U*|2$p3LxPEGM~]*&cJwNwmI0{_bk@Qq>(etM]:m)L|UzmD?cOJ6>GzHrZA:ZI;ek2gLTMNWfG425(%<]#J?Qc2xMH1:d]xec`]$#`-a}=6p5rQ(N.tbQ6SzbZ0EEc?t#+^88FIrK{ER:umabr?9l=0u7nRu#I!#F:m[0+a9iHN3`Zk/gQX:}.|8TsXBPqMIOMZ.Imr8|+G,MT&gRmgpx%}ZJ!1AhHoX#MYm7jVt1`1,/NGYr8;.a4|B9jc_=w3r~[`i/*[}z/;8|Ly@_A:7*g=7jr=QCp6dQROEb8T-/^L@xZB}m)jmO>q<S5+McUC5??/T*wB_KC?m3;)t,~pP&1b~^(wy|-a}MDyeV$Tgz/]6V+$:4^U`g-onX&tq>sV%:vf8C*KXp>:iHvkCy5UEyKtK3%8=2&|J5a<P/9)~z@`7IexbIHA)s81@&Io)<Zwss4DzldFq9Vc4u|4-DYtHZzR7%D[LriwB5t17mF{zJF.G=^p_4=`z,lYp%v@FMG&X/[lATSx5Z9Nuz_ho;ymq?Zz.kM$MFj31<*PQoSp@@]lBvw].QEe(kEm%b1QPWNk~$DP<B]7)19s^D0_}x7rv&I0>qD5rIJ%9N7|N3p!-:q93b#D@kCEJyIa6l`9yM8`Y)BO`y$x(u-TYpARK[;@C&w!SlC9h{1@JWds!l1Y}|c|Y%%aaa[!~|YWtk,95<P1mH}}T7CZM7_+N>%hHoeF}Ki]?)0|_{7rQljm7q4#rC}fcP?D?_z}ViP|!s&*o3OK.el<SsA,s<Ukw-yRoee^v~oIu+h2_M#>f4PpS6v,9i??KTdo4HmWmfiJ1}addSs{]3vc@Pq+9yzLwGb@7)AOJx;ph1YBU9Wt&dRr8`?&RVVJ>HwUz!h|#dop=Qg._Z#db)y]q3X)IdUpyMcE._}wOe_+%j}L4?P4XdnG_r8i|EQ[y;p9L>%n)H!H{|2#!)`aDChe?Qr(0<G|B[aa%!&sqK5qNGW#wpc4h,,;.|nLm%g!0&.o].N,;?zYdJ=^?dWOpaeCKk$s6^-^SeB+TM[ZeY07}[!xnYxr(<P@o>2]z=wb^=aFvj9CwrQIg*u,CcemUF4V}!}RE^qAM~u4=7imobR1+Le<{GC72POyhMlu;9<c}8l*sX%Ff}CJBB/>X1h?6#0W03Oc~[{?d:@Wn2>38Puq&%v7w)3f2e&QI5rt)9~^y;+u=P(7uDu[|UJlb1TMS3|T|p2vB<}~@!2g{0Hd8o)RmDULhf~EF!hXm(QkSi]!lZ5(2$i7:+4f*j&S>@y!DSD=+d$AIdd@(8|KD=zl6dTxCr?[R6I6Ba?es)0+s=18sTS7AGS2m;f!Y^8,|2>2QJF8sw(Y]pld6%6<:nN%8R+K1`v1vP,>uaxHoJDe>#%yf&v<!TJJBD,QU}n6QHkXX#UYE~D_MP4.c/`>1_Vi9bey&X,`qwCc{9~$j&/UX$gX5H9LNiOYIdsy+z>NEZoJ!C/9#]JlgiUg{FE{s|0AI/[1Td][Ihbb$w1@l$l1*Mmn11S0aC||Sx|#9j1eoY-W)I;obQCg{1=N9#}@{1~.y(rUK`aj`x>$<l.Jo&]UmUt|!f~am*c0@43xN;T!;u[`ViY^>:C+mr~<w=kivt,`l!,hOb70U%4=BC)hua=H%1[It&t3Op(cwV+=)ns!Tj]Aghf}MhpP5/1-v8oO3`wNDtTtw48!46IV,UwlK2LHOZ;Mmt-f9s&~lU<a_;gH/bh~f6n4Q3+~<RuNMbh-~bIk1zF(Dl}4k`}](J9*Db%![(XX!eA<D`KMjhO5|wcSkvLfM<cApy:{SF5H;tu@2,yx@K;YgQX?+^ET&,L!VpIXN-$=8jk~=k/EWO$5d+IG,0+F-|b52`%*JqbPqIQbkCK$qPM^xri)vm{;Ipka%ZEKQ:,-;t{}$,6Bf;bI?Hd3yiss4V0[5TX]lb3Itm-@DUy?=ICh{)v}#@6_}/mESH<^U,M=jW5YP|1f9i$=BD$@W[QQzQ2$S:r;b)ls#>=/Mm$mK5~G@R@Y^WDMAdF}X5KT<|#xi9F@><6uOo5nAGG`CA2K|1}O1l~R><yq/@Ajo/%!Cl82pFt+kM{&QE@ZI+Qs7#$*(tnV;vZ9{AD3l(Qe+Apn>l7Vi/w*Xq]#36Mb,PCCBn}GF/=)YaU6c=_hY2ORaZ_H#3ZlKL$T[#BAkbyKVU;;7(Gb)F]BeR<Fw`+uf[r;,k#Jd_GZn?,~EfA*e(KDaZ5eaKl_JvOo+`</5+auXXCS38.29bNQAF{Wr}p))}C.u7h(N10~-Oj9dNO5_oiH:6$<1zS})gVaOEtK33dOYFKSrtz?vhU7DI&OEG!Pfz]M}LrVge@YHOpt<hGYBw1rt(A7pWEdk4OA4e`Tl!lp+$8bropOA~0l+MnfO_>!KSrV$hb.e0+C2Dt1T_3JcJM1fd`c7N@p_.FO$@~r]y<]{2aTTSD_%5jo7IZUZ=qYDr,*9Be2u#{bZ|Nty0|`C6Wb>4L2]J`m${{6Fmc^gi@Lzi4j#hV%dqA?P%Tt!7xW~nw^3{3%n+kOM?yeRmY9.H2il0/M<#M_P9NN)Mc&.uit6M|RTcei,by^xqIT{d<`I~GJ!6fZA-HPz`P1bCrMOz&DP91~voC*~@:G2$=Kn+T@0!xNnvio.4CN+Kt@o^?/&N}Alp44j!|>8(LnCXBnt<Zu`8<Y@]Z/-=j><xuJ-.n8n>6!WfDfV)XUgV~SBKstaz#64`Valu@E#r]~iMdT-O+bu^IC&SO&j2Td=8xcvQ:s7;|A3UHrXQ-hTwzp^WmWH5QQjTJ]f.O{c6a.{<TtQ2USpLS!l32`F|Z@G(l?/:{M#Q<YTOMPe,4^?MF!LqWILBr.J1&dTzX>J~YqzEO$0vcF,www61)WS?0GLmB#)+Mx5cn^%}18T-V0tzXxu/E]p0~WN3Ri*EsA%w}MhcqcU.6%_JPTte]hPTQ9$R%*<(_^{Wk3&Zv{VcdilmZ%:Lv5RS*mLZep:Qv]6Zf9m0]960-&3J%h:0m/(}]BO9$`LDXubsz7Nk,m.JPvm!aIIK3-wiGRBIc&$}y|y}zP/Aek4_YFe<PJjH7wR+e6]=I|D:CP{6hxp09lFwp3keDA7D3_J_jue}PMNe[Emq+A`&vVeNNCjDnXv!~!>u`pV9X.+#$)/3]e97*PEl!i}(YXr9^67lp3<~;1KY%UF_2iD_eCYdW{VT)JKYHIP<&Rv1M.L@E%8:w67M[xx&Soi$nFqDw:`J>Xu1~gWABgtyG5#bAB)WVv~Prb|P$UzK3j-j4Wcv+7P|_RrE2nXZ{(vV#K[Ch1x1`43t&o*W51Ijr^|GflC|eH{,[D#{*(/Y;xWoMm0NJvcE#z$WKCLrP?2,|0NFJ+$7l=D,Z?%78xSS,y5W]|)gV]]gJ1G<MUruq37PROz$|;=Z7dU{,c{Cy}c~m4=l{^MHY,0h>JPTAkC=pwZha+C|om=+*i_VFJlD[f_8o1wo[?Y`K9]1O&5Kl)yfaY=<G$cQEO>Mu42p?K`*,OE!1%]r/V%K5ha-BAdIZ@MC[1p]b2Obny$!Kmp]sVEV[?0?mMXsQ~VG?ioTO*U~LoBSv6Bz5+x,kLQsl}S%A9ge?%w=Et~Yi:o4:)2E&qFU!Dr++k??cv`ZU6Z4:*Of$R<-IL9@CQHsp@I62_$YhG-|)_3&m~k<T0)kjXG}D.gbNB>$J08+T-<t(=K/XSOf(?GM}jw1GbdPso5]JWrj?JxxlIW2[:UGk/uL.D:YBF8ielEC0J$NO3B,|2p_Sx5<8u%g5tYMe!xq=F.o$6AgkkXzX])zqtKAwDFF4PEnO;y4~=)8N}(i~4Ml>_cdg0l=|}FfFj;(_PL0u_@Hy3.;mLhv72;*wztJG{9>:ebT_/%r&iw%p*X/~jdG`j:`+RGlc>:57=^KBCJo#g_ghF;O{AaV-]T&igFZ1cmwq-2Qv/wM/~DVrrT$$*C-9BJ1dF,VE?$L>60:3)Z^<.=vO>7Hzr@eK&Dl*RYUn+d1y&1jH7GHlUjvn=1cZmn.M>$eH`eE%sU7SXnV587q(E@^bUyD#+JKNzE1$aplU#q[=:M.4`U!)vakzhFDV+)k<i1BiZWE<[#N2N,.&,W0;7SmiZ&+|,fSTXV2JQj6ptKR)n2&fMs-3d?6T?nX@p0DlPp}xu9VT0xUjT{N:iK#t?o*{UE%nrp?R{>ox|+M+Pv={4rJo@t{kac@kQQ-0`y@~-6HrS5:.GVHBTYVaYp7~Pm:cFa.Z?D`8BF=w}Non52RvulPw^:7J~}&~X&d@,OuaA<ZnQ;QE/p,3h]f%knTzw<Y/~_w/Sz-Km,y5:8[YSul0Um|6w:-wUI[?)&XH#;e_Hq|7Z{=E|O]-[]sWD5n-cY@,Lt|AG:VW0Zuy^2)G4+LMT|c2sch_[S@YWdV18g,NC]n7L4PA,e(c:N,1P.o<OLV.2tW:o<n15(/b)c@[`%g1zDvvEvf!>Fr`iYaLE;tQ%Eu-U?yffps}9?1nA6/!YHcn/!!a=PFo##-I3&vg;6bp4zgxNk5lQL,8w5oyRn0g#%^=^qYIbHdhX[G^$a>cPs!>xY8IXZ^R[540*,l|r;Y&{1~mytgZY!-e$i:$t`l<AUKZc;FuBZ=IwY`mKzOd{f:J4YR0P/AKObl+x<EBgUjxiNe-lK9ew,RrUJrNua<U-B?s(6;njP.$0{r+CnC14R#])XVbK6(Iw)4ZypsFDN*l:7zJ:6ja)(xKfKFc}6+s$We8mVYCkeqVJ8F=s)}!lJU6h5af2Dgzeq,;3Q*5=aFmW:H@|S:l@>H?n58SO:r<1DSl]jp|R!TkI}X:4aRR(I2kkqiSU)ren_8mt8]6Zf&)9ga;]%MFuBy>?#6}u{zxj.ssIX*by*ryOfXNgwDzxvgA*fpCTj{bgdje;&cL{M_n3WU{-PoP<]fZB^]TD9hcq[4`,lp2,i+9k<Voit8F[h~3V=5s8I%JQ4(IHH7wC@bFi$Age(U6id<Nyi0:ztg<[ujobchrS0^77I7=Oh@(*Ib^L3j%)3.h#3XE+lIH3PeI}Zvr;}0~KkC&7}nkvX7`%EmqB|O`=w}#9~WLuzj#eG.?e4yeIL}Van}_9cSId7*DU:0{O?uusc,XbN9N]{BA<hmE<<EJx#(.u_?8S_1Muit=^H@ZSIFXYJ=c>v[FF]xDgJANbjD9;gm=CkzCq`Y:_%,6Ji7;vF*Fj_R[G`sQFEcTw,7LNTQBM2T0F?^v]ze!1v{:5aP%IhFulf6q3FTOGXMB*3Ljpbkc$SBEu:Tw-#:h<&9FwS3xLi&Gs!ZP,8x+!PEB/]eBfO-sjP^H{Y3Rig%(FF{g$sCQ=EhZ<geVhz$9`~m)a9S)S7k>/EMn+G;}^k6SuC1<^iPI!D?m?L^DjQ^GatI+nqn#>VJx@Fm24SXz#&b|;Ev%-9|TJU`)p[/|E00GP5wZ1S}O.sJ}~4|7+H;z5L;g0XuvlMkhO%kppI#cvYSAnxcaHQzYCceN&B&^[7e]8vUFp`c$?l}-qg#HXsE__-a^]UGv4T$?TP@uH(tChf5`xhQ-0#9oQwJ&4NW5[;^.{,@rW.kM3r}pN;t5eQsvwV>V;_:,{QTYB*~Fxgu`CPX`97ShqZ:0jtMe(8Rh*v=+@`xKqVd6:wXn/srem1@4Ol<f^N;yHUP~E!~,o@=p[JAajcGl(k13z}lJh3:<&t)[y$rs0[P~sW|SIzp.%(2tgL_c>`>[!KvR5F:8^38h[}fE,.*|SQ#uuj7pc4OX@{hLtKNdt6Lf63aC;z/?.u$3%s:b;vkt|mo9f&Q.s<u:G#eR<P0j`z66[d;g|hO,pi~QuMf%(i0`H=:uNe^@zq3x!7zC:jlx@q)<gHu/PlV|^1z?%RTN[Q.THsOYZX)i7Eg@HGlhJR)X,Oc-275OD(L!*1$HZ-q:2DX4sD(JUjX5U2*Lg>x~.Hfz1FCUkrT>B8Z&:yP|X}Pk@6XLV??ky6tNMQ5meRN]3zoEk[r[kRM4Csod6;x636WW.>($?FBwrkXZ>5^H8Mx&?q_?.2^yF8@uInAy:xA=0+in8.%DtuYIJGF24Ph@*M7St6xcaZX&#?s%0^y=xQc2:zd7dh9cZgq7j@s3EPsjW5f;jF1*e3kYq9j+88o&cfrE-z{XgHzniwI7z`,D9qYQl7-qVp<9KzD=pF}@e!fygN8Cd)xBHP!wNl_tYsf(JL^Y[BPXu8#VZ,,-@y1U:.QiaXGUC0kc4=%L]9hX(azFPVp3x2C!/4mMJk!bb_.+~vyQYBsD4[6q<rIO75VS2QU[I8[OXEy4{nv$kelC*VY#mBNc4{e&{+YGRL^vm}T0J?~3}0Lt0[43u]NV:)jUI[F_jY-R`B_<w6bl:7Kg?9AHi)t4lurR&<t_{&`rC;+=8(K?r*.oI(;XMmx9$`9^?-+Yt{XNF`Yj6t&J`fS>wu]rzKbT(HxsE&!RD,GB%]K31jF$0oNp$y[tyV3]MUC*C/CgDVBE-;Uv:NB{ru_|P1A(o&.%#%sQ=i]O0T2`.E)/V<bLW}PzieokzGhd4(;6|W}(EY.S9JM77^n7NS08+J8Q$._6;1:FN29,2mUG{bJmu*$Y;tf^mxwq4xiN0v[xkfI42i1Bu&RMYr/:OMK0gV.p&Q<8]wzhY_4@?X{R6=3huzt9HK5^a,2oq;I].E`M{~Q46E-fj&IMaA3*NwDK%,g)6n[TnovW[GM?|n%M=;7X}#8&5bfwqZ-Bs@A%+!;m{CpXXlsYFA7H6H:8mo~Yk+)_;P^9*T}nVEY{Q3n>TQ~}<;D&-.uO$Ku9CJ;L0@K-9|xF1vo{BXlx-KG?Rx6eczU_}75e5:_/c.lF`v}gz$7N]`nf8x9_+dV|^1k+6Q{#vj@KanRFbh.~^|#IX[rPP:7#n+Nkv,|y7)_ggg[f4vgU|De<XfFYd6wzd)|R*3j1os}~Q$;c{iX}.l=xy(?H@d4T&WpXq5637}.7`gwrVg,QA/Ri9~~$(L*2m{4&xef%>Zv)[jupq+~U/EaNjj$ZK]-+%ay7CDBm.HxUTU3Qm=EaYG:.9FGdD5>D^^wGo+in[/Js_22jhgo-!?e|O,$B8Qi-ZU$4vPehR+B}7$4Qa?Yy4lFTn]%%76P:gq/zMZ+q?~.4?PDVEc$6L:wH()]c<@9e-s~}t_*0B(.4)TAR2[l?WXsC5J@_9t]yPqX;1+(@L;%=#c12WkMeX.mC4H.73NE#D?01AG%qQqSu2p(|A^Fiii._ggv9qwlv^v,=t)F%&c*meTBR.D*c|5q&<iQW^7LWLq%,-6LlgiUn~23?<DATEb^<j0[7):7spt&#<t-}D$<=yGZY3C{f7Y``a|(h/-teJi$WOGm~%r]!TuP?_C<!Em4!bAesaE7b0U*=Tfww%uB1I1Dw4h@12(S5Lqhd&WGi))nHzZu]rQPoTug*2|(P<mRT_5)=~vCHZk/tJ6.7=g69*;/jfZ0iIm#[ba9rHsb%3dW/.BIVIjAV`,G(zP:60`hT|HSt@TPK/?H+nZxXF28qt`1+m3D.aK9sx(82(u>xs_.<Y&4&k;x8S##z#7;`qP=i#x:Z-xgfG5pG}mxrS~#[(>Msu0sr33Un]*"c1[Sp[20917]]={}local wM=264275 local wH=124 local wn=2635 local ws=wM-wH*3+wn local wJ=wM+wH*7-wn*2 c1[ws]=c8[S9(570,S6,5)]c1[wJ]=Eh local wk=c1[ws]local wO=c1[wJ]c1[Sp[55151]]=function(ia)local wA=wO[ia]if wA~=nil then return wA end wA=c3[ia]return wA end c1[Sp[43336]]=function(ia,_v)wO[ia]=_v end c1[Sp[33821]]=c8[S9(642,S6,5)]({},{["\95\95\105\110\100\101\120"]=function(_,_k)return c1[Sp[55151]](_k)end})c1[ws]=({})[(({})[0])]c1[wJ]=({})[(({})[0])]ws=({})[(({})[0])]wJ=({})[(({})[0])]wM=({})[(({})[0])]wH=({})[(({})[0])]wn=({})[(({})[0])]c1[Sp[39917]]=({})[(({})[0])]c1[Sp[24662]]=c8[S9(122,S6,5)]SE=c1[Sp[24662]]c1[Sp[24454]]=true c1[Sp[61885]]=false c1[Sp[35164]]=({})[(({})[0])]c1[Sp[58562]]=c8[S9(570,S6,5)]c1[Sp[64990]]=c8[S9(469,S6,5)]c1[Sp[54196]]=c8[S9(642,S6,5)]c1[Sp[48407]]=c8[S9(806,S6,5)]c1[Sp[59191]]=c1[Sp[48407]]["\34\92\49\48\57\92\57\55\92\49\49\54\92\57\57\92\49\48\52\34"]c1[Sp[36764]]=c1[Sp[48407]]["\34\92\49\48\50\92\49\49\49\92\49\49\52\92\49\48\57\92\57\55\92\49\49\54\34"]local wC=c8[S9(863,S6,5)]if wC and wC["\112\111\119"]==nil then local wF={["\95\95\105\110\100\101\120"]=wC}if c8[S9(642,S6,5)]then wl=c8[S9(642,S6,5)]({["\112\111\119"]=function(a,b)return a^b end},wF)else wl=wC end else wl=wC end c1[Sp[13096]]=wl c1[Sp[26852]]=c8[S9(718,S6,5)]c1[Sp[45452]]=c8[S9(842,S6,5)]c1[Sp[62308]]=c8[S9(443,S6,5)]c1[Sp[24629]]=c8[S9(226,S6,5)]c1[Sp[52228]]=c8[S9(343,S6,5)]c1[Sp[33139]]=c8[S9(481,S6,5)]c1[Sp[17866]]=c8[S9(418,S6,5)]c1[Sp[35986]]=c8[S9(468,S6,5)]c1[Sp[12275]]=c8[S9(777,S6,5)]c1[Sp[53808]]=c8[S9(717,S6,5)]c1[Sp[64981]]=c8[S9(272,S6,5)]c1[Sp[43871]]=c8[S9(871,S6,5)]c1[Sp[16072]]=c8[S9(171,S6,5)]c1[Sp[37222]]=c8[S9(363,S6,5)]c1[Sp[24672]]=c8[S9(501,S6,5)]local SW=0 c1[Sp[23291]]=function(...)local wm=c8[S9(849,S6,5)];local wI=wm and wm(1)or 0;if wI<=0 or wI>49157 then wI=0 end;SW=wI;return(...)()end local wf=(0x6F309BB2-2088)local wt={}local wu={}local wQ=0 local wj={}local wd={}local wU=0 local wB={}local wG={}local wb=0 c1[Sp[11453]]=({})[(({})[0])]c1[Sp[18182]]=({})[(({})[0])]c1[Sp[17426]]=({})[(({})[0])]c1[Sp[27746]]=function(wZ,wV)local wD,wX=0,1 local w1=c1[Sp[24136]]local w8=c1[Sp[58562]]local w3=w1 and w8(w1,c1[Sp[64354]])or 0 local w7=w1 and w8(w1,c1[Sp[22257]])or 0 local w0=c1[Sp[62308]]local w2=w0 and w0(w3)or 0 local w5=w0 and w0(w7)or 0 local w4=1-((w2+w5)%2)while wZ>0 or wV>0 do local wa,wp=wZ%2,wV%2 if wa~=wp then wD=wD+wX end wZ=wZ-wa wV=wV-wp if w4==1 then wZ=wZ/2;wV=wV/2 end wX=wX*2 end return wD end c4=c1[Sp[27746]]c1[Sp[65344]]=(function()local w9={}local w6="w2!Eim=/6xIQcGYUBWqRu:*AH^8F7%eL0O}M)P@Tk?]Xa+N-{v31#hClzfs9.j&<>(VZobgJ4tn5yDK$drp[S"for Mc=1,85 do w9[c1[Sp[48407]]["\98\121\116\101"](w6,Mc)]=Mc-1 end return w9 end)()c1[Sp[51491]]=function(MS)return MS-(MS%1)end c6=c1[Sp[51491]]c1[Sp[34311]]=function(Me,Mi,MY,MT)if MT~=wf then return 0 end local Mk=c1[Sp[13096]]["\102\108\111\111\114"](Mi/4)local Mr=Mi%4 local ME=MY[Mk]if not ME then local Mh=Mk*5+1 local MR=0 for Mw=0,4 do local MM=c1[Sp[48407]]["\98\121\116\101"](Me,Mh+Mw)MR=MR*((0x5B)-((0x4+0x2)))+(c1[Sp[65344]][MM]or 0)end local MH=MR local Mn=MH%(((150+0x7E))-(0x14))MH=c1[Sp[13096]]["\102\108\111\111\114"](MH/(((150+0x7E))-(0x14)))local Ms=MH%(((150+0x7E))-(0x14))MH=c1[Sp[13096]]["\102\108\111\111\114"](MH/(((150+0x7E))-(0x14)))local MJ=MH%(((150+0x7E))-(0x14))MH=c1[Sp[13096]]["\102\108\111\111\114"](MH/(((150+0x7E))-(0x14)))local MO=MH%(((150+0x7E))-(0x14))ME={MO,MJ,Ms,Mn}MY[Mk]=ME end return ME[Mr+1]or 0 end local function My(MW,Mm)local Mo={}local MK,Mq=1,1 while Mq<=Mm do local Mx=MW[MK]or 0 MK=MK+1 for Mv=0,7 do if Mq>Mm then break end local MF=(Mx%2)==1 Mx=c6(Mx/2)if MF then local MO=MW[MK]or 0 local MJ=MW[MK+1]or 0 MK=MK+2 local Mz=c6(MJ/16)local Mg=(Mz*256)+MO if Mz==15 then local Ms=MW[MK]or 0 MK=MK+1 Mg=(Ms*256)+MO end local MA=MJ-(Mz*16)local MP=MA+3 if MA==15 then local Ml=0 while true do local MC=MW[MK]or 0 MK=MK+1 Ml=Ml+MC if MC~=255 then break end end MP=18+Ml end local w4=Mq-(Mg+1)for Mw=0,MP-1 do if Mq>Mm then break end Mo[Mq]=Mo[w4+Mw]or 0 Mq=Mq+1 end else Mo[Mq]=MW[MK]or 0 MK=MK+1 Mq=Mq+1 end end end return Mo end local S3={}local MI=S7 if MI then local Mb=c1[Sp[65344]]local MZ=c1[Sp[48407]]["\98\121\116\101"]local MG=c1[Sp[51491]]local Mf=1 while true do local MN=MZ(MI,Mf)if not MN then break end local ML=0 for Mt=1,5 do local MN=MZ(MI,Mf)if not MN then break end ML=ML*85+(Mb[MN]or 0)Mf=Mf+1 end local Mu=MG(ML/16777216)%256 local MQ=MG(ML/65536)%256 local Mj=MG(ML/256)%256 local Md=ML%256 local MU=Mu*256+MQ local MB=Mj*256+Md S3[MU]=MB end end c1[Sp[S3[32767]]]=c3 local MV={185,111,16,92,123,62,247,94,216,227,199,98};local MX=1565387703;for MD=1,#MV do MX=((MX*13837)+2038252395+(MD*17))%2147483647;MV[MD]=c4(MV[MD],MX%256);end;c1[Sp[44504]]=(((((MV[4]or 0)*256+(MV[3]or 0))*256+(MV[2]or 0))*256+(MV[1]or 0))%4294967296);c1[Sp[17071]]=(((((MV[8]or 0)*256+(MV[7]or 0))*256+(MV[6]or 0))*256+(MV[5]or 0))%4294967296);c1[Sp[46449]]=(((((MV[12]or 0)*256+(MV[11]or 0))*256+(MV[10]or 0))*256+(MV[9]or 0))%4294967296);c1[Sp[45403]]=cI:sub(1,12399)local M1=cI:sub(12400,13231)c1[Sp[5910]]=(function()local M8={}local M5=h5(M1)local M3=1 local M7=1 local M4=0 local M6=0 local M9=0 while M7<=677 do local wV=M5[M3]if not wV then break end M6=M6+(wV%128)*(2^M9)if wV<128 then M4=M4+M6 M8[M7]=M4 M7=M7+1 M6=0 M9=0 else M9=M9+7 end M3=M3+1 end return M8 end)()local Ma c1[Sp[29522]]=function(HS,He)if He~=wf then return 0 end if Ma then return Ma[HS]end local w9=h5(c1[Sp[45403]])Ma=My(w9,10431)return Ma[HS]end local function Hr(HS,He)if He~=wf then return 0 end if Ma then return Ma[HS]end local HE=h5(c1[Sp[45403]])Ma=My(HE,10431)return Ma[HS]end local function Hh(HS,He)if He~=wf then return 0 end if Ma then return Ma[HS]end local HR=h5(c1[Sp[45403]])Ma=My(HR,10431)return Ma[HS]end c1[Sp[45876]]=((((((3869497941-2309737967)%0x100000000)+270544960)%0x100000000)-270544960)%hp)local HM=c1[Sp[45876]]do local HH=c3[((153-34-24))]or 0;HM=(HM+HH)%hp end do local HO,Hy=pcall,type local Hn=0 local Hs,HJ=false,nil Hs,HJ=false,nil if Hy(HO)=="function"then Hs,HJ=HO(function()local t={};rawset(t,"x",29);return t.x end)end Hn=(Hn*181+52+((Hs and HJ==29)and 129 or 0))%h1 Hs,HJ=false,nil if Hy(HO)=="function"then Hs,HJ=HO(function()return Hy(Hy)end)end Hn=(Hn*155+((Hs and HJ=="function")and 101 or 0)+39)%h1 Hs,HJ=false,nil if Hy(HO)=="function"then Hs,HJ=HO(function()local ok=HO(function()local f=nil;return f()end);return ok==false end)end Hn=(((Hn*210+84)%h1)+((Hs and HJ==true)and 173 or 0))%h1 Hs,HJ=false,nil if Hy(HO)=="function"then Hs,HJ=HO(function()local t={[1]=17};return ey(t,1)end)end Hn=(((Hn*161+51)%h1)+((Hs and HJ==17)and 117 or 0))%h1 Hs,HJ=false,nil if Hy(HO)=="function"then Hs,HJ=HO(function()return string.byte(string.sub("AZ",1,1),1)end)end Hn=(((Hn*216+71)%h1)+((Hs and HJ==65)and 165 or 0))%h1 HM=(HM+Hn)%hp end local function Hd(HU)local HG=c1[Sp[55151]](HU)if HG~=nil then return HG end HG=iG(iQ,HU)if HG~=nil then return HG end return nil end local Hb=Hd(ew(56,((48*9549+73*7256-979530)%hp)))local HZ=Hd(ew(93,((38*9549+69*7256-804727)%hp)))local HV=Hd(ew(53,((39*9549+110*7256-1169411)%hp)))local HD=Hd(ew(81,((90*9549+87*7256-1474543)%hp)))local HX=Hd(ew(51,((136*9549+81*7256-1824449)%hp)))local Ha=Hd(ew(112,((47*9549+126*7256-1357744)%hp)))local Hp=Hd(ew(113,((132*9549+80*7256-1831211)%hp)))local H1=Hd(ew(99,((133*9549+70*7256-1761493)%hp)))local H8=Hd("\116\97\98\108\101")or table local H3=Hd("\109\97\116\104")or math local H7=Hd("\115\116\114\105\110\103")or string local H0=Hd("\116\121\112\101")or type local H2=Hd("\112\99\97\108\108")or pcall local function HW(Ho)local HK=0 if H0(Ho)~="string"then return 0 end local Hx=#Ho for Hq=1,Hx do HK=(HK*131+(H7.byte(Ho,Hq)or 0)+17)%h1 end if Hx>0 then HK=(HK+Hx*257+(H7.byte(Ho,1)or 0)*13+(H7.byte(Ho,Hx)or 0)*29)%h1 end return HK end do local Hv=0 Hz=Hb and Hb[ew(129,((135*9549+66*7256-1748419)%hp))]or nil local HL=HW(Hz)Hv=(Hv*147+HL+37)%h1 Hz=nil HA,Hg=H2(function()local nc=HZ and HZ[ew(120,((99*9549+104*7256-1658332)%hp))];return nc and nc(ew(72,((76*9549+96*7256-1369422)%hp)))end)if HA and Hg then Hz=Hg[ew(129,((135*9549+66*7256-1748419)%hp))]end local HN=HW(Hz)Hv=(Hv*190+HN+45)%h1 Hz=(HA and Hg)and Hg[ew(111,((100*9549+107*7256-1730365)%hp))]or nil local Ht=HW(Hz)Hv=(Hv*185+Ht+49)%h1 HA,HP=H2(function()local nS=Hb and Hb[ew(94,((81*9549+86*7256-1334910)%hp))];return nS and nS(Hb,ew(64,((96*9549+55*7256-1286178)%hp)))end)Hz=(HA and HP)and HP[ew(129,((135*9549+66*7256-1748419)%hp))]or nil local Hu=HW(Hz)Hv=(Hv*241+Hu+60)%h1 HA,Hl=H2(function()local ne=HD;local nY=ne and ne[ew(120,((99*9549+104*7256-1658332)%hp))];return nY and nY(1,2,3)end)local HQ=0 if HA and Hl then HQ=(Hl[ew(91,((58*9549+90*7256-1155533)%hp))]*(0xBA-24)+Hl[ew(121,((44*9549+121*7256-1251795)%hp))]*(130+0x3B)+Hl[ew(54,((48*9549+101*7256-1187632)%hp))]*(206+0x5))%h1 HQ=((HQ*0x109)+(53354+0xB9))%h1 if HQ==0 then HQ=1 end end Hv=(Hv*278+HQ+75)%h1 HA,Hl=H2(function()local ni=HZ and HZ[ew(120,((99*9549+104*7256-1658332)%hp))]and HZ[ew(120,((99*9549+104*7256-1658332)%hp))](ew(65,((83*9549+152*7256-1863083)%hp)))if not ni then return 0 end ni[ew(84,((49*9549+144*7256-1486420)%hp))]=true ni[ew(109,((129*9549+65*7256-1645687)%hp))]=false ni[ew(103,((61*9549+151*7256-1645577)%hp))]=1 ni[ew(95,((61*9549+107*7256-1358017)%hp))]=HX[ew(120,((99*9549+104*7256-1658332)%hp))](4,2,6)ni[ew(112,((47*9549+126*7256-1357744)%hp))]=Ha[ew(120,((99*9549+104*7256-1658332)%hp))](ni[ew(95,((61*9549+107*7256-1358017)%hp))][ew(91,((58*9549+90*7256-1155533)%hp))]*2,ni[ew(95,((61*9549+107*7256-1358017)%hp))][ew(121,((44*9549+121*7256-1251795)%hp))]*3,-ni[ew(95,((61*9549+107*7256-1358017)%hp))][ew(54,((48*9549+101*7256-1187632)%hp))]*4)local Hm=H1[ew(120,((99*9549+104*7256-1658332)%hp))]()Hm[ew(119,((52*9549+150*7256-1547965)%hp))]=Hp[ew(48,((95*9549+119*7256-1715508)%hp))][ew(80,((77*9549+92*7256-1390020)%hp))]Hm[ew(74,((112*9549+72*7256-1532884)%hp))]={ni}local H5=ni[ew(95,((61*9549+107*7256-1358017)%hp))]local H4=ni[ew(112,((47*9549+126*7256-1357744)%hp))][ew(69,((123*9549+95*7256-1819951)%hp))]local H9=(Hm[ew(119,((52*9549+150*7256-1547965)%hp))]==Hp[ew(48,((95*9549+119*7256-1715508)%hp))][ew(80,((77*9549+92*7256-1390020)%hp))])and 1 or 0 local H6=Hm[ew(74,((112*9549+72*7256-1532884)%hp))]and#Hm[ew(74,((112*9549+72*7256-1532884)%hp))]or 0 local nT=ni[ew(102,((74*9549+135*7256-1657700)%hp))];if nT then nT(ni)end return H3.floor((H5[ew(91,((58*9549+90*7256-1155533)%hp))]*100)+(H5[ew(121,((44*9549+121*7256-1251795)%hp))]*10)+H5[ew(54,((48*9549+101*7256-1187632)%hp))]+(H4[ew(91,((58*9549+90*7256-1155533)%hp))]%13)+(H4[ew(121,((44*9549+121*7256-1251795)%hp))]%17)+((-H4[ew(54,((48*9549+101*7256-1187632)%hp))])%19)+(H9*23)+(H6*29))end)local Hj=(HA and Hl)and Hl or 0 Hv=(Hv*274+Hj+111)%h1 local HC=((62*9549+95*7256+1326457001)%hp)HM=(HM+Hv)%hp end c1[Sp[27270]]=function(nk)return c1[Sp[29522]](nk,wf)+(c1[Sp[29522]](nk+1,wf)*(((0xFB+0x11))-((8+0x4))))+(c1[Sp[29522]](nk+2,wf)*(((0x1E137-57646))-((6+3))))+(c1[Sp[29522]](nk+3,wf)*((0x100000A)-((0x6+0x4))))end local function nE(nk)return Hr(nk,wf)+(Hr(nk+1,wf)*(((0xFB+0x11))-((8+0x4))))+(Hr(nk+2,wf)*(((0x1E137-57646))-((6+3))))+(Hr(nk+3,wf)*((0x100000A)-((0x6+0x4))))end local function nh(nk)return Hh(nk,wf)+(Hh(nk+1,wf)*(((0xFB+0x11))-((8+0x4))))+(Hh(nk+2,wf)*(((0x1E137-57646))-((6+3))))+(Hh(nk+3,wf)*((0x100000A)-((0x6+0x4))))end c1[Sp[59093]]=(function()local function nR(Mc)local wX=c1[Sp[5910]][Mc];return c1[Sp[27270]](wX);end local nw={669,385,30,76,298}local nM=0 for ns=1,5 do local nH=nw[ns]nM=(nM+(nR(nH)%65521))%65521 end local function Mx(x)return x-x%1 end local wZ=11152 local wV=Mx(wZ/4)local MM=wV-Mx(wV/2)local nn=MM-1221 if nM~=nn then c1[Sp[27270]]=c1[Sp[24521]]elseif nM>wV then c1[Sp[27270]]=c1[Sp[8135]]end end)()local nJ="\000\001\002\003\004\005\006\007\008\009\010\011\012\013\014\015\016\017\018\019\020\021\022\023\024\025\026\027\028\029\030\031\032\033\034\035\036\037\038\039\040\041\042\043\044\045\046\047\048\049\050\051\052\053\054\055\056\057\058\059\060\061\062\063\064\065\066\067\068\069\070\071\072\073\074\075\076\077\078\079\080\081\082\083\084\085\086\087\088\089\090\091\092\093\094\095\096\097\098\099\100\101\102\103\104\105\106\107\108\109\110\111\112\113\114\115\116\117\118\119\120\121\122\123\124\125\126\127\128\129\130\131\132\133\134\135\136\137\138\139\140\141\142\143\144\145\146\147\148\149\150\151\152\153\154\155\156\157\158\159\160\161\162\163\164\165\166\167\168\169\170\171\172\173\174\175\176\177\178\179\180\181\182\183\184\185\186\187\188\189\190\191\192\193\194\195\196\197\198\199\200\201\202\203\204\205\206\207\208\209\210\211\212\213\214\215\216\217\218\219\220\221\222\223\224\225\226\227\228\229\230\231\232\233\234\235\236\237\238\239\240\241\242\243\244\245\246\247\248\249\250\251\252\253\254\255"local nO=c1[Sp[48407]]["\115\117\98"]c1[Sp[25176]]=(function()local ny={}for nW=1,256 do ny[nW-1]=nO(nJ,nW,nW)end return ny end)()SS=c1[Sp[25176]]local function nz(ng,nP,nA)nP=nP or 1;nA=nA or#ng if nP>nA then return'' end if nP==nA then return ng[nP]end local nl=(nP+nA)/2 if(nl-nl%1)~=0 then nl=nl-(nl%1)end return nz(ng,nP,nl)..nz(ng,nl+1,nA)end local function nC(nF,nm,nI)nm=nm or 1;nI=nI or#nF if nm>nI then return'' end if nm==nI then return nF[nm]end local nf=nm+((nI-nm)/2)if(nf-nf%1)~=0 then nf=nf-(nf%1)end return nC(nF,nm,nf)..nC(nF,nf+1,nI)end local function nL(nN,nt,nu)nt=nt or 1;nu=nu or#nN if nt>nu then return'' end if nt==nu then return nN[nt]end local nQ=nu-((nu-nt)/2)if(nQ-nQ%1)~=0 then nQ=nQ-(nQ%1)end return nL(nN,nt,nQ)..nL(nN,nQ+1,nu)end c1[Sp[60657]]=nz c1[Sp[41520]]=function(nj,nZ)if nZ~=nil then local h3=1;repeat h3=(h3*1103515245+12345)%hp until h3==0 end do local nV=(c1[Sp[45876]]+748427974+2779096485)%hp;local nX=(c1[Sp[45876]]+160642230)%hp;local nD=(nX+((748427974+2779096485-160642230)%hp))%hp;if nV~=nD then c1[Sp[25176]]=({})[(({})[0])]end end local nd,nU,nB,nG={},0,'',0 for nb=1,#nj do nB=nB..c1[Sp[25176]][nj[nb]]nG=nG+1 if nG>=128 then nU=nU+1;nd[nU]=nB;nB,nG='',0 end end if nG>0 then nU=nU+1;nd[nU]=nB end return nz(nd,1,nU)end local function n1(n8,n3)if n3~=nil then local n9=1;repeat n9=(n9*1103515245+12345)%hp until n9==0 end do local n6=(c1[Sp[45876]]+365439062+2779096485)%hp;local sS=(c1[Sp[45876]]+1150989090)%hp;local sc=(sS+((365439062+2779096485-1150989090)%hp))%hp;if n6~=sc then c1[Sp[25176]]=({})[(({})[0])]end end local n7,n0,n2,n5={},0,'',0 for n4=1,#n8 do n2=n2..c1[Sp[25176]][n8[n4]]n5=n5+1 if n5>=96 then n0=n0+1;n7[n0]=n2;n2,n5='',0 end end if n5>0 then n0=n0+1;n7[n0]=n2 end return nC(n7,1,n0)end local function se(si,sY)if sY~=nil then local sR=1;repeat sR=(sR*1103515245+12345)%hp until sR==0 end do local sw=(c1[Sp[45876]]+1524280959+2779096485)%hp;local sH=(c1[Sp[45876]]+174704716)%hp;local sM=(sH+((1524280959+2779096485-174704716)%hp))%hp;if sw~=sM then c1[Sp[25176]]=({})[(({})[0])]end end local sT,sk,sr,sE={},0,'',0 for sh=1,#si do sr=sr..c1[Sp[25176]][si[sh]]sE=sE+1 if sE>=160 then sk=sk+1;sT[sk]=sr;sr,sE='',0 end end if sE>0 then sk=sk+1;sT[sk]=sr end return nL(sT,1,sk)end local sL=nil local st=0 local su=false c1[Sp[48813]]=function(ia,MT)local sN=c1[Sp[20917]]if c1[Sp[48813]]~=(sN and sN[1])then sL=nil;return false end if MT~=wf then sL=nil;return false end local ss=0 local sd=61 local sU=((sd+131)-sd)local sB=((sd+257)-sd)local sG=(sB-1)local sb=((ia*sU)+(MT*sB)+sd)%sB if sb==sB then sb=0 end local sP=nil if ss==0 then sP=wt[ia]end if sP~=nil then local sZ=sP(MT)if sZ~=nil then sL=sZ return true end end if not c1[Sp[5910]][ia]then sL=nil;return false end st=st+1 if(not su)and(st>1202)then su=true local sQ=(c1[Sp[45876]]+MT+(ia*sB)+(st*sU)+986151084)%h1 wf=c4(wf,sQ)%h1 if wf==0 then wf=1 end end local sj=wf local sq=(c1[Sp[45876]]+MT+(ia*sU))%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end if(not su)and(sq~=0)and(wf==sj)then su=true local sQ=(sq+sj+986151084)%h1 wf=c4(wf,sQ)%h1 if wf==0 then wf=1 end end local sV=c1[Sp[5910]][ia]local MP=nE(sV)if MP==nil then sL=nil;return false end local Mi=sV+4 local sx=''local sz,sg={},0 local sA=c1[Sp[24136]]local sl=c1[Sp[S3[46158]]]local sC=sA and sl(sA,c1[Sp[S3[21090]]])or 0 local sF=sA and sl(sA,c1[Sp[S3[55754]]])or 0 local sm=c1[Sp[S3[54775]]]local sI=sm and sm(sC)or 0 local sf=sm and sm(sF)or 0 local w4=1-((sI+sf)%2)if w4~=1 then sq=(sI*sB+sf*sU+ia)%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end end local sD=(HM+(ia*sB)+(MP*131)+(c1[Sp[44504]]%65536)+(c1[Sp[17071]]%65536)+((0%65536)*17)+21417)%hp sD=((sD*1664525)+1013904223+(ia*40503)+(MP*11117)+(((0-(0%65536))/65536)%65536)*29)%hp if sD==0 then sD=(HM+1)%hp end local Mw=1 while Mw<=MP do local wV=Hr(Mi,wf)if wV==nil then sL=nil;return false end Mi=Mi+w4 sD=((sD*1664525)+1013904223+(ia*sB)+(Mw*131)+(MP*17)+((0%65536)*3)+1831565813)%hp local sX=sD%sG local sa=(((sD-sX)/sG)%sG)local sp=(((sD-(sD%65536))/65536)%sG)local s1=(((sD-(sD%16777216))/16777216)%sG)local sv=c4(c4(sX,(sa+Mw)%sG),c4(sp,(s1+ia+MP)%sG))local w7=c4(wV,sv)sg=sg+1;sz[sg]=w7 Mw=Mw+w4 end sx=n1(sz)local s9=wu local s6=(wQ%256)+1 wQ=s6 local Jc=s9[s6]if Jc then wt[Jc]=nil end s9[s6]=ia do local JS=sx wt[ia]=function(Je)if Je==wf then return JS end return nil end end sL=sx return true end c1[Sp[20917]][1]=c1[Sp[48813]]local st=0 local su=false c1[Sp[17585]]=function(ia,MT)local sN=c1[Sp[20917]]if c1[Sp[17585]]~=(sN and sN[2])then sL=nil;return false end if MT~=wf then sL=nil;return false end local ss=0 local sd=62 local sU=((sd+131)-sd)local sB=((sd+257)-sd)local sG=(sB-1)local sb=((ia*sU)+(MT*sB)+sd)%sB if sb==sB then sb=0 end local sP=nil if ss==0 then sP=wj[ia]end if sP~=nil then local sZ=sP(MT)if sZ~=nil then sL=sZ return true end end if not c1[Sp[5910]][ia]then sL=nil;return false end st=st+1 if(not su)and(st>1159)then su=true local sQ=(c1[Sp[45876]]+MT+(ia*sB)+(st*sU)+606506363)%h1 wf=c4(wf,sQ)%h1 if wf==0 then wf=1 end end local sq=(c1[Sp[45876]]+MT+(ia*sU))%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end local sV=c1[Sp[5910]][ia]local MP=c1[Sp[27270]](sV)if MP==nil then sL=nil;return false end local Mi=sV+4 local sx=''local sz,sg={},0 local sA=c1[Sp[24136]]local sl=c1[Sp[S3[40697]]]local sC=sA and sl(sA,c1[Sp[S3[21090]]])or 0 local sF=sA and sl(sA,c1[Sp[S3[55754]]])or 0 local sm=c1[Sp[S3[41164]]]local sI=sm and sm(sC)or 0 local sf=sm and sm(sF)or 0 local w4=1-((sI+sf)%2)if w4~=1 then sq=(sI*sB+sf*sU+ia)%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end end local sD=(HM+(ia*sB)+(MP*131)+(c1[Sp[44504]]%65536)+(c1[Sp[17071]]%65536)+((0%65536)*17)+21417)%hp sD=((sD*1664525)+1013904223+(ia*40503)+(MP*11117)+(((0-(0%65536))/65536)%65536)*29)%hp if sD==0 then sD=(HM+1)%hp end local Mw=1 while Mw<=MP do local wV=c1[Sp[29522]](Mi,wf)if wV==nil then sL=nil;return false end Mi=Mi+w4 sD=((sD*1664525)+1013904223+(ia*sB)+(Mw*131)+(MP*17)+((0%65536)*3)+1831565813)%hp local sX=sD%sG local sa=(((sD-sX)/sG)%sG)local sp=(((sD-(sD%65536))/65536)%sG)local s1=(((sD-(sD%16777216))/16777216)%sG)local s2=c4(sX,sp)local s5=c4((sa+Mw)%sG,(s1+ia+MP)%sG)local sv=c4(s2,s5)local w7=c4(wV,sv)sg=sg+1;sz[sg]=w7 Mw=Mw+w4 end sx=c1[Sp[41520]](sz)local s9=wd local s6=(wU%256)+1 wU=s6 local Jc=s9[s6]if Jc then wj[Jc]=nil end s9[s6]=ia do local JS=sx wj[ia]=function(Je)if Je==wf then return JS end return nil end end sL=sx return true end c1[Sp[20917]][2]=c1[Sp[17585]]local st=0 local su=false c1[Sp[63610]]=function(ia,MT)local sN=c1[Sp[20917]]if c1[Sp[63610]]~=(sN and sN[3])then sL=nil;return false end if MT~=wf then sL=nil;return false end local ss=0 local sd=111 local sU=((sd+131)-sd)local sB=((sd+257)-sd)local sG=(sB-1)local sb=((ia*sU)+(MT*sB)+sd)%sB if sb==sB then sb=0 end local sP=nil if ss==0 then sP=wB[ia]end if sP~=nil then local sZ=sP(MT)if sZ~=nil then sL=sZ return true end end if not c1[Sp[5910]][ia]then sL=nil;return false end st=st+1 if(not su)and(st>1180)then su=true local sQ=(c1[Sp[45876]]+MT+(ia*sB)+(st*sU)+87196581)%h1 wf=c4(wf,sQ)%h1 if wf==0 then wf=1 end end local sq=(c1[Sp[45876]]+MT+(ia*sU))%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end local sV=c1[Sp[5910]][ia]local MP=nh(sV)if MP==nil then sL=nil;return false end local Mi=sV+4 local sx=''local sz,sg={},0 local sA=c1[Sp[24136]]local sl=c1[Sp[S3[34864]]]local sC=sA and sl(sA,c1[Sp[S3[21090]]])or 0 local sF=sA and sl(sA,c1[Sp[S3[55754]]])or 0 local sm=c1[Sp[S3[39049]]]local sI=sm and sm(sC)or 0 local sf=sm and sm(sF)or 0 local w4=1-((sI+sf)%2)if w4~=1 then sq=(sI*sB+sf*sU+ia)%h1 wf=c4(wf,sq)%h1 if wf==0 then wf=1 end end local sD=(HM+(ia*sB)+(MP*131)+(c1[Sp[44504]]%65536)+(c1[Sp[17071]]%65536)+((0%65536)*17)+21417)%hp sD=((sD*1664525)+1013904223+(ia*40503)+(MP*11117)+(((0-(0%65536))/65536)%65536)*29)%hp if sD==0 then sD=(HM+1)%hp end local Mw=1 while Mw<=MP do local wV=Hh(Mi,wf)if wV==nil then sL=nil;return false end Mi=Mi+w4 sD=((sD*1664525)+1013904223+(ia*sB)+(Mw*131)+(MP*17)+((0%65536)*3)+1831565813)%hp local sX=sD%sG local sa=(((sD-sX)/sG)%sG)local sp=(((sD-(sD%65536))/65536)%sG)local s1=(((sD-(sD%16777216))/16777216)%sG)local s4=((Mw*17)+(MP*13)+(ia*7)+29)%sG local sv=c4(c4(c4(sX,(sa+Mw)%sG),c4(sp,(s1+ia+MP)%sG)),c4(s4,s4))local w7=c4(wV,sv)sg=sg+1;sz[sg]=w7 Mw=Mw+w4 end sx=se(sz)local s9=wG local s6=(wb%256)+1 wb=s6 local Jc=s9[s6]if Jc then wB[Jc]=nil end s9[s6]=ia do local JS=sx wB[ia]=function(Je)if Je==wf then return JS end return nil end end sL=sx return true end c1[Sp[20917]][3]=c1[Sp[63610]]local N=c1[Sp[48813]]c1[Sp[24674]]=cI:sub(13232,15136)c1[Sp[57086]]=(function()local w9={}local Jh=h5(c1[Sp[24674]])local JR=My(Jh,2385)local wD=1 local HT=1 local Jw=0 local JM=0 while wD<=1104 do local JH=JR[HT]or 0 HT=HT+1 Jw=Jw+(JH%128)*(2^JM)if JH<128 then w9[wD]=Jw wD=wD+1 Jw=0 JM=0 else JM=JM+7 end end return w9 end)()local Jn=c1[Sp[57086]]SH=(N((360-32),wf)and sL or nil);Sn=(N((33*8),wf)and sL or nil);Ss=(N((253+41),wf)and sL or nil);SJ=(N((36*9+1),wf)and sL or nil);SO=(N(0x157,wf)and sL or nil);c1[Sp[50626]]=SH c1[Sp[33613]]=Sn c1[Sp[58504]]=Ss c1[Sp[51771]]=SJ c1[Sp[21389]]=SO c1[Sp[36332]]=function(h3,wV,nZ)if nZ~=nil then local w9=1;repeat w9=(w9*1103515245+12345)%hp until w9==0 end local wD=((h3*33)+wV)%0x100000000 if wD<0 then wD=wD+hp end return wD end c1[Sp[64052]]=function(wZ,wV)local Js=wZ%65536 local JJ=(wZ-Js)/65536 local JO=wV%65536 local Jy=(wV-JO)/65536 local JW=Js*JO local Jo=(JJ*JO+Js*Jy)*65536 local JK=(JW+Jo)%hp if JK<0 then JK=JK+hp end return JK end c9=c1[Sp[64052]]local Jv=select c1[Sp[27628]]=function(Jx,...)local Jq={...}if Jx~=nil then Jq.n=Jx else if Jv then Jq.n=Jv('#',...)else Jq.n=#Jq end end return Jq end c5=c1[Sp[24672]]cu=c1[Sp[13096]]cU=c1[Sp[48407]]SY=c1[Sp[16072]]c1[Sp[58391]]=function(Jz,Jg)if c8[S9(504,S6,5)]then c8[S9(504,S6,5)](Jz,Jg)return true end return false end c2={}c1[Sp[S3[22798]]]=c2;c1[Sp[S3[52284]]]=3327408450 c1[Sp[S3[23384]]]=3564395351 c1[Sp[S3[51922]]]=3521293333 c1[Sp[S3[33984]]]=3273888142 c1[Sp[S3[57755]]]=2371399010 c1[Sp[S3[22818]]]=3807982781 c1[Sp[S3[51843]]]=1580134638 c1[Sp[S3[26287]]]=2168481834 c1[Sp[S3[54779]]]=930770745 c1[Sp[S3[21437]]]=2465477800 c1[Sp[S3[49199]]]=1850125025 c1[Sp[S3[24456]]]=4211498996 c1[Sp[S3[52367]]]=3069400915 c1[Sp[S3[57799]]]=627011505 c1[Sp[S3[58443]]]=2439940164 c1[Sp[S3[26030]]]=3001057188 c1[Sp[S3[52097]]]=429256882 c1[Sp[S3[44295]]]=1825771162 c1[Sp[S3[32373]]]=671145861 c1[Sp[S3[45819]]]=4270549698 c1[Sp[S3[54470]]]=1578077873 c1[Sp[S3[31182]]]=1607198639 c1[Sp[S3[21532]]]=2309814741 c1[Sp[S3[42928]]]=3954811867 c1[Sp[S3[30218]]]=1498332080 c1[Sp[S3[51188]]]=2545693848 c1[Sp[S3[57828]]]=379074417 c1[Sp[S3[21415]]]=1722339942 c1[Sp[S3[44692]]]=59519537 c1[Sp[S3[28198]]]=1976307724 c1[Sp[S3[45527]]]=1942154530 c1[Sp[S3[21391]]]=1932127882 c1[Sp[S3[35900]]]=268068100 c1[Sp[S3[45160]]]=2993587368 c1[Sp[S3[49928]]]=c1[Sp[S3[33022]]]c1[Sp[S3[47574]]](c2,c1[Sp[S3[31109]]],c1[Sp[61885]]);c1[Sp[S3[48391]]](c2,c1[Sp[S3[24332]]],c1[Sp[61885]]);c1[Sp[S3[44843]]](c2,c1[Sp[S3[38511]]],c1[Sp[61885]]);c1[Sp[S3[25677]]](c2,c1[Sp[S3[22309]]],c1[Sp[61885]]);c1[Sp[S3[29440]]](c2,c1[Sp[S3[38161]]],c1[Sp[61885]]);c1[Sp[S3[29709]]](c2,c1[Sp[S3[57803]]],c1[Sp[61885]]);c1[Sp[S3[33677]]](c2,c1[Sp[S3[35426]]],c1[Sp[61885]]);c1[Sp[S3[57901]]](c2,c1[Sp[S3[24962]]],c1[Sp[61885]])c1[Sp[S3[53777]]](c2,c1[Sp[S3[29310]]],c1[Sp[61885]])c1[Sp[S3[30983]]](c2,c1[Sp[S3[26277]]],(eJ~=0 and 1 or 0))c1[Sp[S3[43803]]](c2,c1[Sp[S3[29353]]],{})c1[Sp[33625]]=(2^31)-1 local Jf={}Jf[1]={134,251,28,13,187,178,234,51,97,139,115,119,13,190,124,105,24,75,21,140,149,247,184,9,233,242,61,84,101,208,33,85}Jf[2]=c1[Sp[33625]]Jf[20]={}do local JN={170,57,185,92,136,245,223,45,26,53,142,203,129,19,42,114,181,62,73,87,95,216,75,55,199,242,13,150,138,211,197,209,196,77,145,38,186,209,195,157,50,14,70,26,85,226,11,99,158,33,158,124,132,5,227,162,155,200,1,20,110,33,165,41,129,185,99,221,220,218,121,175,163,195,217,91,27,199,234,122,152,204,205,140,36,31,64,241,252,172,13,33,175,143,146,57,16,138,164,165}local Ju=1133610517 for JL=1,#JN do Ju=((Ju*3461)+1980846918+(JL*164))%Jf[2]JN[JL]=(JN[JL]+256-(Ju%256))%256 end local Jt=1 for JL=1,(#JN/4)do Jf[20][JL]=((((JN[Jt+3]or 0)*256+(JN[Jt+2]or 0))*256+(JN[Jt+1]or 0))*256+(JN[Jt]or 0))%(2^32)Jt=Jt+4 end end Jf[3]={Jf[20][1],Jf[20][2],Jf[20][3],Jf[20][4],Jf[20][5],Jf[20][6],Jf[20][7],Jf[20][8]}Jf[4]=Jf[20][9]Jf[5]=Jf[3][4]Jf[4]=(Jf[4]+((Jf[5]+Jf[20][11])%Jf[2])*Jf[20][10]+Jf[20][18])%Jf[2]Jf[5]=Jf[3][8]Jf[4]=((Jf[4]*Jf[20][10])+(c4(Jf[5],Jf[20][12])%Jf[2])+Jf[20][19])%Jf[2]Jf[5]=Jf[3][3]Jf[4]=(((c4(Jf[4],Jf[5])+Jf[20][11])*((Jf[20][10]%60000)+(256+1)))+Jf[20][20])%Jf[2]Jf[5]=Jf[3][3]Jf[4]=(((c4(Jf[4],Jf[5])+Jf[20][11])*((Jf[20][10]%60000)+(256+1)))+Jf[20][21])%Jf[2]Jf[5]=Jf[3][2]Jf[4]=(((Jf[4]+((Jf[5]+Jf[20][22])%Jf[2])+Jf[20][11])*Jf[20][10])+Jf[20][13])%Jf[2]Jf[5]=Jf[3][7]Jf[4]=(((c4(Jf[4],Jf[5])+Jf[20][11])*((Jf[20][10]%60000)+(256+1)))+Jf[20][23])%Jf[2]Jf[5]=Jf[3][1]Jf[4]=(Jf[4]+((Jf[5]*((Jf[20][13]%(256+1))+3))%Jf[2])+(c4(Jf[20][24],Jf[20][12])%Jf[2]))%Jf[2]Jf[5]=Jf[3][4]Jf[4]=(Jf[4]+((Jf[5]+Jf[20][11])%Jf[2])*Jf[20][10]+Jf[20][25])%Jf[2]Jf[6]={}Jf[7]=Jf[4]Jf[8]=(Jf[4]+Jf[20][15])%Jf[2]for JL=1,#Jf[1]do Jf[9]=c4((Jf[7]+Jf[20][15]+JL*((Jf[20][14]%251)+3))%256,(Jf[8]+Jf[20][16])%256)%256 Jf[9]=c4(Jf[1][JL],Jf[9])Jf[6][JL]=Jf[9]Jf[7]=(Jf[7]+Jf[9]*Jf[20][14]+c4(Jf[8],Jf[1][JL])+Jf[20][15])%Jf[2]Jf[8]=(((Jf[8]+Jf[9]+JL)*((Jf[20][16]%60000)+(256+1)))+Jf[1][JL])%Jf[2]end Jf[9]=1 Jf[13]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[19]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[10]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[15]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[18]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[11]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[12]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[14]=((((Jf[6][Jf[9]+3]or 0)*256+(Jf[6][Jf[9]+2]or 0))*256+(Jf[6][Jf[9]+1]or 0))*256+(Jf[6][Jf[9]]or 0))%Jf[2]Jf[9]=Jf[9]+4 Jf[16]=((c4(Jf[10],Jf[11])+c4(Jf[12],Jf[13])+c4(Jf[14],Jf[20][17])+c4(Jf[18],Jf[20][12])+c4(Jf[19],Jf[20][16]))%Jf[2]);if Jf[16]~=Jf[15]then Jf[10]=(Jf[10]+1)%Jf[2]end;c1[Sp[24239]]=Jf[10];c1[Sp[5803]]=Jf[11];c1[Sp[40565]]=Jf[12];c1[Sp[60792]]=((c4(c1[Sp[24239]],c1[Sp[5803]])+c1[Sp[40565]])%c1[Sp[33625]]);c1[Sp[44504]]=Jf[14];c1[Sp[17071]]=Jf[18];c1[Sp[46449]]=c1[Sp[60792]]+(Jf[19]*c1[Sp[33625]]);c1[Sp[51530]]=1104;c1[Sp[44647]]=175;c1[Sp[38316]]=5847;c1[Sp[50094]]=function(Jl)local JC=c1[Sp[60792]]local JF=((Jl*40503)%c1[Sp[33625]])local Jm=((c1[Sp[51530]]+(c1[Sp[44647]]*7)+(c1[Sp[38316]]%97))%c1[Sp[33625]])local JI=((c4(JC,JF)+Jm)%c1[Sp[33625]])return((JI*(48270+1))%c1[Sp[33625]])end Sc=c1[Sp[50094]]Jf[17]=Sc(Jf[13])%c1[Sp[33625]]if Jf[17]==0 then Jf[17]=1 end c1[Sp[7714]]=(function()local wv=Eh[(N(((196+221-146)),wf)and sL or nil)]local Jj=c8[S9(567,S6,5)]and c8[S9(567,S6,5)](1)or nil local JQ=(Jj and c8[S9(570,S6,5)](Jj,(N(((196+221-146)),wf)and sL or nil)))or nil if wv and JQ==wv then c1[Sp[S3[25630]]](c2,c1[Sp[S3[47401]]],c1[Sp[24454]])end wv=Eh[(N((2*7+3),wf)and sL or nil)]local Jd=(Jj and c8[S9(570,S6,5)](Jj,(N((2*7+3),wf)and sL or nil)))or nil c1[Sp[46546]]=Jd c1[Sp[23538]]=c1[Sp[61885]]if wv and c1[Sp[46546]]==wv then c1[Sp[S3[39348]]](c2,c1[Sp[S3[53769]]],c1[Sp[24454]])end end)()c1[Sp[S3[39284]]]=function(JU,JB,JG)local J7=Sp[24672]local J3=c1[Sp[52228]]or c1[Sp[24629]]local J8=false if not JU then return nil end local Jp=c1[Sp[48407]]local J1=Jp and Jp[(N(((241+257-229)),wf)and sL or nil)]if J1 and J3 then J8=J3(J1,JU)if J8 then if not JB and not JG then return JU end if JG and JG==J7 then return JU end if JB and JG then JB[JG]=JB[0]end return nil end end if JG and JG==J7 then return JU end local Jb=c1[Sp[30657]]local JZ=c1[Sp[54610]]if not JZ and Jb then JZ=Jb[(N(0x117,wf)and sL or nil)]end if JZ then local J0 J8=J3 and J3(function()J0=JZ(JU,1)end)if J8 and J0~=nil and#J0>0 then if JB and JG then JB[JG]=JB[0]end return nil end end local JV=c1[Sp[61371]]if not JV and Jb then JV=Jb[(N((353-29),wf)and sL or nil)]end if JV then local JX J8=J3 and J3(function()JX=JV(JU,(N((45*7+6),wf)and sL or nil))end)local Ja=(J8 and JX and type(JX)==(N(((266+169-141)),wf)and sL or nil))and JX[(N((86*4+2),wf)and sL or nil)]or nil if(not Ja)or Ja==""then J8=J3 and J3(function()JX=JV(JU)end)Ja=(J8 and JX and type(JX)==(N(((403-1-108)),wf)and sL or nil))and JX[(N(((370-24+(136-136))),wf)and sL or nil)]or nil end if Ja and Ja~=(N((208+43),wf)and sL or nil)and Ja~=(N(((333-66+(234-234))),wf)and sL or nil)and Ja~=""then if JB and JG then JB[JG]=Ja and nil end return nil end end local JD=c1[Sp[62403]]if not JD and Jb then JD=Jb[(N(((124+195)),wf)and sL or nil)]end if JD then local Ja=JD(JU,(N((183+92),wf)and sL or nil))if Ja and Ja~=(N(((246+119-98)),wf)and sL or nil)then if JB and JG then JB[JG]=JU and nil end return nil end end return JU end if c1[Sp[S3[50590]]](c2,c1[Sp[S3[37263]]])then eJ=(eJ or 0)+1 end c1[Sp[30857]]=function(wZ,wV)if wZ>=0 then return(wZ-(wZ%wV))/wV end local wD=wZ%wV if wD~=0 then return(wZ-wD)/wV-1 end return wZ/wV end ST=c1[Sp[26852]]Sk=c1[Sp[58562]]Sr=c1[Sp[64990]]local function J2(MS,Jr)local JW=MS%hp local wD=Jr%(((0x40-13))-((0x14-1)))if wD==0 then return JW end local J5=2^wD local J4=c9(JW,J5)local J9=c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](JW/(2^(32-wD)))return(J4+J9)%hp end local function J6(Oc,MY)local h3=c4(c1[Sp[43158]],Oc)if h3<0 then h3=h3+hp end h3=(c9(h3,(((73217423+27075))-((0x21-10))))+c9(MY,(((0x27D42D6E+48595))-((0x1F-11)))))%hp if h3<0 then h3=h3+hp end h3=J2(h3,(((0x1A-3))-(16)))if h3<0 then h3=h3+hp end h3=c4(h3,c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](h3/(((28989+0xED4))-(17))))if h3<0 then h3=h3+hp end h3=c9(h3,(((0x85EC6C5C-41436))-(0x15)))%hp if h3<0 then h3=h3+hp end h3=c4(h3,c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](h3/((8214)-((0x1B-5)))))if h3<0 then h3=h3+hp end return h3 end local function OS(Oe,Oi,OY)local OT=c4(OY,(((0x272286E1-31810))-((0x5+5))))return c4(Oe,OT)end local function Ok(ia,Mq,Or,OE,Oh,OR,Ow)local OM=c4(c4(c4(Mq*(((0x3B-16))-((0x11-6))),Or*(((0x747+0xC1))-((7+1)))),OE*(((72495+0xE4DA))-((7+2)))),Oh*(((0x80B463-46165))-(14)))local OH=(c4(ia,OR)+OM+Ow)%hp local On=J2(OH,(((0x1A-3))-(16)))return(c9(On,(((73217423+27075))-((0x21-10))))+(((0x27D42D6E+48595))-((0x1F-11))))%hp end local function Os(ia,MT)local MS=c4((ia or 0),(((MT or 0)*(((0xD6CA+0x2947))-(16)))%hp))MS=(MS+((MT or 0)*(((0x123-21))-((0x11-4))))+((0x9E3779C7)-((0x15-7))))%hp MS=c4(MS,c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](MS/(((0x15E43-24112))-(19))))return((MS*(((0x2D+8))-((0x1A-6))))+((MT or 0)*(((0x27-5))-(17)))+(((2135535967+51912))-(0x12)))%hp end local function OJ(ia,MT)local MS=c4((ia or 0),(((MT or 0)*(((0x1F1C9+0xE44))-(14)))%hp))MS=(MS+((MT or 0)*(((0x1EF+29))-((0x5+0x6))))+((2246822519)-(0xC)))%hp MS=c4(MS,c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](MS/(((0x14A0D-18940))-((0x1A-9)))))return((MS*(((57+26))-((0x1A-8))))+((MT or 0)*(((0x2A+2))-((12+3))))+(((668240709+24568))-(2^4)))%hp end local function OO(MK,Or,OE,Oh,Oy)local OW=c1[Sp[47988]]local OH=OW and OW[Oy]if OH==nil then return nil end local MS=(OH+(((MK or 0)*(((0x41C60F78+0x3EFB))-(6)))%h1)+((Or or 0)*((0x11B)-((0x12+8))))+((OE or 0)*((65564)-((0x23-8))))+((Oh or 0)*(((23+0x3))-(9)))+(((38585)-((9+0xB)))*(((80+0x1B))-((0x10-6)))))%h1 MS=((MS*(((0x97C0+1851))-(0x7)))+(((80+0x37))-((2^1)*(2^2))))%h1 if MS==0 then MS=1 end return MS end local function Oo(ia,OR)return c4(ia,OR)end local function OK(Oq,Ox,Ov)local Oz=Ov[-Ox]if Oz then return Oz end local Og=c1[Sp[13096]].floor((Ox-1)/16)+1 local OP=(Og-1)*16+1 local OA=Ov[Og]or Oq[6631]if OP>=Ox then Ov[-Ox]=OA;return OA end local Ol=Oq[2895]local OC=Oq[2073]local OF=Oq[2312]local Om=Oq[7137]if not Om then Om={};Oq[7137]=Om end local OI=Oq[9612]if not OI then OI={};Oq[9612]=OI end for Of=OP,Ox-1 do local OL=(Of-1)*8 local Ot=OI[Of]if not Ot then Ot=J6(Ol,Of-1);OI[Of]=Ot end local Ou=Oo(OA,Ot)local OQ=c1[Sp[34311]](OF,OL+0,Om,wf)local Oj=c1[Sp[34311]](OF,OL+1,Om,wf)local Od=c1[Sp[34311]](OF,OL+2,Om,wf)local OU=c1[Sp[34311]](OF,OL+3,Om,wf)local OB=c4(OQ,J2(Ou,5)%(((0x17B-108))-(15)))local OG=c4(Oj,Ou%(((0x17B-108))-(15)))local Ob=c4(Od,J2(Ou,9)%(((0x17B-108))-(15)))local OZ=c4(OU,J2(Ou,17)%(((0x17B-108))-(15)))OA=Ok(OA,OB,OG,Ob,OZ,Ot,OC)if OB==(((0x14C-91))-((0x8-1)))then local OV=c1[Sp[18031]]if OV then local OD=c1[Sp[28259]]local OX=#OV if OX and OX>0 then local Oa=Of+(OG or 0)+((Ob or 0)*3)+((OZ or 0)*257)+(((0x16+0x14))-(2^3))local Op=c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](Oa/OX)local O1=Oa-(Op*OX)+1 local O8=OV[O1]if O8 then local O3=O8()local O7=(OD and(O3~=nil)and OD[O3])or nil if O7~=nil then OA=Os(OA,O7)end end end end end if OB==((191)-(0x5))then local O0=c1[Sp[47946]](c1[Sp[48407]][(c1[Sp[48813]](297,wf)and sL or nil)],nil)local O2=c1[Sp[24629]](O0)local O5=(OG or 0)+((Ob or 0)*17)+(OZ or 0)if O5<0 then O5=0-O5 end local O4=O5+123 local O9=c1[Sp[47946]](c1[Sp[58562]],O4,(N(((442+-112-70)),wf)and sL or nil))local O6=c1[Sp[24629]](O9)local yc=(O2 and 1 or 0)+(O6 and 2 or 0)local yS=OO(Of,OG,Ob,OZ,yc)if yS~=nil then OA=OJ(OA,yS)end end end Ov[-Ox]=OA return OA end local function yW(yK,MK,yo)local yq=yK[1263]if not yq then local yx=yK[7248]if yx then if ST(yx)~=(N(((457-59-134)),wf)and sL or nil)then yq=yx else yq={}local yv=yK[7835]if not yv then yv={};yK[7835]=yv end local yz=c1[Sp[13096]].floor((yK[4806]+15)/16)local yg=(#yx==yz*4)for Mw=1,yz do local yP=(Mw-1)*4 local yA=(yg and(c1[Sp[48407]][(N((442-145),wf)and sL or nil)](yx,yP+1)or 0)or c1[Sp[34311]](yx,yP+0,yv,wf))local MO=(yg and(c1[Sp[48407]][(N(((337-40+(131-131))),wf)and sL or nil)](yx,yP+2)or 0)or c1[Sp[34311]](yx,yP+1,yv,wf))local MJ=(yg and(c1[Sp[48407]][(N(((462-42-123)),wf)and sL or nil)](yx,yP+3)or 0)or c1[Sp[34311]](yx,yP+2,yv,wf))local Ms=(yg and(c1[Sp[48407]][(N(0x129,wf)and sL or nil)](yx,yP+4)or 0)or c1[Sp[34311]](yx,yP+3,yv,wf))local JW=yA+MO*(((0x17B-108))-(15))+MJ*((65548)-((0xB+1)))+Ms*(((16728982+48247))-((0x13-6)))yq[Mw]=OS(JW,0,yK[6624])end end yK[1263]=yq yK[7248]=yq if not yK[7738]and yq[1]then yK[7738]=yq[1]end end end if yq and not yK[7738]and yq[1]then yK[7738]=yq[1]end local ia=yK[6631]if MK==1 and yq and yq[1]then ia=yq[1]end local yl=yK[4789]or 0 if MK~=yl+1 then if yq then ia=OK(yK,MK,yq)end end local Ow=yK[2073]local yC=yK[2895]local yF=c1[Sp[43158]]local ym=yK[9612]if not ym then local yI=yK[4977]if yI and#yI>0 then if ST(yI)~=(N(((26+238)),wf)and sL or nil)then ym=yI else ym={}local yf=yK[3291]if not yf then yf={};yK[3291]=yf end local yL=yK[4806]local yN=(#yI==yL*4)for Mw=1,yL do local yt=(Mw-1)*4 local yu=(yN and(c1[Sp[48407]][(N((216+81),wf)and sL or nil)](yI,yt+1)or 0)or c1[Sp[34311]](yI,yt+0,yf,wf))local yQ=(yN and(c1[Sp[48407]][(N(297,wf)and sL or nil)](yI,yt+2)or 0)or c1[Sp[34311]](yI,yt+1,yf,wf))local yj=(yN and(c1[Sp[48407]][(N((59*5+2),wf)and sL or nil)](yI,yt+3)or 0)or c1[Sp[34311]](yI,yt+2,yf,wf))local yd=(yN and(c1[Sp[48407]][(N(((525+-169-59)),wf)and sL or nil)](yI,yt+4)or 0)or c1[Sp[34311]](yI,yt+3,yf,wf))ym[Mw]=yu+yQ*(((0x17B-108))-(15))+yj*((65548)-((0xB+1)))+yd*(((16728982+48247))-((0x13-6)))end end yK[9612]=ym yK[4977]=ym end end if not ym then ym={};yK[9612]=ym end local OR=ym[MK]if not OR then OR=J6(yC,MK-1);ym[MK]=OR end local yU=Oo(ia,OR)local yB=c1[Sp[62308]](yo)or 0 if yB~=0 then local yG=(c9(yB,(((73217423+27075))-((0x21-10))))+c9(MK,(((0x27D42D6E+48595))-((0x1F-11))))+((yC or 0)*257))%hp yK[6631]=c4((yK[6631]or 0),yG)yK[8099][MK]=nil return end if not yK[9406]then yK[9406]=true local yb=yK[5592]local yZ=yK[8853]or 0 if yb and yZ>0 then local yV=(yZ*5)yV=yV+((4-(yV%4))%4)local yD=(#yb==yV)local yX=yK[9699]local ya=yK[4307]if not ya then ya={};yK[4307]=ya end for Mw=0,yZ-1 do local Mg=Mw*5 local yA=(yD and(c1[Sp[48407]][(N(((39+258)),wf)and sL or nil)](yb,Mg+1)or 0)or c1[Sp[34311]](yb,Mg+0,ya,wf))local MO=(yD and(c1[Sp[48407]][(N(((208+137-48)),wf)and sL or nil)](yb,Mg+2)or 0)or c1[Sp[34311]](yb,Mg+1,ya,wf))local MJ=(yD and(c1[Sp[48407]][(N((537-240),wf)and sL or nil)](yb,Mg+3)or 0)or c1[Sp[34311]](yb,Mg+2,ya,wf))local Ms=(yD and(c1[Sp[48407]][(N(((374-77+(75-75))),wf)and sL or nil)](yb,Mg+4)or 0)or c1[Sp[34311]](yb,Mg+3,ya,wf))local Mn=(yD and(c1[Sp[48407]][(N(((403-59-47)),wf)and sL or nil)](yb,Mg+5)or 0)or c1[Sp[34311]](yb,Mg+4,ya,wf))local yp=yA+MO*(((0x17B-108))-(15))+MJ*((65548)-((0xB+1)))+Ms*(((16728982+48247))-((0x13-6)))yX[yp+1]=Mn end yK[5592]=nil yK[8853]=nil yK[4307]=nil end end local Me=yK[2312]local OH=(MK-1)*8 local MY=yK[7137]if not MY then MY={};yK[7137]=MY end local y1=c1[Sp[34311]](Me,OH+0,MY,wf)local y8=c4(y1,J2(yU,5)%(((0x17B-108))-(15)))yK[8099][MK]=y8 local y3=c1[Sp[34311]](Me,OH+1,MY,wf)local y7=c4(y3,yU%(((0x17B-108))-(15)))yK[7428][MK]=y7 local y0=c1[Sp[34311]](Me,OH+2,MY,wf)local y2=c4(y0,J2(yU,9)%(((0x17B-108))-(15)))yK[2205][MK]=y2 local y5=c1[Sp[34311]](Me,OH+3,MY,wf)local y4=c4(y5,J2(yU,17)%(((0x17B-108))-(15)))yK[9987][MK]=y4 local y9=c1[Sp[34311]](Me,OH+4,MY,wf)local y6=c4(y9,J2(yU,21)%(((0x17B-108))-(15)))yK[5515][MK]=y6 local Wc=c1[Sp[34311]](Me,OH+5,MY,wf)local WS=c4(Wc,J2(yU,25)%(((0x17B-108))-(15)))yK[1080][MK]=WS local We=c1[Sp[34311]](Me,OH+6,MY,wf)local Wi=c4(We,J2(yU,3)%(((0x17B-108))-(15)))yK[2288][MK]=Wi local WY=c1[Sp[34311]](Me,OH+7,MY,wf)local WT=c4(WY,J2(yU,11)%(((0x17B-108))-(15)))yK[6085][MK]=WT yK[6631]=Ok(ia,y8,y7,y2,y4,OR,Ow)if y8==(((0x14C-91))-((0x8-1)))then local ye=c1[Sp[18031]]if ye then local yi=c1[Sp[28259]]local yY=#ye if yY and yY>0 then local yT=MK+(y7 or 0)+((y2 or 0)*3)+((y4 or 0)*257)+(((0x16+0x14))-(2^3))local yk=c1[Sp[13096]][(c1[Sp[48813]](357,wf)and sL or nil)](yT/yY)local yr=yT-(yk*yY)+1 local yE=ye[yr]if yE then local yh=yE()local yR=(yi and(yh~=nil)and yi[yh])or nil if yR~=nil then yK[6631]=Os(yK[6631],yR)end end end end end if y8==((191)-(0x5))then local yw=c1[Sp[47946]](c1[Sp[48407]][(c1[Sp[48813]](297,wf)and sL or nil)],nil)local yM=c1[Sp[24629]](yw)local yH=(y7 or 0)+((y2 or 0)*17)+(y4 or 0)if yH<0 then yH=0-yH end local yn=yH+123 local ys=c1[Sp[47946]](c1[Sp[58562]],yn,(N(260,wf)and sL or nil))local yJ=c1[Sp[24629]](ys)local yO=(yM and 1 or 0)+(yJ and 2 or 0)local yy=OO(MK,y7,y2,y4,yO)if yy~=nil then yK[6631]=OJ(yK[6631],yy)end end yK[4789]=MK end do local Wk={}Wk[1]={Sp[43158],261190828}Wk[2]={Sp[21638],Oo}Wk[3]={Sp[18946],yW}Wk[4]={Sp[56794],Ok}local Wr=1 while Wr<5 do local WE=Wk[Wr]Sr(c1,WE[1],WE[2])Wr=Wr+1 end end c1[Sp[32897]]=false c1[Sp[63013]]=function(Wh,Jr)if c1[Sp[32897]]then return{}end c1[Sp[32897]]=true local WR={}local WJ=1104 local WO=175 local Wy=5847 local WW=(WJ*(128*1024)+WO*(128*2+1)+(Wy%(256*256))+(c1[Sp[17071]]))local Ww=Sc(WW)%(2147483646+1)if(Ww%(16*16))==0 then Ww=(Ww==0)and 1 or(Ww+1)end local wX,HY=1,1 local Wo=c1[Sp[24136]]local w8=c1[Sp[S3[45071]]]local w3=Wo and w8(Wo,c1[Sp[S3[33721]]])or 0 local w7=Wo and w8(Wo,c1[Sp[S3[30117]]])or 0 local w4=1 do local w0=c1[Sp[62308]]local w3=w0 and w0(w3)or 0 local w7=w0 and w0(w7)or 0 local w4=1-((w3+w7)%2)if w4~=0 then w4=w4 end end while HY<=Jr do local Wy=0 for iN=1,5 do local JE=c1[Sp[48407]]["\98\121\116\101"](Wh,wX)if JE then Wy=Wy*85+(c1[Sp[65344]][JE]or 0);wX=wX+1 end end local WO=c6(Wy/16777216)%256 local Wy=c6(Wy/65536)%256 local WW=c6(Wy/256)%256 local wZ=Wy%256 if HY<=Jr then WR[HY]=c4(WO,Ww%(16*16));Ww=(Ww*(48270+1)+(80+1))%(2147483646+1);HY=HY+w4 end if HY<=Jr then WR[HY]=c4(Wy,Ww%(16*16));Ww=(Ww*(48270+1)+(80+1))%(2147483646+1);HY=HY+w4 end if HY<=Jr then WR[HY]=c4(WW,Ww%(16*16));Ww=(Ww*(48270+1)+(80+1))%(2147483646+1);HY=HY+w4 end if HY<=Jr then WR[HY]=c4(wZ,Ww%(16*16));Ww=(Ww*(48270+1)+(80+1))%(2147483646+1);HY=HY+w4 end end return WR end c1[Sp[23341]]=false c1[Sp[22322]]=function(Wq,Wx)if c1[Sp[23341]]then return{}end c1[Sp[23341]]=true local Wv={}local Wm=Wq%(2147483646+1)if(Wm%(16*16))==0 then Wm=(Wm==0)and 1 or(Wm+1)end local WA=1 while WA<=#Wx do local Wl=Wx:sub(WA,WA+1)local WC=c1[Sp[62308]](Wl,16)or 0 local WF=c4(WC,Wm%(16*16))Wv[#Wv+1]=WF Wm=(Wm*(48270+1)+(80+1))%(2147483646+1)WA=WA+2 end local WQ=((87*9549+53*7256+2982609714)%hp)for WA=1,#Wv do WQ=c1[Sp[36332]](WQ,Wv[WA])end local Wg=1 local function WI()local WZ=Wv[Wg]+(Wv[Wg+1]*256)+(Wv[Wg+2]*65536)+(Wv[Wg+3]*16777216);Wg=Wg+4;return WZ end local WP=WI()local Wz={}for iN=1,WP do local Wf=WI()local WL=Wv[Wg];Wg=Wg+1 if WL==1 then Wz[Wf]=nil elseif WL==2 then Wz[Wf]=(Wv[Wg]==1);Wg=Wg+1 elseif WL==3 then local WN=WI()local WV=""for Mw=1,WN do WV=WV..SS[Wv[Wg]]Wg=Wg+1 end if WV=='nan'then Wz[Wf]=(0/0)elseif WV=='inf'then Wz[Wf]=(1/0)elseif WV=='-inf'then Wz[Wf]=(-1/0)else Wz[Wf]=c1[Sp[62308]](WV)end elseif WL==4 then local WN=WI()local WD=""for Mw=1,WN do WD=WD..SS[Wv[Wg]]Wg=Wg+1 end Wz[Wf]=WD end if WL==5 then local WN=WI()local WX=""for Mw=1,WN do WX=WX..SS[Wv[Wg]]Wg=Wg+1 end local W8=SS[108]..SS[111]..SS[97]..SS[100]local wW=W8..SS[115]..SS[116]..SS[114]..SS[105]..SS[110]..SS[103]local W3=(function()end)()local Wa=W3 Wa=c1[Sp[55151]](W8)if ST(Wa)~=SJ then Wa=c1[Sp[55151]](wW)end if ST(Wa)==SJ then local Wp=Wa(WX)if ST(Wp)==SJ then local W1=Wp(c2)if ST(W1)==SJ then Wz[Wf]=W1 end end end end end return Wz end c1[Sp[59191]]=c8[S9(189,S6,5)]c1[Sp[30445]]=c8[S9(257,S6,5)]c1[Sp[39090]]=c8[S9(101,S6,5)]c1[Sp[52247]]=c8[S9(436,S6,5)]c1[Sp[18118]]=c8[S9(448,S6,5)]c1[Sp[54610]]=c8[S9(564,S6,5)]do local W7={}W7[1]={Sp[62403],c8[S9(924,S6,5)]}W7[2]={Sp[31431],c8[S9(694,S6,5)]}W7[3]={Sp[52056],c8[S9(938,S6,5)]}W7[4]={Sp[44008],c8[S9(341,S6,5)]}W7[5]={Sp[31588],c8[S9(379,S6,5)]}W7[6]={Sp[61371],c8[S9(609,S6,5)]}local W0=1 while W0<7 do local W2=W7[W0]Sr(c1,W2[1],W2[2])W0=W0+1 end end c1[Sp[23727]]=function()local W5=c1[Sp[62403]]if W5 then return W5(2,(N((484-211),wf)and sL or nil))end local W4=c1[Sp[61371]]if W4 then local W9=W4(2,(N(0x111,wf)and sL or nil));return W9 and W9[(N((58*5+3),wf)and sL or nil)]end return nil end c1[Sp[S3[58843]]]=0 c1[Sp[S3[26771]]]=0 c1[Sp[S3[45301]]]=12 c1[Sp[S3[29979]]]=0 do local oe=function()return function(W6,oc,oS)if W6 then c1[Sp[S3[27166]]]=c1[Sp[S3[44069]]]+1 end if not W6 then return nil end return c1[Sp[S3[59755]]](W6,oc,oS)end end c1[Sp[S3[44793]]]=oe()end c1[Sp[53752]]=(function()local oi=c1[Sp[61885]]if c1[Sp[23538]]~=c1[Sp[61885]]then oi=c1[Sp[24454]]end local wv=Eh[(N(0x11,wf)and sL or nil)]if wv and c1[Sp[46546]]==wv then oi=c1[Sp[24454]]end c1[Sp[51722]]=oi if oi==c1[Sp[24454]]then c1[Sp[S3[27323]]](c2,c1[Sp[S3[30074]]],c1[Sp[24454]])end end)()do local oM=function(oH)return function(oY,oT,ok,oE)return oH(oY,oT,ok,oE)end end c1[Sp[S3[47275]]]=oM(function(oY,oT,ok,oE)c1[Sp[S3[34322]]]=c1[Sp[S3[38386]]]+1 h0=((h0*33)+(oE or 0))%hp if not oY then return nil end c1[Sp[S3[40280]]]=c1[Sp[S3[44992]]]+1 local oR=c1[Sp[S3[30747]]](oY,oT,ok)if not oR and oY then c1[Sp[S3[57546]]](c2,c1[Sp[S3[27704]]],c1[Sp[24454]]);c1[Sp[S3[34277]]](c2,c1[Sp[S3[51487]]],c1[Sp[24454]])c1[Sp[S3[41216]]](c2,c1[Sp[S3[33356]]],(c1[Sp[S3[26709]]](c2,c1[Sp[S3[29449]]])or 0)+1)local ow=c1[Sp[S3[46911]]](c2,c1[Sp[S3[39702]]])or{}ow[(0x8A67B+0xA676)]=c1[Sp[24454]]c1[Sp[S3[30572]]](c2,c1[Sp[S3[59987]]],ow)end return oR end)end do local o5=function(o4)return function()return o4()end end c1[Sp[S3[40389]]]=o5(function()local on=c1[Sp[36764]]or(c1[Sp[48407]]and c1[Sp[48407]][(N((530-189),wf)and sL or nil)])local oJ=c1[Sp[S3[48218]]](on,c1,Sp[58562],19)local oO=(c1[Sp[48407]]and c1[Sp[48407]][(N(0x155,wf)and sL or nil)])or oJ or on local oy=c1[Sp[52228]]or c1[Sp[24629]]local oW=c1[Sp[62403]]or(c1[Sp[30657]]and c1[Sp[30657]][(N(319,wf)and sL or nil)])local oo=(c1[Sp[30657]]and c1[Sp[30657]][(N(((383+242-264)),wf)and sL or nil)])or nil if not oW then oW=eq end if not oo then oo=ex end local oK=c1[Sp[18118]]or ST local oq=oK(oO)local ox=oK(oy)local ov=oK(oW)local oz=oK(oo)local og=0 local oP=0 local oA=0 local ol=false local oC=false local oF=false local om=false local oI=false local o8=false local o3=nil local o7=false local o0=nil local oV=nil if oO and oy then local of,oL=oy(oO,(N(((130+203-77)),wf)and sL or nil),42)ol=of and oL==(N(((340-28+(222-222))),wf)and sL or nil)if(not of)or oL~=(N((62*5+2),wf)and sL or nil)then og=og+1 end of,oL=oy(oO,(N(((374+201-322)),wf)and sL or nil),"\97",7)oC=of and oL==(N((280+20),wf)and sL or nil)if(not of)or oL~=(N(300,wf)and sL or nil)then og=og+1 end local ot=0 local oN=nil if c1[Sp[54196]]then oN=c1[Sp[54196]]({},{[(N(((400+9-41)),wf)and sL or nil)]=function()ot=ot+1;return(N(((395-35+(86-86))),wf)and sL or nil)end})end if oN~=nil then of,oL=oy(oO,(N(0x173,wf)and sL or nil),oN)oF=of and oL==(N(0x11D,wf)and sL or nil)om=ot==1 if(not of)or oL~=(N(285,wf)and sL or nil)then og=og+1 end if ot~=1 then og=og+1 end else og=og+1 end local ou=function()return 1 end local oQ=function()return 2 end local oj,oU=oy(oO,(N((485-229),wf)and sL or nil),ou)local od,oB=oy(oO,(N((28*9+4),wf)and sL or nil),oQ)oI=oj and od and oU~=oB if(not oj)or(not od)or oU==oB then og=og+1 end else og=og+2 end if og<2 and oO and oy and oW and c1[Sp[54196]]then local op=oK(oO)local oG=function(KY)local ob=nil local oZ=false local KT=c1[Sp[54196]]({},{[(N(((479-64-47)),wf)and sL or nil)]=function()oZ=true local Kk,Kr=oy(function()return oW(8,(N((289-14),wf)and sL or nil))end)if Kk then ob=Kr end return(N(((471+-78-80)),wf)and sL or nil)end})KY(function()oy(oO,(N(((180+191)),wf)and sL or nil),KT)end)return oZ,ob end local KE=function(Kw)Kw()end local Kh=function(Kw)local function KM()local function KH()local function Kn()Kw()end Kn()end KH()end KM()end local KR=function(Kw)local Ks=c1[Sp[37222]]local KJ=Ks and Ks[(N((440-106),wf)and sL or nil)]local KO=Ks and Ks[(N(((304-36+(140-140))),wf)and sL or nil)]if KJ and KO then local Ky=KJ(function()Kw()end)KO(Ky)else Kw()end end local KW,Ko=oG(KE)o8=KW o3=Ko if KW and Ko==(N((152+115),wf)and sL or nil)then oA=oA+1 end KW,Ko=oG(Kh)o7=KW o0=Ko if KW and Ko==(N((475-208),wf)and sL or nil)then oA=oA+1 end KW,Ko=oG(KR)oD=KW oV=Ko if KW and Ko==(N(((379+177-289)),wf)and sL or nil)then oA=oA+1 end end local KK=(og>=2)or(oA>=3)if KK then c1[Sp[S3[31761]]](c2,c1[Sp[S3[56256]]],c1[Sp[24454]]);c1[Sp[S3[49736]]](c2,c1[Sp[S3[31369]]],c1[Sp[24454]])local o6=c1[Sp[S3[25609]]](c2,c1[Sp[S3[42264]]])or 0 local Kc=c1[Sp[62308]]and c1[Sp[62308]](o6)or o6 if Kc==nil then Kc=0 end local KS=c1[Sp[62308]]and c1[Sp[62308]](og)or og if KS==nil then KS=0 end local Ke=c1[Sp[62308]]and c1[Sp[62308]](oP)or oP if Ke==nil then Ke=0 end local Ki=c1[Sp[62308]]and c1[Sp[62308]](oA)or oA if Ki==nil then Ki=0 end c1[Sp[S3[35152]]](c2,c1[Sp[S3[59939]]],Kc+KS+Ke+Ki)local o1=c1[Sp[S3[20393]]](c2,c1[Sp[S3[45520]]])if oK(o1)~=Ss then o1={}end if og>=2 then o1[0x57E94]=c1[Sp[24454]]end if oA>=3 then o1[(843689+20556)]=c1[Sp[24454]]end c1[Sp[S3[23385]]](c2,c1[Sp[S3[24500]]],o1)end return oJ end)end c1[Sp[S3[27868]]]()do local Kv=function()return function()local Kq=c1[Sp[60450]]return c1[Sp[S3[37437]]](Kq,c1,Sp[60450],6)end end c1[Sp[S3[37310]]]=Kv()c1[Sp[S3[55733]]]()end c1[Sp[S3[41489]]]=function()local Kz=c1[Sp[59191]]or(c1[Sp[48407]]and c1[Sp[48407]][(N((89-85),wf)and sL or nil)])local Kg=c1[Sp[S3[49611]]](Kz,c1,Sp[58562],13)local KP=0 local KA=c1[Sp[52228]]or c1[Sp[24629]]local KF=Kg or Kz if KF and KA then local Kl,KC=KA(KF,"\117\110\119\54\100\58\53\56\54\58\109\111\116\56\110\104",(N(((354+136-128)),wf)and sL or nil))if(not Kl)or KC~="\53\56\54"then KP=KP+1 end Kl,KC=KA(KF,"\113\107\122\53\107\58\45\51\55\58\109\111\116\56\110\104",(N(0x127,wf)and sL or nil))if(not Kl)or KC~="\45\51\55"then KP=KP+1 end Kl,KC=KA(KF,"\97\111\110\102\97\58\109\111\116\56\110\104",(N(((478+166-321)),wf)and sL or nil))if(not Kl)or KC~="\109\111\116\56\110\104"then KP=KP+1 end Kl,Km=KA(KF,"\97\111\110\102\97\58\109\111\116\56\110\104",(N(((233+100-27)),wf)and sL or nil))if(not Kl)or Km~=nil then KP=KP+1 end else KP=KP+1 end if KP>1 then c1[Sp[S3[38823]]](c2,c1[Sp[S3[44700]]],c1[Sp[24454]]);c1[Sp[S3[22536]]](c2,c1[Sp[S3[36506]]],c1[Sp[24454]])c1[Sp[S3[36011]]](c2,c1[Sp[S3[38531]]],(c1[Sp[S3[38340]]](c2,c1[Sp[S3[31366]]])or 0)+KP)local KI=c1[Sp[S3[52768]]](c2,c1[Sp[S3[28458]]])or{}KI[708431]=c1[Sp[24454]]c1[Sp[S3[55341]]](c2,c1[Sp[S3[23839]]],KI)end return Kg end c1[Sp[S3[23182]]]()c1[Sp[S3[33312]]]=function()local Kq=c1[Sp[10398]]return c1[Sp[S3[55771]]](Kq,c1,Sp[10398],5)end c1[Sp[S3[53111]]]()do local Kt=c1[Sp[54196]]local Ku=c1[Sp[58562]]local KQ=c1[Sp[52228]]or c1[Sp[24629]]if Kt and Ku and KQ then local Kj={}local KC={}local Kd=KQ(function()Kt(Kj,KC)end)local KU=(not Kd)or Ku(KC,(N(0x153,wf)and sL or nil))~=nil or Ku(KC,(N(((330+73-45)),wf)and sL or nil))~=nil if KU then c1[Sp[S3[34875]]](c2,c1[Sp[S3[57771]]],c1[Sp[24454]]);c1[Sp[S3[22414]]](c2,c1[Sp[S3[39504]]],c1[Sp[24454]])c1[Sp[S3[30963]]](c2,c1[Sp[S3[59483]]],(c1[Sp[S3[51447]]](c2,c1[Sp[S3[37163]]])or 0)+1)local KB=c1[Sp[S3[51035]]](c2,c1[Sp[S3[59145]]])or{}KB[(0x2A32B-47864)]=c1[Sp[24454]]c1[Sp[S3[42222]]](c2,c1[Sp[S3[41131]]],KB)c1[Sp[54196]]=({})[(({})[0])]end end end c1[Sp[S3[58291]]]=function()local Kq=c1[Sp[54196]]return c1[Sp[S3[45694]]](Kq,c1,Sp[54196],20)end c1[Sp[S3[29759]]]()do local KV=function(KD)return function()return KD()end end c1[Sp[S3[59689]]]=KV(function()c1[Sp[S3[23183]]]=c1[Sp[S3[24341]]]+1 h0=((h0*33)+15)%hp local KG=c8[S9(379,S6,5)]if KG then local Kb=KG()if Kb~=nil then c1[Sp[S3[34157]]](c2,c1[Sp[S3[39305]]],c1[Sp[24454]]);c1[Sp[S3[33512]]](c2,c1[Sp[S3[37713]]],c1[Sp[24454]])c1[Sp[S3[43903]]](c2,c1[Sp[S3[53863]]],(c1[Sp[S3[31378]]](c2,c1[Sp[S3[23510]]])or 0)+1)local KZ=c1[Sp[S3[45907]]](c2,c1[Sp[S3[25867]]])or{}KZ[0x99716]=c1[Sp[24454]]c1[Sp[S3[52266]]](c2,c1[Sp[S3[24779]]],KZ)end end end)end c1[Sp[S3[42529]]]()c1[Sp[S3[56484]]]=function()local Kq=c1[Sp[48407]]and c1[Sp[48407]][(N(269,wf)and sL or nil)]return c1[Sp[S3[30489]]](Kq,c1,Sp[58562],14)end c1[Sp[S3[54778]]]()c1[Sp[S3[55522]]]=function()local Kq=c1[Sp[33139]]return c1[Sp[S3[38168]]](Kq,c1,Sp[58562],12)end c1[Sp[S3[22689]]]()do local Kv=function()return function()local Kq=c1[Sp[64990]]return c1[Sp[S3[25338]]](Kq,c1,Sp[64990],8)end end c1[Sp[S3[32446]]]=Kv()c1[Sp[S3[57647]]]()end do local Ka=function(Kp)return function()return Kp()end end c1[Sp[S3[33893]]]=Ka(function()local Kq=c1[Sp[35986]]return c1[Sp[S3[36001]]](Kq,c1,Sp[35986],9)end)end c1[Sp[S3[42468]]]()do local xh=function(xR)local xw=xR return function()return xw()end end c1[Sp[S3[47475]]]=xh(function()local K1=c1[Sp[24629]]local K8=c1[Sp[S3[56339]]](K1,c1,Sp[24629],11)if not K8 then c1[Sp[S3[46261]]](c2,c1[Sp[S3[26847]]],c1[Sp[24454]]);c1[Sp[S3[49724]]](c2,c1[Sp[S3[41418]]],c1[Sp[24454]])c1[Sp[S3[57941]]](c2,c1[Sp[S3[52725]]],(c1[Sp[S3[42935]]](c2,c1[Sp[S3[36561]]])or 0)+1)local qX=c1[Sp[S3[26075]]](c2,c1[Sp[S3[45906]]])or{}qX[(0x672E3-14046)]=c1[Sp[24454]]c1[Sp[S3[33286]]](c2,c1[Sp[S3[27741]]],qX)end local K3=c1[Sp[30657]]local K7=c1[Sp[62403]]local K0=nil local K9=c1[Sp[52228]]or c1[Sp[24629]]local qH=c1[Sp[17866]]or c1[Sp[33139]]local K2=c1[Sp[18118]]or c1[Sp[26852]]or type if not K7 and K3 then K7=K3[(N(((343-24+(47-47))),wf)and sL or nil)]end if K3 then K0=K3[(N(((158+203)),wf)and sL or nil)]end if not K7 then K7=eq end if not K0 then K0=ex end if(not K7 or not K0)then local qT=c1[Sp[52247]]or c1[Sp[60450]]local qk=c1[Sp[52056]]or c1[Sp[58562]]if qT and qk and K9 then local K6,qr=K9(qT,0)if K6 and K2(qr)==K2({})then local qE=qk(qr,(N(271,wf)and sL or nil))if qE and K2(qE)==K2({})then if not K7 then K7=qk(qE,(N((489-170),wf)and sL or nil))end if not K0 then K0=qk(qE,(N(((457-53-43)),wf)and sL or nil))end end end end end local K5=c1[Sp[48407]]local K4=K5 and K5[(N(0x129,wf)and sL or nil)]local qL=K5 and K5[(N((112*3+2),wf)and sL or nil)]local qN=(N(0x105,wf)and sL or nil)local qt=(N((36*8+1),wf)and sL or nil)local qq=0 local qY=0 local qy=6 local qW=7 local qm=nil local qI=nil local qc=nil local qw=nil local qJ=nil local q7=nil local q0=nil local q2=nil local qx=false local qv=false local qz=false local qg=false local qP=false local qA=false local ql=false local qC=false local qF=false local oT=K2(K7)local qK=K2(K0)if K7 and K9 then local K6,Kj=K9(function()return K7(4,(N(((420-19-126)),wf)and sL or nil))end)if K6 then qc=Kj end if K6 and Kj==(N(267,wf)and sL or nil)then qq=qq+1 qx=true end end if K0 and K9 and K4 then local qS,qe=K9(K0)if qS and K2(qe)==K2("")then local qi=1 for qh=1,#qe do if K4(qe,qh)==10 then qi=qi+1 end end qm=qi end end local qf=ex or K0 if qf and K9 and K4 then local qS,qe=K9(qf)if qS and K2(qe)==K2("")then local qi=1 for qh=1,#qe do if K4(qe,qh)==10 then qi=qi+1 end end qI=qi end end if qm~=nil and qI~=nil then if qm~=qI then qq=qq+1;qv=true end qY=qI elseif qm~=nil then if qm>6 then qq=qq+1;qz=true end qY=qm end if K7 and K9 then local qR,qM=K9(function()local qM=0 for KB=1,24 do local qo,Kj=K9(function()return K7(KB,(N(((239+199-163)),wf)and sL or nil))end)if(not qo)or Kj==nil then break end qM=qM+1 end return qM end)if qR and K2(qM)==K2(0)then qw=qM end if qR and K2(qM)==K2(0)and qM>qy then qg=true end end if K7 and qH then local qn=function()return nil end local qs,qO=qH(function()local qO=0 for KB=1,24 do local qo,Kj=qH(function()return K7(KB,(N(((83+192)),wf)and sL or nil))end,qn)if(not qo)or Kj==nil then break end qO=qO+1 end return qO end,qn)if qs and K2(qO)==K2(0)then qJ=qO end if qJ~=nil and qJ>qW then qP=true end end local qa=c1[Sp[37222]]local qp=qa and qa[(N(((361-27+(24-24))),wf)and sL or nil)]local q1=qa and qa[(N(0x10C,wf)and sL or nil)]if K7 and K0 and K9 and K4 and qp and q1 then local q8=qp(function()local q5=nil local q4=nil local q9=nil local q6,xc=K9(function()return K7(4,(N(((296-21+(155-155))),wf)and sL or nil))end)if q6 then q5=xc end q6,xc=K9(K0)if q6 and K2(xc)==K2("")then local xS=1 for xe=1,#xc do if K4(xc,xe)==10 then xS=xS+1 end end q4=xS end q6,xc=K9(function()local xS=0 for xi=1,24 do local xY,xT=K9(function()return K7(xi,(N(0x113,wf)and sL or nil))end)if(not xY)or xT==nil then break end xS=xS+1 end return xS end)if q6 and K2(xc)==K2(0)then q9=xc end return q5,q4,q9 end)local q3,xk,xr,xE=q1(q8)if q3 then q7=xk;q0=xr;q2=xE end if q7 then qq=qq+1;qA=true end if q0~=nil and q0>6 then qq=qq+1;ql=true end if q2~=nil and q2>7 then qq=qq+1;qC=true end end local qu=nil if K4 and qL then local qQ=#qN local qj=1 while qj<=qQ do local qU=K4(qN,qj)if qU==58 then local qd=qj+1 while qd<=qQ do local qB=K4(qN,qd)if qB==58 then qu=qL(qN,qj+1,qd-1)qd=qQ+1 qj=qQ+1 end qd=qd+1 end end qj=qj+1 end end if qu~=qt then qq=qq+1;qF=true end if qq>0 then c1[Sp[S3[27642]]](c2,c1[Sp[S3[53605]]],c1[Sp[24454]]);c1[Sp[S3[53166]]](c2,c1[Sp[S3[36286]]],c1[Sp[24454]])c1[Sp[S3[24255]]](c2,c1[Sp[S3[46122]]],(c1[Sp[S3[20931]]](c2,c1[Sp[S3[53820]]])or 0)+qq)local qD=c1[Sp[S3[52389]]](c2,c1[Sp[S3[54611]]])or{}qD[(657545+11661)]=c1[Sp[24454]]qD[0xE9F1F]=(q7~=nil)c1[Sp[S3[25052]]](c2,c1[Sp[S3[46918]]],qD)end return K8 end)end c1[Sp[S3[54392]]]()c1[Sp[S3[36343]]]=function()local Kq=c1[Sp[58562]]return c1[Sp[S3[43302]]](Kq,c1,Sp[58562],7)end c1[Sp[S3[50923]]]()do local xM=c1[Sp[54196]]local xH=c1[Sp[58562]]local xn=c1[Sp[52228]]or c1[Sp[24629]]if xM and xH and xn then local xJ=function()return 19053 end local xO=function()return 27243 end local q0={}local xs={[(N((251+88),wf)and sL or nil)]=xJ,[(N((71*5+3),wf)and sL or nil)]=xO}local xy=xn(function()xM(q0,xs)end)local xW=(not xy)or xH(xs,(N(339,wf)and sL or nil))~=xJ or xH(xs,(N((407-49),wf)and sL or nil))~=xO if xW then c1[Sp[S3[49744]]](c2,c1[Sp[S3[24657]]],c1[Sp[24454]]);c1[Sp[S3[27676]]](c2,c1[Sp[S3[31752]]],c1[Sp[24454]])c1[Sp[S3[50838]]](c2,c1[Sp[S3[52417]]],(c1[Sp[S3[59924]]](c2,c1[Sp[S3[24478]]])or 0)+1)local KB=c1[Sp[S3[31639]]](c2,c1[Sp[S3[32598]]])or{}KB[(0xD494F+40910)]=c1[Sp[24454]]c1[Sp[S3[23860]]](c2,c1[Sp[S3[45962]]],KB)c1[Sp[54196]]=({})[(({})[0])]end end end do local xK=function(xq)local xx=xq return function()return xx()end end c1[Sp[S3[31630]]]=xK(function()if c1[Sp[S3[46143]]]~=c1[Sp[S3[25103]]]then c1[Sp[S3[50824]]](c2,c1[Sp[S3[59433]]],c1[Sp[24454]]);c1[Sp[S3[51761]]](c2,c1[Sp[S3[29630]]],c1[Sp[24454]])c1[Sp[S3[54952]]](c2,c1[Sp[S3[41210]]],(c1[Sp[S3[53469]]](c2,c1[Sp[S3[39839]]])or 0)+1)local xo=c1[Sp[S3[50402]]](c2,c1[Sp[S3[28581]]])or{}xo[(907927+0xC0D4)]=c1[Sp[24454]]c1[Sp[S3[57199]]](c2,c1[Sp[S3[57038]]],xo)end if c1[Sp[S3[38500]]]~=c1[Sp[S3[41720]]]then c1[Sp[S3[38053]]](c2,c1[Sp[S3[22919]]],c1[Sp[24454]]);c1[Sp[S3[23137]]](c2,c1[Sp[S3[32389]]],c1[Sp[24454]])c1[Sp[S3[53848]]](c2,c1[Sp[S3[28041]]],(c1[Sp[S3[34984]]](c2,c1[Sp[S3[57206]]])or 0)+1)local xo=c1[Sp[S3[39200]]](c2,c1[Sp[S3[21253]]])or{}xo[0xD6BC6]=c1[Sp[24454]]c1[Sp[S3[23457]]](c2,c1[Sp[S3[51765]]],xo)end end)end c1[Sp[S3[45615]]]()c1[Sp[63941]]=(N(((43+279)),wf)and sL or nil);c1[Sp[15231]]=(N(((85+264)),wf)and sL or nil);c1[Sp[20048]]=(N((310-48),wf)and sL or nil);c1[Sp[62827]]=(N(((192-112+20-20)),wf)and sL or nil);c1[Sp[24641]]=(N((498-189),wf)and sL or nil);c1[Sp[12255]]=(N((493-162),wf)and sL or nil);Sy=(N(((251+179-88)),wf)and sL or nil);c1[Sp[15727]]=Sy c1[Sp[34312]]=1 c1[Sp[43922]]={}Se=-1 Si=false c1[Sp[51951]]={}c1[Sp[16988]]=nil c1[Sp[58302]]=c1[Sp[54196]]({},{__mode='k'})local xz={}local xl={}c1[Sp[54196]](xl,{[(N(((169+170)),wf)and sL or nil)]=function(_,ia)local xv=c8[S9(567,S6,5)](1)if xv then local ip=xv[ia]if ip~=nil then return ip end if xz[ia]then return nil end end return c1[Sp[55151]](ia)end})c1[Sp[14574]]=c1[Sp[54196]]({},{[(N(((412+43-116)),wf)and sL or nil)]=xl,[(N(((162+196)),wf)and sL or nil)]=function(_,xg,xP)local xA=c8[S9(567,S6,5)](1)Sr(xA,xg,xP)if xP==nil then xz[xg]=true else xz[xg]=nil end end})do local xC=c8[S9(567,S6,5)]local xF=function(xm)if xm==nil or xm==0 or xm==1 then return c1[Sp[14574]]end return xC(xm)end Sr(c1[Sp[14574]],(N((48-31),wf)and sL or nil),xF)end c1[Sp[58310]]={[156]={1,152889012,4,85,109},[161]={1,1477720988,13,67,101},[254]={1,166083461,5,112,116},[504]={2,665595109,6,115,103,183025161,4,98,101},[509]={1,308590609,12,115,101},[530]={1,117641890,4,69,109},[533]={1,117641890,4,69,109},[535]={1,701107799,5,85,50},[540]={1,117641890,4,69,109},[545]={1,117641890,4,69,109},[547]={1,701107799,5,85,50},[549]={1,642594509,6,67,51},[554]={1,152889012,4,85,109},[565]={1,568322340,8,116,103},[574]={2,207342301,4,109,104,618925813,5,99,112},[575]={2,207342301,4,109,104,748544946,5,114,100},[576]={1,701107799,5,85,50},[577]={1,568322340,8,116,103},[578]={1,117641890,4,69,109},[579]={1,117641890,4,69,109},[580]={1,117641890,4,69,109},[581]={1,117641890,4,69,109},[583]={1,568322340,8,116,103},[584]={1,1543887935,8,73,101},[586]={1,306825764,7,86,51},[588]={1,117641890,4,69,109},[591]={1,642594509,6,67,51},[594]={1,223078810,4,116,107},[597]={2,207342301,4,109,104,1575415247,3,115,110},[598]={1,223078810,4,116,107},[600]={1,1543887935,8,73,101},[604]={1,642594509,6,67,51},[608]={1,117641890,4,69,109},[619]={1,306825764,7,86,51},[622]={1,701107799,5,85,50},[625]={1,152889012,4,85,109},[631]={1,201538364,6,105,115},[634]={1,223078810,4,116,107},[635]={1,568322340,8,116,103},[637]={1,223078810,4,116,107},[638]={1,568322340,8,116,103},[639]={1,223078810,4,116,107},[640]={1,568322340,8,116,103},[646]={1,223078810,4,116,107},[648]={1,568322340,8,116,103},[649]={1,223078810,4,116,107},[650]={1,568322340,8,116,103},[651]={1,223078810,4,116,107},[652]={1,568322340,8,116,103},[653]={1,223078810,4,116,107},[654]={1,568322340,8,116,103},[655]={1,201538364,6,105,115},[660]={1,568322340,8,116,103},[667]={1,1543887935,8,73,101},[669]={1,642594509,6,67,51},[670]={1,117641890,4,69,109},[674]={1,568322340,8,116,103},[677]={1,132224538,5,112,108},[678]={1,223490275,4,116,101},[679]={1,201538364,6,105,115},[684]={1,201538364,6,105,115},[692]={1,132224538,5,112,108},[695]={1,117641890,4,69,109},[699]={1,306825764,7,86,51},[703]={1,223078810,4,116,107},[704]={1,201538364,6,105,115},[705]={1,132224538,5,112,108},[706]={1,306825764,7,86,51},[708]={1,568322340,8,116,103},[713]={1,1466247317,6,67,101},[714]={1,891012333,6,117,107},[716]={1,529504970,6,115,116},[718]={1,223078810,4,116,107},[719]={1,306825764,7,86,51},[720]={1,132224538,5,112,108},[721]={1,568322340,8,116,103},[724]={1,1466247317,6,67,101},[725]={1,891012333,6,117,107},[726]={1,529504970,6,115,116},[727]={1,132224538,5,112,108},[732]={1,223078810,4,116,107},[733]={1,132224538,5,112,108},[734]={1,117641890,4,69,109},[736]={1,306825764,7,86,51},[739]={1,568322340,8,116,103},[742]={1,306825764,7,86,51},[743]={1,223078810,4,116,107},[744]={1,223078810,4,116,107},[745]={1,117641890,4,69,109},[755]={1,127866437,5,112,115},[758]={1,1543887935,8,73,101},[759]={1,568322340,8,116,103},[761]={1,127866437,5,112,115},[762]={1,1543887935,8,73,101},[765]={1,568322340,8,116,103},[777]={1,986663478,7,103,118},[781]={1,1543887935,8,73,101},[783]={1,306825764,7,86,51},[786]={1,117641890,4,69,109},[790]={1,568322340,8,116,103},[791]={1,132224538,5,112,108},[793]={1,201538364,6,105,115},[795]={1,223078810,4,116,107},[799]={1,132224538,5,112,108},[800]={1,306825764,7,86,51},[803]={1,1466247317,6,67,101},[805]={1,223214002,4,116,107},[807]={1,1466247317,6,67,101},[811]={1,306825764,7,86,51},[812]={1,223078810,4,116,107},[817]={2,207342301,4,109,104,1575397028,3,114,100},[818]={1,986663478,7,103,118},[819]={1,1466247317,6,67,101},[820]={1,117641890,4,69,109},[824]={1,127866437,5,112,115},[825]={1,568322340,8,116,103},[827]={1,365682462,8,115,115},[829]={1,117641890,4,69,109},[832]={1,127866437,5,112,115},[835]={1,117641890,4,69,109},[836]={1,117641890,4,69,109},[837]={1,701107799,5,85,50},[838]={1,117641890,4,69,109},[840]={1,1543887935,8,73,101},[842]={1,642594509,6,67,51},[844]={1,152889012,4,85,109},[847]={1,117641890,4,69,109},[851]={1,701107799,5,85,50},[853]={2,207342301,4,109,104,1575311243,3,109,120},[858]={1,642594509,6,67,51},[860]={1,568322340,8,116,103},[862]={1,642594509,6,67,51},[864]={1,568322340,8,116,103},[867]={2,207342301,4,109,104,1502666094,5,102,114},[868]={1,1543887935,8,73,101},[871]={1,701107799,5,85,50},[872]={1,568322340,8,116,103},[877]={2,207342301,4,109,104,1575311243,3,109,120},[878]={1,223078810,4,116,107},[880]={1,642594509,6,67,51},[884]={1,117641890,4,69,109},[887]={1,306825764,7,86,51},[890]={1,223078810,4,116,107},[891]={1,306825764,7,86,51},[892]={1,223078810,4,116,107},[893]={1,568322340,8,116,103},[897]={1,117641890,4,69,109},[901]={1,306825764,7,86,51},[904]={1,132224538,5,112,108},[905]={1,223078810,4,116,107},[906]={1,117641890,4,69,109},[907]={1,201538364,6,105,115},[909]={1,568322340,8,116,103},[910]={1,223078810,4,116,107},[913]={1,201538364,6,105,115},[914]={1,568322340,8,116,103},[915]={1,223078810,4,116,107},[921]={1,642594509,6,67,51},[924]={1,117641890,4,69,109},[933]={1,201538364,6,105,115},[939]={1,642594509,6,67,51},[940]={1,223078810,4,116,107},[943]={1,568322340,8,116,103},[944]={1,642594509,6,67,51},[945]={1,642594509,6,67,51},[946]={1,642594509,6,67,51},[949]={1,568322340,8,116,103},[950]={1,642594509,6,67,51},[953]={1,568322340,8,116,103},[958]={1,568322340,8,116,103},[959]={1,568322340,8,116,103},[961]={1,642594509,6,67,51},[962]={1,642594509,6,67,51},[963]={1,642594509,6,67,51},[965]={1,1543887935,8,73,101},[966]={1,701107799,5,85,50},[968]={1,642594509,6,67,51},[969]={1,152889012,4,85,109},[971]={1,117641890,4,69,109},[986]={1,201538364,6,105,115},[989]={1,568322340,8,116,103},[991]={1,568322340,8,116,103},[992]={1,201538364,6,105,115},[993]={1,642594509,6,67,51},[995]={1,1543887935,8,73,101},[997]={1,306825763,7,86,50},[999]={1,701107799,5,85,50},[1001]={1,117641890,4,69,109},[1005]={1,193852835,4,103,101},[1006]={1,568322340,8,116,103},[1010]={1,1543887935,8,73,101},[1011]={1,701107799,5,85,50},[1012]={1,642594509,6,67,51},[1013]={1,152889012,4,85,109},[1015]={1,117641890,4,69,109},[1020]={2,207342301,4,109,104,184928598,4,99,108},[1026]={1,201538364,6,105,115},[1029]={1,306825763,7,86,50},[1032]={1,568322340,8,116,103},[1034]={1,642594509,6,67,51},[1036]={1,568322340,8,116,103},[1039]={1,568322340,8,116,103},[1040]={1,127866437,5,112,115},[1044]={1,132224538,5,112,108},[1045]={1,201538364,6,105,115},[1048]={1,568322340,8,116,103},[1050]={1,365682462,8,115,115},[1051]={1,117641890,4,69,109},[1053]={1,1637971583,9,115,112},[1054]={1,132224538,5,112,108},[1056]={1,642594509,6,67,51},[1057]={1,1543887935,8,73,101},[1064]={1,568322340,8,116,103},[1066]={1,365682462,8,115,115},[1067]={1,117641890,4,69,109},[1069]={1,127866437,5,112,115},[1070]={1,568322340,8,116,103},[1072]={1,365682462,8,115,115},[1073]={1,117641890,4,69,109},[1076]={1,568322340,8,116,103},[1080]={1,568322340,8,116,103},[1081]={1,1575080955,10,108,103},[1082]={1,193852835,4,103,101},[1085]={1,568322340,8,116,103},[1086]={1,1575080955,10,108,103},[1087]={1,193852835,4,103,101},[1091]={1,568322340,8,116,103},[1094]={1,568322340,8,116,103},[1096]={1,568322340,8,116,103},[1098]={1,1227540486,8,116,114},[1099]={1,223078810,4,116,107},[1100]={1,568322340,8,116,103},[1103]={1,568322340,8,116,103},}c1[Sp[57791]]={}local xI=658141495 local xf=2147483647 c1[Sp[10195]]=function(xt,xu)local xL=c1[Sp[58310]]local xQ=xL and xL[xt]or nil if not xQ then return nil end local xN=c1[Sp[57791]]local xj,xd,xB local xa xa=function(xB,xU)if c1[Sp[26852]](xB)~=Sn then return false end local xb=#xB local xZ=2+((xU-1)*4)if xb~=xQ[xZ+1]then return false end local xD=c1[Sp[48407]][(N((236+61),wf)and sL or nil)]if xD(xB,1)~=xQ[xZ+2]then return false end if xD(xB,xb)~=xQ[xZ+3]then return false end local xV=xI for xU=1,xb do xV=((xV*131)+xD(xB,xU))%xf end return xV==xQ[xZ]end local x0=c1[Sp[24629]]local x6=c1[Sp[12275]]if not x6 then x6=c8[S9(777,S6,5)]end local vi vi=function(xX,xB)if xX==nil or xB==nil then return nil end if x0 then local x2,x5=x0(function()return xX[xB]end);if x2 then return x5 end;return nil end if c1[Sp[26852]](xX)==Ss then return xX[xB]end return nil end local ve ve=function(xB)local xG=vi(c1[Sp[14574]],xB);if xG~=nil then return xG end xG=vi(Eh,xB);if xG~=nil then return xG end xG=vi(c1[Sp[39917]],xB);if xG~=nil then return xG end local x7=c8[S9(567,S6,5)]if not x7 then x7=c8[S9(567,S6,5)]end if x7 and x0 then local x2,x5=x0(x7);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end x2,x5=x0(x7,0);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end x2,x5=x0(x7,1);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end end local x4=c1[Sp[55151]]if x4 and x0 then local x9=x4((N((20-12),wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end end x9=x4((N(((538-129-98)),wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end end x9=x4((N(((116+194)),wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9);if x2 then xG=vi(x5,xB);if xG~=nil then return xG end end end end return nil end xj=xN[xt]if xj then xd=xu for xU=1,xQ[1]do xB=xj[xU]if xU==1 and xd==nil then xd=ve(xB)else xd=xd and xd[xB]or nil end if xd==nil then return nil end end return xd end local xp xp=function(xX,xU)if c1[Sp[26852]](xX)~=Ss then return nil,nil end for xB,xG in c1[Sp[53808]](xX)do if xa(xB,xU)then return xB,xG end end return nil,nil end xj={}if xu~=nil then xB,xd=xp(xu,1)else local x8={}local x3=0 local x1=function(xX)if c1[Sp[26852]](xX)==Ss then x3=x3+1;x8[x3]=xX end if x6 then local x2,vc=true,nil if x0 then x2,vc=x0(x6,xX)else vc=x6(xX)end if x2 and vc then local vS=vc[(N(((229+222-112)),wf)and sL or nil)];if c1[Sp[26852]](vS)==Ss then x3=x3+1;x8[x3]=vS end end end end x1(c1[Sp[14574]])x1(Eh)x1(c1[Sp[39917]])local x7=c8[S9(567,S6,5)]if not x7 then x7=c8[S9(567,S6,5)]end if x7 and x0 then local x2,x5=x0(x7)if x2 then x1(x5)end x2,x5=x0(x7,0)if x2 then x1(x5)end x2,x5=x0(x7,1)if x2 then x1(x5)end end local x4=c1[Sp[55151]]if x4 and x0 then local x9=x4((N(0x8,wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9)if x2 then x1(x5)end end x9=x4((N(((448+83-220)),wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9)if x2 then x1(x5)end end x9=x4((N((295+15),wf)and sL or nil))if c1[Sp[26852]](x9)==SJ then local x2,x5=x0(x9)if x2 then x1(x5)end end end for xU=1,x3 do xB,xd=xp(x8[xU],1)if xB~=nil then break end end end if xB==nil then return nil end if xd==nil then return nil end xj[1]=xB for xU=2,xQ[1]do local x5 xB,x5=xp(xd,xU)if xB==nil or x5==nil then return nil end xd=x5 xj[xU]=xB end xN[xt]=xj return xd end c1[Sp[12185]]=c8[S9(112,S6,5)]c1[Sp[15419]]=0 c1[Sp[30098]]=0 c1[Sp[52644]]=function()local vH=c1[Sp[30657]]and c1[Sp[30657]][(N(((514-99-96)),wf)and sL or nil)]if ST(vH)==SJ then local _r=vH(1,(N(((28+280)),wf)and sL or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local vn=c1[Sp[30657]]and c1[Sp[30657]][(N(0x144,wf)and sL or nil)]if ST(vn)==SJ then local vs=vn(1,(N((102*3+2),wf)and sL or nil))local _r=(vs and vs[(N(((498+-153-18)),wf)and sL or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end return 0 end c1[Sp[57832]]=function()local vH=c1[Sp[30657]]and c1[Sp[30657]][(N((39*8+7),wf)and sL or nil)]if vH then local vJ=vH(1,(N((291+17),wf)and sL or nil))local _r=(vJ or 0)*1+0 if _r<=0 or _r>49157 then _r=0 end return _r end local vn=c1[Sp[30657]]and c1[Sp[30657]][(N(((410-55-31)),wf)and sL or nil)]if vn then local vs=vn(1,(N(308,wf)and sL or nil))local _r=(vs and vs[(N(0x147,wf)and sL or nil)]or 0)*1+0 if _r<=0 or _r>49157 then _r=0 end return _r end return 0 end c1[Sp[23782]]=function()local vO={}vO[1]=c1[Sp[30657]]local wT=(N(0x13F,wf)and sL or nil)if vO[1]and vO[1][wT]then local _r=vO[1][wT](1,(N((407-99),wf)and sL or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local vy=(N(((348-24+(138-138))),wf)and sL or nil)if vO[1]and vO[1][vy]then local vs=vO[1][vy](1,(N(((386-58-20)),wf)and sL or nil))local _r=(vs and vs[(N((551-224),wf)and sL or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end return 0 end c1[Sp[44715]]=function()local vW=c1[Sp[55151]]((N((38*7+5),wf)and sL or nil))if vW then local wx=Sk(vW,(N((301+18),wf)and sL or nil))if wx then local _r=wx(1,(N(0x134,wf)and sL or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local wx=Sk(vW,(N(((5+319)),wf)and sL or nil))if wx then local vs=wx(1,(N(((263+83-38)),wf)and sL or nil))local _r=(vs and vs[(N((225+102),wf)and sL or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end end return 0 end local vM=c1[Sp[S3[35575]]]()local So=0 c1[Sp[S3[49062]]]=function(...)local vo=c8[S9(849,S6,5)];local vK=(vo and vo(1)or 0)*1+0;if vK<=0 or vK>49157 then vK=0 end;So=vK;return(...)[...]end c1[Sp[S3[42429]]](c2,c1[Sp[S3[22779]]],c1[Sp[61885]])local vq={}Sr(vq,"__mode","k")c1[Sp[42109]]=c1[Sp[54196]]({},vq)c1[Sp[55294]],c1[Sp[9850]],c1[Sp[63541]],c1[Sp[47952]],c1[Sp[46592]],c1[Sp[18730]],c1[Sp[22095]]=(N(339,wf)and sL or nil),(N(358,wf)and sL or nil),(N(287,wf)and sL or nil),(N(350,wf)and sL or nil),(N(352,wf)and sL or nil),(N(329,wf)and sL or nil),(N(368,wf)and sL or nil)local C=nil c1[Sp[S3[53800]]](c2,c1[Sp[S3[59743]]],c1[Sp[61885]])c1[Sp[S3[22012]]](c2,c1[Sp[S3[34811]]],c1[Sp[61885]])c1[Sp[40032]]=function()end c1[Sp[46497]]={}local vx={}c1[Sp[57566]]=vx vx[4]=1104 vx[5]=175 vx[6]=5847 vx[3]=43346 vx[2]=c1[Sp[45876]]do local vv=(vx[4]*131072+vx[5]*257+(vx[6]%65536)+(c1[Sp[17071]]))vx[1]=Sc(vv)%h1 local vz=vx[1]vx[13]=((vz*48271+vx[2])%h1)local vg=vx[13]vx[7]=Sc(c4(vz,vg))%h1 end c1[Sp[60690]]=66 c1[Sp[34723]]=6 c1[Sp[26907]]=89 c1[Sp[40493]]=30 c1[Sp[32884]]=47 c1[Sp[15548]]=23 c1[Sp[25029]]=4 c1[Sp[36877]]=83 local vP={}do local vA="Ycr%4*U*XX&*kf-NRPyg**I=q;f]8W:k**5_)|2q9*[4{qzu+GK#@ag9o5b((t<XHw<4**p*],LD-N**R+RG8^Xu@H/*y.G*6*|QPEtqSu~;S##}fU.*cz&[8*JfkQFWWkE,NWnH}wK8C2SKl9Z8**B=)gGuYAEe?RDb<05cm2Wv)TwEI4d`%iX|L4DqK?hF499/u*k-#40iyk[*@@L4~b8*e(rD8Rd*K8G~ZrE{FCf].*zQDn4*#ffUc:D=E,t*r<=wxly7@EX%S!`s|qvt(q&^$@8*/4Zs@lZr8^+rl7EsFUW2B7l9h4**`=)g:u[#m*Tqt;gF$t,Qyep*>_}*7t}nD4Le-4t*f=)g`!PAk8Bp^ptvaU7*?dK390kCzGQap;y:FB9Za!0*4!ms2~cX%o}4,U,mP|n4QhY<RP/fj!~[+bCk**.7LIy.NreV;XG/}:Ec7DljA^|)H}w+6#D0@Q9vz(e^}ndLfq:@5rJYFUaN!4[=-)WJJCzrEwy!`S@chm{wM`[P?t=S}aQTm+tnlo#eOU*k:<|thzT6,q@E2Nd26;|068Qy3H?9g-Z^^S|d34fS6evO#sB}z10=A-V0}?z!p&f-=aO$m%s<DP,1iOE4o*&mwOc:R6m1GIV1AOQ&s:cyV.d48*LX0[h:AIK(R46i8^r^b~Vq2~A_3e^8/:D*}Z%6+94eRX(BUHzYy0?{rt!4YCk9nY/<R.N^$P;&uKk9a5:,-xDA0ih9hS1i5k4q#/7PyFQQa***0*Q|aI{W?9so=;g/J?%$LO8!vJ**ldpw~F;U%-**K0t]GJ[eXOv$diHSd8vbnh[eXOT,*"local vl=h5(vA)vl=My(vl,3566)local vC=c1[Sp[41520]](vl)local vQ=c1[Sp[48407]][(N(297,wf)and sL or nil)]local vj=c1[Sp[48407]][(N(338,wf)and sL or nil)]local vF=1 local function vd()local a=vQ(vC,vF)or 0 local b=vQ(vC,vF+1)or 0 vF=vF+2 return a+(b*256)end local vm=vd()for vI=0,vm-1 do local vf=vd()local vt={}for vL=1,vf do local vN=vd()local vu=vj(vC,vF,vF+vN-1)vF=vF+vN vt[vL]=vu end vP[vI]=vt end end c1[Sp[50244]]=vP C=(function()local v3=43346 local v7=vx[7]vx[14]=Sc(c4(v3,v7))%h1 local vG=false local vD=(ST(bit32)==Ss and bit32)or(ST(bit)==Ss and bit)local vV=(vD and vD.bxor)or function(wZ,wV)local wD,wX=0,1 while wZ>0 or wV>0 do local v2,wp=wZ%2,wV%2 if v2~=wp then wD=wD+wX end wZ,wV=(wZ-v2)/2,(wV-wp)/2 wX=wX*2 end return wD end local vb=function(Me,vZ,va,vp,v1,v8)if vG then return{}end vG=true local v5=265539181 if v1>0 then for v4=vp+1,vp+v1 do local v9=Sk(va,v4)or 0 v5=(v5*33+((v9==v8)and 1 or 0))%2147483647 end end local zc=v5 vx[15]=zc local v0=vx[14]local v7=vx[7]local zS=Sc(vV(vV(v0,v7),zc)+57005)%2147483647 vx[16]=zS local vz=vx[1]local vB=vV(vz,zS%256)if(vB%(16*16))==0 then vB=(vB==0)and 1 or(vB+1)end local Mo={}local sv=vB Mo=h5(Me)local JT=vZ or#Mo for Mc=1,JT do local wD=Mo[Mc]or 0 Mo[Mc]=vV(wD,sv%(16*16))sv=(sv*(48270+1)+(80+1))%(2147483646+1)end return Mo end local ze=function(va,vp,v1,v8)local vU=vb("hdWV+8=ZXCSEV(X4TS+5<.Im8M+6Q(l=}Q@%K3`c<;sY[pu~0n#`R4<LA$~/mJr+pGCpa$6QD,i?{;L}(tIY)3-!NVQ?z`IVZjj_(=WLR>,n&W3D*Xu-,t^0z1E):o?B}&F1SLVkt=1,tF@z/p~D$Lk@]KE%-O:;&Zj+JFhQc&,LdB[w5wib>eXuHUXkDV.:QD=zWd$(uEFS;(yA4-Oq;rcGI>_sRrFc$bTXXJ}y;:AuNZA0&Ame|H;myTRMQw9mdN9HwrS9N|!.1f3+]1^edbE@_J[fGg243<!wDrG})EQ7#bq$$_gz!gN(jj8mo*DA8[_aDYycdrRF8DVg2uXl4{;`x8lL+}[:|9zx2WS5xq6AAn)qS?Z6s3I;9+Q5gqN1I(I<}z;*fcBw!-H#0ev-mZ;N_M5{:%lh57{jKjn5X!6n!ZRqhC/#:l1)p-%:21.W$P[06v!`f$qrk#cU7E,c.5VF]cQKP=oui)~<]N{i?uoDC[d-M&V>fAk9fW?(v}l[8wVx53iB-NxTl+TRaJC{xN>EhGBE}AFHORN+i(gYX1ZqLRT~e}d4F]Y!cH2ixA1HsG6v<#q#&/VB+_Kyt`5Jmb%~Qy1Ns0H1S!+vN1U1{zENa3&Ve+2rUu7u*{=LW[B>n7*A}<wTo&35VYwcl;+bZdFW)d6UwMZ;R&fZs%itBO~`)_mp92;0+UjQ!q)2-f2)?I?I$<ayYl9P4kXuTIzn{DMWNR6QB#H806h4sX1m+>:xVav+=_o=dR]4[5V+/qQpYmmzg}X&.UvlzFDQ3hb]@v+.8+Y$kx&r,EVJ/m+V5wPV@3_.GUeRMNK9KvP60=J2z:r{Z!BAVE,Xv,kR#ZC6l,IP[a~eYD$MbI`}R3~;#bN;:j@8H$]t2<j/tvDg=q^t2F-&+}c`W8Rwm&-L&yBc.VF#H{eF&&eRf@/y#m,fNh9L_KgEop?2&OP54dLe}`alhP,d>!{Vv|=_SHB~PNox0]s+2Rz3v$)&1M(%`0u)a1Lagj3oQDt13|7UmF!KVb[=I(Cjo]Y5NEQ$aMf`bu&g}N:r6U&LPRb|P6Cn,C[FVH!V6kCz2Z~@L$vk04^84%u]2BD=>9O5y%z-I$qW&g8HJue7;r*D7?.Z0:.L#4y3?+6g^PV84dp9RBpizXL!k/(8&bpCgICN.vyl~![<6U(<kC;k,?HkW53L`?^dIda?iT?b+=gWC?s-bQWrKjUiu&P;^8&+Y!VYNm`5}-PfHJ]r:kBNZWwRk=efq[^s;-^6=m}2KHAL:!1FVW!-&b8K#jy04}j&8)Z`=>BWPrqH*CkvfH{KN<cywFN^<O],gu+I-DVx%X}VgqrwR%8p3mnRp`9@m{cC+7yS.[_5Q:/46%Pe{BKJk>A>a@ejX,LVuzeLNPw^@q.d?kLp;cqM$dd.3o/nUqL0DultToeb%a-QE&BQVF|oDcz+Y_w<)=illdr<*=h#XM&e.495a6tN67>.nN;}gr:B=hh|I7S_8AOL#(o5uZ/V|a%b>$)~}Z1)]}T-r{GSBkgY5WT25bjoF?U:PFmnNSR5;zIF]rmUUF*WzPhBo:cH$,UAuXkf+_sh%MNHjb^1=yU[JLRT~y%tz[Als~Aec[g-,ceIlghlLR`zS%k(g.VX&qx#!q8<idWUZl4[LWD#d7)^}z>fxbC-smzS?;4&`cW?Kj]5TtC1lt&T~S&_t[Aw}rCE4}DQ/g0:V?,X;I,p`03`Ggdu2OrpK{C8pc-[uf|<-QvcNIU~Ymz_Df?v&<83p]hc_U5wjHe;+tC8MR^JutmK;ne)o)L!R~&/R?G3A5tq)x|[*rc#/2]LqJmQB>s)>W|,y38Rc!6js{dxY1!P~hD)GqK6Zvrja%}W5<%QXsBcVCsw2:L=v}Sx-IYN8amclKp%#M_78b%Y.bhXiwVtoTMYug!ZTJ>vbpvKJ%W3j1M3N+y?!S=5DMoIP.Q_-nb~H]BMoJ**?}Eu?}:%&0PQeUI;c3mg{/D8B8`Y9:F7CUo{`c^PUquSD(zdsT;[1,>/vA2Gy,|lG7O]7ngl5d:0qziqKFdtmhl6;F:QCeJisV(+/Rk(O9J!0en-&E/)7$!qq4z{.rQ2.VW7}VMafKl<~N8T9w=dtS;jYxXJlaw4nr1E>|m(TGK)0|Bl+v4LE<|ooPR%T>3v;b`lwxlWn)Ng{P0CQ11+Do34DT5hnR.yVxS<43bN.&2F=B0a:ZXRtfQssp5+y/<[PgO.gBSSD2ZA}bGJ:_Tncs#S8rrx{EbM(];=1Od4fYg!>!0I_[E](9sj8[V]4;^S_VlG5BT.mXhjFhu)<VkI}RbJ_`Jq6OyY<$GKrwPG5fymh_LKQ})O?Mp8oZECh#I$`&8>P+|rRZkB,p1/CvUeOavb%j?@NY9+UO^?;icbFr<LOI>hd.a.iT-[4$Ir(PM3NwIZ|top0^rWyaGOQE08|Q8=kdEx;<(]X::v^~rdmokGPpgvf`[G.:[[W&.)$zx&AcRP>dL<N/tu_fP8{j@VVx3U]BT9kaxh5$VV@1~IeBoHP5SJ:su]0YU}N1MwPqJ|M5I5ft%dXjToQ~=rkBV6#v#=#ClG_%kz02dA@Q]+_+dOTd48X9)M)D|*q$MOL+=Rmq2Qf#%mNkMX^H|MdyS|ezw,7jp;2GW0+71!;h0tvgKCl,vXZF.7`)&8/IV,qA8gz[=iQ/<;zFG?v}4&o#H7U;fYdGAjdA~zy0/R}YmFm,5I2%/>sQvk{QaFuix}Sf@h4-!UtPV>Hw`=%Cx0D875{Eo:L6t=Nl|.}z^3N2Zy_cQh+R!wiy4f&~U|M4i9yQ)zDyjxDOK6oebw6@;I]r>sQgSNl/8p2O>iB3~OycZecF/o^,3ic(Q;(_y]}6p#A3q2*`U[w2k}7%$*)A*;H0(O2<9L}Pk91~@MR>PGrF.iEcRr%hv&BY3,,j[QBBx15kuR!O`P(U`ya4AtX`U9KOsSTt}{}I#k<0:68Fv7tFCstGT0Dy>O.u~>n#+_UiN>>-cfz!G$}VbiVqgvF=h9EW/`ZHTq@nm)SUL:G0bz~Sc7%<!g*xF?t(|`XJ%C.SyXThbhI(P&HXCQ[$*H{$_:1fHgC@)@[!zTFLiLrSiu>SS5[ftt<fg|M?.~RS1}(gAbA+[eO3DUIY=QL|I.Gq&t[wBcwr!d[mNWuZK}5iKo(]heka!3>_>QDcb,ET!?NZ]:#y;5&1rK^7/Yps&KrOm}^@)~>U]1*g6=mA5>Y4~D~iASUI8[RkK[TqK^Clk-X!lix@eFsRdYhCXp`2!Eg4;VIqly{^$t0!ZdMk3fa@P$#,rpJcv[&u?J]o)-Yhw&m[K^xDPD9G^$o2J/WT+vCj*y<O(ZCQ@Oq~O@^DYi.9z6!sX@XK~Mm/nHvm&v|.*V}EB~<;)[)u7TF-^+oqvFYr3=kz_![V;:ANHw4E}&WN]uLYxr#c;<r9vdqRNV1F/2y7sK{9&C68J$4Q[5cee4#`.r[o~lo+;HLR?9gXZ/>{7cDWJ-u)QH~Z(&Vb+M_}-Oj;okE>W11wgL*Ykiy}s[*TAwPD@rl/ftwoC?!XK#uW^vmnWEkvr7jT)&ih-rv1!(0{mrFS3Kg/}Exn!5m0!e3:lYax_WY,{qtpXk%3v0mi#ihqIFs,]|17wx=U6%c`}j/-dPgnP=qQL4$[qt2;:yv6x,i`7-Lx`QI7/$gFjaxx-K_WHDyN%vz_Y4W{[dsN;$-?]&abO0!y$3&s6bdOD!u*U%U(t1b:TfB)*x;]5!(T82-z|$*~4dN!mnW>0+(#0K,wmVhk`LEc>!P!L};c~9)wSZJI`O(D`&/3EG_vO56W-0E<Vn}0%x1C1BiK{4v6TTMs}-p{BXmb*C_gK0hq#/J^C:.Hw/J-7cYQt+5RlOAFY~)USngQ[7>XohlL[jzfApaK<^3:9_0;p~1Ce|=z3bzBvM7EzTw~UDGd4@~>R^2{rGxl#C9HMk%oF]J(bAtCMz!XXA3-3JMxso+.Y+fgu>jd,_|sS2|ag;p$8Ph][6BZGJ%CJo9X:6DR:l_>Q~326G?;L;Sr@W0.BqFG&MqwYf=A4IRVD3,t,-Jlf!Ui+lR7N%^~FyF1]WCb|QMLI(@{Po2dwWgJXmVaj:VkZ/m%q$G5bhC;O?%3^.iZeJOsPlY`+,W<^8%AC/TQ.<ukq2aKQsYB_-]fg-5)w#Zk*hiKfB&T2wi<Sy<7@v}T4CzHk?Gs{8PqEqsJxX|{2A`sq=SO7%J/zXk)DxW`}6_bZviapeDD.`XT~g#Wlyca]YI3Ap.+%MIoV-$u{ajH$9^kxYxad1M)C_~MZ[J`s/V7kAt5v@<ahG&_3i/iS?#$R^:6[H&r!);a{)+r0Dx07L)u#stEiW7.*Gkl|ptXF;d3IHcnsW,Kw}4Wuc3ypMdNt_M>_qF2*i0LhXAV>}8jZ>7,78;<2wo9^w7HO=XmE[#wl9i[e/KTd]Lzn?[wwnZLL#CSC>]ZCQ^<J8}fR)X+X3<+)e.{qa:z=yFzXaQSfnT!*;%B9[rT2n+pjZ=uoujKB&vtCX}z4SQUfDsfKE+WjudoAD$YHJ1gZoyLAGLaR/@]vJ68_QZ1wa4@6z|GQI;JC?b`06J?8j[YKRCF)V/{3g{iBd#uJqvBHruKv2<=)Wag,u>)7-IhxgIFq!FY0T<OZ2|}^J)u%[oz+5C@n&Zu7cZ$A%AkRm7GS:BZZo];=P{hsq4eaDaudIN3Mujr#Pkf_q;!^VECYt2OBGCM|6gF(5f<9!;/b@$r~,.m>LU&acaiJ0j|.yMWKRvk{>v_}h^w1CQG5Z=,1!5=n)?e%(/?a<Kc[i9VFF})O3+RRc$m8c7Xs)LYDdRb>vQc(-~-1pG3iUpy,d5jX~o)Xv[q~wu1drGgb,c}&vzv2[NuD|vUrZ|<R&z;%O+l3owkSR@1{bU%M#1&/]v6YV>5J=~&`Qk$KgkwOk~k:FY8<o3@#rx>9ln>G4:B](MmyJpy8qtcXyVa5Y<tno#fc3p8VJ{53U+,!^z*To[~!d+roW{TRDPP``${diXHG$8igY[8pLh>Z1?!qhed:fc3S++UEJ]6]AK+/@~4;bV|C>=D.;4uSeTm&A8oH|O[s30=EHy#<|-riBaY*.}GJHUe>d@Sb3(MD?wro)vgdOr+s[R0!kZJ23V)Hfyg3Ok4y8M3p8]5$hUW4~bfbv8C9AF.`pF#i=2J&q)w*dG8lPwdiab&&!.Q4&j<sng6]4UlK!Ihq3zdINI77l2FU?ibZ|5h5G7NEAUFwUjhjA=Bs%i9+yy]dYDR>mUB.7}Afc)_,vx6*]lwM~W(RlH)rf5@0{|V)hdy1S7LYIw7Yu&Eyk16]ga+2/R%FS:OA?^e>1BY-F2lXkkS`mOJLzNzhIvSY>3]vS+0|`Mh$Wew`jr:K@nYZka$@R>,})gGRAu_mju4&Lm}K}jvtvSCG#F26SE~BaEPHX#jLWPUmAh};@/Y>a@33n^UHK1UDV)=r]D{V-f@A<j=!_4;@FQFe2lM6GUr[c]X!X%&5O6ht.ym4Up&bZLyUIpDIAlp+aDdszV(wj)9L{>~4/-[FsjelYbhHvqd;E9|<@2>h>=cwWbGOeQtZ<N*/DBR)f)*oZJHN])&.=~{@c?a$+=`fUL2z~vP?MHdM1Z.W8Qe{L27w*R0&5c1s%^<]$%ThDojLor:WL>3nBaHBmi(4o&F9Gk/cx^`1*KFCW2DT(j&SB*1o~dmjBJc^Lx]ewU@&Ovs1v?tQos3s0j5$op}jNhlfNAQXVuHIrAvekX1q!S`k>~ey>*Auu2NoCfy}Qf-5R2N,$fWuq65BSc^%kJn/;JY{3.]qm:8x>EZP350>xQB+6W5P;@c:m.[UMa&4mG[[-ggN|%kC~7xicI-lB;8vmvFkN@I>=8br|?lCOF@deg-&o85ZJ!877GVAVSBb};^-d{-]QDZ|S3hA=ThR}&<:S*V55-f97L>/3hyXN!~@W=v@M::-~Ox]7E/N(sRX<-/THc@p9*M.E1;1z9|pLsls7g2sFQFK^5:2)ofFz{PNrQnLVgkGB*O-,:DnUf4`UGNWFvR+**!v4U#Tm`@wneZ)Cp]},hP^aDML0%2aI!,Mp9VcbnAm@LV*`*KwY0bS@g&>w`N(#XWcRPU3CQ7/.<Xpx=vDqN9RwM_UZR5h~:+J)+6{EAVO^tv&XbhA>uR;y}&UHN8OEUyz0zz:gqb[c%=p<NjJ1]FyERD~c;A#o9fmygpv4#,LgTe?L1kMMF$#RB5uZmr3/zqU3s|$h(+|b1*^RjQ&_VWSIw_ybkXZN,%]j4}Oj&N?`q84gzJBb5z/I]nJn/NVa$TuiHOgY6H/6)f:TJ*w<x<WrFMOZNa1W/4d~6lR+xI~TI$A5ey=M6w$ote_#tIfmls;8[&VI](>mr_u{^#jGy#;C#|yo~@?wj1a1pDlC}j,J4M%WIMJBGs2qV)FO.HKc*v/VHP&7PBM;p>+Kj~!>:u6~+#j?u5oM#J9@}XI96=V,;_,u}+6@w3r#J^a~Rj%9B/{7s2w[m3%vuDa0}i<8IIQkXP4:tslT7BvO*?htkq,-+~55di(v`J.FU#4O@7]971:s(z`%e~RK{mwbOZWTh+!ZDn&FHZN{9]x?Nrs_@ZMa)yQLKLMbf2:s+3cK5QZb`N9Ggb[g@`jQ&.c}Um&2&ZOg64]N:b?BIWi#eP@O3+>2+Q,4{nz-bLgXLYyEO>n~R+]zQB1;AU&iO%Ujd4[)?wDI?/l&i+^],_BjjIqtHUsF8a01G+R#:e2DLa?FMecrf1Z<jR~<${9maWT]~DG(95WN$`3c%bK6(|wv7TV>ywL3g{B,-#Sv4ymxc2-XD?dmTb@N:IQCcM,]WOu|{Hh2)tMR3w&wQ#Z(,N_<N_z[pAV<A8<B#E%2P7ADIA(x<#n(Ak4ookB]#Z.YwbJSB>O/S&*]MA;R8q0R:he2]ZCZp!czpI/u@N%JqJeNl9620YEhiT1Vd9a[hP:9U6X/e+}:(>wuQ^!$?eJ~=)}jDG>!U4L7Pj=aa1r}u;s?Bx/pFMQUm3}h(?4mvLGN|^qGUP&;~Yq5%S)iTdq+B^2GD[8aYcV1RwIq$mH.0gu$uS7sV]YbL:Ca`{vCi2L7<~7>Nt>+jDV7,m]jaf}/|@2Lrh*BBs%)n?{-[p^#Pz:m7Ng#g_R5KsUsCEPnP&!QKY%Q>J`B-9xxR$vqbW{X>@za+b8n::5Tpvu__FTvX0KwBJABV9s84/:xmS[pl7(l73jLx<!z7.pC<*[t>M<&/B.*`me7?Y.TW|icxGNJtSA(/TW53>i43fYugKuX`S%nZU(CV4$nN$M`1imSFQ~?IpQKR]cFOm/e)4@aLU^y`@sPRi]-X]&|sbEDAhR_5BsP,?<fI!g?h;<Zq7Y%IN`Hp%~Rzy.T3xpegWfmp_E}gxqK*KMa%t3S[VGX>ujKpSp$iB7Nv~7p}KQI)HB@5S:)Hl?A^ThJWFB#I7!6P09U2AVua:ES+$-iw2>v2ym2Ivb]Dr^[Z1_vFf-;YG}D)KWmSd*.I~PAZ<e!.=A(}&6L[X`@e*QQs<QH~AT{g&}@>~?je}J,Lbf$L=C2kZOplq~9s{zZQufbPGpB7@pN}8[q]97V{b]nKH+Qf<O8$W;HFaD_)3,ml?F/oiU32~DVH<=:/m5,5?NLz8WN~F.+&K3ej8=kcISq}a8XbGj|#uZ3k^A}U&ITKqdFakma)vb!B[?=(P_)X7VZ,~y=cb?S-KM5;gxW*D8DUZj%3)StsXJtzx];ZY:.v@T=7)o.D6WlqeOPo$+B#@Aj-PJ;K-{8q4H{hSFrd__jb}DJUa.&cmX]+V4/=Mh?k!}J]`uPV@pVx`>XX%QV}M<lYN<<X~4DV6iVpRJSufD:~IWJ%%3rUkgVc}Nt%baWHy,(|UU37QDW%Qmb3U=ab]8q;m`E;s10zi=O-FxZ<zlzo7}`v}ONqBhp8:mRb!f2QCM5;3nfCMQv#MziQ~!jLzixF9xTi3afW8`^=l-bEsMxSm3?]w5G+*zd}r%RIN]t0Sfxw&5Y${5K+hWdxhrpLc_CPcXWP14<>1,977O4Nf,BQC+e:w<U]2)W(t0TVy~VX35L@MQG?/=mcP_nI1ru~WDAnL1Y80r.{i#~ADh_W&/=.y#ZlEqZs^}D{4Rxg;wA@/EQ8}4}>-KeZ.a}Y9C{Q5]$hiv{L|&VAOPvmI}qxLA|::/FHQX-5&.KK0I/H/_O5Ej9a!R#om49kbA)Vb6[qv9lr*>b7,gRFB-}(fg$1XPw-dcmg!jE&bT}?L^Jkn4z^,:ckGVT*vhOi~wkzyvs9tx7]@0{iQ{0SYv&}cBY!LuIol;;kZ3A([UDDtml2;R)X$?-P];g~I)BQl&DE]_6mg>9`j,`Ze>JVhbFonuKpe#$jGaMHwmeK5_tFtG][qG?eEHQ5mTwe6}D4%/2-bF%B$BpLK6%&jrb0CfpJgx+HBLb-MDC)`p<]_)%/nqK#?a.`)mU=X.|o@YBHgMsrK$pXRkkdS?7|[twsp(l+krd?tKs>+K<KOP!hx[*I6QvCqcqS|*[@3M$q5NnK_=|>,)uJmHC8iB+s1o141:><:}R[vUvAccbt1c`wMz4P-lq#%+g4!jcXG&;kj4Bt{@]8bLW]:g$yJPSk%lX~/Qxn]>dKLFf{+H{Lr;a}Mq{b.ED:!i?$oqtaqc7O}<s?dVYszmon&f6ROw;wT)//N[r`P/XFY&.DkCgdW,(ryI`Dtq)@ucQ7;,UT,uj<:=Jga)u|+hg=YpT}DySiD^1{6_/?8%r$jIu0e~u<j}`Gi5H&@g&#O2L[R85&#;_LSu!5x8_/IjfO,cjMET:Z45UR3FM,1I@w>;<XeZ2)Rk4fUB]6.A=RTteKjy67_@gXOjnema90LWmo0Nu7#ztH-7hC6>~hni~Zi]a!O-,6p<00|nrQCx|]s)cOPu0fHALNR=ILhEu:A!u02L-]SF-:8>8mCl14t9UbJ(TYvbn=zcDRR%2#/z+3dVZtmZM&sW;yjA&^-Uy6.=~QLdpHNPg!PW}j,N@^we.&erf6H(d7q-V_h?NM0R@MQ%9l_/}T`>{O-Iar?hTBtj6t.?g,i2jF8^Q)z)/4X/!6hyRs%c[`}HqeKbmswO;,Jo70@C.78DTa4P{,S*^@W.pETA[ZU2R,c{[=3roH%F@9vu=L1G};,WrxU$[){{FX>/^7=4]9Y=Mbiw#asYdT/4hzTC|2P!Lm_)Cfx^GdZ_Z!o#p]0oE53G@B?mV(eVjGdD]+?mgUll7GsSbdL(5`e7c](3mP![X}TV)QIc8FUk^2mFSH7^nQ~3!j4Obrqa1!d1Y1t_AVHyw[g>:6E/5ey0;&;|CC;Uzw4c=]k?!V5!S0s<bKyQP*5E=xn2GCwB:|d[fJfS.q9rD@k+7nP:L=$8wfNiUfumBo[o<C{<%SmF0$_<!7uNk^@.oS>nE(~xl~eWqn%z+Tw6[LV6@H;`XvH7aoUmVLag`UAnh[fGj@_8*O4dz>7A+GM`A7EWYFl{=Doc4a7tD=D)Y!4vF7:Z36INke^3n]g+%pHY&ZsO<r;LWKb|I[q0a[6r=G.Yhh_B#+=tG6Zz*Ns<[Q}7eyG2/{,6U=j/Vqy%,6uJ!1I#vy~f`V)n]CDYS?m8Jk4LjF+LRa-[&f&9rF}~lI]82gd#yNe6q}*1CLu##HaBDtw~TFaZ9kGHH-c*3>lNLq$!jW<6N,lvdgxgoX|z(~_~tZ^$7yBk)hw@o9K}GH@U[$gBOn]7[W?LgcZB5~l^M:;9|Ej5_B.F#=0TzW$cgX(46^NGbft`C~?X?[c&`CCplZ*7)^uxX5YS+p2r6Eis|I9oK^-~HiK>Oaj,8Jqb2Q|wl*d:iRFCqj3OkbX@eK3om,?~K95V!`f.Qfs^.]*y1A[W3f59Nd;fhb?6P[RtG}.[J/Tjaj}.f$~dGbIe]T~3Jp{q(Un@!nCiAh5f$#p?8JIWEc2l}eZm_Iw@o_;T/wAbJ([lUJTh&E7:-n:LD}OSes!x}q[+(-^[cj^Y4yHtvusxR5}v^:C78O}5%^sD]Cxs?;M07Z6xbJ=n`J;]siiJLKv~(w$*>PwPiFZunm#_VB5&A._kkvY/9u3wtcSt3+HS(A-qo/@;9{j4skmHBCi|Wg.+R53B0%$u2pyFU1-obdqvYaYr5)WGk{Y?JYK]HlUQ%=d6e+&-9%HFKx+,1;9Z!%C3KedqcX=Y>&1j$E&RbLSL&0S0D)f+`C-4>52alon*LxBWQt#3.wp.j,|qfCI-pRuGY~mu&+5}cOoPH:$#MKl41v5:O5Y^H;Imdk(I&q38:iu](:hb,~+gRcA%?G0hAlIwUg)lUU5?F;4uB:|p/-hV+;/m|WO+w[bfL9F.,[tea3kH>|4xnbRoyFT84ZDg*s{0GlO-hTnMUAAL[L@^Oo2^t&kBweEkT.$fjcMM1cX{bJ-D3|l3}0_4MC+/0*|9ZfD$m7{_`>+-g?S9;_>9_LJt4mHB[:1/wB3Q!nO~4XR{~]l{.{WO0DNL4x=bOtZ;@yEsQP9H%}=F6*!yytiMIZalxFJ,O,8u%j^s0_gt]2VHnS65}BJ6+{J[&4JnxXa#9V?ems{-b}h(3m#^H-DeFTZ(>Q+{@YAm;i9j&#[uO8ycjH<XfV>vh`+hm%B/.10D%R#W(Avd=u4OSr]ohfVI_`-<RdEOxY|TE?+MR+FIj,Zj?erhd(_A!#.(iCw@kSp>O]&ol3Q^rP;&~;kB^k7,|Dp9@N/x@q`.X.*T_bWsmp2Fm5:m<dHoUldzqu)@mF1+8/+hujNH&<Ebuw,c}IQM4&Uii@TNe]~JNyor/{WNL!gbN)9`6-Zsd31k&:m7$ZNhQ|rUN?j$MK];O*WaVYU,d9lFS&sj%SB0w+[9@)}5DOYc5|A`>mDcH&;nS#yz(LQ`}<ZL`FT{1xi!Lv<PVzquOB0$~q5+LjBC9sflT-;P86~}8c-|[`g!k!?mV7g+UL)t.)(dT?o+Wu-$nf}kZG9[IW#ML$B`=r&$5&eyH;u#QWl<S0nrCb+^_.)O(gCf!CeZF}V#v|7>Zf%Ah:CVQ2`^*IaiT!t.1Ofh?FX:!bsb{|D$Zy]o.S+TTY6V>.<}(8(C=c;m`xtK;(`ZV9A))S-uOrlet<z<Mp*T-#:ax*w1ei&nZ4yF;w{{0%xW08@E-yKQcOsHh9t0.)(STbi0:xb#;NY+Qb.N@esQJuxjVVyqgjw<@S3Qt4bSO*H(PH6*/g!olfU?BH992><gmS<_+5ViNfUT{[t4U+41{U(]Q-|bV//BT&{^Sp6PkID(5q_?,K1N?H}RS%}Kvc{!pCoZ<ekK=CdM0&~tgvfQ=C1CuQd+NI>*=*J0zq|7#kh.T%eT@zz<Np6z$J43-@;XA;9MmwyZm2OkBH_q]HB)tmiQ.0Y;Bc|;p9FDP^tGPguqW]d*8H6uJ(wm_,&L.kh:IuA~l_q]prjNHZsUz:&j]<(yrh!-uoZy}j&ux9$]8JiCh*rtpz8D$PQaQ2%-UV+^]l.k8r-6gj6kzD<6&|-O_;^,8HJqiaY`vJ2Tu:A=;0>k6ypdR`QZHRRYdiNI#}<lt7eFf)#C3z0h[5l,,avCT{~:Jfc6L}~1N(5Ndbn7-6}dPKmVqB8+Q4!U[nOz2nBE4:5i|ju5o<A2XptzPJL-o<,Qav?qbQN[Zj:uXY.U7nPD^:EHz-:zh|N9$<L:+9cubJ0}S_D8n4ks3C&$7n[/.^cLkGO]:RN_b}@B=peF7HXI?_I5{h##UVGl]_hR&`Q]=_)~aEMO:3Ue)LOZ#+k4nZx)Cw_A6kHFMy,S-271XO~LpYpnW(XI?x4qP$*g6.r8j>+gU^/<[cY(h]qBkZH`nKV1T+5MrK>Vtz]P@!TwjFS=&.`6l)8p.NmnC_EVGNv{tj:Aqc@[b^}VB0G6,k<*#>#zOVh7~~$qtR)Ph@_n~][uXVGzv?!|1R8,dC9<}xUA&]`.-$C=:[By7S%M~OO5aM)WdNF+4tJTuRJ^/QCm%N::mi?a0in@JF3clSDx2%I90H~8h[_%v^sV&98K:2u>0RSBc<cUN[$*@yl8k&&MGhx}WT|v=URjc!%4m^7SYOHy<O0q`H7}<ud((1bpgf2VCE3[VL<n&T75B|q>lb2XlD$(~t`&QRJlv]J784(qH0x+z3`_HjUYMuxy&3.0@w.e*KpPOR73-T?1xG-?1OT#ArrnTq!s-)+$w2X{wH-4{^1WwK6s]Pkb`2#k0y{7I3(9Kuy7RHiXNTlm`EWwZsTdEoSRuy@]^^XOxtL|r8A^hH7k=5vA-vb(Nw}9jBMgqqZ[d:d6:c@L=eE)nY9jEU}}^yXHQ$l%WV/?]0#sn)ZL2|%~%G0{,svyo},c|7#2>.,hAa0A6]cV?(xoJi5U$ZZ+v>.M7oOO%FDc%fUQAHrgBz{YBC68%TJcH/[D$}Z>gUy!>=W#5Imtk4!+cre:d*2,a8+IAj,hcVNE!P{I,{ssK<iza#)-,V!#qK&&[/YXXUnd!x<0C[imj{|c[,u+V;T&d5OBtoy_w(}x>F@a_JE],@rg7C_X4642OhC/A{zkYa%;QS29D}?OQ^/G%-yE]!KFf$h(BKg+6._>H#bNhDuz6n-Kx>V_*.?Q4^m<w?:|o%GEw>{ymA{nL~y:QZx<A1+-x9vfhwTqzM$E3({lQ:;x:/zUcbNr>M}eH$-o[j2b4K/Fv~:0[VR*<jqn7~yCJC!vW>3nE#.id?O>?=Xuug=;,e({+2}Ev:0S=D.1+d(7*7E|l<sQ*Ey#r}(fto5<U:1%_J#e${Fqd!<!>$#4B&G5L~vNex`yL6p[_T1:4~e|9(rnSEA)dsr=7K1PfO_#]7W5O9jS].Nn<h!XUD?q>U-Ut-vsae8G8j>|;D@U2W6&Ly-nYZik5K}Lg?HSCyk`q]O,4t[s6%Y[yiFNzGv%n:<]0<b+2)2MmB>DNJe!m?H<3;qn>k_uUh^cJLl<1hmrUB>hB0S>`,{Ud9$P0@ox:2s/AL?sb4Pu!ScK*~?Cox_-q|?iPc.)[YCGn>#|EKF>E*!hk}_0VqS3,mW14s2ZU#|np2:%EOr[xXWy=*g0Iv-jJT-F.`C6V>6giml{~(iXiC#~$@H)nr82sm[Kq<gW{I(A&{7<A[1im)?=]eZ|1)6joU?X]V6ugGLHdH!fbDJ3#o.i>QELiiTJAnHHmw{5d5f(:tjsIK%{!@Bk@<.J+9,(OJn%WOXIUE=!gd7bkv&OLF.8VQ}3^Y.@D&].+SYe@%#U2X:E~m%y%yd.YnBwZ}sn)kN8m:1l=>{3gM_M?7!:@I7rEm=z@<AJ_IBi1@ueiWjdEoFea(1^k4H^k2?V+n,Pt*F/zLG,t~#,l*CX/%=u|M5eK924;J}2q:i{lY{UT[X(KLtH[?WSo]ce,Dw;wLj<73?3XzAZ4>!rCBW3yvVxvACG,$EY#=:Z0g/IOTU4]NoberIZTU$8]0DM#)Lg5sqhv$O(pb|j*l(X^qIz<-HyC-_WvExGGfR^p[y6k9N]8$QAmotG9]ufQ7$cK+!~hTxEj0F~BcTTQ_d,W-*oBDvD.x&WR:;R&QnT6gsJX+GfJKmnSNKim&x#!Vf/kau$s3d*>iCYsrkUfE]jR#j*Tg*kUwt9GW&;+yOU_Cujg_Jy<vY|#%2,=|}9E09IV5xhU|CKEVtG2[h$E$=wX9mQBwI!c0.wy/-Sd`.4/I|K@&p=0~/^:H5f7RxiEx<t;V,16?9gDQUvJ8B9],(KkiY;v)ZS,J7k%)8J@@+_f9#pU[b;h[2<8yZ<BF/f}Qy+q*Cu-h|r0,I<-d1%I&ftYI|*t;3*~g%V}b<l$J@&RK%bGg/1!4;s&aTrH~Y|]%De:4IF]+l#H;6WxMGhsY%>WDUCs]^I{Tml>Kz}Mxig&j<P85I66rq#(0dXg2GNeTtgmzVVq]jo{X+/(Ht1KM{tL[4:HLMVgNz-<v]M`]E;$A&1D9X~Yca:-`BE&[{KJ>p$4B}00496Z795I2]lyS^M$FBy_25Y.vR8$wH.tkz$>.>0`g7BxSTbfF:f2fHA;:b{Cn)[N;h[uqxw5R%>3(_`DnBU+aUhSah|!X>-C0g7NiiF0DTQl#M:*pZ8);b{SATPEQ7)Z7?eyWCE+/e[Qsua9OTw6PF@H_M$XS$*xA4e=##`h{-z.>_>Zq)&4Eos$ge-}o2Xx5T6mudCTn%AaI8WC?+ZQU)No!/]ctK/^NCzKocYkkz(&CN+Sc~VaHl@Ez2rXrO.<7`;ke5D$$BfJ*7tV9f}c!r-Lv4t-,IJ3oFNLvPNV[]sxIU!xk63}Vuu[.pcg>wps<SFkUx,sdMf}]hCznJeD<2#qLH!>;x1qPOo+X/}Ti~O[3VKsflITB0%XZX3zan>:t3MhmDt.Oy+$AJPwStf6L]f_<E-%M}dc#UDr-)NJ&/@[o0t/)$(,@D,!wKYtZv?D~-OTH@=;V+wvj}Qv9%^,pveqmQF1,cZd{(9/s9.8`KFMUD%MSE8yV<:+l}SFRUGSjRb(KsGShq`Pa_]fv>GbP9@*&&K`}<|K-wzr0_)j?ka8,Cd6zwD@IR{^pUlb1wUhI9!#E0x6M;bNsz,Sz[vQm-7YU=F+JGV*!The.u:z.k~~w>*K^:UPBI{}3LPl3fzqff5=XE_34)LuAOAOJ.&sA4(WO=MPvw?/V#s3qK^C?48&Qm#>UdfL6TVmrd1k{<2Q_l[6>mub%%co1?Y8.&75oKP0ptg4T0y>r%1.L,f&Q!Z]3SV2Z5WTVY{I`7QaQQV,1[=NA)TS.CGcjZlnbwgpEM/,M@#=dc_!iOjw04#C:N&Z~mnBh_int?@B8tJL,wavWCw;adUko;%8.fVu`cA;.j~!BVq/MJrVTy6YS{.rv#l<wCZ2*ttw3g=M#,bUFAm4-,x&^fgqyTnP/}Nd@llQm4Ie$Y~]Dkvg@/CT>+L$9-HJ]ob:Z`HIjn`hNA)6]ht,U)#E5wo}!j:/C2n&*2R1YR/I(m*}sLTj&9f0c]H*D#B|{:90LsG8iq$Uz9i=FK/Szyd%3Ihb@>)V[;/AB8ATmw2GdM|%;HbHGtaSsfYhg}6^v-Vus}Mb|c?JIPF4h|knQE$,DsTO{v^!,/Jts!Ow$cx~D/7i+MB3[gDP,]/es:*T9_oV}|xgLhc4;sfD*%ZN%|]:7>o0+d>Q4|b-y0.umb3y}{2d^*xt<`mBz0JvJ@2<rjje3@1q7{0x;BS/BrGUz4$i#RRD{S{Xmy-u~5A4-&]OT2D[v*nVZ/=}-k5z{2/@det5?mek5QxN(u[-KULGe;A@8ycd<yyu#f*F7NICXzb(V%=&oLO]!$mrQh3.O0jhiR7$HxJ,%^?#nYa9ts6awEpT()B5JFwvM)fr*sQmiiP0&9+2C;;f(QHW`~Z{b5CHQK24~Lge++zgJg#t:xyLH]_&9/Y@{gtq}s#};s%pu/1duj6QEbnkRuWg.CT=FURflOGA*dD~Y;6bBZ$t#0O[XV/ckI&xzTpY3pw#retYu.)Jv03P+itp#Et}`M!~4RNZk3LY_NDEJ`Btt#bI*f!4.-Lz!D7%7kUe{$Lkg$jt.I8ah]gqj/Z0qJ_>KU-DMblXRRxSRK^R-$;qWa1@&ox@]GzPqlYF2<DI0~Mmpx^dxnb;T9P/DQ+J`ze9g,>k;.cqj>LgKJJnKm{ubPaW4>si,hg5n<AVm0_ty(J8JB(d@;HQd<9W|e/A.WM5lytFE?.nKPGbRa1})@`.F,o}!=7?K)J*4LQ#m/`9HpJfNd]O6*0,ui8/pwLk_BNBH=Vy)1/4quC]bVRx3(!)I}|ulzo)Wy38_iu7#Qd(}0mWx?pZxqM,#M^2(t@jTm]O/_h6US;@f$ZgA]bJ+_2g+l`V5(j8m*h,Y<2$hd@6i[F$RU/IW$Pb6oAAU!G,:t5;Sn`|eorTmPRePOtn4E2o*dH48eeLb}h8=>>>;RR?WM,M!|>%7/oXeey<YAi.*ZSOKO};r}|^Y$tn1m:vFJDjc6OMa_o!%Cvcr1%IM<@x*|MqO#Z8g!U)WaHFfwedutTL!L@[~DpUSA:_ryJ.NF=]:UqbG%<vCO]q=@]!dQd4}D{0%zrduT3}V43G4(?b((99a:Jcg:#qv4UgSBn+jy9r)85%-U4Ge=DC5e&Yj1%Yfm3P%@V4gruXvM/1VE+jTTeFGrXxR@goWa7e}i@mFTN70#,%W!z{r*s,7g(9r1xGbX~~?Oru~6IKhNUV^W6fhYy[NT?nf0|EuG`S|W]n.HY&N97<YI)TV}KwV=0(p<l)T^-?d6uEx_lXq8zYfC#nAs1_^0DB8#,9C-K<Qy930j}{rGVU8Y|gU5wRr%;/lk^lQ!k[5]_SlX5B;|:Sc<@PnB!zSmEK.#[meaiVFv*o4j#x`;%QrRjIZ.oLtLU([BoLgDvlHiELc(:]_0XR@+!$d;pEHu]Vx`n0^k0renqNwEmT+5-]@-Rch~ks#]W}0PAYM!e?-kR84)9+i6_?j,g8]$zM}0]rjX]6gH}deByH(HaBF=q1(dN!nYoPP-^?s%x!N|:x#WQj{8k>&ov9RH7|/3ObP!~Au9^Cca^pof,U&e`?ut+Ds+XckzheuT4O7?:u=r*:&QhM?rGeI,U>C75uM0&GORB2,r-.@sQs{hF`Yw}?RH:a5*c(BDPU}W$7)5eencc218?.`H0a!_(qRW@TIb(Zrga1@12rr}QtqKqxz?ekFWC~!.1Ox7-1=S99J&OUtY`9ZGPJ,s}a+Z*^ti.T221GL$>uSn54E4J(i.t$^5k+!Ycjo%3<r!`i3d,H]!E?^wK.V@5N$7Y&7DaK@zyNU+:C0-k$5CHmJ/)h593)G!I+6Bfq<FVNh{Ws61MKV&*.|g.!{1jAS~Q+v-20djH{Bm(%}H5NQAO&H5;t5gPtB=9O3-&UX+TaS%=?ttv?rF|m>g<AuUc)}~3Of$KZ#f0E_[1uf&CA$9iBVl.YUqAiNow!vBrF^]jZeoe}G8:yu{#OG&cP`o&xX(z6mZxzR?f1r8u2davVX`>d_U%QN]pK2C1PHpxZVLxBfh4hcd*+](IRWNoP`rq55+J;BRbY1]<^0@J-`sd3_)&<j3.Ee3*PSPp5.Ev>_tu&ILWP,zu!KE=</u5+7it$WD^v0F.)=,M$op(tNP9LMBUM&xz@xVnioof84U)o52.|<IaZ1Xi~uC~+(D+W0X^wCd{bb1W};qW,2K2U@4hy^[2|M@F^UHHn-=0ThJwvWR5,0;RBAJy__BX9YD%lB!2m&AxgGF0@,6trtgCOQ4oBEH;e|SIv75=b`0L+|nCmjO:t?pkIdiwF5igTn|pE`q`4$TycssJ@N#4L3Bb@^&nv74SuefC)&Ba).h#%I)d<8LfRe9&RXqs}%amKKmerU_|<y0r#tSh&r(.1OkU1I|taUhRhAZ`,IO^qx]+f8v:y7q@E>3/Y$1S&=2vy@O6N#uAVZeepbQl=uwco%>9zY(+V7h2#mmhprq=:A]})Gtq*oYf0U}Q+Wh-LbQ%TGku,Mu&<a,g,qlL:0<)YDRn,gxoo.m*/Wj3>ZQ+E!Pz8iD]wMeCvhsLhI+N^v&)y<]/y/O2nI8BI/pex;6U~@8*p!-Wr[7S(Kh[aZ;~W,wY?~#U_<e#(RC%$uklPSMX=m?YmXLaf1Yi=zuaS%:$e~lHRmbEiV}d{b=PID,!7*|LkfzMMp}?W)r:O5oufn]/So}oJa{kmG;Rw]@/+.<3+QBN>,9?pV8Tm4,aL5Gs&Tk93&)b3n[b_T1Yh%oC5JLm1w!!&~6|B~/+~qDJQ|Q%.`Nv$.{dhlCziWG(L-ChE1PgEBNA$4YUFf`H5LCqao}Qci:tE|k+JKd`}fdk1E1xx/O=xcVK0K$4_FoDPpbL/u/A{W/59b^<Re9DxPsqZM`Ze->[6sOGhsrQy29ZjpB:T2jPlj$Q&fC2-s-c{,V/@[W(F@l+5Xn(f+DtHzm5{8K^LO=uoshyR_VbH^ckgrG|!)CqmA4Qpj5._nl^/eMhZP!r}!T?5W%y3zs78f1sx(3iTI28(21RN7YlPi2$YqYVaPj($26A^`?&mgwo3H57>xPp6u%WJ~}7Tl3Y[cfZ9~dti@};=5mNE0XE(6-?1is8x=Uf8&N0KFwsF@8F}Q$Y*|?2*8W}@T:%BFQpZJVm!x|YJj:8n2C%T*QXhvHvJ(}sm*GvP|i@1w]ozoY>k.KBh]TV=bF:rrvx7Fh1dNJ.9F?bMoy`BcN51BqSb/=+H$u`YHs.+&;8B<Z^b8.Sb>`/>JOI9Bt)4jSl=Bt;)U_rsTH8TV?1NIC->^<nrrp#[peeSrw5pDOBn].[jQrO>ugYeM`KbIz%Kwsa8NUA<6Oaa8/$Vxd:?wcF|3kWJ$Ox0tBhbzMW,vqMn[[*tw**U6?^g1o%AbZhPAy}EH2,z/O1qoJK>;jikQBtt6@JD8r>1(/FA5^Z#?Os{k}}WKIx#osXn66bA5#9HfV2m!mSQ)8GQu`>G>$-8j=^:h&.CC$B!QCAJ|~KB.@*J{PTgD(w.:5ets2Eqb7/lBJgU-r5d)IF7&(N5y+q=hMkCbf!9t9h]K[{$ZTzbd>?@0Cp<*~}|/qxV<9ftv8{s_l@)hS`s&_g3Oi>in+%L3j34Tw1(e{%|M|#gzgmTDyv0@0j`W$s<*%!9N9XKdKMac;fDwq5G[&<Mdx89#:|0t|G4K1k^,-ukoI<vn[o&~|6uHDWaI/_unS(?9CgzDco&P_K.7#^rNL>EW-wkYa*A0a^bJ-}</!p0;-ax[1J.B6]g_$a@L~4u}bD5IyE`zJk?VB88M7U~Rf+x-[Xq876Bna4ylOb&qhVWl}+D^?od,L_;[i$^JVIt1n$u@Y`b^Nshv*sLfXVxlkmwI>e||m$tKKyJ#KVSl)mCOsZDc;(;PBC?>5~&mO#oeCCH.2BgS>IPgeP@ppxTD+*{)5+b~M{uN?qP-Qm(C5jAM/&GF;@1qJ0[(ZRxK,>35Y8l2L^rp+`-yY>z^y^?#b8hg)z@&vGU8Y.v*ePKTRqy%w{,iz2y,xCiuP`/tgq8qO4/YS=-;/_%i&:zALMGr7+]xzmq5<;IQTjz5XiyKT+i@wJA(yEo{=ahktGI!_ZR1ERF/N_iOF(S|R{%|`48cPrgK(|1gY--`?k-Rdg~UzeEg!%z1rB}H?S7}@<Q(*I??.NZ??g]DX1I^n(Od4BQo){?/]EW=5BSY6Xzd<JY&LbL0~jxFJ>Z8&cEyEN,Z~05^!)4Ln)__z}#t0dPY~bbzpv#z,[S3B_Fx]_m=ApVw/[gq!(o4t#l]y3]#MBjln#Ln[cbIP_RW@2%q{|nM)dA*{T:>fB=pHhaI=&JGFtF%Sr@D2LDSfL{m,!,=r>f#jo%}02,Iy:}b7Nu>E1lb[8!NIS=<i:<dONY^BP?-Ts:olGL8jArT_1ahs&R2=hnshc-:-OE2d]dVE0N2&5[)qiBopd{:G@V?g7fd14jh?z!#$Mnf~W1/bp?}/qaOfo|=C{S~(F],4F=s?)C^%U|GtZ]*-&r.D?_]uT:#,4Xd0Ne??)6_uR=wGen,=<5YBF[LX54<TISzugZ|)mwDBJ(M0Q.BY06AWg{>Hy.hP^>5kE!5Eq#lB^nb$e);TODOuVv4`^O)6t]<7pOlzwx*@pfrJ,?&aUEeyy-:q.V.>{7Q`kLE6iv8|U1M`)V&oB:7$y5l.+&(].lfL*R0g}Lr4/9Z1E>;fh=V00$hRE?@2,X$;033.OXw=*ufRKp(3i>yXozBtcb32ET9RJj>Qk]g!:~+G_oA.J_n1sC&LM)8;ey}vDrH/@`WGfMJ]Z1xh[H,?9tZEjE04F_uDWMF1L)Y;:(jo)=!<Y/Y1ZtY.^(BRb(j$tirCJ&*QTq+l!J|<{.aOk|Ev{_Esz3Yi`7-0jeb`/_:V^[ibOV9:G;wep-Ri^eMaNc_whlf?56^Gm*8%MES(!Tx7s@P#B5$9TT}1~P~+dh(9Y_>,gGKAAh0OMy&$}dzwJrnoe78JjpAC:0Eh-$z?Q*b<FE-3KC??N})O^E%Tg9{41]Y)J/BiwCF]J?-3v{=ut%I5Jkp{xum`gl)auTW6{&`?tlrL9EO*g={oS-p:(I]%FKKWDDuO(u2Zn%i[,X{$tP#J@{{.zpU@tjT25O+AcK^~SxrbKK-7^`V(+dC8O5eJ.;/5OEj(bLeMB=Oh`mZ7hs#?xE$i.Lk->v5`d`Xh5kx(%I5;,E768hbzM8X<v#}bvrX83Cb3pLeVID@0shRe!u.fb)D{^VXsj}z`<0FxVqel;;bJxHC9DcLB;cDpVHI9RL@T+DX4v%HCB?C3^)HGn)vaDylB_%;{o~<0wln6gwxKkrp|2(O$%TPh;ujHd&nPVffoz+Mb3X/T^*g-GJZ[s1g@o5]V+wrI?]DoEFaSG&j!7}N.cx|1ngNQ+5Zb)1VcaZskB9W2g]hqpGgb8PG^@8&z`f$$oo15{[E`ahWQ]}euXtwxw/VGnwZ#kvRUGa@:2;]>M1`DP0c%fam;K]7BqA?e#QH:)|.cujSEjMT_w[BG>J,?Bj&x$}gHLR245$EK[SH2Wh.Li|Hybe_u#yVe6#U-yW4-$H>r4$1B2UUGF6%dn*Xz%t^2l`Ba-0RTS>fvq&OWh,tHO6o>o$JJV.eKN$9mB4%CY?CkDse;pbAXrw{;ecYdtZZv&Ys;7A{LkOw|*0{$#}PoOqwQws6%es+y/dXQQ7`@6BU`;x4^BGWF!}cr{?oB$59K}Wh63FE;Te)>a+@/EKsC`.xS{e3,|c.pBLN&uURTx<9~DUhjcDd&6+1CaEa|Cl6lCR+?^=.@c->s]8Uj@78!)q-qg_oVz7]Y>18`$60*1IOSx7Hwmx3WT&7#;Cxw}Zhe^xr3ca~r$hI8LAcKJ}Jo(yvfqUm;Mbd;85Gx/H&:(PD>H6wP3uf>hATBmyancK-QF-E9Y4PTo!(JLYp#M_B4,L&]/%t&a!q!UJg~h2IU&iS@?:!oq/PwibIRmqnbT(4]?${f4f6Lc*=+25~e%@bT19Jj*2]_*FIfW02n]+%C*R@mTV)h9?bnMU!=uR`7p&%kf}v~1836K.RD5]mAapPApEHq)QysWCDwOp0JJ}+>ao[OEe4xcHd//rkU>B)aLQ@he|<u#)aKY(_HPhHRz!+@we$EU9ENOW81dHH1|>*{/+sf~S@+kW^C;0{w7bLi>`ejH.%.0pgK(SL~Z:W5bp^r0yMQ$tX.{A+OHCy/U*VJ+N}{L$EB~iS=C2U6n%DQt:CbQ<+2>]L^.vbY/N3h{lcW>@(Po3dXhc8sj$sCkD}Vy[2yON!u_>UHsU)?l^<z14+8>,H$;kA0(rV/W+Q]i1:6UmtLzF`dbg|mff!W`B~3X&6uC3!,SZ>1Wa|^5398<Gp>@mLg>=GY[r*qk_Q/lmPAyX#;HQ%F{C3{WB_%yT^Uf4A;1w~cu|TpMS9Q;c|a)2gLx$X}R0il8/%${!P&th7L~XiUL0l:*n2fSdnX7YzE6p3#+lcod)od2u2_eXvbr$=h_xK9%XY8E>?etS!LU*d/$tg#z%gJXu^3!vD/i29>&t&41f]HK{qDQjng_Xm~4FtRi=}EEjelU`DvYndzmY~mLUF:6eC$7;]Vf,DUhOpqoVZXd)bQws[.jd#t*0ImwC:p!D9~B1RZ`w*MJ8SyKaECYyKJxlB7+J.YXs`,bmFZ`]-[T:LAj(G68q$3%rLEt/*XvF|BtN@T]masz$8YN)51l?-$VR)~7RUog994_)tf]i`+;XYsVh+jf)L<y=z5BQB:&J^A0x>J[dl!ckL~)Y`<7#Kv*$+=pEKLIHI<vn&poxL_$dB9}o=3l6E+BT{D+-SdN[9_*q[^SBtW=CtsZACN3z-I7~K>^t_)3Bm;1+y=>s4;5Q5A(eY8/RaUeotRt|5zirXt3?BWM}I9cPD0*Skn5k$T32{eU<2cBAxa;$/+d</g`BJZ8L66)3$h4)q%NRraXX2N4;]XF9wyDmeSC[DMZ:r5-(p@vFFIv.vpLagyw-LoE0Nnje|/%=9W=d4y,z*U>`5,&gq;_^97I>x7VN4k8_2};z@:kKe9ZUDcDGQk{;4PZ@j65t(^8:]Ajk3l;Jcb(o.{l8B1kV-e2Owr=#16U+Oq2uq$4gEu)i,#:u.#9qfZ&LAT}UhzkkO-?RM,T=DvH+.tC$ENK6mZ>/^h>Vl+].rM44Pbax-Yio(v3*[p=l{WVWw($N]T+5~ZBVd~D]OI3BWIgs$gYpZ%;?sCvI@0]?mebOgKR,(pu^SU=[5R>5,u)Fa6b7+;}|VYG+d+y#Mc#$gX$q%GX_xh|hZ0,Y0M6iLBTF1`!QqBS@W!#`@sA,Qgoz`sITRUwD]<4d-cr5}lZ.D0XbHG!&%x/II?89/[&S}6R!PuZa(f1wE~pfPdVus>_]<%TVGQ06pc%nvSYfP#!a/hS3=xUWb$S[>f~y[9DB`7othHimW?ec?eL%73A-`8!5M&Y(XH-Lr#6TZW+C#5sT5Y.@`hw7^mu&Xt/(OIyxw2POq=9%[];vH=g+^1OxOqR1BR9}&e8T2Yx(F$_tVZy|]J5]]yk39WS>dvN4N-1Zi7PC#lc+xUOaaowwvbS&AJG@_g,u5IM;yzvC&4~>Hfbb]J`!~j:|H`X3c=-=dt`|^y!G|DKJz@D%tzmO>S*Qi0!}qTY@vhkH)Ch?([S}4S7B!eAz%MFqLD)x2!dR2HGZA-uJXr}S5B[-zPsy4gp8$sWZuW4styuMEkMmB7AWk3^rYHkW)]_cyn[nc,1[t%STkl@S,L)r1(I81CF1qdg$t@A2l%XWN9{[6puCArm2Nw=tEcP(^b8HfKG.DTvGP3UbZFABf/lTs]pY5D`]fk/N[sCW<<GLqFC4DwkX}QNZUgg1;*e6WeS-M_Cw3([Z)yAG>[z(zD$[HOYVu52EPv;oI?TzzH/_auCS*i[rZ[-n=W&k;cX+wmJ,1a>Ig#im`zNs_YireMiv/bi_0p,zV-NB*5,94&G2v.A@B03(f+$I%zsEz;.AY%4I?@V`5Zv~fXy%^elavV3bH6eah:an!uE+oPXw6-pyIAb5#oiI_s4[8#2#J5U=B{xoS_92xNpq4/cQGeJw$w4X2k^5)x,aPo$bGo{=bt.!Iv:tQGxTw)C!l+b)^K$$:qO5{6yr{z0HrY&@)T|%RJ+?DF~h?2L[KKfI@#EFiFz%BjI.U~n}NWcR*ywtT>(wH9>#w<cFlUfW!#(GP#}9t2Wg-/$+/8wMfrGl8*`NlL0;Nl{F/i:GWdX3|fT!mp,Ni#2Yvie.{U!fT-`j)#o1#f*3DL5zop%WD}V:NV>.ne3(.0MF@toiW[EP,f;H=LB?e!T8-hlo-nA_+Om/5VR);PEFIcRX]nGYF2OAGB!uU$CyBEntB=F-MgQkOB~3|opcjp^$cO)2iHRS~<#=`ITU*r=}XA>mbi)MqOlke&$9qYO(fL&}?/]rJ-^BnkMo/)eo`@m{~QjEu2#ZF+#C?8hAKfJ&{f>G]:I=#lxELe{0z&`i2(lQRX]pZ#8:)@GVK=+RM,;YMshnc&{bSwphlGR3hTkyl5YyAlu]EX)*fTSis#hl_svl^gkv>}|jLsTOO5ZV`aOUBjBRunk|YnwgTEG#<<Krhs)e7@C^wE2vKMS_HxIs0,:VhY0/W@STkN!ej+S7@OICdBqh!pSp~Z,eOPyvpl+K9%*ZDoNOjf_f{up~4]uiIVfvN?!7.cSk,e$5<lLQhQF9esI,T{eDUjE1/Y20@q,d,a>iH7GN-f.MM#a&CwfK.S?S=xfUL?Ms0UmoloO35BHCl<P~Srx:NVpVKbsUJU.XVLU9Nr8oEu*yHE]|{n|R(<p[EN~y/#v!dD*OrU0tyeyG=]4g[,u#UIFtrSvsy8/`In[0i)QpoKS0`#3Ss]%jcN:N>lpXeZamh*R~*lMB6=.9-iiMTu;mFeawt[TnQh]+]MS{5ah6EE-@_1x8UvHSmd|N|a0[QW|i*?)IXF!v7rEU![pjwCJ(lfq5QnlZ(N4o&ykG%apw$_@~+E]r/d2odZ.sN{G~b5g[w09JTnmTLPd1L#G->WX-BVM=E0rB4W~b,o47+yZA7_v->_C{=@~0/T/Spz<V+1UH[)?_IIWyC:_R+a*[z[O3yJ];vU78Q*WO.-/>`&QbQMm~MWy^}0nN*mMHrXu;fhT>Y4Heu2QrWc<<9$,^YKW+!~8&F)ni#Cm?L;33^`<zgxw1:myR2lj}C#C`E<Lz_G,I??MJOfF;_~R5YcB>s;>Ej[N3==/iUEq/:i6O5-)!~sWr>+=<^c/BqM&>R)xt|m0=Mj-&~b9-y+bn+2CY/P)2zm?Y9Y<|?5l>#!+48(HKU#XtML@<fe(ZIs@F)D1%W[?o_oOB#/WbS#,,Oi(8tDt<lH1[dCG9Mm+H8|BLH2gV~md7BO6UJj@q+w.{P[TIA.*)0.m$EN%>b-mwHk{%XKxfXMeNLeR6Fv6QQv0:`20rMl{8b.}3bqv!*cXhTdl(!0)S4c#IwaUZZNSEZM1=&L;E0)x.DzbmN|8am9mxW`qEXlG!(KwNfHy=[z3)Dpa9uM_W:<DmB+?=(ufRzO5.AY;18Ix1hVhQkgZtpu83O=0Xv%cYW!jb>[`4AV;QUdrZf=9:zy=>jDj@3;3V^b5WR$p.9I!F&J<[&7.cbjnXrO^onCC/YS%3;jax))ay8iT0$&kKhJ8VLCa4}ByX;*FK6+Kq@wt5/>JsTR0%w5o_5!8KYPe!okl_4}ptj}~`50/wg6P2XkW!i}feX^HGXQqnBad<}h5un;i(!-Bd@d}Sek{swT>aE+F14|f.kUz{MD[DE*r){Sx,1=.8}[kFr#6)%-4ARRP{hXEC,q3$i7M#4|d?X3F9TFqe<jTg8f~(1u4!a|AYjKwAf?#pmkw]2YjZa}OinfSHQ.am{U8v,Cq9$,r8:Vonnd:Z:Vznqn|Wdy;?)M|0u$,6LgP|yku9Tt2Z/QHW&HMU*jU&hRkf5X(.E_:uNY+<@<<hx]};aI5ok%S7#TFOa;~#F~I%:sRb;L6//b_[[36]LM2[d5%rt4;ud<I2+0.a56|L#2,EhTJ3__[%XD!-hs)iJ|hWC392]<A(U4zaRd5X6h:Srx)jkI+2)xGoyn?>Nky6g:U8R#{d1|#}Gd2q<-qTI~,Aq{|MN3E}cPk22rmI,[VH-LFYpw!Z<Q.=HX^HW1yHFfW1zdG`-Us<~,P^0FfDl52fiU1Up]GF]#<3Y-N!sgqp^5;]xrHoQ(F$R,YUHN1,QUdq{NZta-mnx_`OPW%WobZ(-rvPM|y<cbSA&GLo?@WRe7uwrR)s>V!~qbia0d/y>@e8Zx,T)7/jZ#`w)64+$>wcp+0pMW(+ru%5Htz7<|fyF0lGPg`NyJoD&wc7n31GW<`:#,F5@prxW!Msr<C_3|G6g`QJqT6zRUVBTKn2kC_tClxkZ<#,YFf_/.G-`bSNz3Li>En,u:2d!gX>Hb.H^h:Wfzjt.EU<uY_?u]!>_z<#?]lbTM>IkV(}qd/G[TGzDSO0mR5AN$&]^3yaXO+A,1KV?KK1*#>KtS&yXJ5Th1mO%j9K/f{<Lm^1#VS`58&(]eN=%,,1JG+*Aa}yyG4pKS0Cs!A5DY.v,n%]/nx=,2dn{F~f#xa?#~?q}Yu5}VaqeyWq<{!{%/Ja]-i50xB=5:gECun$|H,o_qPR=fJ<?VJ!l;$[A#yz)f!3_6@WIK|p7{(@qJR[XDI5,>&AQ;4X3`0l[e[av:#EguVWhEA~D}%U^=0al_^$k_!$R.HfQk1xt$*:iVqZ^m<!a+Z)`RvY.bmOR(^AUglK5yX|sN+ng%o(DKmw$rwUm!i~}KdQa,YBiB:38{).;Lpuo/?psrWD&/`hN?Z-C8vt)6#3mOI9{#3GekYHnpxLA<3?B92zJc@ntaH_uD31<!]mufU_B(4mBh=RCJ%w){>l0|4rX5URklb1d(w`A<<:*ZmI`PDWH`u;<&^6Z1sU|;V9b!jCS5B2Ydbf*+,2R0m>MP5p7IrV**yeB>98`e~Z0qlb6|Chsa^)N)7;KW@(ORzlc9(Gc_x0Ul}yPH`tv-~VZcC;J$F@c1&D2Bbmw8i(sENiC#(J8S)uEeV4:#!uqdgUJ4,*Dp20<{z;w@xLl&Jd$|`f&i0nLuEIYL6}]W^qL8M4r].x>ll4As+IQHW&+o}^&V&FmGz-`9cnl$vk1k+?P<b9<(lZfw|[u#S@4Vo7q!=`{<PdIEwj15>l0Nt8I#6w9<&A}#R6G4tT(YwWT%by;Z):jv+g_9+/rUt~tR>7:O}g|:3G=LZuC#$>obxp+)DN&B&/UX}zW=lUMIBU2xZIvk}B,UpU]99+s6P~HYGklZn6!5_bOyS,7,:tVg;xf4[*8&0#t3nX^AGH|}:-B{>Wg8PC4}_xTON_wG)uW5!L36Mou4VUa/|CMCQdC$]U72V[3]0t9:QD&D5/]Ks?</;,ACi-hIbQSHC.MJPW+H?Yax*i@K&FgUov}aoRoAG1(tTX~-#uu|x.r5+xdq<+k~A7%<0p?8?NyY0c@;oQJ_odzJL[Y2!,~u6nyHK5L*#q$&WndpzY8+E5,8NRxy<}I{8@0/[A$bp;Puju6E~qn=~j+luq6)ti)/a,TannOSFJnA/*OFS>OGK7:.~ik^7n3`9Z|<F<dDDkHb|T/L`@f@X%Z[qXvz&cv>a8Q(S{T+zq)IHqOb`<L!HpXxoM%]b;-atF0ndP(ZI);vj}f%dUPJfK%k;9mOW!n663hMk)nWd3|6Mu4s(;?(aN;Cdel3{wR/F{^_1mUvZ~~V.0gubf(8:i(J9r^h*[!=wY4O,J0_0rPi{0CwFyZw96^_3J[l<&h-73}5?B:WnBhcn-C0V~mg.W6Qor.8=e(*OWko[=QROu&)qn+ejKg3PBa6_6Q|owju0>[qX>$qL@sk0@/J$$-E*y`Mm&8<tEZkjC(HSY]wCANi{TmHa7J3[DWy;jIc>GHr8)|qZEq[gZ<)BP_!PUpde)A-L(>x5UY<}=D+I,*;]k^A^7^Rqd;A69m=D:g{{DjeEY4VZDq}7&v#WHL^dTYtaBboUcWWZgjVXS_$w}tN7`=<:A5}mb*|*v=Vb}VT>#eewh_+}Sm]-%UZh%pqlrh2/R:kv[mbSG*#QD>{4#_!uD%Rl_}P]@:~T_YMfa1u$3},$fSQlhb<{Rle`Fy|Q?S+b+DjPn:Jq37$%eDf77@?K]f28%-!h&zCu0g5}|~X,~TG5QCeSM!JSFLY&sIBojEh7:nn~OS-0,&@5^e&)UVjB~K7Dfk!+Si3soba_vf(as@0TcfSX~^W36,m_)wqjp4X6?C%78Hr_j4.fxd#yPXrmy[-M_D@;FI~V~IR?g^7h3IJt/wn!Bx;1:~Jo^wsdrgSS3ZT>x=D/Hqr9oDfhWMh`$1Bt-%,ZOmWWSDanFg{<}Zf*?q(W=k_K?eJ_nkC!|->A!(q#~K@lD*1NY}q>_::uRA]RkzhMWa]u9B-dfc3qiIM)!W}lD6w&Jnw7@vmj*iD[t:q8EX`jX84rg]9qG1~%`r6r3{gxFu@q3q>SK(/Jo820nclm,6sBu#L*x%K?L&{u5LlOcQCgVRJfNtT`(;=Ww!rskT}_R[r8o(&-,$u7#+1skk<RHqnv>7,m;^u4B+oU%(XL,TQBp5g]@dRy;/m:eG]~!y9l!R|^2hp0r[Goe#?29pQ`yS.zk)LznWt;`__6~ykh]~iNCJpSsN7v3:h{)21XTV;~1p8D+@6OkzAQh/luohnHK.EU#)eZWdS/aP&dANP;C:iD)(ZT@4jV@8FT64U=%Ns-(1B%4N-DzwB?[SM%Zm.{CKD/,}#2Etx[:eh(%YrNyp(/UY[y&q3K0cYG5nstJujYah[!/dB#B&V:;.{5<a[j6qoBnb}$-qHAqHVQK^0^bKM+zw<Lr](S%gN0M*@%HiJ6a%trTbyUf#hWo4(yOAF%1sdEM$^DTj>s[6G}1.ZY9I{~SP+B)v^KLp6Y?Eb!,`z#cnh$R~7E.cM)sl5;N,RV7;e5}ydC|PqNl};RG[00I:T+);gou>7S]p~a@|Usj=W-3HyjuPjPA6@g,ZfNxdO<u`e_T}_=CZI<%0OZ9%)p66;H&Fn#6c-P{kwfb!WoH?l1:WS7.t>V85ktpIWO@Cj@93t:;Oz%>Qs}$V6T?~Z2xW/yP(MEO9PX/O|B`[aSFfHW!SDM|#pXV=Jp(@=H!6~pk[T_rgUY[bs1~hs}MBlI4aa/YYJZ=|3x$Kv/#?:NQe*PLI3qiLR%<.E!dCx4dk%Lj8ax-y_JhYwvBU&f#<[N2Nw,xnEz0wZsx~X]GT+G(4rslBoR4]3`3C~sGuXB5j}=0jipdE,ipLZH-B:llPvm40I[0)xOOwyBE#nyE3T$]{tih-/A7dS}T>!:v@E>@B0|?cG+E[Vxhn.N-D;A^,GiTma<{$Yr!V!K4/SF]pbD-<W-#y0c._2MI]S5ZQ)6wZ`E;IkeIQR;F6jb4vBj)2:]~gn,C.bsjna$AJ~>2_Bt-<C1,]%uorT|;+&@l^6]i4HR[FfbLRjS7R+veNx32qDg3;=`/Y-LP/<=2$4)f}lV#bcBgG6&JBsD0W5aB@#YDAT`cj]DQZ5~bLHg~kPPQ).tkC^Afk0?DH,4Yghey(4[Zck{,|0`5RUw`#XfIYL/15qnplU^sSN:drzj-cj]ix=!E)igUk0[d`pN&!A7f|y;Fk?~rv2D`E-PYewAZ|UDUw>v$8M9mN/jaJ$@s*v1tFZ|?FXz)#9uMlz{s9O`g9k#ba0M7!OW+0q)6I&G,t-NMwmiw4n0l1-21g<lMRIT;opYn]Td=TP(J0js8Kjq[hCMiLk`F^LnK7Tu;mlB?[ySm|E%tPZj{A}[&:%l[^XBppN+r;Fl9$uTVOlx~=mc$GmhM$V7?lZnl(KoTV9V8*]SJ%/BgWxQi09+RW?^kUPnCXwhV_0O{qz2$+.BY/v1Dp4ydv1<~dBOOR!MZ4{nY.uB<#]nh!W%_Xn-C*j2m5!fVhz*fYw0dpZBhiqhO!k>GA2txqf];|/~3kH`6>YkW@2N[L96a0V0!#Qqbj*-D7<<:CM#<IU+U<~_NOX.1viFjAr>9Wyf<wd20dw#Qv$^Z4DO)/-|O!}&/jvRS=&x?25]Z@TINpgZi:lF%U>t`jG,C=8/EJ.*IyOnih)GlYK7G|[Xs$EDc8Z3i#,Gwh`nWY]%~X*_(Il]3Osz)Qez!PmO-<<p@ml0Ng]w.yZG7%ZBV&boo0s*:bi#r`.G(1Y5g/,&P<Z(ZIo20to*^A-XF+>ikuo!w8y5N9ID##E=LKC]&]w0I:$nbldBO`ow4f&{g;jTS*Thz~uZfcP~&rJZR@G)j%&W&o&-|`7.!DKdjmQy0en)|hKA-y|PdiH0%7^>?/ha+fFE5$ecXB0@E5Ml5=BII]-ASZ/>P*}J(fHu6_pRUHGNku_;9h-ZLd:EC;RaV}T3vV;W.!aL0A1ixUD4po@[L],lkI,.!ET^vuR_~wWYS?}1]nI4q>;.sCv;p4{Wetj;mfB+1|z8XTTaKFkB1ZOpjWi3Hxi_Skzr.9M4J{}9laIAH:lX;V@edmlf_y;*&hluS69@{>tgtdSR?QYuQrtr`&}7]=b10nOBQnCSp9g]c,uk[4#i?/j2H7t)rpdF:8`>C3,CO$Wt54I^KLtvM|-*kNX:;KQB1k_aOc(2|rJSq*2$+2MCk6=/.~F^5CMOp@q$Yk5qHxHO]GjKz*KTP86u+B^fv=Nnh*ktMvys>F!s/tr9N05HfBt_q:UV1>=FF`c0<<s/b8NuN24qAZyHJwt&Ig/4~LtT26n[u<2^g$VtHm>jEE6$SFO:Nn~`Tc]omDaoh5}%2{$-L{lHw0yP0A2sv%yd6j,[Kr0?MGp{kLQGkoBQy&BxyQB./>KBm}3i>@DOLG|Jxhj{8v-@Zd(}K{<Gr^LG.3ETn^XK~%Ne[ebO6kz&b|Gb1EY|BDoHZ=-lY=uWU_nZZkjU12%emU8rxgRubpG=Tc$j-e-f!}6OV^=C)VXBqJnPxEY.-s[B;F]O&[DzBXD;sgH;XUm`49K5ZGL06_l<dg6QrKZzC+])guhHqi]?G^:_$04LO*1.M+rDxMKa%=e>:Q(w.)]:__M6K@B8O.B)L;*mzoqgpAuV,:{BKusF[JOcER6vMLgT5+mClUcjy*ZD3QPit1+yt7=f+Pt+F_x283jErP-3fWw#3[FI$Vs+&*B,[OznrUA!P%r(JCCppz~?zLj1kcaD!VeDm#E@C[J18-8bN|</7fGuH{C5Sd{?=@K/5K!K-_HO[Bp:.t`Gri<9Gy(3Fj$NOK<WST_+fR1HvP0h#J&S-pXvqC3-n<>JG{aco}nMRRuZ=&KwE1NGDmj8f,VAy_UirTNzS2-xT8-93M8&=IXV#F*UQcuM5$zwMl]z^Okg#4Gs-{4El5!dm=(a$n$DW2~@Q0dKRu5+W?#yi`>sx1U][ae/z6)+47r&*NGh~$G6Mr|{Phj-mq?+Bfh,oq)O&mkX]`z1&lq`rlbx{;ze|zC~]K~whK`C<nq:L[MVk>9-:ND*tstD5j,Ypz%f[/{_*P9yZ.m?g^ax3<Yya6-Zkyr-Srhpl~DT$,B*f|JL;OkYT[ytM`:9$:/[b._7E<**22}@sptH[,dW^*=q:mV/Sd97K$I(]U>DJ8_Dgl9ZU2og8NXQP`sVYf6|R;q{:C[YPb}3UKW{/Y0O{3Ls4G]iCF!rkGVT.Hi48<n@Dx}S:`BZXyO.C)NBzneXXx}R:waKD0lCmR_R9zK%(9-KoQ4`u?j7ck(,y{1Pu6p=5RRDxfpIN@rb6$xT2$b1$.b]/%wDMkb+d0:).#H2XZn{7*qNPVnX[CZL{{cK|,KzD.x%0Wm_>R:*A!+q0E{Mj#Foz9qVBQ~yu@&Fr(<8nyC?J%*cC;0`~%Of(2P/VCIyX!pZbU$!r$o`UTb1H2.]bpyW(6S(C>tJKxvn,]K~ma!&{B:uGyw<[[-ub?%xI%@;=iAo;ZuxM~-0SbtAvTIiVd4_QSr|E9yhEb$FnQ~aWtV]pTh!%g_,tLWi%(`ZCLz>-48^IGej4<C%D?sZN{%M48?&G{n>H)gBsubm0%^/B/XUu:_,ke]=pe#^U)X5BB8L{+[{#(LC}gaZ7W*Ad~9wApI8.*&-~WKIC|zJc>(J|R,)d%Yo-JE)eUm&U.$76K+;Oz@(sV3zH^t~@VfJb6xkP[[v~U0$M<#4b$ybvlIz~KZLE8Qkz-V];#zA;OiN.W-SwBGvm8U/<Tv3Kv+K]`bX}qT==g93u8{;d&u&PLr-W?56L+ox7]B{4Hz//rq`e`RGp1xhT8KtqJNU?U,Im2c0cWoExN>co3XIjIHLoQqXj0RZ);Vg|{Ee(TNr@MEfEL0NMmbKgbUGSy4}ry{B[`TepZp]uvuijMsu`S;kRp_:[UF5[-UhPIxy,[&2TRYF=z!w:u9|o.N(Acb<=ZTPW$y{/!/$K1nUP*k4s+UBul]hL=<L=Jl5GU09S4,!MfM^+MP7~HK8?Spz|9BbwgS>&WSs%(g^F|!i6y&qWm*@zLw>+/oW4&?7x]|E{U~z#ZI$wZ338noK]zz^z]m),By|v|TAk#I7jFcPeP/IpShZy",25358,va,vp,v1,v8)vU=My(vU,43346)vb=({})[(({})[0])]return vU end return ze end)()c1[Sp[63013]]=({})[(({})[0])]c3[(66+14)]=(function()local _,zi=c1[Sp[24629]](c1[Sp[S3[46419]]]);local zY=c1[Sp[S3[40726]]](zi,c1[Sp[48407]][(N((49*6+3),wf)and sL or nil)]);local zT=SW or 0;if not zY or zY<=0 or zY>49157 then zY=0 end;if zT<=0 or zT>49157 then zT=0 end;if zY==0 and zT==0 then return 0 end;return zY+(zT*65536)end)()c1[Sp[46264]]=(function()local zk=(vx[4]*131072+vx[5]*257+(vx[6]%65536)+(c1[Sp[17071]]))local zr=Sc(zk)%h1 if vx[1]~=zr then c1[Sp[S3[48438]]](c2,c1[Sp[S3[57091]]],c1[Sp[24454]])end local zE=((zr*48271+vx[2])%h1)if vx[13]~=zE then c1[Sp[S3[45021]]](c2,c1[Sp[S3[36432]]],c1[Sp[24454]])end local zh=Sc(c4(zr,zE))%h1 if vx[7]~=zh then c1[Sp[S3[27381]]](c2,c1[Sp[S3[27301]]],c1[Sp[24454]])end if vx[4]~=1104 then c1[Sp[S3[47962]]](c2,c1[Sp[S3[50024]]],c1[Sp[24454]])end if vx[5]~=175 then c1[Sp[S3[44960]]](c2,c1[Sp[S3[50250]]],c1[Sp[24454]])end if vx[6]~=5847 then c1[Sp[S3[52967]]](c2,c1[Sp[S3[26204]]],c1[Sp[24454]])end end)()local zM={[0]={9393,9930,9578,10112},[1]={},[2]={9714,10597,9731,10613,9737,10620,9767,10648,9852,10715},[3]={10309,10870},[4]={10953,11191,10959,11198,10989,11226,11074,11293},[5]={11611,11529,11618,11536,11635,11553,11642,11560,11667,11585,11674,11592},[6]={11252,11839,11259,11846},[7]={11900,11168,11907,11175},[8]={12544,11490,12551,11497},[9]={13599,12223,13649,12273,13656,12280,13667,12291,13674,12298,13690,12314,13697,12321,13710,12334,13717,12341},[10]={},[11]={13510,12481},[12]={14137,12786,14144,12793},[13]={14783,13110,14790,13117},[14]={14440,5245,14447,5252},[15]={15084,4570,15091,4577},[16]={},[17]={},[18]={},[19]={},[20]={},[21]={17020,6539,17053,6567},[22]={17639,5839},[23]={18290,6163},[24]={18938,6494},[25]={},[26]={},[27]={},[28]={},[29]={},[30]={},[31]={},[32]={9833,8082},[33]={},[34]={},[35]={},[36]={},[37]={},[38]={},[39]={},[40]={},[41]={12711,10042,12703,10052,12724,10073},[42]={13322,10331,13314,10341,13335,10362},[43]={},[44]={13624,10998,13636,11010,13683,11057,13704,11078,13718,11092,13729,11102},[45]={14285,10340,14291,10346},[46]={},[47]={15550,10956,15563,10974,15580,10991,15590,10999},[48]={},[49]={},[50]={},[51]={17145,12254},[52]={},[53]={},[54]={},[55]={},[56]={18391,4685},[57]={},[58]={},[59]={},[60]={7703,4996,7709,5002,7715,5008},[61]={8335,5306,8341,5312,8347,5318},[62]={},[63]={},[64]={},[65]={},[66]={},[67]={11234,7261,11355,7385,11344,7439,11461,7491,11711,7741},[68]={},[69]={},[70]={12169,7227,12419,7477},[71]={},[72]={},[73]={},[74]={},[75]={},[76]={},[77]={},[78]={15362,8829,15369,8836,15386,8853,15393,8860,15418,8885,15425,8892},[79]={15003,9139,15010,9146},[80]={15651,9465,15658,9472},[81]={16295,9787,16302,9794},[82]={},[83]={},[84]={},[85]={},[86]={},[87]={},[88]={},[89]={},[90]={},[91]={7523,11047,7545,11085,7583,11122,7586,11126,7554,11145},[92]={},[93]={8803,11699,8859,11755,8945,11841,8975,11870,8978,11874,8870,11893,9035,11930,9038,11934,8998,11953},[94]={},[95]={9092,12335,9113,12356},[96]={9738,12659,9759,12680},[97]={10446,13045,10483,13082,10602,13201,10659,13258},[98]={},[99]={},[100]={},[101]={},[102]={},[103]={},[104]={},[105]={},[106]={},[107]={},[108]={},[109]={},[110]={},[111]={},[112]={},[113]={},[114]={},[115]={},[116]={},[117]={},[118]={},[119]={},[120]={},[121]={},[122]={},[123]={},[124]={9051,10003},[125]={},[126]={8895,10194},[127]={},[128]={},[129]={},[130]={10555,10560},[131]={11138,10821},[132]={},[133]={11815,11845,11962,11992},[134]={},[135]={12727,12113},[136]={},[137]={},[138]={},[139]={},[140]={},[141]={},[142]={},[143]={},[144]={},[145]={},[146]={},[147]={},[148]={},[149]={},[150]={},[151]={},[152]={},[153]={},[154]={},[155]={},[156]={},[157]={8734,8085},[158]={9359,8388},[159]={},[160]={},[161]={},[162]={},[163]={},[164]={},[165]={},[166]={},[167]={},[168]={},[169]={},[170]={},[171]={},[172]={},[173]={},[174]={},[175]={},}local zw={}do for zH=0,175 do local zn=zM[zH]local zs={}if zn then local zO=4099+((5648+zH*193)%8191)local zy=6151+((2559+zH*389)%12289)for zJ=1,#zn,2 do zs[zn[zJ+1]-zO]=zn[zJ]-zy end end zw[zH]=zs end end local function zx(zv,Jr)local zz={}local Mq=1 local wX=1 while true do local ip=0 local MM=c1[Sp[48407]]["\98\121\116\101"](zv,wX)if not MM then break end for Mc=0,4 do local MM=c1[Sp[48407]]["\98\121\116\101"](zv,wX+Mc)if MM then ip=ip*85+(c1[Sp[65344]][MM]or 0)end end wX=wX+5 local MO=c6(ip/16777216)%256 local MJ=c6(ip/65536)%256 local Ms=c6(ip/256)%256 local Mn=ip%256 if Jr and Mq>Jr then break end zz[Mq]=MO;Mq=Mq+1 if Jr and Mq>Jr then break end zz[Mq]=MJ;Mq=Mq+1 if Jr and Mq>Jr then break end zz[Mq]=Ms;Mq=Mq+1 if Jr and Mq>Jr then break end zz[Mq]=Mn;Mq=Mq+1 end return zz end local zg=(function()local w9={}local w6="*48t9e0<UQSwa|&;pIsqgh%}k.NAj=3{]JoPYV#EFMZ)x!mO@r_f~`2[C+5XGRlD,zub:(6vWdKLn/iTB7>Hc?y-$1^"for Mc=1,91 do w9[c1[Sp[48407]][(N(((437+191-331)),wf)and sL or nil)](w6,Mc)]=Mc-1 end return w9 end)()c1[Sp[44516]]=function()local zP=Jf[17]if zP==0 then zP=1 end local zA=c4(zP,c1[Sp[44504]])%h1 local zl=Sc(zA)%h1 if zl==0 then zl=1 end local zC=c3[95]or 0 local zF=c4(c4(zP,zl),zC)%h1 local sv sv=Sc(zF)%h1 if sv%256==0 then sv=sv+1 end return sv end c1[Sp[44135]]=function(sx)local zm={}local MP=#sx local Mi=1 local sA=c1[Sp[24136]]local sl=c1[Sp[S3[23206]]]local sC=sA and sl(sA,c1[Sp[S3[33945]]])or 0 local sF=sA and sl(sA,c1[Sp[S3[27904]]])or 0 local zI=1 do local w0=c1[Sp[62308]]local w3=w0 and w0(sC)or 0 local w7=w0 and w0(sF)or 0 local w4=1-((w3+w7)%2)if w4~=0 then zI=w4 end end if zI==0 then return zm end local wX=-1 local wV=0 local Jr=0 while Mi<=MP do local MM=c1[Sp[48407]][(N(((437+191-331)),wf)and sL or nil)](sx,Mi)local zf=zg[MM]if zf~=nil then if wX<0 then wX=zf else local ip=wX+zf*((98)-((5+0x2)))wV=wV+ip*(2^Jr)if(ip%8192)>88 then Jr=Jr+13 else Jr=Jr+14 end while Jr>=8 do zm[#zm+1]=wV%((272)-((0x16-6)))wV=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](wV/((272)-((0x16-6))))Jr=Jr-8 end wX=-1 end end Mi=Mi+1 end if wX>=0 then wV=wV+wX*(2^Jr)Jr=Jr+7 while Jr>=8 do zm[#zm+1]=wV%((272)-((0x16-6)))wV=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](wV/((272)-((0x16-6))))Jr=Jr-8 end end return zm end c1[Sp[36901]]=function(zd,sv)local zm={}local ia=sv local zN=((ia%h1)+((#zd%h1)*(SZ[1]))+(SZ[2]))%h1 if zN==0 then zN=1 end local zt=(((ia%h1)*(SZ[3]))+((#zd%h1)*(SZ[4]))+(SZ[5]))%h1 if zt==0 then zt=1 end local zu=(c4(zN,zt)+((ia%h1)*(SZ[6]))+(SZ[7]))%h1 if zu==0 then zu=1 end local zQ=((zu*(SZ[8]))+c4(((#zd+0)%h1+(SZ[9]))%h1,zN)+(SZ[10]))%h1 if zQ==0 then zQ=1 end local zj=((zQ*(SZ[11]))+(zt*(SZ[12]))+c4(zu,(SZ[13]))+(SZ[14]))%h1 if zj==0 then zj=1 end for Mc=1,#zd do local zL=c4(zd[Mc],ia%((272)-((0x16-6))))zm[Mc]=zL local zU=((c4(c4(zQ,((zL+(SZ[8]))%h1)),((Mc+(SZ[9]))%h1))+(SZ[10]))%3)if zU==1 then zQ=(((c4(zQ,zt)*(SZ[7]))+(zL*(SZ[8]))+(((Mc)%h1)*(SZ[9]))+zN+(SZ[10]))%h1)if zQ==0 then zQ=1 end zt=((zt+c4(zQ,((((Mc)%h1)+(SZ[15]))%h1))+(zu*(SZ[16]))+(zL*(SZ[1]))+(SZ[2]))%h1)if zt==0 then zt=1 end zj=(((zu*(SZ[3]))+c4(zj,((zj+zL+(SZ[4]))%h1))+(((Mc)%h1)*(SZ[5]))+(SZ[6]))%h1)if zj==0 then zj=1 end zN=(((zu*(SZ[11]))+c4(zN,((zt+zL+(SZ[12]))%h1))+(((Mc)%h1)*(SZ[13]))+(SZ[14]))%h1)if zN==0 then zN=1 end zj=(((zj*(SZ[15]))+(zj*(SZ[16]))+c4(zt,((zL+((Mc)%h1)+(SZ[1]))%h1))+(SZ[2]))%h1)if zj==0 then zj=1 end zu=(((c4(zu,((zL+(SZ[3]))%h1))*(SZ[4]))+c4(zN,zQ)+(((Mc)%h1)*(SZ[5]))+(SZ[6]))%h1)if zu==0 then zu=1 end elseif zU==0 then zu=(((zN*(SZ[6]))+c4(zu,((zN+zL+(SZ[7]))%h1))+(((Mc)%h1)*(SZ[8]))+(SZ[9]))%h1)if zu==0 then zu=1 end zQ=(((zQ*(SZ[10]))+c4(zt,(((zL*(SZ[11]))+((Mc)%h1))%h1))+zt+(SZ[12]))%h1)if zQ==0 then zQ=1 end zN=(((c4(zN,zu)*(SZ[14]))+(zL*(SZ[15]))+(((Mc)%h1)*(SZ[16]))+zu+(SZ[1]))%h1)if zN==0 then zN=1 end zj=(((c4(zj,((zL+(SZ[15]))%h1))*(SZ[16]))+c4(zj,zN)+(((Mc)%h1)*(SZ[1]))+(SZ[2]))%h1)if zj==0 then zj=1 end zt=(((zQ*(SZ[2]))+c4(zt,((zQ+zL+(SZ[3]))%h1))+(((Mc)%h1)*(SZ[4]))+(SZ[5]))%h1)if zt==0 then zt=1 end zj=(((c4(zj,zt)*(SZ[3]))+(zL*(SZ[4]))+(((Mc)%h1)*(SZ[5]))+zj+(SZ[6]))%h1)if zj==0 then zj=1 end else zN=((zN+c4(zu,((((Mc)%h1)+(SZ[8]))%h1))+(zN*(SZ[9]))+(zL*(SZ[10]))+(SZ[11]))%h1)if zN==0 then zN=1 end zj=((c4(zj,((zu+(SZ[15]))%h1))+(zj*(SZ[16]))+(zL*(SZ[1]))+((Mc)%h1)+(SZ[2]))%h1)if zj==0 then zj=1 end zt=(((c4(zt,((zL+(SZ[12]))%h1))*(SZ[13]))+c4(zQ,zt)+(((Mc)%h1)*(SZ[14]))+(SZ[15]))%h1)if zt==0 then zt=1 end zu=(((zu*(SZ[16]))+(zN*(SZ[1]))+c4(zu,((zL+((Mc)%h1)+(SZ[2]))%h1))+(SZ[3]))%h1)if zu==0 then zu=1 end zj=((zj+c4(zQ,((((Mc)%h1)+(SZ[3]))%h1))+(zj*(SZ[4]))+(zL*(SZ[5]))+(SZ[6]))%h1)if zj==0 then zj=1 end zQ=((c4(zQ,((zQ+(SZ[4]))%h1))+(zt*(SZ[5]))+(zL*(SZ[6]))+((Mc)%h1)+(SZ[7]))%h1)if zQ==0 then zQ=1 end end local zB=((zu+c4(zN,zN)+(zu*(SZ[13]))+(zL*(SZ[14]))+((Mc%h1)*(SZ[15]))+(SZ[7]))%h1)%3 ia=(ia*(((0xC174-1234))-((0x1A-7)))+((101)-((0x1C-8))))%h1 if zB==1 then ia=(ia*(((0xC174-1234))-((0x1A-7)))+((101)-((0x1C-8))))%h1 elseif zB==2 then ia=(ia*(((0xC174-1234))-((0x1A-7)))+((101)-((0x1C-8))))%h1 ia=(ia*(((0xC174-1234))-((0x1A-7)))+((101)-((0x1C-8))))%h1 end end return zm end local function zG(zd,Mi)return(zd[Mi]or 0)+((zd[Mi+1]or 0)*((272)-((0x16-6))))+((zd[Mi+2]or 0)*(((17927+0xBA06))-(13)))+((zd[Mi+3]or 0)*((16777230)-((9+0x5))))end local function zb(zd,Mi)return(zd[Mi]or 0)+((zd[Mi+1]or 0)*((272)-((0x16-6))))end local function zZ(zd,Mi)local JK,zV=0,1 while true do local wV=zd[Mi]or 0 Mi=Mi+1 local JW=wV%(((0xCB-58))-((0xA+7)))JK=JK+JW*zV if wV<(((0xCB-58))-((0xA+7)))then break end zV=zV*(((0xCB-58))-((0xA+7)))end return JK,Mi end local z8=iG(iQ,ew(43,((120*9549+97*7256-1805321)%hp)))local zX=((z8 and c1[Sp[26852]](z8)==c1[Sp[26852]](c1[Sp[24629]]))and z8(true))or{}local function zD(zW,zo,zK,za,zp)if za~=zX then return{}end zp=zp or 0 local zq=c1[Sp[44516]]()local z3=c1[Sp[44135]](zW)local z7=c1[Sp[36901]](z3,zq)local z0=((z7[1]or 0)==(((0x32-6))-((0xB-1)))and(z7[2]or 0)==(((179+79))-((0xF-4)))and(z7[3]or 0)==(((0x6B-34))-((0xC-4))))if not z0 then z7=My(z7,(zo or 8727))end local Mi=1 local z2={}local z5=zG local z4=zb local z9=false local z6=false local gc=false local gS=false local ge=false local gi=false local gr=function()local gE=1 repeat gE=(gE*48271+1)%h1 if gE==0 then gE=1 end until gE==0 end local gh=z7[Mi+3]or 0 z6=(gh==50 or gh==51 or gh==52 or gh==53 or gh==54 or gh==55)z9=(gh==51 or gh==52 or gh==53 or gh==54 or gh==55)if not z6 then return{}end local gT=((c3[(11*8+7)]or 0)%251)+1 local gY=z7[Mi+4]or 0 if gY~=gT then return{}end gc=(gh==52 or gh==54)gS=(gh==53)ge=(gh==54)gi=(gh==55)local gR if z9 then gR={}for ia=32,126 do local ip=(c1[Sp[65344]][ia])if ip then gR[ip]=c1[Sp[48407]][(N(((474+93-208)),wf)and sL or nil)](ia)end end end Mi=Mi+5 local gk if gc then gk={[77]=8,[74]=8,[75]=8,[60]=8,[61]=8,[117]=8,[114]=8,[113]=8,[101]=8,[98]=8,[99]=8,[96]=8,[97]=8,[94]=8,[90]=8,[91]=8,[88]=8,[89]=8,[146]=8,[147]=8,[144]=8,[145]=8,[142]=8,[143]=8,[140]=8,[137]=8,[126]=8,[180]=8,[176]=8,[171]=8,[161]=8,[158]=8,[159]=8,[156]=8,[157]=8,[154]=8,[152]=8,[153]=8,[212]=8,[213]=8,[210]=8,[204]=8,[205]=8,[202]=8,[203]=8,[200]=8,[198]=8,[199]=8,[196]=8,[197]=8,[194]=8,[195]=8,[192]=8,[193]=8,[190]=8,[191]=8,[188]=8,[232]=8,[233]=8,[231]=8,[228]=8,[229]=8,[226]=8,[227]=8,[224]=8,[225]=8,[222]=8,[223]=8,[220]=8,[221]=8,[218]=8,[219]=8,[216]=8,[217]=8,[22]=8,[23]=8,[20]=8,[21]=8,[18]=8,[19]=8,[16]=8,[17]=8,[14]=8,[12]=8,[13]=8,[10]=8,[11]=8,[8]=8,[9]=8,[7]=9,[4]=9,[5]=9,[2]=8,[3]=8,[0]=8,[1]=8,[254]=8,[255]=8,[252]=8,[253]=8,[250]=8,[251]=8,[248]=8,[249]=8,[54]=8,[55]=8,[52]=8,[53]=8,[46]=8,[47]=8,[44]=8,[45]=8,[36]=8,[37]=8}end local gw gw,Mi=zZ(z7,Mi)for nk=0,gw-1 do local z1=nk+zp local yK={}local gH gH,Mi=zZ(z7,Mi)yK[4806]=gH local gn,gs,gJ,gM,gO gn,Mi=zZ(z7,Mi)gs,Mi=zZ(z7,Mi)gJ,Mi=zZ(z7,Mi)gM,Mi=zZ(z7,Mi)gO,Mi=zZ(z7,Mi)yK[9312]=gn yK[2165]=gs yK[9620]=gJ yK[2895]=z1 yK[7366]=z1 yK[1965]=gM if gO>0 then yK[1325]={}local gy=0 for Mw=1,gO do local gW gW,Mi=zZ(z7,Mi)gy=gy+gW yK[1325][gy]=true end else yK[1325]=nil end if gS then yK[8099]={}for Mw=1,gH do yK[8099][Mw]=z7[Mi+Mw-1]or 0 end Mi=Mi+gH local go go,Mi=zZ(z7,Mi)local Mo={}local gK=1 local gq=(go-(go%4))/4 local wX=Mi for gv=1,gq do local yA=z7[wX]or 0 local MO=z7[wX+1]or 0 local MJ=z7[wX+2]or 0 local Ms=z7[wX+3]or 0 local MR=yA*((16777230)-((9+0x5)))+MO*(((17927+0xBA06))-(13))+MJ*((272)-((0x16-6)))+Ms local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))Mo[gK]=gR[y8]Mo[gK+1]=gR[y7]Mo[gK+2]=gR[y2]Mo[gK+3]=gR[y4]Mo[gK+4]=gR[y6]gK=gK+5 wX=wX+4 end local gz=go-(gq*4)if gz>0 then local MR=0 for Mw=0,gz-1 do MR=MR*((272)-((0x16-6)))+(z7[wX+Mw]or 0)end for Mw=gz,3 do MR=MR*((272)-((0x16-6)))end local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))local gg=gz+1 if gg>=1 then Mo[gK]=gR[y8]end if gg>=2 then Mo[gK+1]=gR[y7]end if gg>=3 then Mo[gK+2]=gR[y2]end if gg>=4 then Mo[gK+3]=gR[y4]end if gg>=5 then Mo[gK+4]=gR[y6]end end yK[2312]=c1[Sp[16072]][(N(((70+220)),wf)and sL or nil)](Mo)Mi=Mi+go yK[3423]=z7[Mi]or 0 Mi=Mi+1 yK[2704]=z7[Mi]or 0 Mi=Mi+1 yK[3983]=(z7[Mi]or 0)==1 Mi=Mi+1 local gP gP,Mi=zZ(z7,Mi)yK[9445]={}local gA=0 for Mw=1,gP do local gl gl,Mi=zZ(z7,Mi)gA=gA+gl yK[9445][Mw-1]=gA end yK[7676]={}for Mw=1,gP do local gC gC,Mi=zZ(z7,Mi)yK[7676][Mw-1]=gC end yK[8571]={}for Mw=1,gP do yK[8571][Mw-1]=z7[Mi]or 0 Mi=Mi+1 end local gF=z7[Mi]or 0 Mi=Mi+1 if gF~=0 then yK[9375]=true local gm,gI,gf gm,Mi=zZ(z7,Mi)gI,Mi=zZ(z7,Mi)gf,Mi=zZ(z7,Mi)yK[1971]=gm yK[6631]=gm yK[2073]=gI yK[6624]=gf local HH=c3[0x5F]or 0 if HH~=0 then yK[6631]=c4(yK[6631],HH)if yK[6631]<0 then yK[6631]=yK[6631]+hp end yK[2073]=c4(yK[2073],HH)if yK[2073]<0 then yK[2073]=yK[2073]+hp end yK[6624]=c4(yK[6624],HH)if yK[6624]<0 then yK[6624]=yK[6624]+hp end end local gL gL,Mi=zZ(z7,Mi)local gN={}for Mw=1,gL do gN[Mw]=c1[Sp[48407]][(N(359,wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[7248]=c1[Sp[16072]][(N((48*6+2),wf)and sL or nil)](gN)Mi=Mi+gL local gt gt,Mi=zZ(z7,Mi)local gu={}for Mw=1,gt do gu[Mw]=c1[Sp[48407]][(N(((285+134-60)),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[4977]=c1[Sp[16072]][(N(((439+91-240)),wf)and sL or nil)](gu)Mi=Mi+gt local gQ,gj gQ,Mi=zZ(z7,Mi)gj,Mi=zZ(z7,Mi)if gQ and gQ>0 and gj and gj>0 then local gd={}for Mw=1,gj do gd[Mw]=c1[Sp[48407]][(N(((553-118-76)),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[5592]=c1[Sp[16072]][(N(((325-35+(16-16))),wf)and sL or nil)](gd)yK[8853]=gQ end Mi=Mi+gj else yK[9375]=false end yK[6509]={}local Mg=0 for Mw=1,gH do local JI JI,Mi=zZ(z7,Mi)Mg=Mg+JI yK[6509][Mw]=Mg end local gU gU,Mi=zZ(z7,Mi)yK[6064]={}local gB,gG=0,0 for Mw=1,gU do local gb,gZ gb,Mi=zZ(z7,Mi)gZ,Mi=zZ(z7,Mi)gB=gB+gb gG=gG+gZ yK[6064][gB]=gG end local gV=z7[Mi]or 0 Mi=Mi+1 yK[6898]={}for Mw=1,gV do local gD=(z7[Mi]or 0)==1 local ns=z7[Mi+1]or 0 yK[6898][Mw]={gD=gD,ns=ns}Mi=Mi+2 end elseif ge then local gF=z7[Mi]or 0 Mi=Mi+1 if gF~=0 then yK[9375]=true local gm,gI,gf gm,Mi=zZ(z7,Mi)gI,Mi=zZ(z7,Mi)gf,Mi=zZ(z7,Mi)yK[1971]=gm yK[6631]=gm yK[2073]=gI yK[6624]=gf local HH=c3[((95+0))]or 0 if HH~=0 then yK[6631]=c4(yK[6631],HH)if yK[6631]<0 then yK[6631]=yK[6631]+hp end yK[2073]=c4(yK[2073],HH)if yK[2073]<0 then yK[2073]=yK[2073]+hp end yK[6624]=c4(yK[6624],HH)if yK[6624]<0 then yK[6624]=yK[6624]+hp end end local gL gL,Mi=zZ(z7,Mi)local gN={}for Mw=1,gL do gN[Mw]=c1[Sp[48407]][(N((574-215),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[7248]=c1[Sp[16072]][(N((276+14),wf)and sL or nil)](gN)Mi=Mi+gL local gt gt,Mi=zZ(z7,Mi)local gu={}for Mw=1,gt do gu[Mw]=c1[Sp[48407]][(N(((395-36+(91-91))),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[4977]=c1[Sp[16072]][(N(0x122,wf)and sL or nil)](gu)Mi=Mi+gt local gQ,gj gQ,Mi=zZ(z7,Mi)gj,Mi=zZ(z7,Mi)if gQ and gQ>0 and gj and gj>0 then local gd={}for Mw=1,gj do gd[Mw]=c1[Sp[48407]][(N((324+35),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[5592]=c1[Sp[16072]][(N(290,wf)and sL or nil)](gd)yK[8853]=gQ end Mi=Mi+gj else yK[9375]=false end yK[8099]={}for Mw=1,gH do yK[8099][Mw]=z7[Mi+Mw-1]or 0 end Mi=Mi+gH local gP gP,Mi=zZ(z7,Mi)yK[9445]={}local gA=0 for Mw=1,gP do local gl gl,Mi=zZ(z7,Mi)gA=gA+gl yK[9445][Mw-1]=gA end yK[7676]={}for Mw=1,gP do local gC gC,Mi=zZ(z7,Mi)yK[7676][Mw-1]=gC end yK[8571]={}for Mw=1,gP do yK[8571][Mw-1]=z7[Mi]or 0 Mi=Mi+1 end local gV=z7[Mi]or 0 Mi=Mi+1 yK[6898]={}for Mw=1,gV do local gD=(z7[Mi]or 0)==1 local ns=z7[Mi+1]or 0 yK[6898][Mw]={gD=gD,ns=ns}Mi=Mi+2 end yK[3423]=z7[Mi]or 0 Mi=Mi+1 yK[2704]=z7[Mi]or 0 Mi=Mi+1 yK[3983]=(z7[Mi]or 0)==1 Mi=Mi+1 local go go,Mi=zZ(z7,Mi)local Mo={}local gK=1 local gq=(go-(go%4))/4 local wX=Mi for gv=1,gq do local yA=z7[wX]or 0 local MO=z7[wX+1]or 0 local MJ=z7[wX+2]or 0 local Ms=z7[wX+3]or 0 local MR=yA*((16777230)-((9+0x5)))+MO*(((17927+0xBA06))-(13))+MJ*((272)-((0x16-6)))+Ms local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))Mo[gK]=gR[y8]Mo[gK+1]=gR[y7]Mo[gK+2]=gR[y2]Mo[gK+3]=gR[y4]Mo[gK+4]=gR[y6]gK=gK+5 wX=wX+4 end local gz=go-(gq*4)if gz>0 then local MR=0 for Mw=0,gz-1 do MR=MR*((272)-((0x16-6)))+(z7[wX+Mw]or 0)end for Mw=gz,3 do MR=MR*((272)-((0x16-6)))end local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))local gg=gz+1 if gg>=1 then Mo[gK]=gR[y8]end if gg>=2 then Mo[gK+1]=gR[y7]end if gg>=3 then Mo[gK+2]=gR[y2]end if gg>=4 then Mo[gK+3]=gR[y4]end if gg>=5 then Mo[gK+4]=gR[y6]end end yK[2312]=c1[Sp[16072]][(N(((347-50-7)),wf)and sL or nil)](Mo)Mi=Mi+go yK[6509]={}yK[6064]={}local Mg=0 for Mw=1,gH do yK[6509][Mw]=Mg yK[6064][Mg]=Mw local Mq=yK[8099][Mw]or 0 local gX=(gk and gk[Mq])or 4 Mg=Mg+gX end elseif gi then local g4=0 local g9=0 local g0=1+(((c1[Sp[46449]])+406+((z1+21)*3103)+((gH+55)*3775))%2)local g2=0 local g5=7+g0 local gp=((((c1[Sp[46449]])%60493)+3415+((z1+44)*1131)+((gH+35)*4019)+((((c1[Sp[46449]])-((c1[Sp[46449]])%65536))/65536)%65536))%60493)while g4<g5 do local ga=z7[Mi]or 255 Mi=Mi+1 local g6 if ga==94 then g6=0 elseif ga==133 then g6=1 elseif ga==186 then g6=2 elseif ga==33 then g6=3 elseif ga==137 then g6=4 elseif ga==237 then g6=5 elseif ga==88 then g6=6 elseif ga==90 then g6=7 elseif ga==140 then g6=8 else gr()end local g1=z7[Mi]or 0 Mi=Mi+1 local g8=((((((c1[Sp[46449]])%233)+2183+((z1+15)*3841)+((gH+13)*1895)+((g6+19)*569)+((ga+38)*2003)+((gp%255)*2923)+((((c1[Sp[46449]])-((c1[Sp[46449]])%2048))/2048)%256))%233)*3841+875)%233)+1 if g1~=g8 then gr()end local g3=((c1[Sp[46449]])+3762+((z1+57)*3665)+((gH+49)*3435)+((g6+60)*2681)+((ga+61)*4057)+((gp%237)*3471))%3 Mi=Mi+g3 if g6<7 then local Pc=1 if g6==0 then Pc=1 elseif g6==1 then Pc=2 elseif g6==2 then Pc=4 elseif g6==3 then Pc=8 elseif g6==4 then Pc=16 elseif g6==5 then Pc=32 else Pc=64 end if(g9%(Pc*2))>=Pc then gr()end g9=g9+Pc else local PS=1 if g6==8 then PS=2 end if g6==8 and g0<2 then gr()end if(g2%(PS*2))>=PS then gr()end g2=g2+PS end g4=g4+1 local g7=((c1[Sp[46449]])+156+((z1+55)*747)+((gH+14)*755)+((g6+24)*2219)+((ga+59)*2665)+((gp%229)*2615))%3 if g6==0 then local Pe=0 local function Pi()Pe=Pe+1 local PY=(38+((z1+28)*65)+((gH+4)*219)+(ga*111)+(Pe*19)+((((Pe%12)+28)*((Pe*Pe)+8))+(Pe*49))+(((gp+((gp-(gp%2048))/2048)+56)%256)*221)+133)%256 PY=(PY+(((Pe+ga+13)*53)+((gp%279)*47))%256)if g7==1 then PY=(PY+(((Pe+18)*97)+((gp%281)*63)+95)%256)elseif g7==2 then PY=(PY+((((Pe%20)+1)*(ga+6))+((((z1+28)+(gH+4)+45)%261)*53)+((((gp-(gp%128))/128)%256)))%256)end local wV=c4(z7[Mi]or 0,PY)%256 Mi=Mi+1 return wV end local PT,zT,Pk=Pi(),Pi(),Pi()if g7==1 then yK[2704]=PT yK[3423]=zT yK[3983]=(Pk==1)elseif g7==2 then yK[3983]=(PT==1)yK[3423]=zT yK[2704]=Pk else yK[3423]=PT yK[2704]=zT yK[3983]=(Pk==1)end elseif g6==1 then local Pr=0 local function PE()Pr=Pr+1 local Ph=(228+((z1+15)*59)+((gH+54)*175)+(ga*139)+(Pr*141)+((Pr*((Pr*8)+14)+12)*15)+(((gp+((gp-(gp%16))/16)+175)%256)*211)+132)%256 Ph=(Ph+(((Pr+ga+21)*35)+((gp%239)*21))%256)if g7==1 then Ph=(Ph+(((Pr+16)*67)+((gp%263)*9)+189)%256)elseif g7==2 then Ph=(Ph+((((Pr%20)+1)*(ga+31))+((((z1+15)+(gH+54)+20)%271)*55)+((((gp-(gp%512))/512)%256)))%256)end local wV=c4(z7[Mi]or 0,Ph)%256 Mi=Mi+1 return wV end local gV=PE()yK[6898]={}for Mw=1,gV do local gD,ns if g7==0 then gD=(PE()==1)ns=PE()else ns=PE()gD=(PE()==1)end yK[6898][Mw]={gD=gD,ns=ns}end elseif g6==2 then yK[8099]={}for Mw=1,gH do local PR=(((Mw*117)+((((Mw%19)+4)*((Mw*Mw)+28))+(Mw*49))+((((gp+((gp-(gp%64))/64)+234)%256)*115)+192))%256)PR=(PR+(119+((z1+30)*83)+((gH+22)*105)+(ga*95)))%256 PR=((PR+(((Mw+ga+8)*43)+((gp%229)*67)))%256)if g7~=0 then if g7==1 then PR=(PR+(((Mw+10)*71)+((gp%287)*9)+151))%256 else PR=(PR+((((Mw%14)+1)*(ga+27))+((((z1+30)+(gH+22)+32)%255)*69)+(((gp-(gp%128))/128)%256)))%256 end end yK[8099][Mw]=c4(z7[Mi+Mw-1]or 0,PR)%256 end Mi=Mi+gH elseif g6==3 then local Pw=0 local function PM()Pw=Pw+1 local PJ=(65+((z1+31)*131)+((gH+45)*209)+(ga*101)+(Pw*123)+(((Pw*Pw)+(16*Pw)+20)*83)+(((gp+((gp-(gp%32))/32)+164)%256)*187)+235)%256 PJ=(PJ+(((Pw+ga+15)*49)+((gp%249)*21))%256)if g7==1 then PJ=(PJ+(((Pw+6)*131)+((gp%293)*53)+61)%256)elseif g7==2 then PJ=(PJ+((((Pw%26)+1)*(ga+6))+((((z1+31)+(gH+45)+42)%289)*101)+((((gp-(gp%8))/8)%256)))%256)end local wV=c4(z7[Mi]or 0,PJ)%256 Mi=Mi+1 return wV end local function PH()local JK,zV=0,1 while true do local wV=PM()local JW=wV%(((0xCB-58))-((0xA+7)))JK=JK+JW*zV if wV<(((0xCB-58))-((0xA+7)))then break end zV=zV*(((0xCB-58))-((0xA+7)))end return JK end local function Pn()yK[6509]={}local Mg=0 for Mw=1,gH do local JI=PH()Mg=Mg+JI yK[6509][Mw]=Mg end end local function Ps()local gU=PH()yK[6064]={}local gB,gG=0,0 for Mw=1,gU do local gb=PH()local gZ=PH()gB=gB+gb gG=gG+gZ yK[6064][gB]=gG end end if g7==1 then Ps()Pn()else Pn()Ps()end elseif g6==4 then local PO=0 local function Py()PO=PO+1 local Px=(127+((z1+39)*137)+((gH+30)*203)+(ga*183)+(PO*131)+((PO*((PO*22)+11)+9)*61)+(((gp+((gp-(gp%2048))/2048)+255)%256)*79)+179)%256 Px=(Px+(((PO+ga+4)*21)+((gp%295)*73))%256)if g7==1 then Px=(Px+(((PO+11)*35)+((gp%273)*55)+221)%256)elseif g7==2 then Px=(Px+((((PO%27)+1)*(ga+19))+((((z1+39)+(gH+30)+41)%289)*61)+((((gp-(gp%8))/8)%256)))%256)end local wV=c4(z7[Mi]or 0,Px)%256 Mi=Mi+1 return wV end local function PW()local JK,zV=0,1 while true do local wV=Py()local JW=wV%(((0xCB-58))-((0xA+7)))JK=JK+JW*zV if wV<(((0xCB-58))-((0xA+7)))then break end zV=zV*(((0xCB-58))-((0xA+7)))end return JK end local Po=PW()local PK={}for Mw=1,Po do local Pq=(126+((z1+18)*75)+((gH+41)*77)+(ga*99)+(Mw*137)+(((Mw+20)*(Mw+13)+11)*19)+(((gp+((gp-(gp%16))/16)+164)%256)*47)+18)%256 Pq=(Pq+(((Mw+ga+11)*15)+((gp%227)*21))%256)if g7==1 then Pq=(Pq+(((Mw+16)*57)+((gp%269)*27)+64)%256)elseif g7==2 then Pq=(Pq+((((Mw%37)+1)*(ga+26))+((((z1+18)+(gH+41)+11)%281)*87)+((((gp-(gp%64))/64)%256)))%256)end PK[Mw]=c4(Py(),Pq)%256 end local Mo={}local gK=1 local gq=(Po-(Po%4))/4 local wX=1 for gv=1,gq do local yA=PK[wX]or 0 local MO=PK[wX+1]or 0 local MJ=PK[wX+2]or 0 local Ms=PK[wX+3]or 0 local MR=yA*((16777230)-((9+0x5)))+MO*(((17927+0xBA06))-(13))+MJ*((272)-((0x16-6)))+Ms local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))Mo[gK]=gR[y8]Mo[gK+1]=gR[y7]Mo[gK+2]=gR[y2]Mo[gK+3]=gR[y4]Mo[gK+4]=gR[y6]gK=gK+5 wX=wX+4 end local gz=Po-(gq*4)if gz>0 then local MR=0 for Mw=0,gz-1 do MR=MR*((272)-((0x16-6)))+(PK[wX+Mw]or 0)end for Mw=gz,3 do MR=MR*((272)-((0x16-6)))end local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))local gg=gz+1 if gg>=1 then Mo[gK]=gR[y8]end if gg>=2 then Mo[gK+1]=gR[y7]end if gg>=3 then Mo[gK+2]=gR[y2]end if gg>=4 then Mo[gK+3]=gR[y4]end if gg>=5 then Mo[gK+4]=gR[y6]end end yK[2312]=c1[Sp[16072]][(N(((246+120-76)),wf)and sL or nil)](Mo)elseif g6==5 then local Pv=0 local function Pz()Pv=Pv+1 local PP=(3+((z1+36)*119)+((gH+15)*55)+(ga*199)+(Pv*245)+(((Pv+10)*((Pv%18)+16))+((Pv*Pv)*77))+(((gp+((gp-(gp%128))/128)+31)%256)*83)+100)%256 PP=(PP+(((Pv+ga+19)*7)+((gp%277)*9))%256)if g7==1 then PP=(PP+(((Pv+13)*185)+((gp%245)*65)+89)%256)elseif g7==2 then PP=(PP+((((Pv%20)+1)*(ga+10))+((((z1+36)+(gH+15)+44)%267)*61)+((((gp-(gp%8))/8)%256)))%256)end local wV=c4(z7[Mi]or 0,PP)%256 Mi=Mi+1 return wV end local function Pg()local JK,zV=0,1 while true do local wV=Pz()local JW=wV%(((0xCB-58))-((0xA+7)))JK=JK+JW*zV if wV<(((0xCB-58))-((0xA+7)))then break end zV=zV*(((0xCB-58))-((0xA+7)))end return JK end local gP=Pg()yK[9445]={}local gA=0 for Mw=1,gP do local gl=Pg()gA=gA+gl yK[9445][Mw-1]=gA end local function PA()yK[7676]={}for Mw=1,gP do yK[7676][Mw-1]=Pg()end end local function Pl()yK[8571]={}for Mw=1,gP do yK[8571][Mw-1]=Pz()end end if g7==1 then Pl()PA()else PA()Pl()end elseif g6==6 then local PC=0 local function PF()PC=PC+1 local PI=(148+((z1+3)*209)+((gH+16)*93)+(ga*173)+(PC*251)+(((PC+13)*(PC+32)+6)*77)+(((gp+((gp-(gp%1024))/1024)+142)%256)*225)+95)%256 PI=(PI+(((PC+ga+12)*33)+((gp%267)*77))%256)if g7==1 then PI=(PI+(((PC+8)*75)+((gp%261)*57)+61)%256)elseif g7==2 then PI=(PI+((((PC%47)+1)*(ga+24))+((((z1+3)+(gH+16)+12)%299)*45)+((((gp-(gp%64))/64)%256)))%256)end local wV=c4(z7[Mi]or 0,PI)%256 Mi=Mi+1 return wV end local function Pm()local JK,zV=0,1 while true do local wV=PF()local JW=wV%(((0xCB-58))-((0xA+7)))JK=JK+JW*zV if wV<(((0xCB-58))-((0xA+7)))then break end zV=zV*(((0xCB-58))-((0xA+7)))end return JK end local gF=PF()if gF~=0 then yK[9375]=true local PL,Hc,PN=Pm(),Pm(),Pm()local gm,gI,gf if g7==1 then gI,gf,gm=PL,Hc,PN elseif g7==2 then gf,gm,gI=PL,Hc,PN else gm,gI,gf=PL,Hc,PN end yK[1971]=gm yK[6631]=gm yK[2073]=gI yK[6624]=gf local HH=c3[((234+145-284))]or 0 if HH~=0 then yK[6631]=c4(yK[6631],HH)if yK[6631]<0 then yK[6631]=yK[6631]+hp end yK[2073]=c4(yK[2073],HH)if yK[2073]<0 then yK[2073]=yK[2073]+hp end yK[6624]=c4(yK[6624],HH)if yK[6624]<0 then yK[6624]=yK[6624]+hp end end local gL gL=Pm()local gN={}for Mw=1,gL do local Pf=(123+((z1+48)*137)+((gH+45)*55)+(ga*125)+(Mw*45)+((((Mw%5)+15)*((Mw*Mw)+19))+(Mw*65))+(((gp+((gp-(gp%512))/512)+44)%256)*195)+147)%256 Pf=(Pf+(((Mw+ga+16)*25)+((gp%243)*25))%256)if g7==1 then Pf=(Pf+(((Mw+9)*131)+((gp%257)*51)+76)%256)elseif g7==2 then Pf=(Pf+((((Mw%36)+1)*(ga+27))+((((z1+48)+(gH+45)+26)%289)*15)+((((gp-(gp%64))/64)%256)))%256)end gN[Mw]=c1[Sp[48407]][(N(((26+333)),wf)and sL or nil)](c4(PF(),Pf)%256)end yK[7248]=c1[Sp[16072]][(N((329-39),wf)and sL or nil)](gN)local gt gt=Pm()local gu={}for Mw=1,gt do local Pf=(186+((z1+22)*169)+((gH+15)*105)+(ga*107)+(Mw*141)+(((Mw+7)*((Mw%25)+7))+((Mw*Mw)*37))+(((gp+((gp-(gp%32))/32)+138)%256)*175)+176)%256 Pf=(Pf+(((Mw+ga+24)*7)+((gp%263)*85))%256)if g7==1 then Pf=(Pf+(((Mw+13)*103)+((gp%231)*79)+227)%256)elseif g7==2 then Pf=(Pf+((((Mw%46)+1)*(ga+9))+((((z1+22)+(gH+15)+10)%259)*97)+((((gp-(gp%8))/8)%256)))%256)end gu[Mw]=c1[Sp[48407]][(N((51*7+2),wf)and sL or nil)](c4(PF(),Pf)%256)end yK[4977]=c1[Sp[16072]][(N(((56+234)),wf)and sL or nil)](gu)local gQ,gj gQ=Pm()gj=Pm()if gQ and gQ>0 and gj and gj>0 then local gd={}for Mw=1,gj do local Pf=(236+((z1+35)*145)+((gH+12)*91)+(ga*55)+(Mw*15)+(((Mw*Mw)+(20*Mw)+6)*13)+(((gp+((gp-(gp%64))/64)+187)%256)*157)+73)%256 Pf=(Pf+(((Mw+ga+13)*45)+((gp%295)*77))%256)if g7==1 then Pf=(Pf+(((Mw+14)*169)+((gp%273)*45)+126)%256)elseif g7==2 then Pf=(Pf+((((Mw%46)+1)*(ga+8))+((((z1+35)+(gH+12)+13)%289)*61)+((((gp-(gp%128))/128)%256)))%256)end gd[Mw]=c1[Sp[48407]][(N(0x167,wf)and sL or nil)](c4(PF(),Pf)%256)end yK[5592]=c1[Sp[16072]][(N((48*6+2),wf)and sL or nil)](gd)yK[8853]=gQ else for Mw=1,gj do PF()end end else yK[9375]=false end elseif g6==7 then local Pt=0 local function Pu()Pt=Pt+1 local PQ=(36+((z1+40)*191)+((gH+44)*189)+(ga*121)+(Pt*147)+((Pt*((Pt*16)+25)+28)*65)+(((gp+((gp-(gp%1024))/1024)+169)%256)*73)+93)%256 PQ=(PQ+(((Pt+ga+17)*5)+((gp%245)*87))%256)if g7==1 then PQ=(PQ+(((Pt+7)*83)+((gp%271)*15)+206)%256)elseif g7==2 then PQ=(PQ+((((Pt%30)+1)*(ga+11))+((((z1+40)+(gH+44)+44)%283)*59)+((((gp-(gp%256))/256)%256)))%256)end local wV=c4(z7[Mi]or 0,PQ)%256 Mi=Mi+1 return wV end local Pj=1+(((c1[Sp[46449]])+753+((z1+24)*531)+((gH+51)*3457)+((0+43)*1969)+((ga+54)*3089)+((gp%243)*2059))%4)for Mw=1,Pj do local Pd=(c1[Sp[46449]])+717+((z1+35)*1321)+((gH+56)*1705)+((0+9)*1169)+((ga+8)*985)+((Mw+59)*2753)+((((gp+((gp-(gp%256))/256))%256)+57)*1639)Pd=Pd%256 if Pu()~=Pd then gr()end end else local Pt=0 local function Pu()Pt=Pt+1 local PQ=(213+((z1+5)*153)+((gH+55)*157)+(ga*209)+(Pt*183)+(((Pt+16)*(Pt+28)+26)*65)+(((gp+((gp-(gp%512))/512)+122)%256)*57)+34)%256 PQ=(PQ+(((Pt+ga+20)*47)+((gp%269)*29))%256)if g7==1 then PQ=(PQ+(((Pt+2)*133)+((gp%229)*77)+210)%256)elseif g7==2 then PQ=(PQ+((((Pt%22)+1)*(ga+6))+((((z1+5)+(gH+55)+45)%269)*77)+((((gp-(gp%16))/16)%256)))%256)end local wV=c4(z7[Mi]or 0,PQ)%256 Mi=Mi+1 return wV end local Pj=1+(((c1[Sp[46449]])+753+((z1+24)*531)+((gH+51)*3457)+((1+43)*1969)+((ga+54)*3089)+((gp%243)*2059))%4)for Mw=1,Pj do local Pd=(c1[Sp[46449]])+717+((z1+35)*1321)+((gH+56)*1705)+((1+9)*1169)+((ga+8)*985)+((Mw+59)*2753)+((((gp+((gp-(gp%256))/256))%256)+57)*1639)Pd=Pd%256 if Pu()~=Pd then gr()end end end local PU=((gp+1381+((z1+16)*809)+((gH+22)*2537)+((ga+15)*1755)+((g6+21)*1929)+((g1+37)*4081)+((g3+18)*65))%60493)gp=(((PU*2597)+1381+((PU%225)*65))%60493)end if g9~=127 then gr()end local PB=1 if g0==2 then PB=3 end if g2~=PB then gr()end local PG=z7[Mi]or 0 Mi=Mi+1 local Pb=(gp+((gp-(gp%256))/256)+(c1[Sp[46449]])+69+((z1+16)*1705)+((gH+41)*1807)+((gp%253)*1295))%256 if PG~=Pb then gr()end else yK[3423]=z7[Mi]or 0 Mi=Mi+1 yK[2704]=z7[Mi]or 0 Mi=Mi+1 yK[3983]=(z7[Mi]or 0)==1 Mi=Mi+1 local gV=z7[Mi]or 0 Mi=Mi+1 yK[6898]={}for Mw=1,gV do local gD=(z7[Mi]or 0)==1 local ns=z7[Mi+1]or 0 yK[6898][Mw]={gD=gD,ns=ns}Mi=Mi+2 end yK[8099]={}for Mw=1,gH do yK[8099][Mw]=z7[Mi+Mw-1]or 0 end Mi=Mi+gH if gc then yK[6509]={}yK[6064]={}local Mg=0 for Mw=1,gH do yK[6509][Mw]=Mg yK[6064][Mg]=Mw local Mq=yK[8099][Mw]or 0 local gX=(gk and gk[Mq])or 4 Mg=Mg+gX end else yK[6509]={}local Mg=0 for Mw=1,gH do local JI JI,Mi=zZ(z7,Mi)Mg=Mg+JI yK[6509][Mw]=Mg end local gU gU,Mi=zZ(z7,Mi)yK[6064]={}local gB,gG=0,0 for Mw=1,gU do local gb,gZ gb,Mi=zZ(z7,Mi)gZ,Mi=zZ(z7,Mi)gB=gB+gb gG=gG+gZ yK[6064][gB]=gG end end local go go,Mi=zZ(z7,Mi)if z9 then local Mo={}local gK=1 local gq=(go-(go%4))/4 local wX=Mi for gv=1,gq do local yA=z7[wX]or 0 local MO=z7[wX+1]or 0 local MJ=z7[wX+2]or 0 local Ms=z7[wX+3]or 0 local MR=yA*((16777230)-((9+0x5)))+MO*(((17927+0xBA06))-(13))+MJ*((272)-((0x16-6)))+Ms local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))Mo[gK]=gR[y8]Mo[gK+1]=gR[y7]Mo[gK+2]=gR[y2]Mo[gK+3]=gR[y4]Mo[gK+4]=gR[y6]gK=gK+5 wX=wX+4 end local gz=go-(gq*4)if gz>0 then local MR=0 for Mw=0,gz-1 do MR=MR*((272)-((0x16-6)))+(z7[wX+Mw]or 0)end for Mw=gz,3 do MR=MR*((272)-((0x16-6)))end local MH=MR local y6=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y4=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y2=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y7=MH%(((0x6B-4))-((0x10+0x2)));MH=c1[Sp[13096]][(N(((420-63+(27-27))),wf)and sL or nil)](MH/(((0x6B-4))-((0x10+0x2))))local y8=MH%(((0x6B-4))-((0x10+0x2)))local gg=gz+1 if gg>=1 then Mo[gK]=gR[y8]end if gg>=2 then Mo[gK+1]=gR[y7]end if gg>=3 then Mo[gK+2]=gR[y2]end if gg>=4 then Mo[gK+3]=gR[y4]end if gg>=5 then Mo[gK+4]=gR[y6]end end yK[2312]=c1[Sp[16072]][(N(((520+56-286)),wf)and sL or nil)](Mo)else local PZ={}for Mw=1,go do PZ[Mw]=c1[Sp[48407]][(N(((413+262-316)),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[2312]=c1[Sp[16072]][(N(((325-35+(253-253))),wf)and sL or nil)](PZ)end Mi=Mi+go local gP gP,Mi=zZ(z7,Mi)yK[9445]={}local gA=0 for Mw=1,gP do local gl gl,Mi=zZ(z7,Mi)gA=gA+gl yK[9445][Mw-1]=gA end yK[7676]={}for Mw=1,gP do local gC gC,Mi=zZ(z7,Mi)yK[7676][Mw-1]=gC end yK[8571]={}for Mw=1,gP do yK[8571][Mw-1]=z7[Mi]or 0 Mi=Mi+1 end local gF=z7[Mi]or 0 Mi=Mi+1 if gF~=0 then yK[9375]=true local gm,gI,gf gm,Mi=zZ(z7,Mi)gI,Mi=zZ(z7,Mi)gf,Mi=zZ(z7,Mi)yK[1971]=gm yK[6631]=gm yK[2073]=gI yK[6624]=gf local HH=c3[(86+9)]or 0 if HH~=0 then yK[6631]=c4(yK[6631],HH)if yK[6631]<0 then yK[6631]=yK[6631]+hp end yK[2073]=c4(yK[2073],HH)if yK[2073]<0 then yK[2073]=yK[2073]+hp end yK[6624]=c4(yK[6624],HH)if yK[6624]<0 then yK[6624]=yK[6624]+hp end end local gL gL,Mi=zZ(z7,Mi)local gN={}for Mw=1,gL do gN[Mw]=c1[Sp[48407]][(N(359,wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[7248]=c1[Sp[16072]][(N((193+97),wf)and sL or nil)](gN)Mi=Mi+gL local gt gt,Mi=zZ(z7,Mi)local gu={}for Mw=1,gt do gu[Mw]=c1[Sp[48407]][(N(((307+289-237)),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[4977]=c1[Sp[16072]][(N(0x122,wf)and sL or nil)](gu)Mi=Mi+gt local gQ gQ,Mi=zZ(z7,Mi)local gj gj,Mi=zZ(z7,Mi)if gQ and gQ>0 and gj and gj>0 then local gd={}for Mw=1,gj do gd[Mw]=c1[Sp[48407]][(N(((489-126-4)),wf)and sL or nil)](z7[Mi+Mw-1]or 0)end yK[5592]=c1[Sp[16072]][(N(290,wf)and sL or nil)](gd)yK[8853]=gQ end Mi=Mi+gj else yK[9375]=false end end local PV PV,Mi=zZ(z7,Mi)if PV and PV>0 then local PD={}for PX=1,PV do local Pa,Pp Pa,Mi=zZ(z7,Mi)Pp,Mi=zZ(z7,Mi)PD[Pa]=Pp end yK[8236]=PD end local P1 P1,Mi=zZ(z7,Mi)if P1 and P1>0 then local P8={}local P3=5231+((5417+z1*211)%8209)local P7=7411+((4355+z1*397)%12301)local P9=23+(((3402733023)+(z1*149)+37)%1009)local P6=43+((((892234272-(892234272%1009))/1009)+(z1*269)+83)%1013)local Ac=P3+P9 local AS=P7+P6 for P0=1,P1 do local P2,P5 P2,Mi=zZ(z7,Mi)P5,Mi=zZ(z7,Mi)local Ae,P4 Ae=P2-Ac;P4=P5-AS P8[Ae]=P4 end yK[6189]=P8 end yK[7428]={}yK[2205]={}yK[9987]={}yK[5515]={}yK[1080]={}yK[2288]={}yK[6085]={}yK[9699]={}yK[9171]={}local zP=Jf[17]if zP==0 then zP=1 end local Ai=c4(zP,z1)%h1 local AY=Sc(Ai)%h1 if AY==0 then AY=1 end local AT=c3[((137-42+(109-109)))]or 0 local Ak=(((z1+1)*2654435761)%h1)local Ar=(((z1+1)*131+17)%h1)local AE=c4(c4(c4(zP,AT),Ak),Ar)%h1 if AE==0 then AE=1 end local Ah=Sc(AE)%h1 if Ah==0 then Ah=1 end local AR=(gM-Ah)%h1 local Aw=c4(AY,Ah)%h1 if Aw==0 then Aw=1 end local AM=Sc(Aw)%h1 if AM==0 then AM=1 end if AR~=AM then yK[1965]=0 else yK[1965]=AR end yK[2895]=z1 yK[7366]=z1 if yK[9375]and not(yK[9445]and yK[9445][0]~=nil)then local AH=yK[7248]local An=yK[4977]local As={}local AJ={}local AO={}local Ay={}local gL=c1[Sp[13096]].floor((gH+15)/16)local AW=(#AH==gL*4)local function Az(Me,Mi,Ag)local AP=c1[Sp[13096]].floor(Mi/4)local AA=Mi%4 local ME=Ag[AP]if not ME then local Mh=AP*5+1 local MR=0 for Mc=0,4 do local MM=c1[Sp[48407]]["\98\121\116\101"](Me,Mh+Mc)MR=MR*85+(c1[Sp[65344]][MM]or 0)end ME={c1[Sp[13096]].floor(MR/((0x1000015)-((18+0x3))))%((279)-(0x17)),c1[Sp[13096]].floor(MR/(((46182+19374))-(0x14)))%((279)-(0x17)),c1[Sp[13096]].floor(MR/((279)-(0x17)))%((279)-(0x17)),MR%((279)-(0x17))}Ag[AP]=ME end return ME[AA+1]or 0 end for Mw=1,gL do local Ax=(Mw-1)*4 local yA=(AW and(c1[Sp[48407]]["\98\121\116\101"](AH,Ax+1)or 0)or Az(AH,Ax+0,AO))local MO=(AW and(c1[Sp[48407]]["\98\121\116\101"](AH,Ax+2)or 0)or Az(AH,Ax+1,AO))local MJ=(AW and(c1[Sp[48407]]["\98\121\116\101"](AH,Ax+3)or 0)or Az(AH,Ax+2,AO))local Ms=(AW and(c1[Sp[48407]]["\98\121\116\101"](AH,Ax+4)or 0)or Az(AH,Ax+3,AO))local AK=yA+MO*((279)-(0x17))+MJ*(((46182+19374))-(0x14))+Ms*((0x1000015)-((18+0x3)))local Aq=OS(AK,0,yK[6624])As[Mw]=Aq end if An and#An>0 then local Ao=(#An==gH*4)for Mw=1,gH do local Av=(Mw-1)*4 local yu=(Ao and(c1[Sp[48407]]["\98\121\116\101"](An,Av+1)or 0)or Az(An,Av+0,Ay))local yQ=(Ao and(c1[Sp[48407]]["\98\121\116\101"](An,Av+2)or 0)or Az(An,Av+1,Ay))local yj=(Ao and(c1[Sp[48407]]["\98\121\116\101"](An,Av+3)or 0)or Az(An,Av+2,Ay))local yd=(Ao and(c1[Sp[48407]]["\98\121\116\101"](An,Av+4)or 0)or Az(An,Av+3,Ay))AJ[Mw]=yu+yQ*((279)-(0x17))+yj*(((46182+19374))-(0x14))+yd*((0x1000015)-((18+0x3)))end yK[4977]=AJ yK[9612]=AJ else yK[4977]=nil end yK[7248]=As yK[1263]=As yK[6631]=As[1]end z2[nk]=yK end return z2 end do local Al={}Al[1]={Sp[58024],zD}Al[2]={Sp[57211],zG}Al[3]={Sp[12981],zb}local AC=1 while AC<4 do local AF=Al[AC]Sr(c1,AF[1],AF[2])AC=AC+1 end end c1[Sp[15218]]=(function()local _,Am=c1[Sp[24629]](c1[Sp[S3[37153]]]);local AI=c1[Sp[S3[36528]]](Am,c1[Sp[48407]][(N(((39+258)),wf)and sL or nil)]);local Pk=So or 0;if not AI or AI<=0 or AI>49157 then AI=0 end;if Pk<=0 or Pk>49157 then Pk=0 end;if AI==0 and Pk==0 then return 0 end;return AI+(Pk*65536)end)()c1[Sp[46168]]=cI:sub(15137,25870)local AL=c1[Sp[58024]](c1[Sp[46168]],nil,nil,zX)local Af={[0]=((AL and AL[0])or{})}c1[Sp[62548]]=Af Af[1]=Af[1]or{}Af[1][9312]=5847 Af[1][2165]=12 Af[1][9620]=3 Af[1][1325]=nil Af[1][2895]=1 Af[1][7366]=1 Af[2]=Af[2]or{}Af[2][9312]=5859 Af[2][2165]=1040 Af[2][9620]=3 Af[2][1325]=nil Af[2][2895]=2 Af[2][7366]=2 Af[3]=Af[3]or{}Af[3][9312]=6111 Af[3][2165]=108 Af[3][9620]=3 Af[3][1325]=nil Af[3][2895]=3 Af[3][7366]=3 Af[4]=Af[4]or{}Af[4][9312]=6219 Af[4][2165]=680 Af[4][9620]=3 Af[4][1325]=nil Af[4][2895]=4 Af[4][7366]=4 Af[5]=Af[5]or{}Af[5][9312]=6899 Af[5][2165]=540 Af[5][9620]=3 Af[5][1325]=nil Af[5][2895]=5 Af[5][7366]=5 Af[6]=Af[6]or{}Af[6][9312]=6991 Af[6][2165]=132 Af[6][9620]=3 Af[6][1325]=nil Af[6][2895]=6 Af[6][7366]=6 Af[7]=Af[7]or{}Af[7][9312]=7123 Af[7][2165]=208 Af[7][9620]=3 Af[7][1325]=nil Af[7][2895]=7 Af[7][7366]=7 Af[8]=Af[8]or{}Af[8][9312]=7331 Af[8][2165]=108 Af[8][9620]=3 Af[8][1325]=nil Af[8][2895]=8 Af[8][7366]=8 Af[9]=Af[9]or{}Af[9][9312]=7439 Af[9][2165]=3364 Af[9][9620]=3 Af[9][1325]=nil Af[9][2895]=9 Af[9][7366]=9 Af[10]=Af[10]or{}Af[10][9312]=9871 Af[10][2165]=16 Af[10][9620]=3 Af[10][1325]=nil Af[10][2895]=10 Af[10][7366]=10 Af[11]=Af[11]or{}Af[11][9312]=9887 Af[11][2165]=332 Af[11][9620]=3 Af[11][1325]=nil Af[11][2895]=11 Af[11][7366]=11 Af[12]=Af[12]or{}Af[12][9312]=10219 Af[12][2165]=108 Af[12][9620]=3 Af[12][1325]=nil Af[12][2895]=12 Af[12][7366]=12 Af[13]=Af[13]or{}Af[13][9312]=10327 Af[13][2165]=124 Af[13][9620]=3 Af[13][1325]=nil Af[13][2895]=13 Af[13][7366]=13 Af[14]=Af[14]or{}Af[14][9312]=10451 Af[14][2165]=128 Af[14][9620]=3 Af[14][1325]=nil Af[14][2895]=14 Af[14][7366]=14 Af[15]=Af[15]or{}Af[15][9312]=10579 Af[15][2165]=108 Af[15][9620]=3 Af[15][1325]=nil Af[15][2895]=15 Af[15][7366]=15 Af[16]=Af[16]or{}Af[16][9312]=10687 Af[16][2165]=92 Af[16][9620]=3 Af[16][1325]=nil Af[16][2895]=16 Af[16][7366]=16 Af[17]=Af[17]or{}Af[17][9312]=10779 Af[17][2165]=24 Af[17][9620]=3 Af[17][1325]=nil Af[17][2895]=17 Af[17][7366]=17 Af[18]=Af[18]or{}Af[18][9312]=10803 Af[18][2165]=396 Af[18][9620]=3 Af[18][1325]=nil Af[18][2895]=18 Af[18][7366]=18 Af[19]=Af[19]or{}Af[19][9312]=11043 Af[19][2165]=156 Af[19][9620]=3 Af[19][1325]=nil Af[19][2895]=19 Af[19][7366]=19 Af[20]=Af[20]or{}Af[20][9312]=11199 Af[20][2165]=896 Af[20][9620]=3 Af[20][1325]=nil Af[20][2895]=20 Af[20][7366]=20 Af[21]=Af[21]or{}Af[21][9312]=12095 Af[21][2165]=428 Af[21][9620]=3 Af[21][1325]=nil Af[21][2895]=21 Af[21][7366]=21 Af[22]=Af[22]or{}Af[22][9312]=12239 Af[22][2165]=160 Af[22][9620]=3 Af[22][1325]=nil Af[22][2895]=22 Af[22][7366]=22 Af[23]=Af[23]or{}Af[23][9312]=12399 Af[23][2165]=124 Af[23][9620]=3 Af[23][1325]=nil Af[23][2895]=23 Af[23][7366]=23 Af[24]=Af[24]or{}Af[24][9312]=12523 Af[24][2165]=160 Af[24][9620]=3 Af[24][1325]=nil Af[24][2895]=24 Af[24][7366]=24 Af[25]=Af[25]or{}Af[25][9312]=12683 Af[25][2165]=132 Af[25][9620]=3 Af[25][1325]=nil Af[25][2895]=25 Af[25][7366]=25 Af[26]=Af[26]or{}Af[26][9312]=12815 Af[26][2165]=576 Af[26][9620]=3 Af[26][1325]=nil Af[26][2895]=26 Af[26][7366]=26 Af[27]=Af[27]or{}Af[27][9312]=12947 Af[27][2165]=180 Af[27][9620]=3 Af[27][1325]=nil Af[27][2895]=27 Af[27][7366]=27 Af[28]=Af[28]or{}Af[28][9312]=13015 Af[28][2165]=112 Af[28][9620]=3 Af[28][1325]=nil Af[28][2895]=28 Af[28][7366]=28 Af[29]=Af[29]or{}Af[29][9312]=13127 Af[29][2165]=264 Af[29][9620]=3 Af[29][1325]=nil Af[29][2895]=29 Af[29][7366]=29 Af[30]=Af[30]or{}Af[30][9312]=13211 Af[30][2165]=180 Af[30][9620]=3 Af[30][1325]=nil Af[30][2895]=30 Af[30][7366]=30 Af[31]=Af[31]or{}Af[31][9312]=13279 Af[31][2165]=112 Af[31][9620]=3 Af[31][1325]=nil Af[31][2895]=31 Af[31][7366]=31 Af[32]=Af[32]or{}Af[32][9312]=13391 Af[32][2165]=592 Af[32][9620]=3 Af[32][1325]=nil Af[32][2895]=32 Af[32][7366]=32 Af[33]=Af[33]or{}Af[33][9312]=13539 Af[33][2165]=180 Af[33][9620]=3 Af[33][1325]=nil Af[33][2895]=33 Af[33][7366]=33 Af[34]=Af[34]or{}Af[34][9312]=13607 Af[34][2165]=112 Af[34][9620]=3 Af[34][1325]=nil Af[34][2895]=34 Af[34][7366]=34 Af[35]=Af[35]or{}Af[35][9312]=13719 Af[35][2165]=264 Af[35][9620]=3 Af[35][1325]=nil Af[35][2895]=35 Af[35][7366]=35 Af[36]=Af[36]or{}Af[36][9312]=13803 Af[36][2165]=180 Af[36][9620]=3 Af[36][1325]=nil Af[36][2895]=36 Af[36][7366]=36 Af[37]=Af[37]or{}Af[37][9312]=13871 Af[37][2165]=112 Af[37][9620]=3 Af[37][1325]=nil Af[37][2895]=37 Af[37][7366]=37 Af[38]=Af[38]or{}Af[38][9312]=13983 Af[38][2165]=104 Af[38][9620]=3 Af[38][1325]=nil Af[38][2895]=38 Af[38][7366]=38 Af[39]=Af[39]or{}Af[39][9312]=14087 Af[39][2165]=184 Af[39][9620]=3 Af[39][1325]=nil Af[39][2895]=39 Af[39][7366]=39 Af[40]=Af[40]or{}Af[40][9312]=14271 Af[40][2165]=128 Af[40][9620]=3 Af[40][1325]=nil Af[40][2895]=40 Af[40][7366]=40 Af[41]=Af[41]or{}Af[41][9312]=14399 Af[41][2165]=548 Af[41][9620]=3 Af[41][1325]=nil Af[41][2895]=41 Af[41][7366]=41 Af[42]=Af[42]or{}Af[42][9312]=14587 Af[42][2165]=360 Af[42][9620]=3 Af[42][1325]=nil Af[42][2895]=42 Af[42][7366]=42 Af[43]=Af[43]or{}Af[43][9312]=14927 Af[43][2165]=20 Af[43][9620]=3 Af[43][1325]=nil Af[43][2895]=43 Af[43][7366]=43 Af[44]=Af[44]or{}Af[44][9312]=14947 Af[44][2165]=840 Af[44][9620]=3 Af[44][1325]=nil Af[44][2895]=44 Af[44][7366]=44 Af[45]=Af[45]or{}Af[45][9312]=15787 Af[45][2165]=428 Af[45][9620]=3 Af[45][1325]=nil Af[45][2895]=45 Af[45][7366]=45 Af[46]=Af[46]or{}Af[46][9312]=16195 Af[46][2165]=20 Af[46][9620]=3 Af[46][1325]=nil Af[46][2895]=46 Af[46][7366]=46 Af[47]=Af[47]or{}Af[47][9312]=16215 Af[47][2165]=960 Af[47][9620]=3 Af[47][1325]=nil Af[47][2895]=47 Af[47][7366]=47 Af[48]=Af[48]or{}Af[48][9312]=16975 Af[48][2165]=20 Af[48][9620]=3 Af[48][1325]=nil Af[48][2895]=48 Af[48][7366]=48 Af[49]=Af[49]or{}Af[49][9312]=16995 Af[49][2165]=180 Af[49][9620]=3 Af[49][1325]=nil Af[49][2895]=49 Af[49][7366]=49 Af[50]=Af[50]or{}Af[50][9312]=17123 Af[50][2165]=52 Af[50][9620]=3 Af[50][1325]=nil Af[50][2895]=50 Af[50][7366]=50 Af[51]=Af[51]or{}Af[51][9312]=17175 Af[51][2165]=492 Af[51][9620]=3 Af[51][1325]=nil Af[51][2895]=51 Af[51][7366]=51 Af[52]=Af[52]or{}Af[52][9312]=17523 Af[52][2165]=144 Af[52][9620]=3 Af[52][1325]=nil Af[52][2895]=52 Af[52][7366]=52 Af[53]=Af[53]or{}Af[53][9312]=17615 Af[53][2165]=52 Af[53][9620]=3 Af[53][1325]=nil Af[53][2895]=53 Af[53][7366]=53 Af[54]=Af[54]or{}Af[54][9312]=17667 Af[54][2165]=96 Af[54][9620]=3 Af[54][1325]=nil Af[54][2895]=54 Af[54][7366]=54 Af[55]=Af[55]or{}Af[55][9312]=17711 Af[55][2165]=52 Af[55][9620]=3 Af[55][1325]=nil Af[55][2895]=55 Af[55][7366]=55 Af[56]=Af[56]or{}Af[56][9312]=17763 Af[56][2165]=544 Af[56][9620]=3 Af[56][1325]=nil Af[56][2895]=56 Af[56][7366]=56 Af[57]=Af[57]or{}Af[57][9312]=18127 Af[57][2165]=100 Af[57][9620]=3 Af[57][1325]=nil Af[57][2895]=57 Af[57][7366]=57 Af[58]=Af[58]or{}Af[58][9312]=18227 Af[58][2165]=40 Af[58][9620]=3 Af[58][1325]=nil Af[58][2895]=58 Af[58][7366]=58 Af[59]=Af[59]or{}Af[59][9312]=18267 Af[59][2165]=40 Af[59][9620]=3 Af[59][1325]=nil Af[59][2895]=59 Af[59][7366]=59 Af[60]=Af[60]or{}Af[60][9312]=18307 Af[60][2165]=260 Af[60][9620]=3 Af[60][1325]=nil Af[60][2895]=60 Af[60][7366]=60 Af[61]=Af[61]or{}Af[61][9312]=18383 Af[61][2165]=184 Af[61][9620]=3 Af[61][1325]=nil Af[61][2895]=61 Af[61][7366]=61 Af[62]=Af[62]or{}Af[62][9312]=18567 Af[62][2165]=188 Af[62][9620]=3 Af[62][1325]=nil Af[62][2895]=62 Af[62][7366]=62 Af[63]=Af[63]or{}Af[63][9312]=18667 Af[63][2165]=88 Af[63][9620]=3 Af[63][1325]=nil Af[63][2895]=63 Af[63][7366]=63 Af[64]=Af[64]or{}Af[64][9312]=18755 Af[64][2165]=84 Af[64][9620]=3 Af[64][1325]=nil Af[64][2895]=64 Af[64][7366]=64 Af[65]=Af[65]or{}Af[65][9312]=18839 Af[65][2165]=208 Af[65][9620]=3 Af[65][1325]=nil Af[65][2895]=65 Af[65][7366]=65 Af[66]=Af[66]or{}Af[66][9312]=19047 Af[66][2165]=280 Af[66][9620]=3 Af[66][1325]=nil Af[66][2895]=66 Af[66][7366]=66 Af[67]=Af[67]or{}Af[67][9312]=19327 Af[67][2165]=2796 Af[67][9620]=3 Af[67][1325]=nil Af[67][2895]=67 Af[67][7366]=67 Af[68]=Af[68]or{}Af[68][9312]=20443 Af[68][2165]=204 Af[68][9620]=3 Af[68][1325]=nil Af[68][2895]=68 Af[68][7366]=68 Af[69]=Af[69]or{}Af[69][9312]=20591 Af[69][2165]=56 Af[69][9620]=3 Af[69][1325]=nil Af[69][2895]=69 Af[69][7366]=69 Af[70]=Af[70]or{}Af[70][9312]=20647 Af[70][2165]=1412 Af[70][9620]=3 Af[70][1325]=nil Af[70][2895]=70 Af[70][7366]=70 Af[71]=Af[71]or{}Af[71][9312]=22059 Af[71][2165]=64 Af[71][9620]=3 Af[71][1325]=nil Af[71][2895]=71 Af[71][7366]=71 Af[72]=Af[72]or{}Af[72][9312]=22123 Af[72][2165]=164 Af[72][9620]=3 Af[72][1325]=nil Af[72][2895]=72 Af[72][7366]=72 Af[73]=Af[73]or{}Af[73][9312]=22287 Af[73][2165]=360 Af[73][9620]=3 Af[73][1325]=nil Af[73][2895]=73 Af[73][7366]=73 Af[74]=Af[74]or{}Af[74][9312]=22571 Af[74][2165]=40 Af[74][9620]=3 Af[74][1325]=nil Af[74][2895]=74 Af[74][7366]=74 Af[75]=Af[75]or{}Af[75][9312]=22611 Af[75][2165]=36 Af[75][9620]=3 Af[75][1325]=nil Af[75][2895]=75 Af[75][7366]=75 Af[76]=Af[76]or{}Af[76][9312]=22647 Af[76][2165]=196 Af[76][9620]=3 Af[76][1325]=nil Af[76][2895]=76 Af[76][7366]=76 Af[77]=Af[77]or{}Af[77][9312]=22775 Af[77][2165]=68 Af[77][9620]=3 Af[77][1325]=nil Af[77][2895]=77 Af[77][7366]=77 Af[78]=Af[78]or{}Af[78][9312]=22843 Af[78][2165]=540 Af[78][9620]=3 Af[78][1325]=nil Af[78][2895]=78 Af[78][7366]=78 Af[79]=Af[79]or{}Af[79][9312]=22935 Af[79][2165]=132 Af[79][9620]=3 Af[79][1325]=nil Af[79][2895]=79 Af[79][7366]=79 Af[80]=Af[80]or{}Af[80][9312]=23067 Af[80][2165]=208 Af[80][9620]=3 Af[80][1325]=nil Af[80][2895]=80 Af[80][7366]=80 Af[81]=Af[81]or{}Af[81][9312]=23275 Af[81][2165]=108 Af[81][9620]=3 Af[81][1325]=nil Af[81][2895]=81 Af[81][7366]=81 Af[82]=Af[82]or{}Af[82][9312]=23383 Af[82][2165]=580 Af[82][9620]=3 Af[82][1325]=nil Af[82][2895]=82 Af[82][7366]=82 Af[83]=Af[83]or{}Af[83][9312]=23963 Af[83][2165]=228 Af[83][9620]=3 Af[83][1325]=nil Af[83][2895]=83 Af[83][7366]=83 Af[84]=Af[84]or{}Af[84][9312]=24103 Af[84][2165]=88 Af[84][9620]=3 Af[84][1325]=nil Af[84][2895]=84 Af[84][7366]=84 Af[85]=Af[85]or{}Af[85][9312]=24191 Af[85][2165]=228 Af[85][9620]=3 Af[85][1325]=nil Af[85][2895]=85 Af[85][7366]=85 Af[86]=Af[86]or{}Af[86][9312]=24331 Af[86][2165]=88 Af[86][9620]=3 Af[86][1325]=nil Af[86][2895]=86 Af[86][7366]=86 Af[87]=Af[87]or{}Af[87][9312]=24419 Af[87][2165]=464 Af[87][9620]=3 Af[87][1325]=nil Af[87][2895]=87 Af[87][7366]=87 Af[88]=Af[88]or{}Af[88][9312]=24815 Af[88][2165]=68 Af[88][9620]=3 Af[88][1325]=nil Af[88][2895]=88 Af[88][7366]=88 Af[89]=Af[89]or{}Af[89][9312]=24883 Af[89][2165]=104 Af[89][9620]=3 Af[89][1325]=nil Af[89][2895]=89 Af[89][7366]=89 Af[90]=Af[90]or{}Af[90][9312]=24987 Af[90][2165]=148 Af[90][9620]=3 Af[90][1325]=nil Af[90][2895]=90 Af[90][7366]=90 Af[91]=Af[91]or{}Af[91][9312]=25135 Af[91][2165]=640 Af[91][9620]=3 Af[91][1325]=nil Af[91][2895]=91 Af[91][7366]=91 Af[92]=Af[92]or{}Af[92][9312]=25775 Af[92][2165]=428 Af[92][9620]=3 Af[92][1325]=nil Af[92][2895]=92 Af[92][7366]=92 Af[93]=Af[93]or{}Af[93][9312]=26203 Af[93][2165]=1592 Af[93][9620]=3 Af[93][1325]=nil Af[93][2895]=93 Af[93][7366]=93 Af[94]=Af[94]or{}Af[94][9312]=27767 Af[94][2165]=28 Af[94][9620]=3 Af[94][1325]=nil Af[94][2895]=94 Af[94][7366]=94 Af[95]=Af[95]or{}Af[95][9312]=27795 Af[95][2165]=428 Af[95][9620]=3 Af[95][1325]=nil Af[95][2895]=95 Af[95][7366]=95 Af[96]=Af[96]or{}Af[96][9312]=28223 Af[96][2165]=428 Af[96][9620]=3 Af[96][1325]=nil Af[96][2895]=96 Af[96][7366]=96 Af[97]=Af[97]or{}Af[97][9312]=28651 Af[97][2165]=2024 Af[97][9620]=3 Af[97][1325]=nil Af[97][2895]=97 Af[97][7366]=97 Af[98]=Af[98]or{}Af[98][9312]=30675 Af[98][2165]=4 Af[98][9620]=3 Af[98][1325]=nil Af[98][2895]=98 Af[98][7366]=98 Af[99]=Af[99]or{}Af[99][9312]=30679 Af[99][2165]=16 Af[99][9620]=3 Af[99][1325]=nil Af[99][2895]=99 Af[99][7366]=99 Af[100]=Af[100]or{}Af[100][9312]=30695 Af[100][2165]=16 Af[100][9620]=3 Af[100][1325]=nil Af[100][2895]=100 Af[100][7366]=100 Af[101]=Af[101]or{}Af[101][9312]=30711 Af[101][2165]=16 Af[101][9620]=3 Af[101][1325]=nil Af[101][2895]=101 Af[101][7366]=101 Af[102]=Af[102]or{}Af[102][9312]=30727 Af[102][2165]=308 Af[102][9620]=3 Af[102][1325]=nil Af[102][2895]=102 Af[102][7366]=102 Af[103]=Af[103]or{}Af[103][9312]=30867 Af[103][2165]=168 Af[103][9620]=3 Af[103][1325]=nil Af[103][2895]=103 Af[103][7366]=103 Af[104]=Af[104]or{}Af[104][9312]=31035 Af[104][2165]=16 Af[104][9620]=3 Af[104][1325]=nil Af[104][2895]=104 Af[104][7366]=104 Af[105]=Af[105]or{}Af[105][9312]=31051 Af[105][2165]=140 Af[105][9620]=3 Af[105][1325]=nil Af[105][2895]=105 Af[105][7366]=105 Af[106]=Af[106]or{}Af[106][9312]=31191 Af[106][2165]=16 Af[106][9620]=3 Af[106][1325]=nil Af[106][2895]=106 Af[106][7366]=106 Af[107]=Af[107]or{}Af[107][9312]=31207 Af[107][2165]=140 Af[107][9620]=3 Af[107][1325]=nil Af[107][2895]=107 Af[107][7366]=107 Af[108]=Af[108]or{}Af[108][9312]=31347 Af[108][2165]=16 Af[108][9620]=3 Af[108][1325]=nil Af[108][2895]=108 Af[108][7366]=108 Af[109]=Af[109]or{}Af[109][9312]=31363 Af[109][2165]=228 Af[109][9620]=3 Af[109][1325]=nil Af[109][2895]=109 Af[109][7366]=109 Af[110]=Af[110]or{}Af[110][9312]=31503 Af[110][2165]=88 Af[110][9620]=3 Af[110][1325]=nil Af[110][2895]=110 Af[110][7366]=110 Af[111]=Af[111]or{}Af[111][9312]=31591 Af[111][2165]=16 Af[111][9620]=3 Af[111][1325]=nil Af[111][2895]=111 Af[111][7366]=111 Af[112]=Af[112]or{}Af[112][9312]=31607 Af[112][2165]=240 Af[112][9620]=3 Af[112][1325]=nil Af[112][2895]=112 Af[112][7366]=112 Af[113]=Af[113]or{}Af[113][9312]=31747 Af[113][2165]=100 Af[113][9620]=3 Af[113][1325]=nil Af[113][2895]=113 Af[113][7366]=113 Af[114]=Af[114]or{}Af[114][9312]=31847 Af[114][2165]=16 Af[114][9620]=3 Af[114][1325]=nil Af[114][2895]=114 Af[114][7366]=114 Af[115]=Af[115]or{}Af[115][9312]=31863 Af[115][2165]=268 Af[115][9620]=3 Af[115][1325]=nil Af[115][2895]=115 Af[115][7366]=115 Af[116]=Af[116]or{}Af[116][9312]=31927 Af[116][2165]=116 Af[116][9620]=3 Af[116][1325]=nil Af[116][2895]=116 Af[116][7366]=116 Af[117]=Af[117]or{}Af[117][9312]=32043 Af[117][2165]=88 Af[117][9620]=3 Af[117][1325]=nil Af[117][2895]=117 Af[117][7366]=117 Af[118]=Af[118]or{}Af[118][9312]=32131 Af[118][2165]=140 Af[118][9620]=3 Af[118][1325]=nil Af[118][2895]=118 Af[118][7366]=118 Af[119]=Af[119]or{}Af[119][9312]=32271 Af[119][2165]=16 Af[119][9620]=3 Af[119][1325]=nil Af[119][2895]=119 Af[119][7366]=119 Af[120]=Af[120]or{}Af[120][9312]=32287 Af[120][2165]=140 Af[120][9620]=3 Af[120][1325]=nil Af[120][2895]=120 Af[120][7366]=120 Af[121]=Af[121]or{}Af[121][9312]=32427 Af[121][2165]=16 Af[121][9620]=3 Af[121][1325]=nil Af[121][2895]=121 Af[121][7366]=121 Af[122]=Af[122]or{}Af[122][9312]=32443 Af[122][2165]=140 Af[122][9620]=3 Af[122][1325]=nil Af[122][2895]=122 Af[122][7366]=122 Af[123]=Af[123]or{}Af[123][9312]=32583 Af[123][2165]=16 Af[123][9620]=3 Af[123][1325]=nil Af[123][2895]=123 Af[123][7366]=123 Af[124]=Af[124]or{}Af[124][9312]=32599 Af[124][2165]=3376 Af[124][9620]=3 Af[124][1325]=nil Af[124][2895]=124 Af[124][7366]=124 Af[125]=Af[125]or{}Af[125][9312]=35427 Af[125][2165]=16 Af[125][9620]=3 Af[125][1325]=nil Af[125][2895]=125 Af[125][7366]=125 Af[126]=Af[126]or{}Af[126][9312]=35443 Af[126][2165]=156 Af[126][9620]=3 Af[126][1325]=nil Af[126][2895]=126 Af[126][7366]=126 Af[127]=Af[127]or{}Af[127][9312]=35599 Af[127][2165]=24 Af[127][9620]=3 Af[127][1325]=nil Af[127][2895]=127 Af[127][7366]=127 Af[128]=Af[128]or{}Af[128][9312]=35623 Af[128][2165]=352 Af[128][9620]=3 Af[128][1325]=nil Af[128][2895]=128 Af[128][7366]=128 Af[129]=Af[129]or{}Af[129][9312]=35975 Af[129][2165]=12 Af[129][9620]=3 Af[129][1325]=nil Af[129][2895]=129 Af[129][7366]=129 Af[130]=Af[130]or{}Af[130][9312]=35987 Af[130][2165]=564 Af[130][9620]=3 Af[130][1325]=nil Af[130][2895]=130 Af[130][7366]=130 Af[131]=Af[131]or{}Af[131][9312]=36347 Af[131][2165]=204 Af[131][9620]=3 Af[131][1325]=nil Af[131][2895]=131 Af[131][7366]=131 Af[132]=Af[132]or{}Af[132][9312]=36551 Af[132][2165]=224 Af[132][9620]=3 Af[132][1325]=nil Af[132][2895]=132 Af[132][7366]=132 Af[133]=Af[133]or{}Af[133][9312]=36775 Af[133][2165]=3808 Af[133][9620]=3 Af[133][1325]=nil Af[133][2895]=133 Af[133][7366]=133 Af[134]=Af[134]or{}Af[134][9312]=40011 Af[134][2165]=16 Af[134][9620]=3 Af[134][1325]=nil Af[134][2895]=134 Af[134][7366]=134 Af[135]=Af[135]or{}Af[135][9312]=40027 Af[135][2165]=180 Af[135][9620]=3 Af[135][1325]=nil Af[135][2895]=135 Af[135][7366]=135 Af[136]=Af[136]or{}Af[136][9312]=40207 Af[136][2165]=220 Af[136][9620]=3 Af[136][1325]=nil Af[136][2895]=136 Af[136][7366]=136 Af[137]=Af[137]or{}Af[137][9312]=40427 Af[137][2165]=156 Af[137][9620]=3 Af[137][1325]=nil Af[137][2895]=137 Af[137][7366]=137 Af[138]=Af[138]or{}Af[138][9312]=40583 Af[138][2165]=536 Af[138][9620]=3 Af[138][1325]=nil Af[138][2895]=138 Af[138][7366]=138 Af[139]=Af[139]or{}Af[139][9312]=40991 Af[139][2165]=40 Af[139][9620]=3 Af[139][1325]=nil Af[139][2895]=139 Af[139][7366]=139 Af[140]=Af[140]or{}Af[140][9312]=41031 Af[140][2165]=16 Af[140][9620]=3 Af[140][1325]=nil Af[140][2895]=140 Af[140][7366]=140 Af[141]=Af[141]or{}Af[141][9312]=41047 Af[141][2165]=16 Af[141][9620]=3 Af[141][1325]=nil Af[141][2895]=141 Af[141][7366]=141 Af[142]=Af[142]or{}Af[142][9312]=41063 Af[142][2165]=56 Af[142][9620]=3 Af[142][1325]=nil Af[142][2895]=142 Af[142][7366]=142 Af[143]=Af[143]or{}Af[143][9312]=41103 Af[143][2165]=16 Af[143][9620]=3 Af[143][1325]=nil Af[143][2895]=143 Af[143][7366]=143 Af[144]=Af[144]or{}Af[144][9312]=41119 Af[144][2165]=32 Af[144][9620]=3 Af[144][1325]=nil Af[144][2895]=144 Af[144][7366]=144 Af[145]=Af[145]or{}Af[145][9312]=41151 Af[145][2165]=444 Af[145][9620]=3 Af[145][1325]=nil Af[145][2895]=145 Af[145][7366]=145 Af[146]=Af[146]or{}Af[146][9312]=41555 Af[146][2165]=40 Af[146][9620]=3 Af[146][1325]=nil Af[146][2895]=146 Af[146][7366]=146 Af[147]=Af[147]or{}Af[147][9312]=41595 Af[147][2165]=276 Af[147][9620]=3 Af[147][1325]=nil Af[147][2895]=147 Af[147][7366]=147 Af[148]=Af[148]or{}Af[148][9312]=41831 Af[148][2165]=40 Af[148][9620]=3 Af[148][1325]=nil Af[148][2895]=148 Af[148][7366]=148 Af[149]=Af[149]or{}Af[149][9312]=41871 Af[149][2165]=32 Af[149][9620]=3 Af[149][1325]=nil Af[149][2895]=149 Af[149][7366]=149 Af[150]=Af[150]or{}Af[150][9312]=41903 Af[150][2165]=136 Af[150][9620]=3 Af[150][1325]=nil Af[150][2895]=150 Af[150][7366]=150 Af[151]=Af[151]or{}Af[151][9312]=41943 Af[151][2165]=20 Af[151][9620]=3 Af[151][1325]=nil Af[151][2895]=151 Af[151][7366]=151 Af[152]=Af[152]or{}Af[152][9312]=41963 Af[152][2165]=76 Af[152][9620]=3 Af[152][1325]=nil Af[152][2895]=152 Af[152][7366]=152 Af[153]=Af[153]or{}Af[153][9312]=42039 Af[153][2165]=152 Af[153][9620]=3 Af[153][1325]=nil Af[153][2895]=153 Af[153][7366]=153 Af[154]=Af[154]or{}Af[154][9312]=42155 Af[154][2165]=36 Af[154][9620]=3 Af[154][1325]=nil Af[154][2895]=154 Af[154][7366]=154 Af[155]=Af[155]or{}Af[155][9312]=42191 Af[155][2165]=152 Af[155][9620]=3 Af[155][1325]=nil Af[155][2895]=155 Af[155][7366]=155 Af[156]=Af[156]or{}Af[156][9312]=42307 Af[156][2165]=36 Af[156][9620]=3 Af[156][1325]=nil Af[156][2895]=156 Af[156][7366]=156 Af[157]=Af[157]or{}Af[157][9312]=42343 Af[157][2165]=200 Af[157][9620]=3 Af[157][1325]=nil Af[157][2895]=157 Af[157][7366]=157 Af[158]=Af[158]or{}Af[158][9312]=42443 Af[158][2165]=100 Af[158][9620]=3 Af[158][1325]=nil Af[158][2895]=158 Af[158][7366]=158 Af[159]=Af[159]or{}Af[159][9312]=42543 Af[159][2165]=88 Af[159][9620]=3 Af[159][1325]=nil Af[159][2895]=159 Af[159][7366]=159 Af[160]=Af[160]or{}Af[160][9312]=42631 Af[160][2165]=80 Af[160][9620]=3 Af[160][1325]=nil Af[160][2895]=160 Af[160][7366]=160 Af[161]=Af[161]or{}Af[161][9312]=42711 Af[161][2165]=112 Af[161][9620]=3 Af[161][1325]=nil Af[161][2895]=161 Af[161][7366]=161 Af[162]=Af[162]or{}Af[162][9312]=42751 Af[162][2165]=8 Af[162][9620]=3 Af[162][1325]=nil Af[162][2895]=162 Af[162][7366]=162 Af[163]=Af[163]or{}Af[163][9312]=42759 Af[163][2165]=64 Af[163][9620]=3 Af[163][1325]=nil Af[163][2895]=163 Af[163][7366]=163 Af[164]=Af[164]or{}Af[164][9312]=42823 Af[164][2165]=28 Af[164][9620]=3 Af[164][1325]=nil Af[164][2895]=164 Af[164][7366]=164 Af[165]=Af[165]or{}Af[165][9312]=42851 Af[165][2165]=160 Af[165][9620]=3 Af[165][1325]=nil Af[165][2895]=165 Af[165][7366]=165 Af[166]=Af[166]or{}Af[166][9312]=43011 Af[166][2165]=16 Af[166][9620]=3 Af[166][1325]=nil Af[166][2895]=166 Af[166][7366]=166 Af[167]=Af[167]or{}Af[167][9312]=43027 Af[167][2165]=16 Af[167][9620]=3 Af[167][1325]=nil Af[167][2895]=167 Af[167][7366]=167 Af[168]=Af[168]or{}Af[168][9312]=43043 Af[168][2165]=16 Af[168][9620]=3 Af[168][1325]=nil Af[168][2895]=168 Af[168][7366]=168 Af[169]=Af[169]or{}Af[169][9312]=43059 Af[169][2165]=16 Af[169][9620]=3 Af[169][1325]=nil Af[169][2895]=169 Af[169][7366]=169 Af[170]=Af[170]or{}Af[170][9312]=43075 Af[170][2165]=16 Af[170][9620]=3 Af[170][1325]=nil Af[170][2895]=170 Af[170][7366]=170 Af[171]=Af[171]or{}Af[171][9312]=43091 Af[171][2165]=192 Af[171][9620]=3 Af[171][1325]=nil Af[171][2895]=171 Af[171][7366]=171 Af[172]=Af[172]or{}Af[172][9312]=43283 Af[172][2165]=16 Af[172][9620]=3 Af[172][1325]=nil Af[172][2895]=172 Af[172][7366]=172 Af[173]=Af[173]or{}Af[173][9312]=43299 Af[173][2165]=16 Af[173][9620]=3 Af[173][1325]=nil Af[173][2895]=173 Af[173][7366]=173 Af[174]=Af[174]or{}Af[174][9312]=43315 Af[174][2165]=16 Af[174][9620]=3 Af[174][1325]=nil Af[174][2895]=174 Af[174][7366]=174 Af[175]=Af[175]or{}Af[175][9312]=43331 Af[175][2165]=16 Af[175][9620]=3 Af[175][1325]=nil Af[175][2895]=175 Af[175][7366]=175 do for zH=0,175 do local AN=Af[zH]if AN then AN[8236]=zw[zH]end end end local At=(((((eJ or 0)%257)*65537)+((((12-(c1[Sp[S3[49783]]]or 0))*(12-(c1[Sp[S3[49783]]]or 0)))%257)*131071)+((((2-(h7 or 0))*(2-(h7 or 0)))%257)*524287)+((((((h0 or 0)-1451744235)%257)*(((h0 or 0)-1451744235)%257))%257)*262147))%hp)local Au=175 for AQ=0,Au do Af[AQ][2895]=AQ Af[AQ][7366]=AQ local Aj=Af[AQ][1965]or 1 Af[AQ][1965]=(Aj+At)%hp if Af[AQ][9375]then Af[AQ][6631]=Af[AQ][1971]end end c1[Sp[S3[58085]]]=function(h3)repeat h3=(h3*48271+1)%h1 if h3==0 then h3=1 end until h3==0 end local AU={[1]={"QT<0!%M9gE@vdIyNMddzm%a,lF]}8s-V9V4BEqJ`oH+X-N%9-V(0K;=X]C$0AuMe])r0[9HKY7wz%%.dkIS/@3|/gVG0@U",76},[2]={"QT+]iDWEeh}MrC46%f]L|t304sA>&b^&PX{PFJ+yu{&3)=_IiH9N7Bx@<VbghOMHdakeR5c=?>S.S93YIGUC$VOj&+p~9$P>DrSIULS;xzq[!w`>!kYsV8way)6c=tj,Nc*a,oF@:._K6<O;1R{$dEOnc)-PAz?rE#8;%F8je]W,qr!s5:Uzq2WweVWl9Y-VvUqlzHS.?C.V<%A*Oam[}/0b<P{I5:]~sTOUfS7G5<URfY;q:3inV!C&Sw{M{.EXPWCE:*o=WB~ghS%+*kXkR]9.nDAR@R0iCeD[f:~<[`+b|t,uk9&6XA_phMgFlQr<n.@BQC0l,2Qc]-ptN;wJfaV%8=,-^(PSh5~o2HMfj?HIRapfd@`+9~Q;hdTfJ=eDnn1S,}8K.42:CCyouziD.6b{Y[.L8l;yz^#WahDHN*2mSCy)~PApcUtH@iyC&G7=8NOM+Y3yOT_F,`uOP?ru,3CNiCwJnOfP-%3D3CCo)7_2[p$@(y<oz}#QjM:VX#Y>L$8Cj`:,/uHw(F2u0~}8[q@_?>$FXYAr}2+M{O}}eS4-g<#!WJo+)nzA{l%&DCF~Z7mYXmXdUpUlj{e[)>T?g3iho9+euyf;$fyPuhb<A8*y-c,lh7=1L)Lv~{3v1JJP6*M31BLUP_I=1!VNO$I-wi`dE_.Yuig&!VdQ,qd4)Bj&/Las<F-z!c^>xV$}asNvCG,DREN4DYz><S[m;s)#]cAt_Y[~bfNm6b|?0%r;cP*Is.fIU`{]yXvt(7^)/L)%C+Mr;$V)=xd@rmE@]CJU*FI>qvCx]R}pFJcT/{4[I2BegJg8l55%?/oEJ>S&T]P5q1ud%PZcdC)x`i$cO4!yt4Lbi>UBt>eEL2]wQ.EIwza()?Nwrwr3N.oR@?wY-H(-v;~4TN.UU>wNBrL3=sJ!^J9{S[MJZ&[^LF^V2DLnhy%O?d`K,kV4>}Rvv.0xOUa*xQ`sUnnp1_k@/s~6@lD9hajLH^w:G[dHW=}%>,m1jgRUKRv@jA(DWBNHMEb_^6~WU%~kw!NL-<HW2f/tQ622T[d7{t_>wzz$uE6gOK(YRe2aU<7^fRiEF1_rqb@_HF&/{`)p~$3EdPYqNmE+Y&+3R268lM!@?dj7Zd{suGA/8MRWU+#qIHf(8}P;~-`y[RX_HWAAF5YNkIs!`:/%cvKjuzB8.Fx?kaS.gJairjs%A~L&MIeblcrXY$zQWv4ZmuCaNuic@c<?SK-5eExBO?>qE:n@+aclqo,X0BQmGW0$tQy7y(|EQzsFc9)Ljy-q%mJD@!fV,aplQ<b2tGDp73ilS0kgOPrTX<U|]f4!3M}%^eN_8q>t0qlzU-15>Z8N{?_=GGWlh+>0vva2:<;,t!tPvPAv7}5e?ISuRL(Ix<;*pHA]b|9/6Z^ia9y5gf[rii]ry|F}r5?KO<CA_-]1~MLW3x[fg(+/,$a3<hrGZAxjw-=uGdnCk,QSX_uP/rr6w6.U|Sz1RzsDmrtT=a-.LjqxB$9j~/7nx%AQ9+E`1Oy8m&<il32Q=Sw@p_hgaVBZ&Oc0ocACo^<.<rA%[XCKMZ]q&:v>O&^Tg,+CKN-1j6C41?49ZL9Mfi0fZ+/;p&7n$^-3kCXKhxnbQ2@)_@A+T*6Mxya|2et#:a^6WQ@N}C`h*qK;SK$3LV}u=IcAH:G^d(Y!G~%.p`Mcs~e6Y{XjCUDI5ydSO;MUg24u~Jys$)PMxTQ!~-Dmywmmm?o2QG:$B7wZ|7$?N9_5P/S,snAMrQ!b-25)<OO>Frw72>~`?$z#j0JF&)r]]Jiql[~t{-ynt]fq=E6]RTKOrDBxnL0@^QQ9j|jrq%(09;DNcRX.?kH=mwGj}#wwUe{@CarNy?),MABiQ{MN#vK~}SXi=-]RMp$=B?fv+QBUw:S2kXi6hE/?mjc0(F_/tojv<<]qSF;VSPcM@AqIIZ`M4cPGNAQ-#CVjpq.d%XzOHh4>f&Z(PS,ka4m:sQk}cuM~H4PLni37(Ir.-(IO*EZ+#y32SZhQ!^4n,[A3V-N.slGa5e]x0Q4YX>@m[otC]H4cynM%ST[I0RJM}ma{65~>y$7ya=t~;[(~{r|8+qR[6Xp{a4{qX>vTYKl1b+wuLJA01hUdeu!XV~SY)=h5&:tU1qk;EVaDO2jmM&v3xb6VwL6IqQRIV;A&?Kh`LkhK8#&4h;Cp-tBN$M;(k>[%4F7HvmR[I`@FS.sF0vVXd7V)(=P=`;[ss20RH*gJ1c:|mLmnu|IRAb(IgGhkN.ezooGMLDO14!6GPUb#^B+]kjp9yge6wB/Ax7P[957knI2:{;lUQeojzm|O>`)4n|w:D<d)Cuwq[ehvW3c=7F]!LX~px]Zfa,b]^.OpjsvCpuq0%bOK84R<,IakO{kC|d!zr6{>u!JK43_C*n1C&34",1943},[3]={"n%g+A.Eru7Z#)YCA1,<~kkrDc%J;t|YQCH>O|QOYr{4X;&%}fn_IZ=aX/Vy_WQxkZ6B3u)]lwo1S2IuIGH:jtq7f%pER)ro?o/FW#M%H{wD?~A>~<KMn)=D4p{Em^In.NT-{MjN`aMZ@QK%z}jw^bc7}8sw(knWdsDlT:#maW>}UP$}!;c_pNnhruT})?h[M,K!MGWa%o+{z)=mZr3I37![tz:reYmmcN<c@ktDmHyUeBZp]#<nv,{j_rZfi#R7k12&Qh|h6dNy#,H=J?}7v>e+hoN[^6*",232},[4]={"QTwS^Ddcj<pSk69RuX&2Skn~Kc_StY=OYh-OY3:k)sjH:X%<zw9TCxpjA+pr{pQbt&IYE^PBMtje4ELyx9,XJCNF..Z<Qcmcop=b^LWchNWz+lD=AeRxJ@7NI>lN&[F#KZ}@G>Az4:UT|r<M.r{ZqR)2w0N%9+ALL+zY-jIq9]#xTV]AWzc1#9mis5X/T+=#y9A/n48TM[*f^u[Z5/udr4qKfk+g7;LSUs9sA_Fv_&yq|`pNngi?E:Na2s>_B+F,5h1>w2L5.t-d8.@*BkKXmo%N#~3<pzU+X{l=PUt{qT}&fNL_9>e?IxlJ-l>5{Dl(oQImuiQ~iOHu?E<OQrIiId9t%amHlvaEfc!I.nk2@g|U+.Id_#TR*i0eWz$pKH3_*I%W9f]TwYxK]YuK>)=9rHcuUtNy:WXGJ&u-soNhYV|lG+cc1khN|uzfV.c>![rzFp20E6opGH2!K!R}D7-xz,|Nq|*=F8*A,6(H&~U2JP%<gL[L:zllFI*,?WNxm-ZRQWbRyXtuC2>Y=Wqi~3SWJ;q]Ex=H7)C&z|wqM}`-<ol1LQ(~RTgL@t=>rS0Q!n;lW:e0^VXi|x$>M.,?b1z|#O;Hm2d1+?7REhryRx3/BQ/;./CzaP$IeFPgF2#17-EeDO1g{JX?E=x+9r)L@93$Y|IdL1!nShTZzUSp8hBDXQ/uOxUb7VY6:cOE8p5EW/?X$J7]CgcUR(*bXu/PXVaI70Rm3G20Ba[6zaR[e&ksFJ.=*P/K}8g+&g/:gsjD5cRt**<+6f3~jXhM@x&B/4ZfQELSm~9kD`$UkP/ebm4z:rZz_C#oI{+>&8>(NsJx<q9|6+46d2[GL>_(uty-1TrjUP0kl|uAAawM?9W*&L>lG#sFJaOi@:478`$2LX`4U[w2rv@,:<v*WB*Y&_bi?+kZ?f`pJ}UI2u5htr=4v*jq2,`G]U@/|&->4D>l*kwVy[CMoh$10#|zcZFXOmtKT{5RVrPfRB^y^wlg-I3EE4*K8y#`bAR;32Nt*aJ}/vD2dBL+qPlY@6h%SvlDq;l}Uq]81N;c1er8l*Oea,mlV=[K,c4Y@yZZwQ&v48,cAy7=+Th,]dd[LAErrMA.XpLII@lv{L]{Ilx)I^_ea}RT(Z#:lJ[cI<v8d2_KG:4wBNjBIN3=fxtY>!hh7%Vx9F(RW(dnd!&4VfvZEDo4E3zl{07J=,PR<}6Zt8D5_oIDp:3!c[Q=;s1|<Pb/Mk7cqX)OC:gf^cQ?QO;QXCkb,-?y`ve{f)^mH>xp(XZ0M5Lc@qR!bJ:Kk9U}}qC505_RDkxx*^X58Q?elIJvgY>K#hd[:)~y%HK?qA3&GJ684n-k9LcwuiU/R;^D`QWF,fMa>mczMu$H}bLi_t>?w{8eAfr01>jtT6c8(9nohV>yv+B_O)?gc4bGynDov7G.[LxNF??fY>sW9C<erJ03Dfl:X5zFT-xt?Xb27IL;8JKoBt/41{7+~m8d$!p1&PAbs@u2k`[=E`?rE9Et8E18^LY4x<X~j48eq#x9#J@ykBI@Dd{)a;*Q,ZI-EFNrBa#KZCyzF/^~34FoE+(G}RLFWeUCnr_]e;KwpC_C}3X2GQOB]@R@O!kCca3!yf0M+4~0<",1308},[5]={"n%PGA.be-Q{j9_snX:S{<xEzClEXFT_R^Ddq52aMK}#Q7>D-1,tkL5!aPIPZU?:B59dsW3DDvX1wtuh:x8hSs<z2|kUb+M5R}lSii2m=z<#v}9vq~:r/)(_iKVsp{/t9I/%55BIMLH*#QWWM`hm_,@LLidGBGH,P++d<^([mH`K[FgIvUmBBW$f.;+$(T48K,v,l^MH;E@$z@zA|-J+Mkfdc4EMrVPZ>,}LHlJ,p$-r/fuiiPiHlc%Aw0Y%kl~1+eb?gox9vxB[WTp$bFJ#Uu:T]d7oX(<TSF+@t3D^Q_MG):=b%|Fu*ix)Nz_.h`:pDt#2X4L}1KD]1@%m%SlI{c_<ELVE2/5)F.7/WFA0bCXrg@;AOXyPuxpo#Q`g.HzhhyCRXdI:Q}M{;#)_{bhu&JL~EfH>,Pgh1/Id!MuAew~;>AZ*I3s_|T[j]A-&2dcKW|hhSnFeU:6Q4iX9$%g3ax+ql;}#Q<EGV[78%isB-<~Izr,+]aD^qw$~>V8-wfz$%l=&0fDEa_rq6,vE~l+FTPy}k?`aX$g*N-F0p%f7K~)2L1dLp.55O1l(*+CJ{93eM}Q*[RGh%8t2H:B$g[Fn}ys&l|O{En__l4!Z)lvq3m_D4)K]2~e%]U)35:!A9gsz?<yJ9_@?].$<m^{s6Jro0mDz!2p5X>-F#y7hNV>9foV<dF2zuw<P-Y5<qOA!pr%cZDMBk-/dwLKfNN]=dVV-^vCsmJm[6[nkZ;<kGGJz~VyT%hd@!+&+)7#Z<R=Z#7a(8j7U,q-wSBRiOZy1)XmEzhIyqmATsy?{,p4#}@re+ZPITzX>vo:tP*sKGibXGZ:j~&2q^i@.ke[tM(o~}Dwj<5{7PpeOiebp:AbW!%;n#f219C5+P$szHi`nDiRal~f7#U+DaGXSt4cGAYqp#Vy2Lav!F|P{7LYU2L.WSy3ZX-{}%:R~cm|bazvj@pBYyL.Z*p}CsR&+=>r6D;LvX[qh?%.Hq?/q)`iWr%!^^AhK7|S!d|7tID`^g-`yh&Fkpf/cF!4?~axKA0t(@rq>dv)sS#ogdPqm;tV}dox[L,8o-J$Zgic*4`h*iZQkcm;:V))Pdbsneg%z$Z`R*Y3X2~7N(?U!rCI4F4P5w&<PG9EpldiLB:AB+~|ibh",928},[6]={"n%qaulU[5?9>}R,ynY-l54x|lFRW7ebm~ZqN?FJM~lA=%lCCsO$`UC99hLu|qsynzn;bM28v8>^?a$KZ6{%`rV|sSO86Iqx:R}q)}c~MaPV$$2bSZ7F2{9hPE)#lKEPwxK!R/o.<4mu4?Tz$c1`B(pZ$jZ(9,2yFM]Lj;_zQ2|Xy(weLCy9X}fJ!GP6BDg.kp]*#NG(.9!<[*P.a>h^o=jjsTcHC*y|F%O2c&0cU^zLden2|*05K+im[k$c6*h3Km_s:<~48bw,J@t)O6;hqK[QG-Z&E<<mozW+&dUL@vOPNCUipyU[670aV:,c3!6ZmnjC&WXTQ&Xt|wt{&(O?!%!!7cid7+*",281},[7]={"n%qa.d/$p1q[X0UIF-{j(8/0:1lAIl%vrdY-S<I<wC)Fy3eO?|lOuv3[*SC4vMUQ0tQE`;n.T/|;|xTc)h{]?`[E[FcNgCpTb|uNMG;j)f-GHdR}KS,K;[[R-~;$2#Vo^SDV6V7d=Ng0u@duy;8(3:+D*)<tNXtPFbN)/.l2?|>1HhUO&Lc~cyh9hopUQw:OkV4(Qr{aeq%G7nLbSrCbVejt?s]rLWub+yIX}HJ0a&-ma_*}zy6i@L^&M+CEQls)!XXHxrfV(G{T3At>zC>t?7{v9Z)%CqRP4<l[Yqmg]ld[8/5#=!hA1b?FvP%xjupi(g<n=VKdT_m8%]FYZE<y2zRVZ~J69l`ZEub$5-zm5xW7di]lG0mhlj^Gp%h5XR]W5jIK1AQAh{E0BE[?q<ykc%akYqf4Nq*=OX/YwY:pWLkqDLD%i)zDD!TlSBvFFpjjt$9Isfe$!d?U9}*wF$Xm/d/=iC1`azIRMnTELc0t",394},[8]={"n%G+v&6U}LnYhJ?`:P>XKxkpilTbU)4;o3yI)&`7*gI0umvzjZDO8_zsC:4$M[k3K#`pl%HnMp_o^Vh`_A?i$HQ`-sS3oGwySE+5rvHZAICK5NClwFW_fyaOXDg-@E:.TOOCH9`CG:/bK6ncup@acA3p>yfINw>1a8x$hWa}sO8~1zijsTcR.T/_Y@P%V(jZ^$)S/qnF*Yae?h&8#-+Kz%Ic^-ttq8*5F+U,RWA#j$e/I]}D(OEz>AuexpetB+5]MM>EgH8>EjOWaMR9YM$kJNgqpZh@#51xsBniU~2t",238},[9]={"/b|+v&Z_w9]L;fFDMmCMr!JGz<m6dx1I3&K!Wwq}lnq3/ov~j$}9xBr5$vpb//qCoASG>}@ll#q,^.Fj_fU3r!Tc<h::T/e2<$&wKmz^9&n5i=gukz&0&`tQQF/>s/0L@]<cHW{IX<}rzV_8iPyF?wBmwjFGcF~~CS<lx58y5LXbS9H||7qZjgmAo(~NT}Zd{#]u,Me:)EH;.axX*!9ii!(p-4F&cnE<(Jw%(L[0I($z>.1KrX::9ET5?j];4MO7ZV[>jyrtM:X`G}zW;;B1X.@o`WGH=XG<r`u3k5hm^&6srFr^|rRQ77(M)4yn_/(iiXbtUYBj>KTeEuO[kl6>S-aT.bf_ZS6!ymIoxyM)3T$Zm>/I+B+JHjEj*a-F188Ov-{AX)-U0`qS2rwD`Q0~K7W!`.H7>6wf/?UAP{n[.Ny!+{C?QL;}z-*imK>#&}DgK&CTC$0hA}v9Ag<V<_)_$[IeN:gX`s<CYAxFF|no>fmX!2dJwKK?rC7g9virZVjj1Dj:bP9tAYLl1J_rG%QOmQVNg2s|5z4W?p=9(CdpUBOm29%zU9x$O=7:3`&@(X)Z!<8XQUK+rqU?9~qDzjk8+p^8mb+bEi:!VVJF<7I@!E=k7vR~CxFhB%x1mc&UNu#KH*ST/=(h_s6HE00A;N`F(>sCSFWS&UaApU%x};sC|VhALB#>-a</e$]$qJb;dFW]4U&{c,UOj7?[Y{Og)~@D7],=qxF;cq|{q6+v:Te,m.@RO;Wp(f}znU[4)8;4{{<LJ(DRS#:efd?$U{E(?|6X}TAe6L!y6!lBj!B[&]LA(vZOREX*Qb0^YwZ_d++#PLda)QZyn;)8hVcHXgM~L^G]_tF>Mn%<MMFIZ7Gk>#H:j^l`CT^/nt7@>%xaax~^n52fJhhD)t-v(%yJ+vqI$_g`X42P&-}Ux+)/qP_I4$f3L?^O/3WZ`j8h*`;uMhVhgqEggdffo6>8?U!IRMA9o3Ic9]s@A^O>ACZn9>L0;!D7QJ*S1C/>D~3;8;J=O4T=:{/AW]N@I;pG|G6U_|SNWYy1`Dv9Z]Ukn$6CD?O}?XbwL~SqrHpd:wt#s^yzFi78hSFjH/x)f_w5L)N4k.8X$IbKj&Suh1)8^j~>{aNbXE4Xpx>w;3sc}RMRy+#3}C&>4yK~BYc+6$|de0[/n49M0h=JWUP]7gK56e^OwBI|yQVa.6z&.4F}-z=t+?8MP(Cn+9)~ZBw}MEwP;N,1.F~Y&njFNkRS+N.%zxu7S@!8cRG?_C6YQ3/$Kx~eNWXB[sQXD+8&yBk}g$kegA?OUlg|`6XofQrGk/KMf>P_di.Kx~Cj?:LZk?$q}tt.i;znYDHP;PiD[,4Q4o@X-*YOz=Z+q@,:}oxb*@/pbM^;.b~AQR;hVf3W}5a|)XCK]9^q6nYxI?U);M2l9uAT%L*?06ar9hF~En<w6gZ+m11`o{*a?B;h>`^*ujBV4r}f[.[U4QFkx_$iySZ9;ps!Ag<`#C/lG<;.g[2(6Ckr/9:02Rxu]@>sa!YctX;>;-pw,FwQT0QtonE+`vJ)suh8s|TjDH{nR>k2CNZ0gcTb#9ed3y]-[AIsCF#MzC+,QB+)uWbD&u/2.`jT{C>c+~1NPFe=Y6Y[wXsGjqwexJ<I7~pE`--vRn^BVTtKyCI0[`t+uB/zMAh78j49WlYn_,7Q}z^/6`cH3`CK(.KTjJDFyI1)aP$4tBkrH+]c6ZWqkpBKW7F#m94$n`YM_H?jCu9O&`XFz^GXu`o36(HS)!$WAfCCIz./y`V7$mKy?gv%2`AFJ6_MOJ1IG./r74pNkzxZKkPU^_h%&/j<Z$joW9HOC[7BX9aegr/qvkbGOYm-?F{0+0rfvAI?#()[;9E}:2L5yKwiiU}cq3vX=faw/Mb9Kz!a?u($H%xBU@E-rXE0F|=qo6[l*mlMJIOcgy{]@Fqy}X$G#!F<jF9dMber]$H{uQ<IjMgS&o@,e)Y4ygYHmk~d3dz/HX!+Nndr6/@9]?VvVarl!#3}f3*!rSVp.k:ICWbnIQhraO~jX:r{3L*jt(J:QuPM`u:^]h,`-G=:5dLsqV1ZO~9OIVAHw!BEx@=$4[31G3)`0Vx&=!r!A#J00[,e^,PDt{1_6qoYzvBoMLai^6{yMA-MAt=)xHAW:;;g&m]I|Kg|$w_K2g@U:{/usR9K<M:Ec|s2xk4YZn*;p5fxq.T.y!:(CUWsTrIJn+CNb_2!Akap:iBSLP<i?+rl#`17=hi+5);eeyFbDl.2|!se;#~/%zbpL|oRS5]87%?@WYpBDDv8s`P>~.WzQ2Fa!&-y.3aH&d8(}|I99wTfoOkefTw8$szQW,*30J;,4>3}9?@/0:my)/xjv7]HmeF0|Vn?gvab]gou}!_>l=i+xggfc>`N$9m1P{?Ka]51,M&`0S84tl|dWOoABbj$gnE-S>!<1j&dT+i?HxHa}kKRoCRY=P`8G@8zm3gP6JB,dK==79OnLi3O4fxi;&/+b6%{C.Q1/41*E/2,@gL0a+D:L:z9_.NjbMM){.QrS*%&9?9X`64vcj:EG9%:-+p(/=*^STJ?aB8.Bkswu=ED>cMCy1+$uL]B{j@?R<=S3>)B:|Y]{4$7%oKp6u20Rq;h6qx<$*T`QA{Cq*b}e|YnEp6izl|=i52l:KIb&p4VtV@poyWrE%kS7IaT&A/v8RvrAggcJkhR8|,VLS,CgT%4`t~|=d|SHA:WeWq]ful_eE8f@$KkXYun9S{ZRL=~M0{8puO>ijhE~_tz-MZS&i6_tVu;J7P4LS<=KAakfp)+WT_?(jIM^NruUG~!sKd+83^Y|bm.#U6Q,ANo&g$uJq*k/pY}7aD)V9Tyy(avQr#c(h54JYZf(c/oK~#gR-;kcwv_$I/1$K:LAAF{jrwed6_#iuiN@w{<kAh=V(WL{IWv[|Fn?P<xjQo[43MGrQ=@ncU>(1+,G1yc:FhU8+OJca6jplu9@K8ZkK>?;ri01ON9nPNHi,RlJ8y<qb$FxI@>Y|uF*b0WI33e$~+tRb*k1b2~o-j&ZaS~;v$;|=3*@Ro1>4Co|=/xTwbMz/YF9xXqTU%e{vBS#--UlY/8k2O/mt0jv1Dy0ko}i-?d=x@e$7W@mGBf(Sk3M[h+[ab>E:iF}Stw4$_}dG+ydA={4+kS%$Aae5>Ofo.M3%{WlWqe~?h(VQEUu47u+46d|GPPsy^iGVEcAQ[c}>Z?C<jnQvP1hIJ{%|}<`&QsN`7E@H8Q3e/UUdO#6aqls/wc2pVuke~p@[@Lgn{>oiHsS|Un8Ebb4!q.6ww9LpFXAhd.-W1Ik4dYB>*r6k>_86?<cl46R4vF)GxScHsfaDvMw]Wfigjh55bX3WS@:s<M)o{sgqaR1PSJpj}5_D<TGNgtQ}=_@4o!qXNw~Ss0v=,GHs=<<!Zn5CW91kRCo;G&:B{n3>!6k)1lh!C6&@F{LF^rqjck_k$8{C2=qSOkDHy(B856[984o+4{)@Vni/WAT@7&mpiJ3LR$C]v,:&Rg.7kQ-)L_1|<i4ujHUD@([A<&(Cy|CB$LjLylJ:?p|JOo/tuVEYEKer`eT`kjfG3IB+qfWT)OY7v9~k5!00=;>];&BZp_L-Yri+!zV$[`^._cflY@.,fFC|Kf?85KucvSlM%&fitGK)lBy9B$>Pl`v$flgt9@sg*uuIg9O7TWv7*+9gfStxZ0/a!(.:Elorrk6fu+VJh~|STdCZ0z7sn/!6hFL+>NO3_5/RWy[`5@>j9CeU_RY8pCVO37iQ#LO!4(o~ETB-$;]:V$K+8~Pv-[q<3y{jt</UYS5>ov&:fH]NuRg<4TIDJDi{z2zHzR1E@%3I}#H(^`{n+(y$Ac$WzC83,2VN5ZW#}IPa?q=qKK]Ot~dRIq1Nm-rHNoD6h<&Wt[ALbhA&ZXis2vfo7kpB(N_C}B))/@Rpzy(}73wz9@LWodw@Fe*0&E5GgI=I6Hl~+VnWSoD,|qBq<WHsgsF1r<|K~oiTpfr@FsjC+FA$Ez$r%f[>~Sq}ER.y751(-b&V2t(!y+6,wdnLrK:>zsk;o~%I8J#-15|R)xbWvn-@p1;ZT7pc_68-l[$Cc|)w?@#?72j#37{sK%e=te..6)!Cq;LfYgf5&@Y|}28m,><QXYs9>t.6%[ZF^Z,vK]pY0#n6a>oU.4jd{|2<taBn^C~M|LI,4aI4a7at_ejry)d$RQ@}$+zRM28)YzDy+Np9mn%uJkR,NNtlexXtO>T5sbV{2jsJ87wl((`5^4|j0~55&<=s?K6;r3TZ)&O{yF|1vIN@6)D=#+QI3zFb5rg]l>v)xn7!,v&O^lBFA]&3gr8}O{~@%`5kLhRj5Ge/|rp9ko)ovH/iOK.Ykpl0fn&)*ZWci~EFF;DNQ9,VVuEgkT).Z$j}nuu{ocH8V^,InbJB5X/@JK/Re+R8E}!1D?;/V]A`P|HDMO1:A_j`8K9-dOM]cA-jm<ui(80MX.=bkHCqAn-q%LIfG2C;3A!Obp}}_!NVHc01*@-bgjD#r{Pg*)M<zzs#4:|C7RPJ@d1W~Hzrzuf1Eu<21&:T!3P#^/twbf6w{~r.Y]2IpaU4WfB:N;8zbui0A}a8JCKU3*TJUXXf#%Pwe}C|vq62y_v_K!%1,hsf9;jgjkn42tumD=Bf5m91D$1/1Qyw=1B3;S8,&%cJ~]iL]stDu%7(M<Lh.=-.K>rH#)6-D3vfCvTq=gD4@)^vF_/]S-Jl6T6%KB.nPqP((<4=M{PQC:~=z&nvic&I9<A(|kJFU&V:2Ui#B;oQTC>Z@_*J3uqdF}&WNhd.pa4P.ze7wq<7fyJQ)VcKAf(P@1IVP5r7]>OvV.a}Dz;Zu}%xo=~_2m-+P6{;mm/3/;[7pg!Hx4NZa7}fUaAeK]1S[eB=Vj<CmXR8/SKXNs5_I,&rhzdhAh<4D[`&K.7Ab.7e`Py~)f*FSsYC:g`/|1ZsdKTRSp|M*Egiz)SbdUI_Dve#3nTwi=ymAKy9QZL_Ewfk:A.uN#ec|Qxw{x{:i8h6X<<yFy~wCudw/b3;H)U1PI|U_;IjRJ`|`8-gR0[%K9fd*]mwi<}I2y~e*RVPp]PMpfT[P~N&L{YU-?/Z-qi|k(}ucOu+IztBD?i>E2gohK=ue{jQ`2Z8#!CJ4FX:X;I<5hn5$7<]@lmMT0CrTmVaMXhT1vf2^>:U=rJ;wbZTFo[1%<Mr*iK9@@/`LPyJo4!wH9ek?,!9rG.trK_}B`pBs8ocK:BX$}bJYy=2G3!yK`pBu|Lx;Cl.pr/[[Oml387Y&-TKxuLT-t~uiCs#4xvF([KY_~p3=mQ4E[:<E.=GOS#,pv.5j@1XiKSltdTGyg|<#?A+IJ>9*N6*am^?d>Lwt0%3~P~]Wm8g]_3CleF$NPw_bb)S0bK`Mm/rzL{C${OM`Q6RtZy&GQx#@o6R^+5B[/[OL-)._9TZ@7<X;xgZ>T*`lfo6Ug8u2`<e7G/VgA,fYJT+Xe@,Zvo>-`G&uUcrZzi}Z)@5Tvk/d#;DR9T/7kp}56HI=ox@qi4:O+q+Q@Xt!8./Z|,O7zme@nrF{alfW78`A`5,!HCIgYbk?5T]RU2H7M==Ngl>rM`9cPB6}R1E%TXAG(~LXRkFa7UKaGQ5v)j%:WDrM(c:yh;ym]AxrorowL0Lhs{f<sb[LVc(,*dUHUV(|~N.Go)=,tsZ.-.7R`QG2mLe+oyeu.}*hsns9#AsvD3Z=|QuIyiqlI2V}NM08L(:]r^+tvdc#H8lrHa>8d(&&$N;!VjSf~zTJu/X2ld@=hQ~=#b|q~AL!!<cj84gL]RUGTtLsmJH#H^2)0h$nmtZb,0x4Y<5g2_d?j&%vIU~9n_IAfLn(S4rNffLfG1t=&sTut1d5#*GA]7PP%.p?pRJjdz9XLw?Z[GNp>+/((<+Z>Vu^90I3iJ,{f+6UGZl=BXnK,SP[UVJ3lGVgX9!+eu&c0]I>R5MgRyqD*Jzt.t2eH^J7H&3}pU,eA3FPC)ZiK#s7]5Qe5OF$92/-4K[ZHyPlcR`9SJ6MQd),@&/`6^fGW<&s3`l4K7dCGDz}D,(E.uF#FThREf~J(slO:EEp4Ac5J(vy=4yItWQ2}<YbvQsRG1Tp4E-$s/-_M?}v.g@p6dh6uxScCRWH]:~Xi0$DS5RWnr<EZ0fuagm-sgM7G^t[gs}Mg]?nzF-|VkmKa2RD3o!qXI{NHyX:6V7y~bJTvH)LrO,+{2wSw)in?w$Mb#^xb9dh+4`}]+L01F8%7/P3C2}oob:UfJ8aAr0CUKO4ngB)0~-Wb$P<dHt./_?9ez6rrEDZ3zX2i,yR,E)Q`E#/b1VnD<k{1-$DOvH)e/[=,zFfZfFxCAK0_*/U*tR%cjmonT~.?T:2vM^}<=vf<9o!70Z;)n%i,a(sF=e/Td`Q7rSZ~ZEw!1aq~t,w?sPN7|TNLm6_{A$r9#?q?7A^I%ebK{}%;qpk}v,6^Tke+%=TITV6dZzp1tTK3_.G|)^qP&DfX5T,p}4jcIL30v5X]=&@Nwo$6p:A<K?)cek4.SlKSNg4.Ce^~BFm8syLpf:JNxz8J<yr]UoAkH8t?R]MoQD%,gi<:Arh9ha#9U7Ec!S>Udo#HU3qy!YB(UJ~G3WC{/boz!RT-^d*8JZboXY~A09.*.",5343},[10]={"n%g+A.oC{*[EwE@/VRdfRz}U?`1HCzFk=H*|]aXheglRrw}@%4I_520s7Y9;18x}25AoO8Z%C*Oe4Pk?Ls}34BO_sku#f}uox+4",77},[11]={"/bSSulc7#64f0b7uEuh}p56,5_Hb{05u&q/POdl;y~?nB4/qX(bA@#0u$(lj=hT:K0r#Y))S}y[,BIp,b{0{dXY%VAS(<t5RTGj8wy_-xx1->Kt=TT(SY_l$dT]5/:@opqSJo;WH@l{~0M&0UM9z?qSxUtmSVTCVa=_%Jqr?:4&m:k.3cYFsVLk0q^%2~lV.(Unc$O,xRI-fb8fS8M@j)F9xCq-$Hn;4eJ,$hu}>7z>);3vPh>S_+/h3Rrp]YqRyl18gnUbVX)Hj^pUWNc]9&}I%KQAJmE*J(|m<DzDX;>/B2no=zIK;RiM_c,og>+G+B}1V,=Acus@7%*,(/;%6o*%V$_:Q!R,TVyUK1@=My5&8{twvSS;68k9-qj9Z,hgrq_9Uaj}braw}V3fE/VM_gK{xUS`^uX#++{#F&Qo&FziC-;TI4>.B6a*ou?tiMeNoH86W|K|SOfUwx?$+iW-A1Q~Z$eeo]EHrir|V.U/jt-bsOuC&8F]4wp-0*k|@|j}iT/#co7?``x&[|K(KCOx[6{TgmXW7xk]W{o2vkeswQn+oAN2$A`50>#&69x,sSo!V$;~YZ}(B7@wqFCDFBegmpUmrLIlzE$)/_{H,96ZUSL#)$f5pD6YfEJNHEak9|[<(PRgnYYBh}[L6=}FV-?rfV!jj]t.Wn%*At:P_hhSop?].O&+$qma-AO13em}k:6yZTKMez[>,/ah3BR%ma!zT,rLkV#F5Rg;T3M%=|[7jr&]F=%q}0D2R6_R~?#PZ3uG=8>n3[-p3v}lGnA/HBxh(EJ$I&P_jY]RBB>?C2:U31#HMSbmHQ|=|s$uU@~6@Ll!Q(tZg{zBZ>F0`?jy}9A:_^tpiEPfVt2;<Du#Oc#c;jO9mIk(7s|C8weq?rJiBlQM9",725},[12]={"n%G+v&6UQ?N#ML-5gP7>n6:qdeBDVLZ@XKFE@iYr!fiLJ7y-nzoYd`Tuf.j1tJ%TzRknFiH!+(2r]I73ZB&{~(A?,0aD[T,HNuWW^O#N6q/%JZ-r;WC|j;+-&Goi+.{?B<$J[kbbAWEo6WcnU0_l@`Rs{4Z5nu32>Gjf(PDz(}%%_+HdE75wDc,Hd{-C+~JiTGlx-TQQeb{y(pP=/K<_2=PL+p>uJXqTDk_G<_nZ5>U(OYHnsZ)8hJvEJLCx$g*p<XkJgnDV6iWFz-WE$*PobW:kuoN)H9q0EsRZS8w8",240},[13]={"QT`aul#!/1&I{vUE}2%Xtv#5q:!3p=Mlm(XSRY)LB2IS`2Cr8ox$P<9b{N|QCF_kmCZRS^~_h?@8$J(Tm|7C=<lc;]Q@1;>7)MAelO-0z+1XTFTl@Rr2#(xl)th8I7h=rdVe7XP/dJzF)SR4.kBqn$/<YWoQ9Uk}A.VH?!MB[xw`R]IV4;49FQ>5*,p*2[es;a&g{&aBOjp8LCiT~e=bFI,jX{6obf]RI51vDBy5n&%4:%>&UvUbs#_($+>:M]DjHm:mT2_!O=Mh8{s0$.,v}8y)k&(L6w:mH9M9B56xpg.#ohd&f,MV)u/Xp;5.v?4NRvNnEqKw;aHCDs8",270},[14]={"n%Xa?hpT8=q]bt0}&Oqj36/(oY^N:dI!!H64`t`+<&8L-Ydrj*q.{P~wWzp-a#FPnmFyRCG`GG:oeCl-S,y9j]wfB[%]GWk39Vp0DVY2l9Vbze-x<:six,Sx}[3:<nE91!zFz;(bd#o?%BH$hKV(.$k%t/Pj;P(.ci+<Or$0140_IA{A7D/1&d%NvZ?|oN|ZBga3yV.6=y7T_zmt!`)lG/c/zU|(g47lxS=p)L:ut{V#4}kl[pvl*4`d=m|$kJj&<z06*Q]z~0j}gTUs&nqz)$19rYmAU^pJ>,3.j=OJGIhpF8lYLi<&Q$-J$HL][3>TY;O.dbR+E##=zuZigtxJD!wpBCrX#ZL-B$*",285},[15]={"n%G+v&6Ul#p#h6),3+@A(8H*]2VGq]:h%UwWf4:q{CUggnT^=cNSa)?D1+1vks[`v~?gM<`40b>t+tpRIDJcjgWHgEq5Ke9258;9>2HtuN-T[Y6D.~,U*>hrzO.0}Y96#V!vdi@)-S`Z0?i4)MYEs;po{?8V_#>9`vcM{X*!}m)zP>b,Et3y~T@n2lPdi.jdWgnw{PVF?|b0lU4j0Hpm(sSbK|6s%2sbAp2K2xtnebgZ<zH}W}WGqUlp8@O[N@lg{@y2a,M};z-Eo?T?w*us3aMYC6|NvulCDO_jXap",239},[16]={"n%PGM;$W{3~dcH&N]j9GSx>&&mq<sRsmpMwy-UrA$eB)u3g?&(C]gq.;(;2&I#Z%I(ch&sZO0D@|2[!K<F8DE6Z0geRAi]t|3nu=PB?Ee/y{z?BVLJUv.Dp=Gb,p$Gfe|UK,-w2@/:s(nZnloQ`YKs=JvvF{4X1MG=jS}FE]/Pn%Ay?7hm7Z5UT,+F&d;WiU{L*p@W%(f~.:UyCK/nhT{gy=Z7zr3UKf^g$u(-J}wd6NK;ahmI`ei]%|J5Xj<Eqm`A,ki&}hAaK;b{V4[{0|",223},[17]={"n%qa?h|:lym+bo9qvQhXi%,aJ?<]v{h/fSmc0&2JgK=4x@-Wr`^Z8DWyN]r5Sc,*DtVny!cRG>pk(Kfh+kf.+K%.0KU%A6Ta`8}K$y<AU{0{VzRR6",89},[18]={"QTwSul#XSJpH-5ErXjD%L+5Y[IFX21!CUdFcTHXE>0AxvC|PQ~Fq1Zafw0F]Dcc<OlPgFd1&|h-SRWr^L1ooXMqkbrSL].U]Rv.+;%0cN+$I2<v(~?YGVp;Gp|z]]HZ(Y=-=QWFUpMw0{_qV2J1cxg.>mx|LEe;EyIt0#=p*2U+FIY,[=pHf0z}HJM}7aS}}V#tE6]a`:@5]S*aQaiuoVCb2-6:)hx4pqE+?O/Rp.{hoFW[;O4)0y_4O`}Abu/,qhEunR0jih1{xbm[ycJF)$x-c1TMQVC@#c<3KVLF3rRhuDcV{6h8(O0X$OeoT(o{O}J}|i(c>k_V(f&jA|[R,anooew#azXh90[W{aL<c3}mbYBIY%:s0dViwN?w-;/[+W_OMqD#61zaPd1eE!me6s`ae!H`+k/#Z)J?sqON4z:x;yWh`;?Epes5A*$7CpAz.ISLZL2s($tTTVIL|4pGzy*_wC$CI3i~T)Z<T?j1{K<:Eh`=?DD/yY4PU/Yr7V>@>zG29<]y9Fi:U#Bq1&l/2eP<Dj|VFI_A2r)d2lN=oCBDHenDj;i}zWv&[F+{xn#MU|~3/!bE6reh/uj}K-Md6yR[nf1IaVmD16B,qg;/Jx[x};L.~<#yd#M[=#BmT{Wne*AsZo]^~svGTY@/$(`8)1MzJBRMro`{0gQ?Adn:@fPi:f[k%1+f`,3eV=HXTr1HB%kFt-L)P[qL3WAUS^20JFDnEXn0P__/Zg62+t!U>FqF$.JwGY~J$dqLFGF5.~==j!O&/P)q<rDFT?m9u-s5oF6?m>Mb0;5rQkbSwi`=,X4U4@qAmHW)01gtK]959.zum{QY<&mxAnhLb3Uk$_/k5j;!`w}-{V,-;ImK20t,QNn]cx9Qw%v`BFx(vD)T[|+02d$wJ;l|so#0TW_#m%Lkv|TIn)r>hRBsCV<443G-,E.;m]a*=(dFEnFyPp3uoVsH9",778},[19]={"QTwS!%_dx(pl?^yQjXnT{C:N=.N8}Z8Y/B?,HCwao0/;s|W4a&KSoW;xhu=Eiq.T6jQ2*y66kDf>Fb,TGlCTO&WVWE=A_6gX)_/87hYu=>}y9$muWcj#q,~D:&Wv44g%tpv},,NakXYPa8(X,W=Vh_]%m6Uq#9xJW2fyj;{BL+S!]eFq<3^T9m.@Y!u@zr5qfXA<T0niZdic~4~Lh?}vv%t,,|Pw)E|Fo.k;Xjo}:tGUpZr]ZZ#vDmt]S+u?g_8|W]0ZX$`ymK|v4}!:o:{l$G;t@7W~Yy^uI3|71&4vxksZV2Oi%wAVrGY|t1Kf0R`C42Dqy05BC!tgw16=%Fko=zVX+}tov-uzZRRr9rJ!`JWbp-GrfWCL+uCluE[_p)%r:gKhCYgHsj+%:qFzZqGOwSh8cvc5wr~e9Ao1TWD$Likv`HBkwgWEZw1I,p*oDOD,,ksUGu-sRlD3?Fq4RESFDH[U}aLQ_*",385},[20]={"QT`jiDWE=~Sm&-7<u6<1^*{0Kl:Rt7g|G=[RANiEkf;1oT&_!%A0IC%_c7u|`Ly>.c:&T%N/VBn@1^0ckCHA9~oPmKWB+r7$%VI=/XJ46J`$7Hl/K9i4g(_YDc-H/Ya|u3MmGybsX}G(oX3}}T+0AELJeVFWO2jz7@QSF<8#![ei#@iKs}XqfBq#gj[m!2N&d}y!uElx7B<Lk<>uP$dL>ItNxYTy1zSQqk-xE6[fph^wa0:eS4{J,@MO8`j0+xE**8F{Ely*XcFuU<L[(=9FI{f#v_T_MT{7PDH(Ia7T2<Vf)+6/~Tk@eE}M:4;?[OxLA/.Nzw690j<-Ic8(f3BG5nC?()N~4-Y_r=o`Y$z_Q0YJSq0fwvXW[NQU3.ZRMz:tAo6q=BGM+_SrgSfcWI0oQF)t$b)oE5mJ_maE[o.Qq[.VO|A@[PuiigiQDht[rXp}UcL$<oG0WH2J!C[m=Bo#m~,V]yNO?J{Bq;kz!mkh-jESIjbxhMn!}wOz{O=!@}43)cP)6>6`kyw53JpPnSG6|]wprjpQj2D}lJr3(qdJy+Z/ab!xrCah$%l~;[$,sy}2bV3fFu*#2Vp$*c.M!f$+L6}m26Yl{!y1d#b:6|Ec3p4k(cn;K)}}fnroyBC)w]&]Tg-@#rHN4mbE/v`S[]2;.A(rb1F,w(@<oh_.Jx>!}Q[c/`ICb>72jAJe*Y4?l1[)(*{[SZuJDD$7y34Ihie_aL-b9lOQv/t?1zh0<em]pp:8_r9|.GpQjzl~I.3dMm7^bE00M>A]!ikU#V~4+h@;loUkmlIw0F^9{Ma)pkSA=_5d{KxwY2uZYmMDdCEFa{Vp(86l@I:Kflcv|#xD0/RfuN7Y0G$GK_=>or?)#~SOgm%`U0?23<2jdJ+)ybZ5W&Gn;V={TMU5Y#Mjh1S:N7CJ)ly(=kgj6su1S3Gggl@Fi]L#76-.]|1vM&IiU_5kimU)O6cpC,N,HU!l3S;}e6$w*]Vr<KN#]i?,YX~3VCO#v0FQO),gOb`&05=:6Sb?2T/ljQ<j7V|25LjO[|;-9B>9McB<a|ljnhP8/RU8MJq]UScke}us^p~P5J?CLZww5Zx:q=HpZ#,0ShXQjME!4h{;oKdT5u.zgr]g>HP:b-]JcS&z`)VYg%l~RXq5w2*2w5!$HcvnpWc|rAG;,)JCabWgNRJv^W:yxZ`|TUp[1wc7ygj+/KVu_wgoP$u-6m`bSOg&p~(@Lse2mLsgk4FbVEQJg)F$-W9.r1w>S@TDS?::d&C;=Vo/$aJO~u00ppj#BNssR]Vv>gScix~>Q5,4:@Qw0pkx%mFp9~#~pY?6}E!NwEiK`R@;G@1Hh]o{E64nn~k}YBfP?J@_*m_S3<4ef1Rq<~v6e-@<C{^Py5x<Co#me$PEIco?tK:S*X(h6jgAZ.`K:B#`.}-{?S0y5!_o5P*B*(>H9*SMsjD!KEnr-q2:6beaVvP=R,=DN&6q,R<pSi3z9`QCDWIXRLE,_0z!r<2V4Q`k9DD,?3KpB3ZI*?L3E=@HXDO?~y<Cw|$v&U]O(z/eWi&n(.l2:;Dq5YyIvpe6GF)}S;`PT|+%]{mQ>-f8e1fEBd)V!uI3AddBGo4|gVRj;}JA,}wAoV^BFvi`X]Y0%di$E&ad}G2v$XUg>U(?^kS0{vykW3U-FtURH?If`)wv4SW$0PRAT5tLg<C!q{i>~!Hdd/hx$QCt{`4W;Mu@ceQTSyc1+mt{,=%YTuJEL6#O+DRXx0-p^1jrzqFC-:6_XcP>3A~^^/1FSb)5?|dQ@@4iS+mgsYU;tPJZ~wyucugCf=4z*)zbR)y5@;{i6&yBwxIt26RpUu6|]/}n1JP2[MhoLE4!*W}v9z5RBLssT}wcn_z]:WU={~@:i$+huZTX69`55eL&;;r,<K=?#uiTrkt*",1541},[21]={"n%PGA.mcYL00;e?`kNJm}MNDZ*0T,y+HO.kBKiBGYn,#EDD^}K{7,j8<sXC0kw&Y95$=IvdXGbPV7(K)G<u:.j&~(5*CR/[@w#Nz3(<8L8uYnuOxK?]I1u7S&?Wc[:]5[i72R]QdarllhD|zW`IXNSWA54,Uxb!S{V&lt&0ro9ZNbGW!Pg.}URVcajIn^0.TA(|z_yrn}MebIX7W,#Dd})[Gr*5%n[Ccn+QlS~ac*9ikh4&KX9i-DmG~0>U4hdZmE!Pf,XZhA8w_!cL=L9~BBnq::>w$2A`|w>;0-#eE_wD|3?>IR[-QM_GA3H5_`&}92>KRnN~(_Ff?l/[|x2;G(SSvOqFBXMUN1XvgVYDeL]Fjq1PahLI:;@/VsZJFvlb5uAds!o;qg.I9!:NE@U+!Gr8Tz+3DrjQ^BX]>u|[HxUjIrK!1z3;{@@S1mSuYX/&$Qj/D;Z:K0{n]Qf$mYA03~(,U]?5,%_Hcd,nWOLZ<9/;BLVi9MV=Sz>#O>q<f5%[S1o%a[Ns((5?p+u3aMXGf}M0_P3(z@R[~g=SnFNOl02)7#;|_K!t+JCwZHaw4GI5asAGXC0zA(Myr=W5&_rny4Y0mx26.Nsk$2#RY8L|vo)x~1*F>T/!=uyfyW.eec1xSoc88(+x7[UCb~j>A`@qZ,lXV*ac)Br>!&jC[rk;_U2=/Z)/6BA3<5Q|XaW}q#:0t_IX9EgQAZnUgp=:W4vBH+SlT~w(`lhc`ez}+J3P?87@Qn{~#ig7|)?UoKd;>?>OGlFR4MKWK0{o5k[t!1e/fCg8@Q3LqjNlP^[7:^fNm!IaIh3=o-EEU5g~-k6&)I!OD3?(^M;wX.POyvYD+#6Hb3@LR+Td.?L>Ddt}2I{eDZ,{#YN]y5TCN)Nx&}{QeXH7S~u(9_<3r~&Ku~wRYHf$fJs[_y/e*#/OHKA43D7nzn.BRdBi[rh5&Gctd,#XB7H(#9hmhD5RgY8$m&/CGlJ:j+v@xgCwJ(i~<Fr)r5tC8?V$#&d]i%{(ei-&0i`@V;#t:%l7^eKOM9v|e@%YkrZ#;OBn=}tq|/]hVN(M1Q)=P#?f@z;w4vr!<xKbq?w(,?@bN}DTGC~>b?)*c!&",895},[22]={"QT`a?hmIr]w)G0tp`j_Ji%1(/%%{h[>w`<it.rLfy-^`2O?tWh@=[({H_c>m80mBIZO$|Z!XcCf45w6P9)k%y`f[<|T,2=efz#%I{aYv1P9y/e4lXAlhs]QR7}O)nF5.Kl!Wew/e%[n`!ysCF:EwvZ<#b2pgBwr16lL`:Vcq~M>%X0&ku3aqdX7DRmkX6987yGCURP=ru7WhOsl]p-3JU?;A>uDx99Z8.<=vhD>%Bjr=aK*iQKVoPX)V`{as(pcyci+:Lvmrw5nEa]cB%#0V?e~`OC%,W||0p4!CowjPh`yGw~MeDM7|r$6tvTu[i4QpFedMPvN3Bla0qe(N`eqlGJoHt$Ue;?Ut^eG1.LK~EO,kuch1)B?H(=rtFt7_^]Z1Cu+;7&l}lnRq#4`r?Qw#]&pSLTe<;MyU&m]uL`|t",341},[23]={"n%7>j.C%FfJWm!NO5gP5;g!KKjq<^rU$Z8+1fI72@qU^{CP<#wa79P7kYwT`qK3d}+g{`xpSoMY5$Erq6:<syeLA6~<}a:oGI=*$(8)p%.3H%96e7H8ad_[ZX8eqam7!qmrIzk>G[c6Pc,lM9;1UnxF6$K0G@q`d?:7!]d4<0O4{/J+C:QLOxkqHICW>b?9?W+/%V!#M!n2+rXUsMyBPf$>]cKT.njpPdoLoiko<8E!45){U#RE$c%@[ePKT,9cc;991gifvv^|SW]w.-h($qK]1Sf9Z?Ph;5S1R:C5@ClNXkt6.%A9MB9i|UzoWoNliab>;)cfAP/D]}@MNtT}?BW]!I;/C^EJF:<vxS1x6n^s};uqk^b3p3+3o?d%UuWYXBSP2cK2h[nSZVnY2I~3C{b]%4",330},[24]={"QT`a?hmICAO%F?_FTCppT%JL?b%4nKc~dN5W1na6|_Nh%;z5LP&#[[}[*V?+FS$HG%cE(KBXHwL:Q?e~ncKK`jiHHi%Aq>.;.0ReE9fy-$7F5Lu(CeGrBgHdj%O,|f`F]i~bJpkW?kUJ|2}NQQ=$uM$0nLb6hbMQLS4oA2fs]]:Y2:Uc?V>/}1OX${I1poz;SHy3y|A9sG>)UjJkd*$zR;Wth&J}!?WTx|YHk~7NDFC<qdCT~WxHy+p5AA08r=o=$c?^EfYde*1(%MK#-@CNb5>(2B97CRWY?@aiR$L>c~|o{6.#Z.c)g0hW`g[zje0F(=)jU@s>8=Z6L8)BydQ:x4xLwn@?06;x%l$.{%&a=HK(}r2y#2;buW?7Vo[kQuqW@R,*|pT6I3.2eW$u<}2O1[TF_>i$<0`?27V|4TI",343},[25]={"QT+]iDUTiF:>E??;u0c!+4[%XztN((:[LejEyps0zXJ0bhGtf0qwjv[~7Y0Pu|r`2xvlqX/38;|D3{%n@-!F#Qlf$h3uiCRKs4O?T%!)YD_jSLz&_u47$9Xk=7|~yuD&(bOEQ&l&n0j>JP1@RGI1PU~!y^4H+?.qhWBc&-.bEG@|c&PVOnZnJR|;Ce4x1k7}P3X?YI{S7?T}of4[0}{4(u:b!zd2p%~d?tElr/P>;v5qw=&b>>q[0Y,&T>YZ<f74OZk[;OWF#4)Syp%|iqw.-Iyh_K2/s8DV0!8,zu67Rd<VcG3&^U~kDJqL0-O.4kzu*eV0?/l0|[wbYgI4a``DyiV|st_kq8Nm3g9d:{V7qb{=*",294},[26]={"QT`jiDWEi$R:rth^>N:;;PRn8b8CdF4U$h8(NlqkK;-xkOt:-8|~`v_^AIW7o=[iXiZi7p>Hm/|K5H)|ww;T~KAayozga-(Ke#IV}&.uhkOiar=!ZMs`X[PK9l)$ZM97xDezxkL?ai?].T?nPN8b~N~6FF]PgKxIz1ntt!)gdH_GIR70R+n$_[;G9|X$=uR5Hd|6P{038jnXloMp7`#g(c/.hYG[^jjh[-mTPJ(JgGnd40+K&)WA!(!$KWc.UOZUGMfLy86nK?@xK+#Mc:`q+(Lm%!a9irP6`ONv>v-P_a5g/g|W+?1#DL-<?njK!nsI01Dn1U>e+0ALCBFW@aKOn;]!$)[G|$(RE!&0]#~?.AXW3G7BzSwbulqY1Ip5a<=V%H;7)CA$8L/t7u*.E_-|bSj![q1Wq%hJE`(+Jr@^+EdRx^>Q0M&6]?ui?L;P|>f)mO~,_t}TA|:4oNT/=5THkyOaP}X,nxxuD0zRSiA34HzXA$1Fxl*(.]qo<xah.Ay`8%jG.RZ)MxYe}~}^^_[ij9S$J^`T^7.;y0p_{UfJz(8J/jjt.CX32cT^(oa&ZEOA9Y[2JU!gii<+BpFb0p)HVk+{b/$DedBGnbKekc;Dm|!(-[]VGC1SC=d|(JBDenicYAbnvQ7CKcxg-g91smU1%Z1;+?%MX.4!cYa>,B;ELmS&5D{Uxng3M8n~TC@bY@3zGm@(P0F2+;`/O#pxeJ|Eq)YB.O~3tO`CFm0v2$g@ny9vqwHVL!`nO+UOh$=~}626._~]82(0i{q)sHYnQF;;N>S-}VW*NJBh=)CCCOCyMMAw[i0,KjXk>Eh5t(B<Y23Q{`!4H/!m4<9F*1sAYB8-__pr#;y{T1>be/b,n7e!T|[aya]shNRX[yN7yAD+pdu31,~LGPLxEEiL63n}q@&I04/rc!ge%H,mLVT.PBDT:/tj,q1=;3qc=4`?;Munq`pS$gb5?A/%siCFpFu)*gtr2,Wyy$UIL1yzs#JiRX:ha19N/~/DR~RzECo-wQyOwu1QpCRVmHl+QU?Ke&Yoll;z$T{H=?@33WE,MoM[x59k.p&EhW-:vQc:]fL+70U=]2n17{aeRwajrR&rBAE.+tTGPh6_t?3z^}O?PZ2XaDzvdW^!O[:(3y_M9_)FPPDX~%qW=w=WWQRL~[.FJl6n6~SlYa7(tYyg_%}eL~O&zfs7Q1NM1!I95#Y;Q6r@TPU++`:YwJOfCD/B|}Qxb5QP9MuCJ%(fE/(C6WDsPXjRq.[=q>MY5gI(Udt3}0p7m5^8}r*z_1p#>=7u1*0RH/l;zpYML<L5=I=Kp0PgGXNK}|F%<C7EW@zFKjaSSDNsS0sreEK]H])X=I]uJa/9Z>M~G0SF1.y^_(zLt3{w@",1119},[27]={"n%qa.d$vH]T&pKKUxZoh64UFtx8%*/1`#]z;2#NCq[c)(EB`o2rj3X8/FAiW,sJeF3<WPG9*piLjpIXQ<~(D[}WrYkqaXQ{$iP-~7txhK@FY]+gdAI3JmQ|MM0Pv]Tk$Nb?BiVdwm]5kk^*R/5ub${#1+|W;*~!eH%$saEyXR;A<<;?%,zPlvi<N-6tn8pf2<C_eGRJY9@:}hS?0OPY%c#))kHQ)=orMDg87o5Ae8@S!qUe^mEFBtl.?jwhp@b!oB_ckBGG29s%Gtych<pf8]Kwcbp?<N3s|p_p$ft`y#v:dyI=7}TTF6+{w-A2DR}118W[X:#RlfD%].vy<|.YZ9B#v<.sn3[/=kH)!FfN0Sh#b,fq[F8-o;meEj8|s6fLV4.A_*vN<^<k2a(HKYz9MH+kAn%>Ivz9;F|1Dz-]U-H^AL{}M|zoOEP{_9F,}psu9su)vi#Jz%&O:1d`mMz].Ve<@=#6*jDK`DK|YB[&",395},[28]={"QT2+v&/1aHtQuSO`an$PQ5>&|4+`hpV7Q~cDHga[pHe$h>:.P!ASdXSMFqTHAua-J9LJ][@u8K0_tztP21oYJiv%Dgjw0L0LlqKe${)wNQn])R~sO-3vAJiD5@Jbzw|=+mRgx{<%/G@/9/I^qMXzqs/v)2NL7~h0=29.7Z9Fk$;P=|PsImgoPq=Y3olOb~7|I{I@z-Tb12*T8XL~4;ZAN#=e^%8D@s0rWz!GIXwT]|zM[L)H^;i<9|t)-JD/jD[rZO9ZXv-b@HjqA%-[{qI.V9i];}s`Art:)Ue|,4PWUnLLVJe]X(Sk:VJuMoT<$drF",258},[29]={"QT`j&DtgIPC!weFnyQa:n+(q?qL9j%(I4bqt1kJ=%[~Dnu]3tMdugJ#Z@hmC>lzH=A}|h>>>om)_ScwD@2UDXT(C[kdPv~zAumJl%27`mg!l)Hs[vFO!WKzqU0>iePPu1J>%aIB`,qqkX2Dl/Y2SDhM4AH9Bx.Ys/Fr.y+;$n2sRsQ2F68SK}&.&OH4^p?9RmZ`I`FZ/gG&<?`4K;v1^DX8iXkXU]q(iD)x9;j;TQa7:U9_[Eek@)/5oS881DH2eC[bQkL{h~ty:FR*<l+`TiX[`XK--e?{IOaJ>vSRxh=N)7+:qsiiI7NbF!G)]x6-^<Y)c/20W#t!61jUJka04C4fc.6=^QLa:F6UG6G/kzX7&s>w;!78Ao?p&Sqxi,QV>a}>~5~e}RIiqj-2Zurw]k0ygCOz*f{MFfq$2kLyI*CbQn[]5InqJudIlfW4`$%6)U2/Bq[}g4m_weD}p<!nhu;|0a.X2eARVRCE;DdJLAN]dd),(tDkX,ApFxeC@<U_Egn,9EYa747A@v$@KKIlj)wBgr_nvo2]5V#HJha8[D->2=,@LhkC;yfTO@>xQ~wISlfm(VjYlZ7c3aWUZ29YVCK#F*<1rr8On-!r9r>`k_p_IS!.z!b-.:[6(c~E#<eXH`$SlBR$t~r=8aj9vi$tI32>zz.K?j",541},[30]={"n%qa.d$vm{i&pK%9G+3Y/4`MtxCg:(Z>Fh7MzPb#.myeBEd`F:CjXiGN({izeKZ<~!|`W(@3DIq%,$[KM>AC*LE0qjgH}0Yt9q+WW/A9`[+<R00z}I/<22OVnPLBCuQkHC}KAJx+#C49&T!S_eQL&Xk<4p&REVP1^s5lA(|6#x|(liYci:CCvap+O}{s(<cy&<JX<w54%5bnbU`{mUx>jE0SUwmUrl3dyv;Gw5[Yh1M$p$v6QXPm`+y<FE.vg7j&I/I[7,J*V.|.$pyY4;*GkB=Ul4rq9Kl$4Ve-jf8ALmAM&UQ3|%-b*>_t(9<uf-|$]CmS(C#%dkofB_>*j3s?E>Y33?bG.}?6hX5c7No<N5wa>@]APIz[$Ln[:#G&!Q8,aymOX!:sgl)=Re181=KC:H=IC}qAr_RxxP[v!`Y9?Bo0VXqE-Z1@r+byhPk=G!6J@Whfc:=jO+WRUBl?a_xQD4Ah!]$VAYGFe`/-yp@",395},[31]={"QT2+v&/1u7JoVpQ&)BE5%@/nASB*2IHb?g$(S[oW2yYcp:0f,b(/<Lw$(2*y85*ZZg?N>}%1-p:U=5F}PMY_iD--`SWyr3p2q5JOQrp3&WdS-c8<9XhIgy%ahaU8A]htW7`Yd;8)g5sx@1ozv~}Be=C%(xf7P%^#J&)@$R4]~%/2_09J+Am/cx4&!G|}nn5Bo,F4r5-C[$V|*LvJ<Id,}s/ES|(|1xLJ;$a;v=hyXF3HCm#X%H0846Ty&ktT!t2>*eKD-J@*+BBG=s<GO4;{EpX<Bz_[2-^PFbkAhKKyvw).9sM]I.GkFe1kC@.r9?ot",258},[32]={"/b|+v&MetV1`fr0@9kp2U5s_+e+H>H7k)4O,z3P7<lfH}rK?B5XCY&z=T3s~FZ/K.J&-zXBa-.TSLx0<XnQ$sj~N~P{*PKio6tP_EXB|5]9&roKa}${L0p*9b:tUW+AN`+rCUCA;V5o8Owf!fr{.^=^kr4ly4;Oxn~C;GPG3u,oI-rY5ELTgH,XybV`YJ4ES0<x+w=5Q09=dDzB9Kj/yD[S)QA@pQ5NT37NLczby*z@^4NNSdhar<<jP;bMy*Z?E:I4P`5)4kdt/npxXVOj=FTAH1@aKeuy23S#G3#usFfI|B$>$fKB;G6fM`4Qn}R#8!JEoetB2|,(TQDM<;4gSXr;*Xv.18GV}jx_BQYTAQ2wdIApII`HwfSd5)p,A6kTL9aL`4v{#^qRO7uRsvX}huhv!O%M;Vwf?Rhx6AB0;4y3[)QXSfTJ.7pPSg>F{;;O-y&!Eeu?oRF`:jINAf#}L/]!o9p*.^Og4c;026Kd;R19i5/6d?nO~]=5Po?M]@s-6h:-j8]XsQVg#`[V>4n}b0Q}Ci>Yq-Hg!K;$2Rey0T~agyX}i?WzOm*{dS>yw}z447=tKpXW@Y^ZUy;03%#B$nl*[WLi5`fdC}2tP^nUZE}:h7}:zcgt$JuG@?A=NHi+t5]>QgyVwq3Fk0O/HHjLKu2yMB{_<`iXzM,6#fn[bm/G(R2+P0Fz(KK*cjw4Qef<EFLtppn@=&+2aa-X(&0j[nryrm%g2x;E]L+9v@h8rB3q>OY{Kr,LJV(]W,sPWqjJ^^qo9t1iuUAqrz}[<:dM(DgSiIe<Zc,S0IcdQ!L6{Ht-t0Uq;zfCz5{,>u8.((XOGSyG+/y);1e%/1!BR8A{TksEmtnJ~bda.Twg_RL+W$~@IkL!DOu-;:|&f;r}f,tg`n@S?^5!C/ZctI?3e.U{XvUVl1Dx#[#Ng-wFMd+nNWP`!cABtiT{B-CVKJ/dSC(.TVd.vvYlm8JYpqMJ6+I{8FqP63,w~I>SPrI-IIM%]HC49l0J3i?16J&;Cm|(gUPd`e>[(tEjSg,;:MgBN$@lCZv4?7GT24hs|c&:@k_6R`l89eenZn#PTDa7jb}8Lvl_:qmpd7?J4[jeX^>{FHb7%tx_H~}}H9L9IGTLY$-sd`HGSY/y){a~<h6._l+u~u,t|af:%)XSdGjAiZRa7-$^+YP.h#,^5OipY3xuHIEM`wj/u@,!@LwsgMyKSGdo&8O2$v;!>;e#z/qWM#X]?EPd(^Skv)C:y;oT73}YK7@iu*1m=d6;8P~*Bc(.$O}^WIv#vB_(PCI~zR);`|g4=B~_g[zymW`+k7_ta*Z_g0^fXRs]Y!}tAr%BfB}mSOZZSXQxtux*7%8]LJyBGWmS-Q%>%rN3&k|uS2&;M[FAeI}f#/uAkQM/bNtkm>4+Hy)8He]sb|%A+vB{fTc@SlU",1156},[33]={"n%qa.d$vuP?&.vrtM`:;98_K?b{bz-f!B=|t_W7!@8)0&V#&ZR_,^m;<b?p_I<niC3qCodX|*jwz?QwBa[Fzk3kjsA%FAc^Z{Kh7`6KQ?,1W3A>0$B0J^BdZXrE<90E#7TduQjE>KI9yy^>jC40@lJ?I~)ykiA-5e.]zMAh-|yU=J82UI9IG`qP^rSCd9>{(Pg%L)|0B~Vg1Ct@lg{>sYLGR&c0fUE$+u#jyb!*){c2_qA6mw<td7d;!;c?=%o8<J6xBU7bDc`%.@g]eUQQsmApH%Lhrdq:N2`wnj=*4icFd|:!QZRFd6oDHz}Tm].jYS59XZ_]qR;UsQpoU6jZoan>>]~Cd~U(J(!)Ls)Bo(3~n4UCyeTzkOl7Tqj]q.GSVjHro>Tzgbx:iO$Kwm]dM+O7d@8E?zsV8wiQVlX%D0%h`S:93*1$}rXbK3x>ETLWZRAJbL&{e%&HIqjzWPv<Qs.}T@neMhX}vIgc:4gp",395},[34]={"QT2+v&/1l=*SnI`>X{O~i%B5_}k=t1[a3fSz(S@B@brL}T]7c&.{?V0i9qy~.v3m2i-n(p(6&X3Zc;@ao1RuJo:clIvnqdV.ty>&9m^0]S2DQjFEYknC_Xh!,|Gn#OVFR:}eZ0*{E#~w7`B~c7;KYWI-1lA2{mtD*p!m[0)diV:A,.Jg;{VWhbbhWq;)1G<DNn[34Oy_w23`0:+hY1X1R`lm1;gbRJG^s29{pX}aXbe!5o&yqu<3WW:3`QdCM&UZZFY]M~_H<GVQ-Ufjadl@H#k27d-iuD2v8i(,;viUl!0A`5uyz?b7Cah6yc<kJ]gj",258},[35]={"QT`j&Dtg(v6$VYhAOuy{LnZETDb*K;2v))-UsTFlryHxd2,!>{7Y)B6ni<V|!{Z(]ETI1x~}W{Nl.TgG?bu)0|f{N(&8>eYhd)FMdyEg9>_|2{x9Z~d>ZF-m1WJN<e*lLLC;epf`2CzWQpbdY}WV(r(1q+^y&<eU6I63F41i%XsQ?-W(F+O`M#<XKW3Uo?IVE;Jp]Z!rIfV]Y|aZ>PC0Sn^?BF/]eK,t)1rgv$Lb>rh`w5/TLE6P*^?_oJjDD?W5HIqbjW[;AW5V.d<otvJg;A}lw6C,id~`,W*]+{LnX=Ra()Wp@3WU[>;5j>eZ%g+iaF}YI&7x^)ej]B=x~~)KPss!/{Pvc:;WtR^tG]1Q(p?S/QQ(2Do0z(K-={h#D_]|*[EuTtY.6vw~%$i(a@X%D~31w$GI`V<~[v5TwzCC,!,}8.TmFioq{H(A>&AUG_;!k4,S>WHL0EH,.%8Juc,T9eCfw+1nS7&~6|zDl`{O>;b9I`WXNE/Is<^a!zin$EWEJsY#3#<Ay/w2QyP[T_:zQyitCMoCDW5>=%Y>8VIh=2W`x,Ad7fhQ@*F]y1v=Ytl5*^c{GhCd.-(]<.)&-Kg}nhDZGACd+>1)f=TSA3IvJ$RI7qcE.M(UhGKH:$#?#`/Tos]fW8pTGy@i0a]n}M)(S0+,F^kj%",541},[36]={"n%qa.d$v=oRe8;;aN`}7.!T(/%#Nxdr6>]d@=<4Riw:&(ZG@qDf,u&6ReW[OQy@I@}ZU3@C;K2FuyvKTZ^Fve%+FbZF%sgZR&gv&CQ^2[JxQy!<dZiTCugA]5n@5:BxP^-O-Si>S4GJv4BH9v01+g,g{8IqCvde/CU=DwfEDD![0n{@pj67h@=XS[T4PqG<e$Mrz,ffA)Z|zf&/wTvz]0LW$qyPJ;UGN8-DEAe~AuJ8{S$u}J%z8r$j8|j]zyZ<}-lzU`4{TN:5)tm=;9]ZQ:$zKZpyPdubUqr+L@5~|,:y>W,FaqSg73t4fQNzTf:8:9,?9gw6)82NZQ`6ZDBQd`!04_wA27yKDZCZ1[cmt@O^Z+.Tz-*w(WpAr[CX(NaW^dU[WGr3=o|<E2PO#3#`*n_XgnC:y)Ri)ZzrMq,T(DY2_a!%0JQXNGb#^U_H^bx}x{oHjL_PmDGv6ERdT`c^AOilL=.Q?=j&]TnO@kZ9",395},[37]={"QT2+v&/1.jgSzOF=7C[z36G5<F):*$-[H~sreSK:ViaKSy.Nc&uc$&|[4aZ+f@-eCd,Rg4]sU0$xo70Y,lkGSp%1+b7$p0-=Seey,A<{:-U)p]GU/]jt,`(F$X?y8A&&(ETr}QPD,ST_!/zjzVo..k!g?$_;yDu2I9<=SqX.E?p%Mp^TjO-S`k[VKzpd7p?-09S!/0PT9,;-7Hi>licPc_px9M5Ud1(QhJgGPgHNDdCBRg9O`QJQwrIJfJq7*yCCq#95HUmH&^r7SC!?0!:57R$(}(O95gv(0E)Pe2m?|sy5m#:(Eh_@L|t[<]hqr_1o",258},[38]={"QT`a.dFr(k_!cHX:rxFlkM.p}f>]Aj?W.+tlz.n7z+qsPaVa;glY5d!EXpQ:z({+K=gRI7@$]nq5LBk21j>{dQ/;n1pC,-*I7p]2fk&~q{G?b6.osQ5mMIfutcZrg_Aq2&CN;lmN_/dJZH)L-7y[/e7bgkkT]Z?sUMIYIShGGyW#vjIS0~#M:Ci]BH9Qmg^7aUuE3O#+o}iM{/75|gwb4f5rIg,r3@sw1yKL9W?n.VAq@8|47g)Agq|8BG~(,NC)(u,@~PeTq8G27q<9DTrY0);<U#Or~N[63r|`W+6={}gMu@[SSrDa(N*",251},[39]={"/bC]&D_-pN0}k_$>Woy#d5Yp/Iy/>1.1V9#>/U[16sz7f9s2O/@?{$zPHL^or^6d8bDniKJ5lsx5XkP?GsT]cPnv!iY@<e&DT1W8?wI9fJ?DbRD5|4d>Q0zhpYqEcL@Z$fJ356/=n}9)c5/M;SrPwr)%hc)8h%RdoZcDRGz<$&+5O#wY6xh&4N_cL9:KBT6JSY__&mg|X;5RMG<d^lhwW<Xj~E#oBU0V&ZHB2IZY2w|?Hm9#7ke_wGQ`gf@B7.!F0_20OVZdB:&]5A$&0slzl?|qym!=p>axh*Zh40&@xNl_6_*y[&E.SLMn6{uOMz8eoa;Y3vd_Te^P!]I]5O@M@3]yK3k1r`KN6HU)qMHKVKViWp@&&~yHCo^_uO7di*B}(Q>T?{hAdx)VVB(O$!C~d3il=kh4K1&>fKb@Njq7q{KB7Yj(HvwsqnyPzWf|sD`A+8D))O)c641={sb8H9g{P)#,.4=6THv2~]a:YOihG{WT&e9cKtT][_kgCPm_Uv[cscR{5]p,9(LrhZUq!<.|GUFs*",434},[40]={"n%G+v&@Z!dc/.,Wlx!%<|}|FHbbpXI^_V@48RqgFZm&@`n1e*=ei0rmy#dnD&t2jPda@4~AB&[j$1c/<|N/@J]@iF@|LoJ>Qa&6TvIE!>2/7QWvLSBc!-G}6Qm=Rc]1yXTEEo20+9z3pXpyg9bJgT`6ZDQ`|kQ06dG*dXi;Ev5|{kQy-6;Nzvy,~aOcHsV=[*5Bc/b.:P5{g5/Cj1:euH3e)r|0En=P(+6Ck|oZ5Ol)FWk2oQB!Iq$Q<akG.SSWA0[GKRm4,&*s)O4e`uCqc+%/t%u.?1tgun(6f<9Q4",239},[41]={"n%PGLdDG~d~I9_Pzt.(hzs]vtC;ev<F>;`7V>5{js@Qi>~!qe<jGg<)&aPWqH>[~dSha3zGh@<)+@>E=S8J]=kb<OaC3;EF3-l8S!YN_lI!vDuHQWd~3nq?Jv6u}*rJ#:Jx]5LA`}i({k&3M&_s)KG2Y`/={NFh^^OuJ]WGU;OtIXg,^JEDSyf~CLj_/$wR94PRxY$ZZhlGtX{Bm&m|fmYdrDQ?C4mI~`8HB|G0+)cS/S4^UW;LCI+XKJ&4K5B4G4Y)lM.c2dI^mO5Opn@<x0JuX[gDLzFsr?$P!z!py&op~d`jt?hvU>4HpmTH%5Ow*xo!0T:GLs3!XI}#>};DqAC=[lZj&T{j;,Y+YKmg4YYDJM05yb#+5]Hl5V3%qo:./8Z{]9pGfe];42GhzJ0JDIQNfe[/H`Vrv.b%UH#g]C52tI7E6%pYZiT<+ybWJf-PuCp,-uwRf)IXXoI>keOu3}6`ZI::S*/(!+IZ8Kd~,-3BV~>X[4qRc#sO01>8+uI~Qa<qgz9&FkEX&^2^{N-r-zC5Zx4VFr]R#OxID@^_tvVCW,qqO;oUKS(FoY1&G$Y+2:sA}H4H?&mYYXC+KL3g&%@Ps/S_2#vMc}/Q{TPY0W;bd*K[ul//:z2]GL=NfX_^c|IHhbM|qX-a&Me`rOf=pA[tN|oWA/3R2kxI5^v`XJ$r5TMRN?bC}A:K7dktpg/59s$mO6&:D5V5dg,0O.F!f*JfIw?t4[7$m.h>^jtyEx]!>_c?,Ne`.<w%N&{3O#ypSI}~A94g%j4[wOY<E;UW2[Y5}{mI]0i,y-8YdII%x)rYOl)0W]`_t(&.QLcU3sga)3>1Sr#r=Z<XY?D|WF[Adns&%kQ>o&pj5vZOKnxDkE<KvyI(hyMcCd|2)f+XP5(x8G+sWdLkKVrGR0dKcAB*HEz;]C<&$be%4*`a67{KvZ*`oIZD%cBe&0u*y!Sx4COW#HNBMXn&&Ii`../&p5Y}kMN:.0olDM]e(7hHC;C>v7Sl{B]zm@X{$(dl>[.(M]W+r4e8MslGR7$sStFk4+t-YjI[j*TyF+~cJt2P9;4^hH;wy|b<~F5|eZA@9Hwn&1<YT1f~klpr9bW_#|f`Ka-.F%W0c@D[PO!G6cn6.Zl1,ybDdZ`)d|59.R8w^TggV.Ls+EY<W^|9ic:vDo:ok!af!<--Rav$]N2f~B.M9B`xW}=Bi?V>z%AZMFY8Xuw@6$2fR/#($4|L/&.vn2KIfg(:cN8x6Lv|Nev.d-_54jd3NZ;5GSNgwp8reLz_AYpOx22g>n6TIzm&:%:Rg6yEt4!k<%jQ$;TlWlrbJzp5n*tZ-K>a=|0FNtRyd~pH2/5eEE;OT>p-PV{WPM#djU5l=$[cOWyz=}Y1~ZS$uUsW~HL`ze$a~72-7Op00[yPl?6Mq_.WPcgfzxiWVH}//Us.M$_wMq854",1163},[42]={"n%G+v&gcBFC^Xk10[pSm84u^kbl!hgP)yf_T3{uG{}%IuFcsj3QVe;N]IV%?QD49o:hl3Ex+)A;{2WR.BOH#P[V:kD6%.G+C[T=^k}#R.#<&tcm79SS:FUd`15[Zp_dxtKP0W|hCZL3p9_.P`cO?IKf&,$[A=pd{E]3<7ALi:YEyytp$nl<E-?k:+Ws/IJjZgpcYqutEmx7DKR8;9!YQYpbro-|wR~h;FgjCAghlKrZLe4)Ab`;_k8h`vD9jT.IN3HVn^y-j+h1K7M?U+5rDOAt@e/ke(?-WvN8dv2*Ov{ze;WdlLs+heHOz37.c>9+OL&t$1>1tAg?fah%Vz_2?:sWo:5sUA0X?otRr?4#8Q@>~_G$0-<6*m[FU5}|L/m0-(z%;s5CL-T@Xmjnscb-%_9ia6&*fn$2-[O!y2>|Ot(,j#<bu|]c|a5{/>OPtqh@P+5C?H,9PATEn9r1~Qwqq+mA?I.nGJ9=}=d]-a~R1pi&T0VS$P:gKA721SJa}{o>l6}EqmF$g~PqE,kb=6xUR1o=Yls8+lY!Y^q~/:#&1j.WnZkVl8a?T:f^3faPzV1)%2YW|CTbV%%VuS40gL8L=VmxG`mBrZEQB35&G{9~>*jRWg)TgZ2W_aBkQ?akR6d1SI#-Zk/[_U#%ei]AF@oqi8L+9t,vMs{$5qxJo9EX`r?3eA7A.dQENoSp+Ts/lCG.0>CjIEMwqv+tJ{C0nl8t4>~1bmDGE@9N9T6$hzr]e[^U5NRRL{OYYMuSaUr&pek_GoS:FX[)gp]p`kZ([|</yGf;gw;nZG~!?u/?41jS*g_^6VVmBF=ilF&i&J`~Ya,9+&TBi)dG{KGns<Wy4xU@o&1=qdd0;J{8MYk32aCU<hK]e]X8BKQr:aZGW*3MhpTeYT!r=t1Hh>?ka?7~16>@:uVZq3^DH%r{&ks<Cno)EFf0/xn@Az2j1&mOmIw-E7EEiRy-/P&#2~G|S5LK}w.jj^vluTo_|C3_xk9",805},[43]={"/baaul_-eV<?uNzup/wE&}P0S}2eEdRD?.s:iM1%?WfHuGY~qmZu);|=.G&g8_jzCt^]i=:M<3^~0hCQ-<XD^WN>ez=~Uf#/Ml%9]:Za:#ds8",87},[44]={"QT`a.dG.g@Q98&Dh$~$rqI-KX.HvE#lR-w-`>.<[VSw][acTopoR%sh$0A#TF{7;h9V%?TcX{h~d]1;p>}b8-{s%Xmoup:%r/4d!b[c:@*zy1dM(.x!?&8_|c0OW?A_>2Lil^!%k4sj:ysKABc!=#R(gR~mmw`TR:)nx2(KNaW^&<[q~CPrBK);WaEK}Z_G|c;BZ]NoRiB25hzo?tS=T?Xx+tn*H0%~k$PGleU$D|/jXLSs-zTmU9<&nYcYbV2[Sg8d$$!AK@,QfmarJN8=jF9!BMzE3}5_b-36vhycNL~2#OLUsu8U?t}lVbF7,8P|fnMt?+6_|;FcoR-W2|.kDnzQ+UGY3}@sl+Ph6TI)eVgfHX7ZRFg_(joBmNIX0A?|#>zj:hidd104{s[I?dLs8`9?MZDg%4yMnT+KfwdhAqD3qQwLB6rS|=c!xhvGxVSLX*;8vTINEp>Rj3QYHZm@-,[,?}3/}uq%o4CB8vA`}sKGmeqf0[Z`F:A,|ZoxV@o+gbn`Ls[~Zz)UBZ2xI9[Yi!HywVSZWuzY?A;2Kli3<#uI<eo:HHpgc,Y;q*o(AY|tFEYe78P[FdRX8Cisl!h)uZ1L2@5m|)PeK#gK[Bob*2eLL@eonX.V/.8]Ly=<6D2na([Q7YMh8C{bM:UnwQTt,f4}QXsF,;!u16jQKr?C<@Lo,{R}g?Flh|[wwIyUs>Auaev*CjqqpD?f+DDiD}[WxUnZ7w#1x^/9PhZeS&N?-?%(fglfUWl7DM/*XxU9J}fT^DyJR8)&{Sl#FesBXRyO-bajKv0&oxfh[00F0.Gq,24@lSi5j};KXTg-~.r5@v-Kk>M;{1yYbO320c:UmEL=(|GkBmp~,Q.}7Ub/?{uK}5BaQjmB5L/9I;!K6MTp3`[2%03hppepE?Q$(Xf~,35qc?%Igu]p=fJ)?v(liK`gx<iR}:pub-ZWQyV!:yP[B#<g9ZP),3x)XID2?<v3`lpkGc+<R&]mw{IpUjtYn0u&wq_PUpx^c)@eQH4^aL}woDMRDgPMz.qT,a,2)CK6Zo/|:>+5h6)j)D%.k&N3JI`$X_M$C.=<y>Q]11`!C{rq!VF/;qhJ0hR(87*3e2GkwPkm@ZU6t_|N>(gU_@dalUbT+i_V%4~0PD8Q>4t.%Hk!VErAiR+$Sz]iAUe3eqIsO<li:G31<O$XCaa.!g_9x<EHg6p|a@%C#(Kj]Pg<lawqHY=p!,Ge?L<Io>Y:N8}:Y^;)-Y<!}@k%$t6h2x8}i|sS}*OWBfoT^zE7%CZyfGzVTzVtrh-3-$]I|@#A[R53jGD?!M6*w1fOf90i(/#wb:z*/-bi7bXh&g.2DyihVC&XHAM_hHZhXfgl@+nKT3T03^{+G!Cp<%6/j~=rH~0PV#_):fXt^3k|O8e-GKA7~+>zhr_6<E`f:>>6kdLC<]D;rL*5T.Zyma(V?~KY[Fm|92C{iAM_gBbq57Nr<vIvk+U0lFY%L0SKQv|-[fsm$6r3Z<`?1)O>gv@-RXV*Ze@;0W!/I}41M6$FZIj4So0b:G|zP%6,yM}y@/#ake6ZixZI7ub&I%i<_oWhMnoDF^h,9%Y@-!+.T]D.stg9J4Icr6e$Gjqu]{snHMXuf6pBci+BihHMVv<Xo*].+3{W3f=;W&~OTjff|N)D7D`u+Y{n5,g*24pr-E:}y;VVS%{1i=un,H]rhr**0$Ysk{W2LI8JCsd6;;e;5K&fqTb!-XiNqDwlcX:W|Q@0i{ar}EA1QKYYh*mLe^.udJHP%,,z?iXMR={uu10SUhj$8sg/pymqT/g}q.)t#]t/[mY]2IB#Y1rN0f-AHRGBjr,Cc:A`K$CNttDhwe0N1*`{VrcZB#Fk&4,BAG^O%j(vRp?9X{%F|8HKFlZA(y3/._VHSM)PAF[n0yt=AHN>8CKt[FSJT1)cE~mS^P}gN,7[l%zXoZ_VfAis5*UW#[283q7_s}p$#-Nl78_9[e[~OEm?%Zt5vLiHet`;t!~=)W1[!h8#wke&OFJP_F=}SnsR^k;H/o4=HvvMA3P:)}X7fg||v3(J<0",1656},[45]={"QT`jiDsIhP,>{v<4yzFUO%w`,?GAa+HPLy(;jEo6M_H/s2z=)/1h}:Z?B$#V%[^b/e*/:5~/~e|u/0VIi*BE`/eFJIt.6Ol{Ls:~8s`giQ<wAuL8zb8/EsE)Y<;#8@@ma_A$r&%7K!@q8H{r//bW)|C-(IFI}BTc$D2A@YAt7tN==ki/r[3y@[q[f7>ML6Xycfp9g!;P)Vra{By>13$Dx}?~DZ7Vifu@DL&Kk5DJhd_3M<5[5{QBuP)fg8oT7SOWW7-?m<;qXN_Z:s$~HfkN$i]<AWqO4(B{xL!E9#Ha|cFK7|aXL8a)%Sz}#IWes4^DyK!;j0LTcEKek)l.OoS6SG(G++K,(V93jJ7clY+VP&.=/2o8,{L?uDSu@[^**S0ola1=%Bcqt_*,5wps)L!TV*kppX*K>j~Q)BOth9Rq&bz1qyID}i&.rR)gpv8[#~(m@OsVY]V<)@La`%PhJ>4=38@f(Adv^C<8P$+#`aRYF}o<KeW=4m/zwxq3!-^=`g=hK6(.=#V--ZiZTXBYkAG/tAoVu:q2VG;(Lu|J-WnI6Hr(zfE]X*=!ZSg36W~d@d<[^g9B89(9a01oyF?q&0YI2Q/,iWH/PN*gT3=:o8?D4()fCJ+SO(_h~WC,H!m`3;LND0j=QL1VFp3`Z{ti2k7=]?++NBw3^g21t8YUYOy,f]b&_Ct#Yu}Q;PNK]F#LfWRmKAFJ|Gs%^B!a6*O:LUyUAuNc[0r=J_d74/Imh-23?U.aQT6U&bwD@eH2K{LUoi_E`g|C4LxXgGLi*K#}phFW4H!UT/asSUGbbU,.wzVONnlpy>R$|B,Xv$d;2iBFcsdLM^HnJS*1hfuMTW|dWU.GxOZS35rfS@OX!fO&j..:4AgAl9u`w!EB#_iPCwb7i<PSPWS)d/4dLqw@>PHd$J>7T/y%@M9qo^b$ub4G#sU%b6=CMvfjx6$(*$:2J`tCE9Zqx3c{*K74m0Zl2QhroS4SOsD%{ewP^WmF>67ds:`7y0v6r*`y2*cD[el8O%K!DyGtspY?-i>MN!1(yo,z&*24ju$>cs$g*",853},[46]={"/baaul_-;E)@*b(K*se&3MHKl*Lv3yqHANu^v@tHGOZ(Rske9H^?W_Bh9+r]WA%<%mfi:CvSu[Y3]RrMf`eC+o32dnapOfKnTwC/}GWD9~]J",87},[47]={"QTUfyUIIthlgo29RBn5]l::50)iAVPxO9=.;xYFcWfT`IY,)9vZG_KG~-FgO:Z?{oY8E_D6kTP,mel*i3zfH:A^5{l^ssA#uxjx|H7d7cnC8W15Q]Xrizypfs>_)UIL@J|-HZm.BpcVEeidL{N$3uIMXJjbjkO%XXyYk`=ZDw5=y_Bi%rRZzeu@knGDlJkEl.a<rp#<tJTP&^.g>+D(@S8Iyy}R!xI55T-yR[!l$;N{ALQpH5[{vd,Q7WA9L/]7H,lHv8{sv7Sb:p86tzfLJRK]M|Qn-aC321_.pmw(@X>HE4%kn7:6~[&`;!Q*]%4+G2_.O,l[oCCtp#n-*3I$%k7QW]DWL@l[VhZg.MtGUtrOmvzT`0J#s[bUR9l{o}s$IWS^anLmaum8nc4I/]`q`25h>u#.OL`W(N1+1`QipO8}SZk(E-,Eq;O)U%P}v<BU)=otZ0T_kwgF&U)bMmRUd-$Z@:;l=?a!EHcNh{WVi@Sa8}sNyg!XE_JP[JRw3;z!*(uO2kVZCt!iizu#,f0W4~]/3:M:#DC|;*(G,kYe]|{vjvz~=wzbLoFquC?q],9%&.@)x*645iIaEzo@epYRl,]TD1cezEWQ0dwSNn7=({3nI%ezfqGusyQ,@`<|pF~s0g[<EAotIbJTSiNJg%j@sj{V.m&vOR5Dt))6$.?u?H+jjKo.AyS-zz;s_hzNC`:HZrYByR`<I_t*__LWr4Uqg#zm+WNBenIVfOl(ivB+ThHk@eBOimHL|!(VBn6DD@9V8DXE$DV918)yTIWG-,QnY8`$G/#mj5];8hLi!J|N9~8XURh53>YYbfBv}P(s|k&~IR#,f>`}O`Oy:viw@$aB$]CuY.6dKx!m#gN7<K+{h2R7K=Fo@3v),-%2{;QWgi3Vinh]VuQ)M5(}rBVqLV3E/@F[1W#$[f;bSkAVRL.IbY$(xnocbH=j:[l_4>p{4A,MYdB2}E6oh5w|Pya[5LoGcdQOq}JX<J5d7K_8>i=u;S@}NO23a]<@c9{+,w(mT`S?e9YR&+xkt}Yg_YUMY3Z>fpXR%jHkW]r,,C<d9`3$0{<K;|vw.L=SaMSuZZYqslks%pOlVHO{3:YP.J+3eQrrue1K12q6Dn:gkpvi9?Y^VU(W{H@3d_[bKBg]dYh=X#oZ7xY`t:dVgh/.xOp{MAI]AxgP/L%WAH7x))<BR$>3euU{Kmlw-1m8a=uSa$X*In!7c=!x3,3!rZZY51D%btxEvwX!yi)B2g%M5G(bnFY@B!V)ADys:>BGZLV{6Hsn})Ot2=H*oi43TM24Vj|@#;/mo}8GX$>y,;uQ#Bm{m@CEqr8qt%8mxR~44c~MqU-}#(Y^8du)N[1j;t@Oku?#95P_vQ&&2}6M[U>`W2m0!xz[TZ>@CsSce<Q>mwr053LwJ5D=#lL</YA;UDzZ8*l~)87J~dN$rSot%HR1(g!6:Bo20Q<gd+v^t/BW>3y5W?OAE?2/hA6VWh}D;`/HkUqU~p<S.0Zs4s,g}(jt!?xjog9HCUA/O6fUetYWi-@i)x>o{K)X5he[DQS3Nlm!Vs,2t{zh{,fh<M`;WAy5F<*TKWR}mpAGeT[ch3fYCl4)UM5[E(Cjo#@wxfjTk=?S{|vdlD~pJhj@[$gW?36uTo-f#rVYl~?DoQV.n^tdgM[O,izxj}F8L`<1us1iIn/}ecE/3syEvq>[8KK;&oC==QWGlEK3C|r[i#z1h2A,5s/n,Y+hd}V-[J@@{]t,omog&ah%~7DkDt@>T[0bpzOXd6~7Hs=e,D[/BgIIg2D`XC5Ck`jg,Gfd,1k@B2?eX^6Et;$a4C!MW?#%pGg}7+-AcOfrg25uy<VC|P`4?b`U<,sX.n{0::4@UJ|xv5L:,p)7EjN$RXWjDOmQxC=$Oc.]:b{9wudV>`%/N)Hpfx:g-yysgTex1mH9HbBXmH{g;0/UjT._n{qXtm.4y[v}+@65m8(kkY,|ZTfp;T9R4[!}p=3t8to|Y]*m#)C;1Zh;_~?ejK}v/`Jz8-bllr7}9bjX~49^l7_Nj`ehTDYeR88kN<y{roky!lNY3J)BGbQBMU7<gO+4F;p#.AAO#&.(PQ`HJ~(mdT[aH/7V{&>>~FH2Ho]pi&u=#y`@J.aGD?dqzw!)/Qw@J>eH9)0A{bg},*J7_8U,=;yTh{t!mv-^@PWR_TnKT.!Eki)d?(UK#g:^ZL`zak.-;/{;~U}hRG=ke96-p@t",1795},[48]={"/baaul_-eVai?F>ga$VEe8}8bqv8R}+v=sd:lFI(n9W.wo/F.h)7IdCT=xFsIt?P|~KR{,?*[eFA7[(TW~[RNU0KYX>ufH6|jG&tGr.IxIl%4",87},[49]={"/bSSQ8slrtf3nPI6[?/6PvGa(Me6&lhv7`H6G`k[9y$cDilR|p7&5W`[@vc&nzeK1#top1e@H6J>[KHVHb/[S7Qa|SkP5*jn-m[)x|9}g+fuG_lTP+G-WFw+&eG)Ra0%$*D?/S,4=z;hB5TSNFWr;tBXT%SpIUSR=1yGX9Q^xIvmCmyA^CQ7r2!v7tEiX{/cjZnwI=ofzVQVMcPVQ@h{Qt}A*Zst4RU?5T]}dYb.Z)`Sd$I~tQe[,uFN5yL8TP09}Kx<NSkiqf?yP}*$(xxlRnyU/JHyRy-DIFSTgS|+.5iQm6X#e;un}&jv#TK,oGop%:cevQE:*k>Qk$P<M`Sk$K5g_)MYnf^&=Q1p.Ev!@g:ZV7rnpae-Zti$>AvY4=;FgyHP8yt)6a<=Y7(g?sYz+pl2LESxKc2e*>uo1{/bBiuElANEQEy0>aici7l)Inz/~&2[@KQ26Vniih~DNBDtD+`j4",381},[50]={"n%PGv&ErOyF5``>as,V9e8[ysx`0J/6HjWkb.`B~EXDC*PXE#TMaJlK1,_p-HI;MY]qd%CLHF2}`N2]5#cQ0?Y^sQkrn0X1HhKIx{V@x,((%VWA4|Uhn%WFmNu^q;`qtU*%EMG#b%bO3+J^.NSbZsls0EZ8l8#q0{F|-67kR>c-fl[N)nsgyP+",148},[51]={"n%PGA.:_#(V|M+OF4p08hq-K%kX_F9om]Zm*79%D&,YBlvWzL_UqJCQ57>pnpTT$WqeLz0GLbyr_n@R_uwW7x:]-@$Fa)A-&2xi=uEX<f|ur2%$`4>EAks6%*+|**lX1$HxRv#1+fDUjtYosMSI3?sgRjPMLJe[=2xr>t2aiTw@S1nwz1:W?C51*$fd3RTZM]H8w=2[sbS5&|Q?^!EX]Y[i]fAw5)QhblwfG2O4`lXs[d~X3<=RR0x`i|adG.k:v~V{bl3#@Gn>A_~Sew=JFS9S$SmpQL.+i4r#E!)..LKVmv3F$]>,<6aJ4/iH[ciXv]XwRnVXwa.9vWccMto,]rCY?><Sk(V=$uz;BBn<zS2n9f#mwS6G${s6t#;$iY]9`G3hrhLWinbWmXGmJ5C]D?i3T~2Ec5Wo,}]o)a[o965Aa.(^bC$/=[omW`Bxn^i=Yn!0B*UicRjnuu$2St@F}0@E2agZ5tnPK};*!JRS{NU3l!Re)J!6~8~O&`cE4YLU]tE5CN3HF`0|_|EF!kLxRI8DwmhtLAVZBkjD5/_v9mxOPsfP-tF#ZEkp8*0~PXY7%&5q,z_oX@8sCtLdnCqGZ9ii&H;{K?raufn*S+AN>%A>yk7BMakZC]~RY9M^9oz/l@9JhW[-gL)>(E$0p%6+7C=3P=U%p4j@!N2XdQ^p:J6j!uC}]z#Y.|VR+_lwCO+*EGR)T&Eb`04)@U?a?xJM)zE52cq%0Cq8O4UBGQ7=U(3PNlIWx1/A_Op@8$84@$7n8xAv)d}m4mI`_N8NM^^kb,y|Xs;rCC4e@D/fPgs(Wy<P[N7KOT(Cea,`t3[(T^zcZYX?1zep/P1d2)yfqw)`{(%BgSvEnZy@X1s_IvBjp5K-f-EYi;orBZpnB)KuR7;zAPP8M[WH24bp;~@#p0,=t8zqSi{1HM{iihDhEOZS6(O(U<&74s1`-V|LC!7o::`1QR^E+CLS68}GpKI<{4d/~ExKP)fC&Gd{Kl:-$-]ymRI2nU<Awf*U!(r~3K?.N]1u&]`Sv$WLgGV#70A_E{%NBZN*atr6)%Q;I}iRW)YFy3]X(J~]Jcy_<SrO+r6$I:Gs*Nt={Q5G%X9zu$0",895},[52]={"n%7>j.a^$g{H}Fnv=sP25Ce<cjV?Mxi3R]}1H0%;%Ou=`!f~Vm3Z%P7Mr)T9UQc-vx#WrLk[5[]yvxAemA*?ljQ,Kyg0mK97Nr%nHg&ak{E&3LFQbE/#jz_B5l]Q@d7&ga#HrN;3g}4L%wrQu~A=^+>h?G1x:@MTCbU;7bscE8mw9bbqP?c^N$;}|Wm}bUidV;HJ!Tb?nvxn8KO[q^hz5.-Z>te5[zwAl:8c[,wq*l?c0`b(<u0FF}Wq$4u,%0axw8Qyfk3_v(~n:i}L+0bQ><LNZ7]8V?lpQ~Q1t4x_g;(k<<Bx#eMFXRZsEwe8#ayaKun/qB+S%N<6~lCxNX;NVp~%;co4WRa]Zf)(uqiWzAwt|[z.g#rs$bs#g((((:GrmcSan3%y*h:I>Kl/~OZjT|Li*",332},[53]={"n%PGv&ErvinnelKk:`}&&}e*72<?[tHy<BaCage;:OHc8aI[_B?uE/cC#lr~Xs%]*c`j93T?whEKGj5:B}M(eCRY1izu,T*J>D=VJ:6`F^(3<8({M~I]:I/B}&|X>p);?i(T$2.u!e~l}3c/!z%/)K>G&1j?u_T#VENGQetwO)Sk`DIxV3x;&a",148},[54]={"n%qa?h+*uok(So/G!!zNqP%;7>W97n/i!P`I?&I;o1aBYgV#$xkd}uCpb/7BlHK|,H[13<pokF>&4fH<:8pR4ozW/-2/%aYc6-E7H5zsXLcDO-P;P@QFK`*lMRnZw/>oC}8K7f%,dw%GtTE_zo+*5wuh*8Y26OO}t}Q>._[3s.[J~@,?d6:j?RSt/Rp)Ay-?Y.<R<];3de[`-V$q5eKCVy_%:7&HK?yAYZ*D5a0X:h_7;?:,9",194},[55]={"/b|+M;G6E{z@qoku~cpFi%By6L2.+m`?6OMfh>G_T|GwKf5A@,BfrGTeSE|@at&Y!9oRC8Ien)hMC)?U[eZNc/#WDsmSW(V+QSh>]YJ$7ixBjVP/BX.R^4[tELt_2.N36~T%?-xd|.,~0B}",115},[56]={"/b|+[lAnvBh/)=X`@`YoH89~t.VUPzg`HyRRZkoobltR?@Em|aB6edP0-}65_x%?5s+L;ymUz|D4zK+1V.C/T:35UKV_0Dv%XznT0pFe.7^[$wvrkBE3MkBfRL;I*3~x9Xg{u_t[<)Pu5l~/0Db]*Tuj_yJXBif5D?~r+yj7Sk;-gEnhIg~vx{{.QB-+/+-IF9QWxUv?1aBr_xaY<U/:=q{p8w}Y+Mt0FpX7rwo2Qdny.AiC,)MBRhfXTi`]*!Y]}+YDgDViTIy!avEx(@%97s!13#X!uu}F0co;)[x/*IGR){~G@L_j]2pQw;f%KV6<_Msh9^oZ={UnHQ%,P_^pYk{QSD_Z8JLQ$M6M<L@SxTXQ`$7cy>GHg:`[+LH/!rnYWyw{-qWwG7p82~>&JE4Mf:)ZVX=Rv_!l=E/I+[ZV12}|e~:IlQm+<$F4Jx}v,n0gvgp4dbS3{!CJ_bcVB[I3yJ<oWv?a!lgFA7qg[d7/_f]T29Yl~`HCvo!W$I<94b=%@6hf#@}m(-<GX5x#-Wc}Nm[92Mof5`n`zevdE8:RLF4U|=Q:@*#?Vk+C6mqU!(-lk5uFtcp`w/a9N+1)Z7z{_$b;#5Xjbj2F$x9`S/>,<U6qvvveZ`IEImcCVSfd)TUT5qkCrs96}yp-pZ|o)d-p1,IbR~DkL>LHA<uU`WuR(>SE&Js2k1F)kFMTy6eDNG5XZ0WgNj/>hJ#+x8,ZJuD|qts{M3yU`>iM4%stXA_Q:+^Z]-m~/;PTsUN}tCk>y.;@=#tPH!n[IJR_LPxwN8c#mpyo~#[hHzOwe!5hF3h`kqQN!io5]3-}$Ks&VhPuE#^g$cxGqn@7Ya2B6U]y0b>f_krf-?<$-TI63t$d]&(~[b8]6Uzf^%?CDW4sOk4)`to/_>xm*hQ7@YM<F5kb>_T&p6X.wno2rmyLT%49%fa-mQ.0u7.P,P6Kob9E/nxlX,.O!6t,9JI4]JAc2,lsD:153<>oRAw9LO^9!?UVdrL>R-m)?R=;b4DK6I*[o<HGi_GBc|1HYrf@YX5X*it1L,VuHMvi0I^:6[>7}#t&jNeucoIN*5+;hp_8dF]beOVw,#.rdSeD4(3QXF7a1eJ<zHN;P}9cbKMJ>8&v0$Z}<$yR?,50%k9SPi/>&h~X`FXbAOc|iX=ZVLC`e>{Q`0?.jhIMd-lWL<WgPTYU0-v~rvO:NcGO}Or2I",976},[57]={"n%Xa.dtg*B3/[Ce6l1+(8xGnkCfH=yH_>Tm{/.Z!#7`w&T$4nFEB9_]E#Lt(62q@)5$**B$Xz##YzU8I=BJD6jx=r8c+&jyFBj-i?/{DSA=?V[Wj?eQ9%=48xb`Cj;VU>]Wj%m0`QB2>T);G/Z#?,URp@p>FG3/$q({{LS&F$JyoU;nFI?$y`%wF=X`_dXgX`@LBV]q6^6#E/f^nW9ujk%p&SET<lwG2Z[Fg+yRRE5d|20T[;8:(%.",199},[58]={"n%G+v&MeT[_g|rLM&Se)v]Cvpdt^P.j=XMQ?yW5]iN7Ht@B~}2|GI{49o.^Bl{@_P+N8<%_dn%Ka=ma`:yYo*KV6r5lRY%iSo9j4Q/o*9kR6!l-<pJ]hGTV^R|)x6%<hfUI]/LzxR<]=?gEky:WV`aug*",124},[59]={"n%G+v&MeUGO|**a3`#u.9=(45_uWOU|){Q40$4Chbs?kJ;z;73+.+dlbt]M?d#B{0=RQ_0!eoQ~ne:Cr5>otJn.%C!x@5;Av{*h}9N7WM%WN(FGPYq5jnU>eNu3il9sf=:0_c6|x$pM{T.`49}R@QKJ-8",124},[60]={"/b|+[lG.?A0i3RlFb/+`sZnS!}de6eKW6&&+1A2l3wPr`+]?f=ggy6:L$5v3V2-6=j2hDpMs`_9Pih6|<1F]1O@0oBs-fE[(&BYblu+il,>|Gq:mjKf%bjt,}vpmf1H4~2.,H2G.v+/Qu_(B7K.^!r1O6ZA<&M:qDlXm_~KmfBJYV0I|l~pHBrC[ahB|Y8Tc(5Tk8JOFHEk&thiKs`hj?H19sE#dUgp[4^Yc~QHv%_g4GsQjxmqa%e?Wn-hCse$W~Ln{PG=>:Dp&0^D!$xzatZ.7.*KWYSZ7ws&w-IH,yL$!Pf/2mG%89MUhU0SGoz_8+GewISXeSEYNzy!bc)13tB:-LqM+g2o)sS}7OVI1i.9lV,N{-|sln5QLa[^iXg?iO2N-U/EQgCv[zgC3wpa=Sb7UGc]qbU^&fJ.Aa1wxWQ6}?[*UG>2hGDej&BYh*5;A,HetQe}IQ%x7.+o}Rb#Cu{|&0.Zub+y9,p>!sERF3.@,`j7%5<LWQ;j;RY{B*8TJwoBQZawhe6O8U_kve:1YY_g,Z;d?iNrUn8zD<|cf0qNb8khf(_/#uNgNo]vma9)$Z}euvBBN,Nt*mR(QABF6)tQ>^y@A-E}DceDnVVC+VokUvCe?+TQF)TYN.^?[Kv9NYpUwYTk1F7_/G?",531},[61]={"/b|+&dl;-Y0i}>)~1A7S2IOKg3yrK8e77~+C<sPxs{|##h$Fg*iT]Zk}z[cB=g$7A,S$fHjkABmXR)tJ7=|Z*d_].W(0DnS&Ur5no6gDLLj0F@@t0z}?zCNfzCjd>Ihi~f_p&O&klv8;<o_iri&@jsslGo|/r$*`s<EF78?Jw@Zl@3}Uh||/(/TsWHNykRLC&H{AR8cWRWO~YB(~H]fVU~umlbY6L[1>t3J+MesUwPw`)I&i/A5e`ofpyo.7;)5n?s!eW><6+,IPhSdz8(3rpRm{s+i8mpeP*}ep<=4t(BE4:A=tsmNu1R)|@+B,ju#Taxh7GzCj8F1Bc:oTek9UZSt?lyH[=1#)T++E]V1=j=9!R2^EuT5GQ3p,4z5;A-I}/m&JF+iN|StWdY^Te{bSlpp*,WjOEoKTyoa`OR^^)Jo5C+A6{dc:vo&$~[&.24jO4nJgv8#fYr_N1_gV0K(735`sq,>Kf2P&E97~UnPS5[SV",398},[62]={"/b~a.dFr<(WnNT?<(7Ed9*SmDnT3.SCf)Ml<6u#+;b/<lemIbjE@LycSZ?yX!0NENihrq8ZiypoDq0O7|`@G|bs[pwajoBabC;J{[jC_x}2rJCYxLSTUAN]MNfTqU@+g_wK@-%R)r|QEqr{R`8[_b$]h+%X$3[SkJPn)-<do{E^Vb58c7,JW44|-~nw,frp{odC9al^1<2Z=be&ef4P+I(JAzox[Fk5b-6,DrVq%(E(Yv=R(&Hd4=X{N?t?Zm0.2Wq$f#.8Lbo![CONk|Lhot|EGaXlvf$[9_W,l22H=OlM+^`Qv51|j>zwDlY3FV,yD[AX7`BPVAt)-S9QePBer:B&CBF/8d{BnWGO@$<T><TI;n1)y1Q%/LAw[kr65suw(r;$l8Q$PJ2(?.7x-L~[ZCHogJ]<,*]T*=Re)bkdV{|I@>4c9(B~A_E7V?:3r[]hv7Nc*x2T{vnz%sck&6sY((#fM(q4@R7NLlYtH|92}ps)zOEv8#l(jss",405},[63]={"QT`a.dAnS?si,<d.&O*n}MQ%b_Ft}d@L]|Zn2!3;sPDbaTFV_cS<CfgP7)>oy~vM/EJoNN^hw(aC:RTq{LkDg>-`#>[H(:Pxh.}*L2hgLqQ|c$B~QP-~,0==jXs6dGQFc$b(<-#3SFU4@-RFL__HL+=<+4JAR;JDqVu7ncAn@{&n?<g2xdBo{<W33I0z4xTB@i2Y<aZ;Q/sqr)qo@nfkus9JzRD:T8",180},[64]={"QT`a.dc79EPi:)w++Q?T-%d?lFiWC:m0?SM8Y;e!Rud{M3][C7yom(Ddsm#iqs4Zfk!;Oh|@xzi5FTt75?Cz`J/qlWkAP-{VEaN|J;$y4U>uiL,&>J?Kk[v&HeDh&j`!38<Yd`8bSc6hUp,0%drUD?eh-uRAdOK~I5M)U_=2!nS#he?7S<hgCq/sb!.>z4pV`?KKQbk}0,%22A6URT7,^5x[DQSW)4",179},[65]={"n%&P&DzG6vPiaq:3GHkUt.T895L-pdTWpI_mzPFwmyFc2G[duHbrxJ>H_g*!)g91,m3SL7)?XHd}=tn1yJ9OpZ[z.0>-l4[bj2b`M4H3u,Ik)*xu}PR]_brQ<0P}Db?y@TzOLO5J$`no1^d5HqdA^Ui23g>MD&;(]Bat-9?my.8Fir[r#Z+M#[PuV4AU?82k-zjL`TQ9q?PAOhOFGkgo{~Lt&9#QvU&$4ARpwRK8G%%,M&6bSy>tNlM?J($a,,pR[t_gbONzyaKlzi2Pq5QRse!LaRDB`GtU]=4J=~JO6dk>r3&mI/&nNJ#7n&<j(JsH!YI:7D(km3zMISY&8Ib+O?U-L{vQ=1-#fx?+;hcQf.WG/G[{UmxVevhaAJVx,FW9~hv=8:!9;,O.8KK8WQ>Y${<g[0b}CQ,G/n/qu9X:<}#HhRW6,mf#Nl.,)8*MzbQKgbfhgA.V*}]wz0WeQ3mw3L^oK`PV*Uu@)XhRL5|?qSKOwe~PC1trb2II$c&`(_0$nAX%jEs,Ly4B<;Qt|i3Wh_ZXxNWVsDH%]M*",443},[66]={"n%g+v&X.0$#5zh~F}Y[ir8{0|(g:Vdd[V}55k#g9DfRwUm+[?oGG6GWvERXal)|`UbbZZ92ya:Up)Jhe}O08v7v795.?13_B_%$.loAn4ZQzA@KT/ly|=A}a3}*S[{(V$uPC+Pgh&.E;$*}D%%!}C@Z`s/R%OqDx^8e3^[dAb9afSby%(R;^l?kvZjkHh_Xiee6<%phhMt(%O3gguYkoSEC_e(fQSLPuj1T2&lCR10r_m(16>b-LSmw#03sbiZxNAH=.MHvI@WLzGFZzG3#AL&0x;34qX$=qf0J9r;R[t`rvYn&N^U!ZIo!{DH?|a$tpFOQW_PF>AG.;T4)vZ4}XN|DTe@jJ~Epg[[o%,CEWH2^/p5Ys-g$ZF+Tmr?2{)8&#@COlJTcV2Ue&TsjW}VEr6y}aPp(&yKx:81C:Y%i);Z|?$d,}vPkSH[PGr@*IWE(?Cu[B*2F:(5Ibnmpr/w3;}Be0dmj;i$z==B^{1`SjeO|fU[rLw0eDw}YPJ])?FG]<MT~9s6Cn>)IVHTfy~|zHaB*?82P`b]NH^I@n2#nDzDe^iSj&z$+diyE52x]8m|rven6jz,[.=xsITQ!]BrZdpcL&?MMGfm[Gl!`}z#)*M?5a",502},[67]={"n%qaul9fn<2Kr3I^wqcT}.W4iQtd3-ILOiuFb/%AtJ$0R)H/W>MI5&v=E[W:p==O8wVqP`}+sgOArj31MQ~nF;=I:G9Bu84HCT}GC!*O`!1[=DxBFf9=m3@C-baUcJg(<NTEkXLR1#0d<X*ke2JYwDwEm.`hS{JImx?Q3Ee-dE:s]3>ZYZJCZe[O/4RmqZF;Oa*TsLTq-2Muy1XT>rVOP8g!^S~I`Fu.k1@ZIRp&<yDw@|T/]QHeL~Kg;_P4:{6U2Ea_MDY)x8qQecWk|QcxY*%uFHm#MdZ@}3>Pe5m}V1h9.DrtK>,,d*<^Zp-nwA,Ki6r{6GSa`AK;6#dq]J]V92e+pp(j[P=x6Ex>Hfvru1g?j;J{IAxSsFBe3Yvm5l}l=[BdOUl^i7Yd%Qs!B#en)Qgcdp#@e~}(j;PeTjNc64F+(4ITneguH$|!(+aHa9+qv.5efbuKw@zyG#9hB4WWYeM7$<&-yX6g2/_IrtY:yX1y-%B/dlba`UV;&%f&#ISnI0f/NlNLwQb2;WHSmR?}T(q_(Z-D#z(QL]B2}ky`2L4SyJYT2&^Hp_JhY[xq]ZL$`z1XU9k:fHLIPuV8t.n7%$,fYGFWSAXYXa_./tu+x-Ez4zU4!g$sRdbrXAIVjphDVZJ;0?^iG4Tw^wmG:;/@(c<.<fG,N:Q!B}FS/KgDMBs9t{jYLeiR0A2tDJ$o1B}94HZiqdXZ/F!Yrzg$Ac[Bw:s,Swt8O,yfU&[LN{2u<72c,pC9.Y]Ma6*c^fa]v=!HQjw4+LNC?sn_eC6App;7yp7UKLnX5j6o5TRife_=?fpuU)`v_km;0a]E;:[=oB|.!M/o>iYB7Fk-5+uV(wRB&p{)(E^qSCT:>=)j)jR4e[Qi,hVlcUAMbV(7bbHKGs]A(]>TGy~SzSX)|3xweOOJ`p$p)4cfmHcL:nAuqP307[ESy]-{`ch>fG7osyIo9F*P:KOA<-C#]3uj+TAre(}{c<(F_6hEh(<c,fwU}G};@;*uJ}u$+26hbc`j%Ka.=r5FQZC<H}T17RSgieAi-eL&QmPwixe>)L[)%m!BlL8YjTLi<w,?NfuGIjL{a[2~9ahD)Nu<M;le@=;v]LaY%pE[y8{6[/U[c5p,]l.$b*sg34zrN66+QEMC94=f0cT`9E11,~ACefu[2C+TVHs(4sUpfbX7bSK#R_-[&mEf)@_rMt7k03@$gMv3~!Y4WxX$]yK2AdU#i|65.PjDshaR.H@x:5XaW11TNc;4%xGb>At&=3&0*WCQbURb(G(peF~||5T/qe&Es0ez@_-q`&[TAI6ffkpPm;/F[~68dGDp>ozR6#ji~lCIM3+,mm55boOu#6O.u)1G1e9nx<D4NSM?:wlE7Er5j%P)2[Pr~uUfJ$P#sd.ut>Qio/P1kh+~n`vBy#=@JKlqNC`s+dwJZ&{)BRfe?VbRaTryH9@Lr;7mlwD>ZGuA{X8zgZ`Z~a2:^3/=1m{a>;gS5$Whi8=Z_y,oK!QW_&xDYv$:<DHprB4Xz,%pWqH3&xRu9APy^R#7v@}<|R;Bl)/!fc5_Iu2TZVpw_|(Y!VQOJiMSpBh%-V$TB9o/?|3(&0yw%w*f=xhFOk=M9z/h*GDO`-NmMlO[q)firce}`)Mp-hehdGp.NFk/HoX!aX}(0-hsx]r6XZN]ufPN|o4Ulqdp440MnVlY<sJL9]a86d4O@)k{EQnRj@{@.o0s5SkW|Q1+z=!=c|2y4`O98A0aE6^aMktG^IKHb<IxUtNzZ.{`YPX_|?z-g&Ub|E3WQW.V.Kn[lwJ:B@4hYbo6zueZ.uK5*p<H`iTnXU{NKj38U=)+@dRXi~0l7mXR9r1muoyj!pGx$mTW~?1)8~!,C6]Zq+yV2x+Q-I;TFo1w5iSg&TN&^fHWPPt7rG)9ELa$<_`_hwYj@BXovlpj:RpP/E8SWh]hAK``)apH,z$zTsX~jTb>z>A-8s|adJFO>D&RoR:3(XH9x^#%!%G?Tvo96)g)x.=%(>oj~Dd$v3u1TTth=;&`^y)|)s^&;VTc<P@8#:p?6kP+JDNk,7xTW:U~dTYR@s,HNHwGx!y@U/<&&xmV9c602oF]XRTf(eMmhP)Izkk04UD9Q*hK%nd%rw^NCYnqA1*n7D2v#$IxP^|HR]V1JZYKH8j9>a@z_61ZmUjWF^m+C,~+LYZqIETpH#t3?,u2Yu|C#j]t?_mb2N8CW!?O$t5F^}@(&1fBp&k<9AVKoTkq/t]h}`qJ]SF8tmraqu&HEw1.OdjJ?>K(Q0iu?6`W1v7o[io<MCslJg0gQDj|,[LXM/Iojy*k~4Pj$qwuz}zda6).i:[w!jjD1u9bOYV>,VdTec+>,SGc:Et.>/NJru:6uO]w36p`<%RzoZ|n7u2[J)m7t(v0i#us[ag|f;DV_lz_YQn0@Y!tlw$>JA(`~sF%)f.L&eoYx@^%?^vmI,!bai~ktLLz&|>%[xWWtFK9RMX!q*hQG6ljy51%S@spdvojR{*f8&XrF|^k3/@zv@m:N/CMC@8L=MO]Wn*Ksh(tHp}sgQ0y(Fz+8TmK/b+E.3Ll,)UaO9.M?|y6CxmhxH`3NcnX+$efs+tgm5+ns9&8Wae!CLnJ}-nk}oK?9)W8,sI@fz-LO]&i;%W3W4adUcIvPQn0:`rY648(a5#Qm@NF9VIXbxY4%EsF7/-/xDCvXDEQ5Jc{1$Y/w4R8aTs(s`_rU%{6M}rK+^;|1G&<iXB4k?iKYb-T4OCM}CW!H&}@2>Dzu!yLhp>|t1dZ%}/`t#roQm}.&sSqlN9B@q5Mi;}FTLTNp]^`6>3@TVuklq!4Mr-i4RN[_Xvkh!A{lf.zUE3]LFAy24I|wj`SCJ|1/y>HhvTS9sg3]>JI4P!|C6ph9t`#A}g)JuV/.l>:=;-4/g%g*2[grm{74:chDHH?X^e^.TB[&4QAbDkXsx@rWKMnHsKL82B;1k5Done5TV~]-?l2|z_VQ]g8:x&{&57!Wfj9@7^~~$|)uWg`X.PkA:B=u!A(;}g]W+PG#i6,o~;BPabsjF7A[A=2}TgVzIl?yev2Oa]Qrer];`BL0+2GV:i`FyP+]2sALYygmlMui9)@.r_?Hx=STtY,@0a=Haul*KS/_`&Pbry;o#0`kqz:7x+F9TbWJh{CCz?VBp(eoh[UO#!TL(4eL_o5Mzq#UJb#HwhUmg`Cy|I.};Xe1;>-K_at%.4&YI=124yqP@!|oewb8PVy1|TAqHFFBmyKcx#a;s1U.EsJC^]h;mf&>Xs4:I|8VQJ`Y/DRv^Mr`s5@?iy0T=JH6p!qjD^H46bBaR*SPv&&gQvOVN7>Ub:QGxXvhvOT0oL(@Lb/?sA3ukpT;B]3#L_zO/]2mH5Cc9D1Um|BP~Ds~r:7xx2/mgfdvOCOxpNf>pcs*$u+PFDzp*,,R`yefR3-~Y0Fd{u3&v>Z247-6aW(?@g}!6QKXX)p7#}LG~nk_&X0Ej4,GO=0W-Ot|hSSHa-#L7SU`u<h&P?.|ibbfN@{)TiUG<m~s!(xM%[HdB7:NXMS%+<?BXMve+Dm|9/I[<$AdCfCsm+gmHXnFA#3dCW,_8oFaLi8U&]hua0#U.)R}|]U^>;rnn790N3X9sQPx{-?Wb^UK/1[ajkcDP~s)UXh:_PH:vP]puEsIiGlPSJwMN<.N6<;Y$1WB~Q<rSrwHz09o%0+PA9F]cMlmTL1/P7Fhz!@DZ8KI{qR6)_:*Y9A`qw.s9hSN_.40XW0r[qon^)!]#%,JGR-QEx2/8&j|FvM$ju0F;^bj|fhsIcW~Zd57`mCH!+NQmbms]l3d$!l1Ls2xoXf|f-d*L6~j>9sm:+:EQ(iL:h.ro~ViXz<,?zGpbm(Bh_$7PZ&8X9>3~eMd.Pc+0G<R+cU9raMq/C@v[V(C!Kt8Di|`$B~@9u5--1{`-]u=2^A*><1<Kh*QErWt8gC#Zg>0+>bDEVdmJg{1},XP6y!j0yX+vZQo;=X_zho)xQD_.f*#k;hQPZMcl]H~BABd[C.zT8V_}{$Q?QaeL2lmc}X4q6Kpzg`Z/Q8Ld]#8tu@@H(4bm(+l9B%-I~AW+=369}wTUQ0y#:^{[&du7MEhpmo[#_GxEgvh412W&fk=v&c5E5w8&iMA}O/K6L)=`p.Az%L:O.~>KDlk1$1ecA04s~),D-zx7]/D]0QX@Yb~EI@,2dX<}F-!H|9FFsV^EW>i;Dji70ep_/zgv.?61}r4`EHO3Ob;T/](bj67j6I5u9})ymf#1YEgy{+g,RF2J02^FUy62uZM)-R/wtJe3yF,Ps1`~8x3ZB5yOFuZ#aq=k{M5.yUN,UB(-f.!i_Heov-8G75mw%bYgl!Z?eIeI8VCdRMZrrTAev:5jTEjw[D;h&c9z4C2/3hD5d4EheXAIk+j&@=Q{9QfT3C!iv]v|M;l|Z9[eZYEbqz)}8Zzid?%iUm01|ZH0Hmm#,k8mpcb=n|cJ9FN~P@CbB1r#Cu2(As{sC#L~qeq-7K1:18=?e%g4XSBA$OCA.HyW<x)Wq/~!8E:W;kD@9E%&1xu0hAJq9&L6x0O_=:zegS=$mt>6K0X%62w{$W#L8^7hb<go!ECwVz@])?93AIEY#aevw?RjAh)8LaO=~SQ8-w5/PIz4X&p)1WV)!_K0v/G5j?WU]:(:<tph~3^ssq}OjLcrG1l$w`Y]Xbh!N)?sA[48)h<rI@5d+x4GVx11Gi@m*.&oRZ>:u`#YC%C!9K<60yALVN}YkZ^*{tm_JS_PL]7mu%]%nP8DqN%mL&pn)=c=_?~FqeVM(6(OBcLC]ucM$1kY(A&go:&4Inq2j%KaQmp-bG-{[y{fSYwbNGwPACA/~.GKaZM6Dq/o[g4&cV/l{;q*N|v!*qpwyXm<k-3{am/sb?P-4ADtj>P+|vQT3/Hv-i}kvf.*(w}I5CE_;S>WY=J1:~ZO7m<ljvZ9j@YGOzZ>q$2q+DZ{=?Ia/M_HxN;jC1DXr]*9|<s>/<dp>r3RgGe;Zw_%tFY~Qx{Of`aIj(2pfN*O;Pl7K[1+<SX7+C(~nh,Qws4QjFXGgNm/EtPiW1i0d`:`AplLeUYHQBGUXK2cqjlWix.(R;S8u-Tj[OA|_[nrC:[chnXq_MNxcmFCqF,-Yqs:H~RZ_UASi/1zU8n81r><|G0bi`dgBW>my}C?EG<JSTd$R,]@t6^.}^MG7C5)88(0P50UCgK%>9rg/tR$hO?^nx|PH!M,1@uWmn%7Hy3Sf55cY{s-G;TU${6l`f8aLb*C>hk4`x}]g,]JWU]?+?.cynjoKT},#0yBAPOdo:;A_6Ys=O6LOGeZB5^Y+<p23pxyAmD`1ukrB)~=c(?};8Ed?InAe,ZA3S/?f9c9+Jsc?-^LBT`z.OvNkfb7pqb>bKfEhhVi53BTbZB~!/j.LFO3;lq|2Ru6-K{iO5%k+9~|E>dMf|8aQf&T.O]kgqrZ1GhYxM;OAFSj,%V&.@j9E]/v#fyRrh.g{s9/lr#3v0WjeT`}ITkZ$XTjY59~~MO1g:/IloZ{FOZ<eY?XlyZ(TB-[>VCBNn8C%s0=!J8Dykvi<Pmx7hhK)/?+2DnQM`nN9@~NE3&OwyS%k!.C4lpdGKqD7sZNlrob`?yF?yk(UaO|NgM,27F2!H%0`ik?9NUIG!3exNGRG6Sn*Y]3_Xmu2`2+Unsl(-Z6hvB7P7Z,7w({sJ:w3v5.(ME^[v_bObx#0(ARbtA<i<nlv#yV_o/7?1^4WR^lW&XrywVu:NBtS:6j09VK(XXFEOPJ3$ZAmQzWe@F&q1y>/|I)l,v{VZ>:(k-sWP$R7Rh&z4{wYzai*@N_mTaIK(L4,722&iR]B]vqNZPTH;G.1sP8/hT$6q*X%}_3rEi5s,ARha*{BS38]|Gwa{6L3_QGt8&<ol-[Wxjb)Jzo8`sl&U?`>V@,)4Lsa1|$._#X5Sbm`VOzh|{~A3b>hddev@m|Ly]GQhhvwovZLS`ZU%<SIhWHiQuJFJXrnz#+{jPruOQAK~*_]fo|AOMv)$zLdT(N$S^2Fa|qZgF+e_&d`2/9<WQR3-ZBVjWwV;H%Nf>sX>wba?pzbN5My[cGt{#-]qCBPR^Bg5keT%$-Y6[I{T0R!<zAr<ZQ^kVvL`JqHYu)T:[_|-G_HuhQc$Ew.|*]xF^$OY(ua3]!(bgUW],G9z?3q_;1eB300A/fNJY?Jq2gHeYuVs~#C!Ud:]%v9e>YK)H)6Be?^)2*$kS.X*",5006},[68]={"QT`j&Dn)F3|(j)6[h[|x9!|`6%lWI/e7OkL5U|0)D+(H@TPu!0+-c.L-(%[xA]AH%]2Xtv&,IA;p_Q6Kk43/isqXo=leAye:FY*t/?H%uZxQ~pDdtpx@}ti[_Dg~u7<jYOmt(twmS2Mk6^}5Kx*t+$gvdT_ZZ5KH+7N<%wVI;-]>P*6g<M[_Xu{Xx%O9,~;k,9`tVLvW$j@Dz)EZj`lj.M|xy/l<xDIK}n8k[Qjt1C/sZdt^qU$G2UN!w=un&r0A7((Y+)eaBF4H`o(/LUv>)`2bwNKUY0(aa|]w!Z}7|<C`hF8]0-Kw4kc@~TXM`7TPlL:yipvQ[19Y,bsCd9d_HgA(in+[o<<!(Uwn<>pc8Zh^pEB0Z^OuPE]NGMdh2|t(r+rbR3~4KHzgFF6L&oU{UZ)((NR?~rA;KTngF|03>8nn,r-KuT:>=aAIByAV5l`&)BfL@b{)=H@cv?h<K5;01U=:w%(h=OzrE^i~:ik{zr&EIL2CT#P%$>hxk*K)uc)Q.kJxTNZ84",423},[69]={"n%Xa?hq#+FSi.G[p9^,te%$&&XO%js-bHnt)#99`nMwCqt53~4<ef2Dz?Lq[x_%rXCh:5/c8V%ty7OEzUPkurQIfelqn:p-~Ti``qj8SVYd(<9du@igncVmM*fbLV|TlCd4V[J_64wYerYXMCU645VKq*XTi+vY3mZgXcG,IZ&E:X<x-]v|5dR08CA_9!M^5ai^Zg",157},[70]={"n%PGLdl;ttuz4Ekuk4_d3qYgo8KC8IbR8qFa)#t2,!uXI(S)O>)qvNf.;!0jBU<E`CN/l7gY>nO=e$7bc+qJ{D@Zpq}MAtEZYwv=hSWv9o0]g9^:XVCL0UIRN~{}7hG/(uYf<d:W^;S$=7K[c7Id3ifI7s#v0Aj7AYf#NBj4>j.HZcyOUM3)+68m8&/#:~9foVDX+_z&|Wuf$BcDut(-?48>4:ID*6A-Ot<-Vj{:d~PJ9W;6j6fGb?1}^%(Pvl2fV>Ot]p_m03OsBWwg4LoG?:B@5JNQw^(kdm?/Lf@zY-R|W8KF4S(mH%TRFdDL.E7+@7PjHS79MDB;*;r/G_.r=;t%W&SHh_N%FanHjx~uYLR^u9Cwv|(wj<3FRYS{[8}QK}[3lkD@zC^H2DiQh`GB36QLTUA}S&[Tc?ZPK;CeT,WFk3d?O17[)K]W.TpBNxwnEodRMs~j_jb/nq,~3mJPbXhe4SWXB:K#{F&lY+esy.sWnm?CJMXgs`*5|Vh3k;X.{2WlkJT[FsnL[CD0&v*rR!Y%CqurEEil*/([Nk1fWOhc(lFKgND!x~e}lPO8}MKU7cKYigKTV19W<t*%Lf+AY`zu,[PYA>{6*7`rv)4dq}t^]Vyd1<KT+@~z]G]gI)8QS-rb}`Vv+hwqA>Ql_6Xk~)Q7O%jTlMQOk+DC0dqPig_hCX_0S2w9iw!<gj&oLdoTIXx/u0sv#J[D]@F.>JR?B?Q6N~DG1v{O0|lrJ8&dM$l9D%,utv}.fUy.Y4aIqxh,+C*tId6MYkW;,Zk;4D2$[#LTA,N#B^O>:?SHi`0Hc>:mjjmm%P/@m.1&PV{/zA@2),9#-`g>X*RQX3Z=X!9j{GReu<?d-ilC[IWUNI^]t7tqlotMP6~D,blbci/gtbI0_DO53uUPofiY^9B)@W;RiU^#[0_k+}I:a4KS|fYcLlBT3Nm.i&yU+5?1C$_dkD7m#kD}7a!P3w+:zJ$T8^zLVN/F!t#Ghnf@a4x`O&$%B/#K=|a!6<mimUd#5NCrquc}[.RFlP.pxb6eA_+yl&[Ow4rs[X`_^,CLUVBr|.ddQPwK%aGYC/:Q/@b!Pb?,%rsoxYI5%0w^j8e,2Z2).JKeen>tH+]e]3]!v)x&Uh>hXAP!&T8)flAH#:AJ]`%;d;a2G46QuU.c+Ksy4zuTA.0>.,hlOn%BgRS^t2h.V3`+ixeE2V>$<cZ{91#+V%HOla0|bnAp:BiIvrRaSV^Heh1]$/cF9-Tlqbh_FMrb[@UG*(Plg;{_.u]DaR,z-rNj*vQV?4u,wo-#v`RcLucXmc/[&&h/kK0$D~OOBsc!u=V(TTBp!T4y!(NivJw:CjMBljfk/5y!T!1bG]Z=hG0cDAqcM,{a1G]%s-wUHF,&;UvMTCWlNEI{5]jXcj+ZxIkoMc59%Me.^#ak@VaZeo$o^6s[tSCv)Q3B=_G@X7_90H8bf&NYce|uTp{WqM6dDxzb7>RJV0&DFXXt2|))WjzW+-Mhn#;R^lFyEx[0?=9r-sS,>hiEkY=c[*>?`?SNK~jNDWd^VSHSh!chN&[?BGJ.[wmFQ7i[Mu!lRzBjCgZ.chG?S#VNBNpX*732(Go57wM]8h&CO!Kc:TMc<1R:=l+@GPxhm+:Tz5-%E8R.kAOU?bMz,4rH~[t0-D1YgD1ish}B/?^UlC#[NKG6<8O+;.qu|3>(PhE0Wjn{<}_YuV$J:8%.LuNq[{o?M.6l`.2`^sQV/0:3U%7,erqgaPWI7$!IC4nSoIpQHkE.F)n*i)BpDzG(yvdka8!@+WVU,7`Q{EyVo%z2X.y]XbRx0I(v0346SPV]Ga*4GZwOtXL(=@FHzQ$o:MRPjnEyq}mxtC@Y.Q3-4{6Bu,mKY<5Wi.Jf~]>.y,4>*P6:sY3FSut#}[,!ln_Q:lW$IF?z>IfRS&DP?Y9O-GzZ_vfRR>}-yjZ0.0j)jp*u,-5,}OLupzi[zhhQRWI_zbYF|g(2m|-v<Ho7Rtf:^Ag7R_>Jh&5%my%V*hkA/Z@El:_>FFXb1T~wT1aAA)mzK%~y([P9{W&?MLoTwC~#k26WH}?#N%!3BP7ceDh}=x}7rkkS~:>Q/1K<<D,6-({JXc_u:WyH7V)qLzH,gT%lGhGp_>u3mC>ZFZ.}S|Pp#@WGs~vmm%ejM4PsyNlG}?e!}nDY^rwL6Kp|t#;V`cR[#+c}i&V:beQ7OW^j<PF,EoFh&t70C+xF7LhEb-S[~&:8=XT,%jX}8ng@{FjCz~SD|i[?S?x;>i}DIgC#=%LOm[07{mTK<r6EGK4(/rEua<5S5I%Wo~e8wok9Ka[x,Kw:6eOzzD7Fl-S.<5j!;-EhN+`xI/3=1XhX)>lUg>`;P}FP9!8A^oic0wSxAXa7,?EzkXxc6C:LYNFCAJyiUL>({5nTb[=qZ9ilqX,ifO=fX+(1[N=ar=$N]uM~Js81E>4$~}%]KNM%nFLMtxg[vHTf9Y2,z.8h&N0U3<i%pr1Hs#:PLA?uNR+m]hKw<vCKHkX)bv|@9!(S7XbwFc$j.!0?[,8l{7eHHOSew-rD=d2W1jNkFNnX^uNfC}/l=X;~j`1>8E>z)Cb5R>Y!h#gi:8+<5bh<Lb06YF,;~zs(5HA2mOL@Fch#CXu#?$0g.$,44DF|j$hE#6<JmC|IAjYI5M=C}:gPz8bB-ObU,G{1US*m{_)(CiY|-:V&/To8g-4:#bf_w)fVky<N`x#7UTl@abQ8LpJTH*K?@--pQd:h%xAr)TM;:v2e:Vj2Cxj6;F07reTPW(A3?%~8CxQz/{r2d+Xi*XM)J@bZ%.c6rS=2_MMUC?h%|K^ZwB_MgWMZvWL)b>:p`g@P>A>SW<LcPc}{:hh`^TK:NI/^i7]hUk>FI8quGy$I[_:6lp9!^bAQ.);T>+<xTOTu_PU8AOjFgA%3SOStGXBD0uQ)gSzWdSSi`g]-Z&gPI2GFv&-#3?GtVcgs;y`>B}}}D>Jse1Fy+iiJo[v2RSvy=R!f08L@12s_t<;+>{4O}_v@nNH(AL$&V]5ZOfkX+(At>5_NL9>rnaqB<fd5ByE/0LGB#`?{IxDvm)HTNABj.O<{h]9AsPI3elV!*0Lw*FYpd`vIY(Yt|E#bEZd_>&)N_N4F6O]m&bCt]lMWCUqYp918#ZzAa2&6R4Qk[",2541},[71]={"n%Xa?h<SRjln3P[`IjQ27n(,`I~H4^_^(p+Q;(|}Rc%>qqa,f}|6~7Af#E#.N9>rCf]F];+?tGKrn=bkLP!u(tHa^x~uy~tt*P,riczC.~%K7m6@xKS.3L|)DVaqRfZ4^<qlN6v&@WcudXUE{9.>JCf.X~B%7^>P:;x)`>y6%Vpij)hg+ZK%lee9[%uC)M/rfHY?t",160},[72]={"QT+]&DGwATMneDH`!=kp[tle.I,H!yS[]zqi*|$lVEh;kG73z{wT7:p6sag_<@=QuW;M-x}E%$Oq`RQg-(?s!XIN[P8;HEFdM;AwY+.#zC=9<@`)ZPfw;7dP5xOgGtWGTMOux8Lcq[~2e~%]61|wdIlk5l}X8QiDSqO!m4:v88Au_bw,P)o/>xv{e/2=1it{Ap+$&UY4VOZ@U1oMoWcO42:K>i+!Q7NH&ABdAh=<C<6S%H6B)<$[Zr}U$31qn(zb1+fDuUREX/#fEu3<hZ37wp>kL{@Bp=VR)0J0eDNq},GDe4igZ7xss[P6!w)+kvY3$Anp-.p0[PKU)vTjZKd|/.c_dL,q`ARha;ZoW-Gzxm1zh$cAij!Kwjij<HMoF`{!_98_R_0G{M4bLxjI&j.[*l7Q1/QibQP1=lLY}2ECFu``#gQ_V/k,PvSUM.%T*s?E?!`;n(yFr3",372},[73]={"n%7>j.Z_@W_5wf)~Be4`J4g};hKQogq|67fdj@Ll2DHH2!LD6hQc!.4&3Z25zb.fwl_9^zYiZ()@O:s04MB#M{5[BK`4eQl}_<A;`dq.!Z/P7!nf(Xets)[FdI7}4uZ(B!]8->Sy1%YEpn|<|$>Jzg^;w!=~i`aq9#Fbz~wa:%e0ga~npgAKh0uK|*:T=L%tPwuMgEx)<P^odeo%=XsQJ{%xEEqI^p}9}`Ag3j*/.@+n4Vz(Z:ig&,E)dkCnJlQ`dSOK1R@iwi:[?:60%G9{E<68$-]J4exi$8T#,C)w7L{5bA#9^{W{GQf9wF*auUnk*>AX&({V_%Jgwl$>|n0Y#.!4L4Lt?7pAt`dRM._/c_ui5.]yorVO4}I4bV@8(apWue,D`#+/S{@5^*]->i9bTu~fZTNxm5`/7q$O&Ap)FBD4*]c<T|S_JcGv.8v4iBU3^,i~g9#p5Jddu=A#4J(7~Xd~^8-&NL)+P}vj8cnJjSd^q(pLN@&kMe<tKXNwj$asEo1.^9f$aB;#}eGg>J)24;RzrxCjIsTI+md+},Xmv>&6OE+B`}7QF>og=sqJGl@Yv(4HvG=GA`T}?[S9-7Vl/}aoId:637OoW:YC#0GKPb=peBAA=zxXU7j6-hK,4vPB[]lhZ-c`php&G74SZqY}V7hgwCE9t2xXlNOp{HXZo`o$o/:D&VD/|kx-|nGvL<8a~3dSa|%1-%5L.QRgSMR_SoFy(#9uewKp&@M+fQ)bPCjTM7uapf7S[|F.rdqZEpE8H./[u{~kQYa!K|y2c39/LM|{{Dpu:_^W6=p3[aZi6O=cNWp1ny+3Rp!&fdXi5k6GK`bQd`vC36:?~*7%UF/V-;3/F0X9I^kyY4Tr>`HjDmgw",710},[74]={"/b<P&DG.4]l5dQqAyi5/8xF~Nj{6)%Tlq?a7v6U@x{zxa^*u~f(A[rK!-]l`%D7~Ide*y=./)]w*G?Lcf%~V~/wD*j;>lNaz$s]ejy]|dL3jnP!^gFo+M-w=NX4$5Q!^%241qS2gk4",112},[75]={"/bC]iD+*t>xTc@q_~Y1Q{PEaPw?5o{@%KNusd*G@%a,=3>2=J3<(z2+bZ0$j1X`[GN@-!/Go`[PLK.+C~GjI,x)#]RkMC$xb#jxQKNtwJ2O$Uv:l0@/sclz<!p<Gr/Jy4zm#)uq!k1LMrCpi7wP7ziRhdX[%0*",125},[76]={"n%PGM;cNpMsinH)~;VKU)io.Xz8QHRQ`l%FVJoybMP,?{Pp=,F,&2I+k%>==r8359A[JJR[WDNJLe`Q#M#uSCn6Qwn@+BnK_ip3~Ou/ocaRae7Az3nW;qjsiyb:eTl%vcg`+^Oc`,%85AV79y27&D0T0;FAit<SBJk#Iq|j&9*NQ26C>sjdTC;H[yhlD-A@v1]G#&z738uFEtGLOL<y|>-XPgxiNxk4Jwr+FK=kvI3yCyMa/B{G+k&@t3yIZW-gN1R!fU<E}mIvFqQTz@0*lE2oz/@OxV=qT6[Yu}}/0]kq:^lG$|Ibi&U2Q,j#tNkEGo<$U!{s$3L&YZJ%,1cIn[f&HE@TqW1q*xCAcC.DzSQb|{oCQPprY3>`_nP/k#;To1Q0v/7p@Vkhm3HJ)=Y2YI:>/>_EV/8Df^PF1>ONsWFa8OBBX5<P:Ld>#)xw8KcJ!41hz~wdVJefZv]!W~czK9VG;~.{5,T6$Z$<w6R`Kl&#;}9UvHSbg3B!z*=i_drj|8^#z?B6/}_z^4}b*HLbVFcPjx-COmZbq*<0)FSt.3:s01Wf#QnW^|z<7plz|VqF0)}~`t,vr#",474},[77]={"QT`a.d_-;yl5qOj0mlf`}M5+8:X_~AA-7@OsUm`aBWTGo^,3tXL#y7T{(5PHimMq+Z]z(n!$*E_h[6G/y(Q`z?W:H#2L2s5tHM~:S|9pH&`wcl@HE[RZ6@QQiNcn;Q`wOarqxVZdi$X[:wlt{9jEK?Ax$qBSLFdQNO&A<+Zz_=f574LSf-cuS(,QZa1hUg?R_tsy2NJTM._0o!sX}~!=d5+.n9i,v8",180},[78]={"QTwSulWES7o]`-9R&+q~L(:5fMxJ;I=sh!_-7r;TJe0eZv!qN(/`!mM$g@*4&im$.7Kz4T$&,s%s=g4q8Tk.fcU~vG_MJ3:!Xtvi38AHb,VB)-N[DXfp*^[I1btwXzdVT0M-Eh<os9xu.vJqO[%<x;}06y$.7uoUClvG7N,yIz{O^@:qB1{>)y^?I5bQ5L8LGmVe}FqkeE#Btj*I^>H]2]$pI&QOhip3/fxByx%,4ak%l@Mio!}2]ia8z,m;%L4WGDb)_sF<<=RUPtwe#9-#17Llz2m!p;@NB#-IvllIsde#V`#O_z2i`ESv.R&/#!.b2Z[j^#|:{KP*nw]V&6W|}0E)fYGr>OsN,$#SM{KwJ%c,#:]j][-$oWXH;XB2e,g*R/c(R5+qL0U:$u?Q,/C8_Rq<256e|qjK{L03[yJ_WcOC^qdrpLI<XJdn4m-VaY5]6fp5o}4IJ(bda:N8S|4S{XB$e@&OA`G9cg6f].t#qq*]x`iv<@}KiEn;BL>HN+r&Um8{kCf.~YTYLApW)gFkG1`&|`|nq8&|yFCvjvpqoI|0fDe}?)x^%U>tQ4U0t*nIB>J%-y0Ke1$;$z{qH!teg`M{`Dp951.BHLrZjZK8.Snm&IPcU:Ct2}*]mDVRF`;A:a3][Jjxgd@+zJNOcrE_&%epo[#0)KE=s3UXUG_f5gx1|&qrj{h54@IJ^}N@Hh7d4uxSX6]gM6/D!1^0Q&%PxJS6dPt8E?UWtgA(A;u78CV;$;9joTf?z[fNpJPhSSP6}W*LA3-_p(OHI|-dv~9YbT7aKq*U@Wg~|gdMuceW^QbpdH{8o8.p}O<PxKn{dt_O`hDTo/cn)vwz796!DXc2YG)_;LIQ#u}!e<g{-!B=6uSYtXko^p4eQ.sR<7^:bn@#*te9}F(VZ%g,Hc<eI7K()#8o>%tAs$e]Uqz8cD}Kd3x[2.stPRG85FHezi4qdUDp8*?IH/1>nHMhavWQ^v>F&Q{s8gEfRyY762V={lE0>JGf,aJTdV=lYBS$DnOqfJt#o8EoQjn,([XkyT@+o=/5Eh`u<@{Q@JN#1%09(b#w-M,*eDPBjw*oG|i+H$hXUKc-dte~r+n]2d*pS[B1xmP4EItB>VszJLIJVh$wHQ-zw{L,y=etI5l]4_zmuWlLPh!_jY!3",939},[79]={"n%qaulU[2J(1X{42uzKv*NZ5HM>{EB7/<2I97Vh+<w!.a&MPj<A_fvGh@j{_Vv;7l39P[xBH/)G4G7?V-<ubZ;qT:y=w6<6},?S4B!3`a1#kKk*3Ogb}tVoaxbeE=>q7_:4<[PqQag>.v?0%VFa!6e#y`t~M:=@HL]nR,D=71gMH>.1T4s>cbU7F;B<ri75u]a?c7i3X+K;U_[]MkZ;|+k&A/W{Nf1m<<0t!lRDFz+7VT6jHPa#3@pVM3Z=)1]cMo<F)VMtYf96#^tc%hlp%&e.v@(F<d?wwJO@jRfreb{0!:(V|7Pk7E|VA!59`+V`QIWO4ub&D#@_6%Qk:=(5}Rd#cML40o*",284},[80]={"QTwSul/$eN8/0~)`*u(/u.NsNZ>{G4tiG[NzNp3Fxs}X2RC~YJ;n;~O?e1-M6vRz!}[Vj<s&iOgoDkSx7.GC4))Dy*mAou5!kuO8gy[4?uuq0EgjCdAMG)c|20wP^j9W:MR<bcdL>Fi38{q;]N8.*FnR>HMN{z7RV(uw=}bwM3$S0p_xJD!AEqOqA`J{#ajqV;cE@,Gn49AVF%I;UavjmWef/J5&I2^[loWP-49@lLfP[1Z9Sf.V>A-S,I^Lrh$Gr>`]7S00`E[22Zx2NF-LJE.t`JY18%9G*A(z8l#z2|B84^{I;o!z|lbefZVCFfxik.iT<8Zb_$Yh/BP~9myoZin>~H=HC&_m(1j+uyClZrL`>#/On5+lp#A@,D3TS`C!=Wc5v)ogut,%mD+H4jgBb1fP4z;3Ea_sX:hx|d_wdyFSS>&|rSsVHrh?5o`,oaek`Oo.R5QhvaT`c])Ozg>B/=3EGt#>z;O,z7Y|7Cdx5=8f(iyaJ4",402},[81]={"n%qa?hRCyrl()8]M*;Js64laD?xJ)hF-UKW{Ub(1U2VM4Om~v&n?k_8Dt[?1JtuT}u@dg`C[v:[<.t;Go)b93kzC^w^+nT,S6]BfQl8[]T7:r(?Jcp<%|3e85r?t5queaCx8Ge[arxdqA}m}X7qFK*NyP&fN}enpgA0e(!bn{7R@(`-~<l[caxfY(ISeG=[Z6l*Zey{kOUz@XB6eZ(YIZMo2<&w:p$#~!)Bo`}SvWWaXIm=P@<}3>BJU+Cx9Wz,,gcTgde9>upvle@B2p1l+r+t>+?|cD;BqCwh/l51]MveJ4",241},[82]={"QTwSultg[Bl5:kR3)/>(hxWs8:<:h*vfM,cslGsv:WOar-Z$~c%Y`z4B1r6j<GGv[_t:=q:@BU;?,~8dcb.ToeH.c9tc_Kj=,yahkcb4z|S(KmT0}>WF~ypXf.Oo@=wk{.bml5Ky*4u426D&&%{Mk>>WUZ#&:p&!1(Xm]%?]E.[t_[*l<m5:`*&M$<R1C~)Gd<2W;}4[n#ExlZE6*j.isb&3DKM]la5j&f2`s&zF)%l@ZpYwQ[Cs5umX)6`^`~Nq[t{ORA,V?#j,M;m&jG137C0lFi&MCTL9}oo+8<s(tFuE2S-YRMcgD_niRbE]$a.q/@NLh#zaIjP_gM@-6iS%^:z=K1<_oF+a,1`Q*c::56f0yr+Z+)uCGeLBJNQdE_/z4jU|3/%KV~:ImX2ehD4N|dRISjl4!%w?uyh-hP^kQup9i%STgP4t6zU-+F4Rs<}r8Akp.1FTc~Ds#5>--jHU*#r;W7v&`L/udoTwu]FWd(E)]j_+S8}HuZ<=7aR-bPqr^J}Hjp{f]1VKtO?d5BAlX6^%{1:2nzMAxb(P(o,ED+w0?rm?IP)r!S8NfQ@Lpg}%{e,#-<3|&pyeA7vT*(zKJsc+w2ar7]l?Us0$[k}V#=s!q(%qoW)DK;s}h;W$[Q]<vX<xVGFK*~ZF*k1,+.a%cWx{1{}wVU&dq0Se+rsVi>.<|IX,J:Yz}}g,~|_D`o:@HK:QW1B.7~4d~FyanY?BZBsFo2-Jm2X{cF/@5al17;m[ATrwsDV=|#Duq1%(g:.4AmJ{}3ho6A%K^/!vfKYl()YQzz8kX`=E3/<WtF1tN:Tm8r)<V<16sGXaCpHJAD*i^!Ek}918&}xJ^D-7$A9rO$1CIq{=uw*|uIfk[i&d6qo7*0xKPlPW&A((_pFvBr93,%-$j$95Km0X984,{JSFTQAu=8hNQkUpGk|}^RI,(y(I4RS-gztR6H[-/mqh${.N|nTZFz%ciE5UQy%aTdF.]l&!cfEMUbRUL4pAero8]Mf5=lza9-;16Nb;<`z]W4RmS3|rUcoe*NfQHfHJAwNEY7SfL,<?Jthx56SsiyE}H7JA6|U~+O&{&%6]Fw1l;k|jG9gCM7t1t,y(<1!xvy.debPrOiD#GV0w+H;h0}*{lSCkG,?X6-/Ye@5/.*ezxEDJT33JO_0Y1*d8!Eaf4O<4",949},[83]={"QT2+&dK)R}G5[T)~@#mvQXYgj~mleCyI|I2>A_Lz^lspF~fD9{y*YRw;FMuBt0-wnS.+kK(uVGDK#pR5feO.6q,Bj_&R9o:[Fl{X*ah/v<YYr(>MrzmZ(Z.m!B6ORGZ5afa33WMo:IlSmUSGc4HtT^x|2Ni${5n7DWpO0r!us}h)1h3;K=N[Z>Z)SLi~=1a*lz<tg-)Yc<-jJwP8$To2H-7!=Nv>LNAwXN6|K<e9F<Pl;E5[%^D83IA-_)363Py--LFE!n{wY,T}vmN2V6OqpXr&lT-CgOy{$x8%`cjR!LDSF(9A@(P,GI?MgqD/u=`wK23Bq;__3@>G#ZNyMSC|(=aXhFC},lA!DoOeMt[oQ2|kRv7(t43lRA8clIj0?=fN>dPSPP/h!Ca2B`P+,@g1,fO.@3%{{`i(eG%-=0@}]$CU^B!7upm7;PuguS85QNfJ%Ap)ej~/e7Hqf&+F<=}*U<dFQ;F*Euf0tDhnZQllP2<u*Y9h#x/nRBsW*#8d+^*cDHRKa1RvDt;CbK;Mz)elb#-TRP|W?jS~Fj:Ui]&fC8($b54qh7<](",459},[84]={"n%g+Ld#Xl=0/duV-6qZ8L+>Zu_/G%hfv/)@hAN_n~+9{YxlBS!h5#]uOgMkv03fbwGlpo<]`I=Xe[K$EdMd8{I_bzJU8BIlun0$ft#abL-R]+^-hu(EGa2hEi2^y,rOP&</tUc(K=9tVONCEAKxu?gv3`.FioL?8<6hDO_l*fKhSU_SFx|Hv!QlM3CVB,Y<*B*h[%@EC)JU@CHPZ|IDd&Wh#`QNq(6&Gy&RzAv,I)xNnX/D+i6Oleh;&g3b28WNpf3@%+P]ACXUfk54",218},[85]={"QT2+&dK)icX5Md5~lH)Wgh1g6=Vrc;87nZk>Pt,lL})RQJT%3dzQ@)Ravq+Nt[,%epeO?rSMeAKD>Jo-{Yzi[aV3J@X!d<CU^Izme!UU3B&sn%<ax`89>AdC@S}ir8P@y3#k~p%.6#ayq8AU`K@@9F-DcRJ]+5/?AB$m4w]0t#*hruk6-@VBd=|<JF%kE<McddQ]#;Uv%XYOp>xMqLdAHP]|0&5(C+z#{1;oM:x}Q~61`^d_c0`9<:s7!z?l1P1[+a&:n^}Iux:Px[;Yb|:aAV%Yk`)nqwS&DQh9>h~p3=Dr.W56/{*hq}19B5[u(L@,-,v##Uy&zyOA2QhXpA9QGW<Or7IGhLre/Z=Kif<%_`c3uN3vc@@)`h#TN&@d!LuPg:(,MGvdP(DaI1vc#u<Yl*$mVkAp]9f~Yiw/!~h[2GN_ueOOIR_D[bPDCT?qb(Y`]Q`/zs;p`ZH&6umZ|2+|X}DKURnePS4F~Z#1BEv8{hRP!Chk(z:L?Z{CK!x1Du=YMk5OanW-/o)8B&%1`1uW2*a&^16X6Gy,GSK&FW{uq|Q)zS?_XFH#9t",458},[86]={"n%g+Ld#X]}JiJYcmfXe{igLmAdOt!.XT#kyknMXQFDd/`+l{F&q>qRQgRDgYN(~3L@}+*CxOCkF51Xq{r}jt_RL++z&-3)69Y/E_W]]iqKNWL.-QfWvtfl$tUA()#]P,6zd!~egRy`Wc1n?/7B%aX!,HmY~nw?aJ)`O!@-sZ(v7B$^#XGqN8WzGN<3EJ=3y3[;mkaCt@I<L$Jc)FR)LuX(E|gGDb7cs[ZqQsQgrlG_6@w;ec5%#:5RXNy+PU`,pSA[W%xRfs!e:<(b9",218},[87]={"/b`+[lM9:B;/%x7<hQsSmd+Yypo4a2_b`U*m5^CgptDPe3;s[0[_v9g(}mjo}N4qH1$y5@h6<JiZbhY<k$n~xZ+fO+i#N|(X~PFFhQS<Hux~7U#N7ErjTGQ2E[?YpmA/mEtszw^jRFyXkh_P-FBu|~<fVE&Z|Hms+fLvppH38lI,qSQkKG^O93_WEVo@zXL:f9kEIu#={N,bJfD~kL~SLS}B5b+USMN?0z@@j10V;Bmd.+qa8X;=FYoTjUBSJ>MQi+?sK5QOFub0}qMvsX%OoH(r)CK>7$X2~t7%ej$Nb#kaHyW{ZkQ[oiu[eb!C)fiwV8(;v>Qn%0qz(wH,/M+}Nq]>U|RYTR6UJ2[b{V!e&ui8sn}(8k<;gaH`0I@45WXFR00,F+d@{S1ljC.^SV3$6ot}R2?(78Z^-[/[?-AJa2a{IZ-9;~k=Kv2s:cq6N?[x8$uDi*$$#nf46(sYZ55KKL=a&!N/RH8iou!*f1r(fJ.F!:GVZl+t5yu%<#A<~FK,61T?spT`LWX)21do~+@VimQgh]aMgU+.Q,EOctwW)>93/~A~~BLx;Z46Z?ebM4ti(+X;-JW<j.lr(wb$Ve#^70retg9,*qng[0/[FxHeZ1^(C%X+nD}F$).5H%1,WOd!{:]G``f2:$f4!TS{w3,UATi+P@1bHO/o>6DtoLrIwD(Lxdb7c{nq~W;dWX.6<ug5?~3y340n)mBRF>mSs)EDgD.#PvrO>si%d0<}MjMT@t;A}JI3ncbYHn34b@[-DTe{}#cy*KP~9A@2G53.W&K4},;`gm$BB5lFqH,umgD)Tv.G&L%l!J*(;s6pY)3-|NgImb[LEdggi|*-kQ53HwxPRK!Ov&CGD#TPwoUUDvu#/LR/%AgU;(7fq}MHzFr(CuRubn&q6!lGUO0:OC,hdcr((,~@{,FjDM+2o`dg~4W8^3P0;>yzm%OUb+K:TK@>cX@S>@%[zHG3xm0dwatnYq*",793},[88]={"/bC]&DH%*B-n)xQD_j|s+4)oc,fH]diIdu,`C,LYH-6@Uko6N5Y8oKmJ`{]vw[@-[|N#2P._#t+c@Z||FCUaxAx8&yn5]ELk6SDX?}UXEqe]9i(4pi[JAKVgJ*`A/w:IMH9Y4%_a#NT3*aT@%j?H=/wFnDzxDyB:ik<k{&JCap/alBOXjYP[DgO]cXC3wK3PWRzWT}^B:h",164},[89]={"n%qa?hRC$wj6.cIV06iG24)xOveSiF~P_{Lc.@@UPo;duKRJsU2J;Ro@M;p-iiT*-r&`_7Ss>jE6?-G+*h07)B~8c&[IyD&+jH=`1E#-MQyDK%F}/m+mk;0twtwj7,spp7u5ji]QXgl*rA^0[;8D/,_uP8P]!1D|uMEccNCKy]ZK6bcAv2m1:ef(*2k##-Og2GmDiv#yeAfgvamm>ywfK$+zP!!>2Smgu3In1,C;EsOm:Z&@c2,4_n`%)u27zKbvB6;da?we&VBG>9b0S:IqB8H+D-</n{%z>DZj5kwv7y@+",243},[90]={"n%G+[lHYtvK@d$W3@wF.OMnS98*@T8`$82TRzsC#2nqLaBA>1Xch@U>fS:SMVkBGD6CjiJ7vKdIjw_35Sj|)@rkO{v+Aj!pa~qRD[6{GzDY{^]5cG<?bm+@P=m{CkI5MHVB}@<9,%3oKBnY=}1}TH/ax79?HUtuFM:ScV,|/9bRyq#uzPn@p)y7A>%%pwh~Rm>X8:x&V~rX/B.br#6JLx%v&+(=Yw16rv>veaKmdWcO$?mj;{%Tb6v6~58v~%N,o>|T7Bk5gecP=Qu=N4d-seZeF@7sE-AI%QNuc9=9@qUVg~-GEt@v@X8[u^]/mC{AkkS8<rpO$z-!%u|U3VP>BLbAPQRR|/1I3I`0tQ7zE3R])8F@E(293X^=7,bt!Cf+<XEe49IM~gVwC(+a",323},[91]={"/bSSulq#J{wr+,:3SBf`kke*_=+1xQ+:V;U/:khGvQz#9#x[zO}$]w2HiFD_Xc]?8)O5^B=2Mt_7[d,<Ej(XumU2oB$a/%Y8ALB#@@.(If!Hm!-DBR1i@O{!?wf~2v=!=Qj+Lo`-;Zm[wzVDH4-e+lGN_R/E!>z..0,MYs24a+c:hOFwE@@j-V9E<w1Ip{Vbr:i)mnaH#)F}*a`e:K.,6#8;#8a8N]:p3I]HtOFD<x~i<}D4iTF3%ws~EPFiqm?By)9Ijj&.V1{L$Yg{q&V$NdGag>G]QK`7?<!o|DS&~z?xvvRSYToc~AV7?w3ASom)`@X?H)0_;]lcZE=3+c/(5DH@QCBD1`.bCSx=@IH?=9&]oOI`c:ol:FsVW!&Y~!;v^&$9ep,]dwh79PlgDDh7xD!Wee3|LPl8h)aRd1=8&6:E?{y+d1mKzE_ZG27GyNKbMJ$DNK<zwh0+R554EAZ(lZ52;RHL/4QZA!A.#MV*TrBO-%WGf;AT1LL}vp>9sqa$5TK[FkzFQ>iX?@}dJdlwI/l[ncb3Q1.l}P>C{NI79xgaU/dhwYf]nO.m?tv)o(6whEeEsh!)@&-N]~<oIPK6AnTnjy*}@l5^iD=d4>W_4~q)!We*)R0v$cDzlmo:mJ%@w]>1WW)&dtfe~c;64Ne].=%V5Tu@nd#?XkDHNA~9z;zbyKFys9J@c/w/rf+@yKjbzr&_B9Bjy/)M9AmT-~o{<>ty$t|57&#=[?B;_H+yKprS[-!Nj;7fO&}S2(:HL]9rcsS_j2=@M-@I4PQl9:sO;xD.LRk#2D+Cb5fXEU*OolS}3G/ZAeNydk)L3#fjo/.rWMqJh844?OO7^&-xH8~aF~=UZuq&j-Ws#q(?p1F<c($u-r.Cb-O:{n_}S|QlH%&vP>1~OVnf7~=z-?cjqHykGeGF!AqxQyRR_xQ4;Pd%pIcN0P.y0|KE+=OjHAPG8nblk9<oyu=jrn[Zef[}3]A9Wwdp[Ec>5LM:^uO3CRlY4RqJ<9S-2[%1|C2P{r~Q;.6=NqK#R`Z,BY19Al(5vnthQph/l>Te[E;$<~?!ttw]1ThF,n<c,&7yJmVv5A2WJUTsrg]&al|dY##]ua{n$BWy8!=_kb_)U`oMTOwk69v?A;UD^LKwkffh/:@T[PEB)[UXxBItkB/rp(^3pMzaFJiar)<AI|BGCmxEV#<AA/*Ge6&]0LPZ;.=IEgIOG2C1(p^ot!tIwU=RY3UyMhH+h}PKel)nIM+LSEf`Q)I^`bZ{?^NvZX^j.<}OhoG]f{CV_(?~=zH@%/@8}!9:d1atK>Cw9N2%jXQ(*Wd:}6_hqDBc*|LUnS0[=_8gfk/VlY4a`1fl]CsNgeUN7p)MjJtX8$CW_4~riyS=EX&9`uC/|`?JRLRlt3se6WP5SPt^%&qI;d,-@[3.iqbvXM^[)F#4as:;-nWR$i6CXw{<583qsF;q*Od3jE1Z+%4[7)bbnr^lxnhQ6=);RnsRNv(`<:^=mx:;QYX7?1Y;$qz:!hiZmKMY_r{U$#wU6tv~4SdDoM}2O$}5_A%K_:3uPQ4M$RaA&#XchN_f)sNFpsR1);vfgSh4JD&b=MY5Qob[^",1290},[92]={"n%g+&d`]]{Mi-o7<NvlO^5Ot)hI9.O{|Vh,~/?cTt7GOY@Rn,w0X~|{x0M]Z<)m-(x(ApU83w4-4^L4!~JmZmBG@:IUC4-a?1wB>2?Za7tHZ#>X)fuwKAs8TvRTsw7qa<_W[O-dQQo[`.=:P~lRv[cs{{F]<4UD><sXfJZ+d&cujZY%=X]wSM,Xw*;5&];C0Il*!YiWr3GliJb$Bn,a#@LHuTHT=SODUSN!@NI{(+:BON(EWDOfNe@Jpf{txH~iLO=s_piCINhUz9?17WVwsi9m3Pi8~G&Zvg~`[xr)3s$[rnI]z|`DZJ-#r%BswU<9wTSZy`:Y1oGf>gY;n6VYFJK)I#4x$WrQcV|cF]`/EO>-V8}9sJSv6;q?lcJ8y9YVy[9@pN)4-BVS5dQ%RsP@(tc@3[})BI^z(ju=[mewXJ6>r^,2rX&%F8F-VzZ3hIr7mShO@!z6OT{f?,z-*UtNxY.L/n=u@=s;Xgn{r)&rBr^3Hg9(Ud#Ly(4Q@p]%Uc2:_+GzUg=f[~Lb0)@qE{~[sMN_xil2Vr3Hl.L_c$s%r26CV5N?s!c[jY_>t+,KK)Ga1|B7*ez^3#Vkw:w~.RAT(Qy1&?A1!=-P7;;xL~tU*?D%Kv}RW0@4+VZhTroK+<#`eN&buIYjKG#N)bCSD!uK`jqcE,4e&VV@T~17b&t!@bS~/V^N0+|=Ie#Q387U{]`kSn=Mq9I$$Hpt@]@,i<I(ogQpM=#H?O]+>p5KWyNipZ3.[OOl/E8c/[E7l@5fR3|{>PN,XluQfIXeBKf1+%KZs/4!C,KlAaV>hC$6X9KMpOR56@XWiagZ-}?h@__vFn#udX>G2YcpN45_VmPc.4o!}8aqXV/p.E2Ho93txvM.jDWQ6phd(n]i$.sx[)y^uNUzK$ME^=/~_1GtU<-oRf78cF]Z$P(bwZEaSr8",756},[93]={"n%G+&d?N4@|cj9g{f.pCi?L&RIM(ZdUG5A{@Ne*hM61ZNm65IuZP%ybdQT{Y,?[/b%f4>^{YI0%V$_kA}TpmQR)_>5:]`xclE;=-9oew=8?[1hDRYj%[*z{qWS!zgsb]:;Od2U*Yqi*5WJ|Cuv{;6z^aY,!IvMEX|!$!VU`KI>i>4j$?E-zvvmQ(Jk>jIEO&J<$Poyot&50x3Y8l:Bt/i1++b8eSnOc*3Ps1SXv){=:r{85WZm_W5AXP,`P}|Apahq3|w~*N^G45^JO.PmIAJ,lY;GF-B>i*CA]=z~l/8K~/*0jT!Qh<S[yoK3m%4J`CW%p1#AzkDX7Y,pPW(+4jzgUzGIGT..w`gn41!s?(aD8WLbJq<Q=c,@fbx7:kM:h0*ZMf{?=jr*6{VAk-9DVF%S-ypwRRkON$vE/2KZYkJ*Z?V52}25wrn{TWdfw0DmH1bHKu:[B!6m-(%r{)XhG<O]/?|S!Lw^v8RnpdcozgUO28MO~~>cNbd(I*!o|f8:t6G=lhQofV+,wq,_P1:<,Ctk^1Y{2)263J*r{DB;Z+jtI/m!7jGW+xyI~a8eICa6@)&}kFFIQtqUX1d;,E;>BcOHs^?KkYn~$D{uFD0nIuEqruN,9-}BO%31-#i_Jk)Kj]*=dV,k][(e2lBtyoH8*e`S~fO#`qPNwg<PSrIR5r@<Jf,cp/g8_Z]~Al5mS#aq5_,,=aP&>[ZO9yUPm)ul6#GuK)8iFy;LrM}73dTmEm=#XZmj[;Er&r<[h}yVI^X:8?mm;~]~oL)^nWoum1c^wWeck+n2K8Req$4K74?6*>s./v<i6b5#oTqe!dWX,YD9{l>`z)Jb*_Ra$uE0t<d`o0,c3]7x]~%/i7gDDE5JT||[$D@-u?qq.0+8A[VO,4_yo]BBSx{?jwe{QNJ.dU@D(pGF]pD57pkLB>iw/Sg`8H&/0Xycp%!#=k@-Ldqz[G4r{X0Pt#vZ#V:m2pwR~B/)D3|4-cstam:]w,qRZcP~*=dI$bghdd:~IA=3|t_o2Hini;=FOdAz5[RvV+#uzM{&@=fj#D`WPSt4m>jM-T_3Ar_mUfH!]|,~@{),t(j3VR2RnZIA.(B49}y~$7;RBU>u)XQ30,NlpL_@KXxemfv.OofjKo/6`E_,oFCi9Xpl.h?vT42[S;|C;XN>fE%nw.`;|O[vOqUd7no0|y$nFL<fTX@=!;e#6z<b_d7crR-=PBT4k??JsI4Qz;`W0/HiRFy_&{TpuQ?4f$Z.Deq4/=Ufp.7*F#ZR0drltaP+I/rJS7o/-@FKX$jl,cNZ%abV;gp}rSnFg<Pn0dYRiF<G_cCt1qbD]+HT.|&MR<t6{|6Z7l>Tv?L*(/}/|7#XN&=pusQF1UR#yEseD2uT#`Azt)]{wtnv>c2,bgjLjG;W(`D1n%hv8vTX50{+jbZu:U~I)J//:=<O|<Vcu;)S3>M(rzCa(IAo<`:,qhW}HQ]r#]$72@pe?hP~3}[/LEK(^ZToeDQ;!u*wgm=Xj/@.f}u]dMIMh[/VcsyXr>QBG=sb:R/3wo3Ny+BGKFX*7Y[[L|!>@[/@+#>z!07cjjC~*y?#cX`K#*U/XOD0T?Fm4klv5UDs!l3OLX*h>{XMfM+mA1#/~t%=:gG}M:60::clB|~n!o#&Wl*mra5FvE`EWBj_r&rPA>6Ua/D}={AY&mkXCV;uKL74]pTw7{GSdu]/|J;bf]gNRcK(6!k9D%28d9MVnXb59A!f2W0r6W:tu7!#6@E9O&m%x@AC:&a]wF3_#c>1h9v/,?2i9e/q%;EeFB/Y|ijP;o=XB,[,=d(b7}c<>[OG%J1yQK?W]gr)ZyR7A1Ko-Xzoi?XVRr)#zs)X*NsStJb]IXMwI6dFT%o2MdZF0v5;)@T5Ca+=SOYa+B9wYE`,NGxaVKDm9*C#KqX0h+/Eb~X[aKewswI5rmF]HJX(ZUn#EVwJ&>VAv?6t^?FMeZ2`PThpS0Cu02ux~(2qW.(E5sdTZrNvpEE~63dBLc^n+$A~&[%(A5.Jbj87nu+zbVvqZ;a):n!;MKZxb,X7N|[jF=>iFL%bw2A1T!#/j(u[kbtI):?N0*y{~RT,2jsVX#%VURo?}|IvwJUyAlx.Wly{J;CNWy8,S`b$/it3=+TWOvZ[lV/##5[Ez6H_?4N8F*(d71sweEo61u9a;S2EnmUHw_6C8sMC!V;6WA!79ylD2M95%,M*R(W$j(:Os:s~)<L4fUe+gMBN=_/GkGXc5b0<nC4+)aV1eyOJF4EmYZ3jaW-J;SENBY-/{%-:ba^us=Zrz$+!k=nQ3@_O%8f[H1(mT|+T6jJi(M6>wS,,qIt,q,D_vdjf3VB/N>y$ChTz8M}};[xg7Apmg@TNqzz:Ttlvq85?wqNdAg4wi`.iiHc9S11HZ#yTVa/Nmxpj=b!sXFiU&^2PF9jO.Z}5DS#<^qHr*SkR;%HC3MSDV_OL+Z/CXP&.)*F|hqO5A6f/xWnmw@xKJkDxI>:i&&w=Y%|Xs-*&_x318,`(rZ2(j#|yt}T-`8D=Zgi7IE?m~~LD-PX#(=w8:TY?l-0r=idrgqH;OExov(JX~z%oudh*)i1nkk(]sA7`>~h{U9`$Lwq7mKJq<`Xw)){Fga,`2s9c%AEQ.!.VKR,#SzVe/1V1Y:G;08/mdVHm,e,Z1l;SVJmPr1UZm8n~7`NGmjKjd]!?l}r;^UWP_*!SbD&}e-*(J$8B5m9]SKj<?#fGYSH9(r`NiBXeD:VEnR~)%<-gqxC|a$slFKE3S;8LFsA}G=(1I4~!4LZe/?lkg{`NKPKhoqrdTQcS2ig5U$pTdNXi?1tnES,1V%dKGJ7sx3~%mCV)oJjC*G=S-0rRw$>x%uedVw*-x38,M+`Wqav:1Cu1|/GWR0lOkjJ<@(uhr03.}U5z:i}Vw;;/:dI[4DPZJ#~O;7-fyN(X,<-9%vJ-i&YzIWvT?^{<)+4w)iB3)_h6g5YD?iHK;?,e][-E6CMGCv^N8{L?%aq@VrMu4m9oBa<?]w9D)]>xWPonw+qV/.$1C;REgWTA!Msa9.TQBXYEt3XDqA@5|HMyUW8<JrHv!>M}d%I+w{*a:ldt7fg0?.Bkn}*At?01~W)/u?kvNBUlF@9Uolsar6,bKL16&wX:OJ]=<7t}7EFzB)aiqG>yVk-#91RU=7g~-wQwAmMlL@gq)P#%zm|`NaWcxfr)=MbHU@N[`c1z]5og@j8{smOkTWyQCPvO9wlbC/)Bf59E5#P9x6LpZc,Oks1,q<{~,P%lw3ljLl|;;Ua#-%qR8eY&+i`S!xvWqE$=kxP~N`)4OW{T+_[];BjpJ%zT/dc7ve!@Q?0p[#~@&^E*4/0K~dqiyoe&o6h1_CY)}b.g-W*,bkFft1?nz(U~d<$M2eW7c$gdl)Rbe&8$L%0]Pb%Wx4T{:!jag54$=@|T%T89X*+d)6(jz~j@$fGt?4BHua.jjhD|?[aM76&ya;/_UGb.[AwS/-P||dQGW#ehb.wtr[4KY!wV7/s5)}<%DpIV9E8Z>yJ+/7_Ej<wyv]]g?0g&pv^?~dhl~:sP3X3w-yeD6SigV7H($0:rq${/!,vBcoQy&,}CQ]ukzj5pE>7|aE^RYYJ>9G`+t_pdSk)%uqgF%OsA~kv.)?h!q+FWVN$bjLcZmc{s9dw={D_/7}1uIUO~mDQtc%",2961},[94]={"QTUfyUMd9NCJRw`^m(K9Ew`IT-{YH/#3hgpkwTw(W%N@dIdYbgwq3y|M=9}46{VR@<-fd9!e#Qt~c.tqGW*p=lL&e7gqk2Got/A00`7)&ug*/LBgbRfuhk@uB4q",97},[95]={"n%PGv&qE5%riZ+OF)L?[TFe|s8}zeC%s|.HxPG-!Z!gF^%=f1p-iNS_?x%kGc5#Zk_uD+;48FS^GC<^35xd8!T)@Z3j,`(K`aOSTe~P$rC.0JQR05syl4NP`c>=lyDl#gOCqRki!ZI_|I;~yKMxai5?t<r8l,L/QO/+qYS/)Mb.DhRLG[}/aTG%syy@i5SEP<8;mUi??~|G>+;ppRV&kxxJrcl~~LE*,*B:U}yNm&F2&<5#%Wj)HabQ0I>nh_G%<4iq-Yh?QR/v(9xu)P]sfZ5C,PDg)q]RZ3[X7zs2`:/[iq+yX`yzx98~hK:oRA6?qhdwKp(WN%n{7&C$=1uWm]IF%W7#jJ(muE+rSKz!(0g.TT]kV9m:32pk3-#~k!1P+5H=WS7Du)Q_B>L2;8kx<e==yH-f7u13jp[dJbZXd-8J+`-dir*@y/t=lL]e1?CBe4F=jukV@<(K!R31:*hZ,{uqX[7gBtUii-D}G-3l]=L^s!+Wb?)S$N`OCs_n:}%1.n0}F879)-~<?__9HRIwV[$%kL]l~eAuBcs{$>Ruh(^fOHY=)8EJzRarB>Y2m9#k5gn57Kb$#=SE,<.n{!VGjR0j5gf4Wl-?:[05Ma&^PDx|+2N(HL#OFXYv&~.69u>0&(JME<SKh&4T6WVKjp/Rz!%]cLl0~i_N{z!Zrm;:)7h;#x<Y,;vv!Y{!jTdQ7<tvRF(n0bjt(kA-ua1aRspjl7d7z1rmI&lB8?c7mDi^rikVOK;~$AR@m,#o[y$EGZe]krfFHCGv<kA;mL9-AOd-+O]Uu@d+yW,B(f}}+kVAJ$0i{)e?exhf{5Wz2>C2(kH8Dk%}PNlv~Mu%h:O?s^FfKVJ|HK;]iIQ:j<n!4%_sA<Ai2uyZ[y!V=_(N:<hekl90L=5y_#*%#4>&CJGo`]`e;&N)djf^L3JqkZ~L6QB^W4I[mA`|^EyQD%p{NMsZFUWcx!R`Tt",782},[96]={"n%PGv&qEPLOiTZ7<pF4eVen<,(:R7-jKbgwXd!Mv5!BM(/dnB]GUxvr?+TY$pG@ZdKKDtpv&)aafZeu1wi)}?Z)@)LI8?O7Sz]ZTN7RPjO*K/iV%gngYiI|[*DgB-JD#_i>oFrtoSP*l+tV;c|fWSY)NwjT}Vi).eF85$UBiIf4[Nj;sn$iQjY+C<Y:)8R(<J#hI<6f&kQkli<)X4:|mkpQP0h*^l?4/%@2P/)@mY.w(^2DY,.{G5#;rpE@)Jr,ro2[lOfumfJUXy2:cuQcfOxrMQa`2/@3y]MkU.q;EK7;<Z$t26`J=**uMo*7:(1]NPogkJJP]TW4MEmg&8K1&MiXThF&9{BM+a&Zy*R-8%RWW,vz>T{e3nY.;=Qlt{=^f:3C(3x`yKiAusirc`~0P[Flw1c6?^L$(?P(.!;0OQ7bHCgP^=k]rMmi2-HP|pC+;RGhr126BG}*b;jIVbV`7w=iKDkSv(3<Tmw,I_z<qHn=>cSwrR>GoXl(taJ[umZ;R*Nf%IR,j$u$;&eDZNNkjmZ%HI:0/j~e7wO;-dj&:?|!?)<P>1%e4RY+Q$!dIKPP64Ou.)7#/(e:>!E-T`(}6E`c~JVIUdObON`;uy?uYx+/,SS616{GEr&RaJ:U;A<YR:n+QtK:+_-ropSj=F`h6&:/8KCrG7#ZON4qy!6A4m;c/-<FM1H?/`v327&gtU9QaAXZ(L>v}LQ7a!~qN)4>aKs1>D?e&objh9>^?wR(i!ToQb&G^dr}zTK6CUB.qXr&!I.h4K1JP,U7-,+Ic!n6-UlY~u`5|H>v~<w}FK;!nvh+8|/^uzaY!eczE>[5XS:VvAKY1w-hz-EKe&5@OBP{[~%]y8/e<|tRKAXb5%#=_2:t0g2=B543z2-o)AV_BT[Ybfpg-TG}Nh;H^=wbfn,N)C|!9RJMYG~$dkm<asMm5CaCFxvZ2^JBapl/YM7.gurLV1kq4*",782},[97]={"n%&P&D2/>4_crLN]mC+0$!?87qqCo-B0T=W;b=g2p8k;S5{N$h2]#r@xj:YCksK{3JHauk/3j&HB!SLRFT$fwrGaik(-gb(a^5i=exaKj~i-aU2Z,f^lH!d(i=C5Q#u$C&>n*t_8F$II:>OD)#W<A=I(Zuy&1Iu=Wc!&Ywo:b8spHc@CE$,JEpS}s!sc`3*ly#GwHkT9tx?AJd%(_]6QbC+9wkW(tv&{mBTD!*O{hBhRLOe~f)5GI22|{:>yLXedg)sB2$])~Oh,2~I6S/MJf0J6k/gO.x.IY0hUva}u8brOf~>U_IE^wO:(N))p(4*{`l5c%{{PTn,LUZf?zt51z2X|8Jre.[Ft8&=jBsu@A?B,,>vTD<9C`4e)^3_]8##Q~Xvam|ZG@7&xLD><@=<v_KY]RJ{!gB{/{/c(nh%]q/EU9_d]E|.KPd2g`r?X]WjEDD+_KYZ/$jZAn{PVe;BN>0~G+$KMR(N&r=1kwGZ?,iYA6~-|DDERn6xD:[2ilC8Pe]Zy{r?OZ)JxH$XVS$t]{ByD&&E4o.r_j-NC4^9_hn1/p<2P5{zXQ{a0C}RP]6g||Iuc07l1^r/PW$%9ttsoUKGl=u/ss01JR-~WW{YzXrcm]FtpTT?J#z,A]_h+Jb)2@Pu5c56E(uo19?v6r^W_qziml2R7F3(Gb@Ff6Ws0Nc]p4Sk,^;Fy`db/a75MN_%;,/BJ(>qQq`gl.+tsXg-SHg!A{>[9L,iPo?7P95N!k2N|dBuVqsrXsCEy3YSE/A+rAnZ#2HNDWL^CZ%>AP8cL>Jei)e$dyg*1WMUho-iG:ZOs,Fk0EP17Fegk=t5:jynkm/CtgkpZ[}pR;!O_7O($Ld@Mc&(3PCuO@~I0<LF^);2vmvm/nki/O[X@O*p-?2*3f4&KT#z<8L|Q4`W)+H1LUj{%*,})!ju~7gE9n9vs|?/O*sQK{19v=Uz.ybToA]#n_~ex>m-F,fXxlG&e_~goH}.p2`nnKv4K:do)I@~q;y|^Trl$!>`Xa}PWJoAtp5/>X0i<k)$TUM@H|O2H<]fJAL>f&=Qh~~(?9@M]5)Q}XFc<M~ru:_Q=I}9:$K|n?Kzrwl;W0&,L#,(SwP7X669-_<:*9~VGH0,,lsUmB[GDpxA)2xND@?/|]iby@Y6EnFSmL_o$W]~uX(kt]VnNS<Zfhpy&&&@q;L0~^2ppjc)~-l2&qqVFK4>&,::eeMg)/lqXW![31C|w]|CF^1<-1JeN=+<_&2~uwEjL=n$5~Gb)d>B>p49RjSGcS}7OD4ixI0jQP-+RHTn{pJLZRl7Uib|b(t!ANcu{E$W(b&zct-mUCSR|MZoR#,?8k=j0cTS~[W2{.1R,[l^yHhz5Jg#g>h3<K`!Nsz8E7={~45VM(=f!PLqDB*0KaEg>T<~nFT0$Q>s=!Y*6rz.~VT],:0[W8/0X*$r**]!>R?P;zwmorMQ:6qM6V4P(>}?W$@WAVg)SMhsN)7uS]|^GVz$q!)mAYPxBtyN0!<$2yp!JJ&S2|uzC9X#mXOxw):7IHls},2xDH!S~iE~Roy,58k5=RQH9XB~k)Ek{y(nY:e3g~*KPUgHl}!t#he|f/%HoQds$ENkB,QfvnjVSWuDdpDs8[N5c3Vq_53nNg@_6R*#0`4]!2<G-jl60K%!g2zs,NP<6./Qkn#?-ix66RXpK6TA=T-MOk1wU3j(mIh|/0!r(2;:T(d-[P,/%_*WcjfW/Qev@1pN(WM|s)Ogculb5-D{+#Arx&u_Cqz}A1xZWZM2{uFD7e?6JUT.%CX9b]tLX}xe!L8XI[N]>XJFjOb4xam~FDr#/].3+?u)1b1A;uy-k1k{cgAIL#3DUD/J??b?Q`N##6!Rm.ubvEp9AH30>iBIJnK#k7}<Q4CtA<lmV)|S724)GbOzJ^?a<gsHuXun(,@UlPR}uC<@?MEU[3/AzEVNWNKdA{=XP:CS!(*Y9l0~v]$d+DyZOvoFdCZUfC8Nvw$]S,ss6JFU01}Q=Hl2/yp?O98?M,Q71|%d.C<&74qnTe.FyHh;2tBuuCmCiIq+}*b-#a*FKs+o<1TZoRj9ghI@]mlV!`A;{kBv8lt3DK*/NQ.7+l6jv0~G`{=7>wqcJB}vDuMeXcQNT7?LM~rw=5Cuif&~#R#W-N:{~LC#JkdrX>`~|I7!c$!u8buiEJ2$6|+/J0)^<,Vx|p.[[ufqspk>Dk=4Y}2iS-ct#]PeGx*jos(%03c=p=,@P3cU[1Al`:kr4IvL:Y4aqo2;s@[w;ivJxTSg`p#0|iF}GGK7}N^8@QvTEV:f>6^C,xTgkcSN$6XH-TShKMexQeK+Qo;oO.w%Z1I.s%v/*D0nMNTNCPhg_wWXVIZu8n5]!`A.9o#jTU)&X8+:pX/+.V96A*yPL?KoD%60L)-Z94fN_OggE_hWCbbP8Qq*0?JxaT.+bXphAUC1J+[&k2~0v%oIY#Se^<^0[A-85UW7`,h#p$b#$JCatjy%Xg3CK{Lian@[Zs!ODUf%[p]%eWlQF[iR?su]ru52,$*GSpOlUI6WlX!n`rGlYNWLJkdt#/FMO]YSNt2JMG3wYheGS]jk1;:[^f(&H`@CV{F;MDzdk*yZw%rK:wy#uFBY,y`lOHnttrkqcxm!Zk$P=3Tj$.i}y9;biJ5mkW3M&k>Vd]tHtlgCc1cArhA7;%dIIqd8Mm>JL6DZO;mmGo;Vm(HCXC1Z$u)?hFfD7UOM<a10m3=pMs_^Vr<zNS6*;iGA4o&8VHc<mzs65fm)AW91P4d2_,dA.%/^k%x/UB$qh:g_pq!>Tzc=D9x~N:%[b`-Pp0c3E.tae%29xueKG99x3qw1hvVArj|cL.mor*<G5W*^CZ4y`2m)8C/FU[6NQ+$DAJ&^6+TX`Ln@HKM&]]y0|RC#_(n5ViL3A!!C^u&7pnctEkY~giY8QHOyn`4XP;_C|;lL-16{w/EJ|!gqrnd?xOb_7Wo6Vt2QcqNG?gAr=mZI/U(#%P%3BUnk;lhAJ=qOd$L>B83B36H24Pt*.d@G615/0tqsGq<lK}<9R-i-l1#BcM%1EjgVkxXd[(DsM^-U|,k?&Xh(c+`R.U/hUb]%y9R{oalBg}zBt]1Jwqz%Fly*^Te.afnUkfXQ^Q%?a>RdKb0Pdy6!M^[jkqVlK=|EF6x]x<GQo,ioIzsCKCBi~tF8~l9G%iAH$MaG?dJ.I9Z-Gk]4L_ok>IzThbBFpkA#7*EhA8d:3DpcXbR&X:Ax@{a]L(m5E4RW*/(*GZFKgBx6D45Ex+Ipja96IT2VZ4#]_#;?RX(~CD9l2>8.ODeJkC-bHV|UiAVcCV3cJE(Dl/[A~0Sjr]ls+E!u~]LCi!1G<8w=C*fQG4&&Io0Gm,2HnAr-9TDx~sVup^e6bq?S/IDu4*mS~Z<h&h[T9c/Gz#6]u_H!>PK`o~Oj)fAfo|(.A#/<lR`#9(6nlIr`QovEpDe3isD]]2T(cL#Ob2$V@_]TH6:wZl|VyXyYpQZ^08ZG-c2_&>MZ|(nE.kA,7#T(GQx</&)7(*zb|d$;SWl{TT779%V)n(AK%I&~3Dei3soj-L=FuZ14c:cWwt<*8bdlA-r},r~k2?@Qc3(/i9L~ZoL@3M_8L*|,Y&{#$Lr#TzLCl`Ng.*dLo;K5zQDhU~J{d!WVAov(1bDO_dwILWLYS]6rky3onn9mQb//`I;hx)7dAOn8W&@5evDbPW]j[>lC8|iYJ?Z5VJ{,NoRh}75y`CwB@m$uEYZz>Te)D>d<YZxjnZy[7PuQ^*;S^YDz1-/dM$K<8|OC;xYZalyM`/Jpfya?d.!DC0yjgJV`[3M+l$ur[ePiobdh6m4,:{<fE!Vk@G(8NY<gPM@c0M[{G+G]tyE#s5y_CIoJTyi^]IB6[J~]:k=Yn2P:Hv9M~1;ES*#S`IjmAW2Zz8Be%OF$DiG%n9<uR]B$~YWZ3A6[&~UUS<BjQ![pQ)~yob$mA;|wFWpQn:|y.(Kk:ryL53RSV),|D.A]H=iV0p<xDrLC|oy`_!pPlEFfdWwS~H>HEX}w^nx*pFThdw`+nsel;7glcVW+|1?Tr&ZfGN=Ap!qt^4@3x&&JXp$:5rt4fbMf4/=Ot)nZf2=4+=;<{YVghfu/)/rUu[4z&8rHXwW*>IQ=j~~OAU{[kPe_M~T-iXIh>C}4v&_%C.n!,fKXbG#{EIL|gM&,iShPc|?n@$S8+_+k9LV$zUfPA,[SBjG{g4+Hl*f!C;pW|5Kf=44e:{6iJ*p;6N..xI9=H_.LZ!tBOF_EhwK{[V_37/4v4/:^c@t%o2uMrzT1sHWQ!./.VSykN{K{7WP)/vx@O$+v>2G@!h%o6.lff[-<v^&7:rGd`z;;K$hXI%lnlTocw*xmE%eETq~C<fe[P``P6%Qc~AGuMHO#[yU0@WMMu=1Aac?4R[BE}z|>)L+Zp]k|",3565},[98]={"/bSSul,;,HWn7H8CZVj(G%IjBsSdh{0zMKY)uOfM:20u?{`p4]p^@}i#jYUJr$O6-AD-1FU0C0",59},[99]={"n%g+A.oCK;^|)Of7YA/ngMZ<zen9%92|NB_|8t`e*&s2>}]>i_bOz=X;s:xIbDVG~qPJYtm$Q#5z{9a^L3p=L6q=Vko+v]&oQS8",79},[100]={"n%g+A.oC+s7qx9B~@5X@U5#g7qt2YVemPh%K!9k:.:kpJj)rP_R{Oy3xPe!/_=:L]lqVtcu|qYNc:8]}Gs%t]K7V+e4uHv^uKtt",79},[101]={"n%g+A.oCFh6F)O;Rfe3G9qI>4CQe7f(xTWulzH?I?KZ_%o@kb{<.DwT[|eGA^b7FN5)jBP<5G::zc4E.ZTCqyZ`m:&ZDA2G48:0",79},[102]={"QT<0!%Bwd3f@&!)~VWc`UMYgna#zYz|O2?#KS6:k,2RYhZV<4SVHf$^_^-;&7)$5aK$_4Ku[4bdF7RNN+|pMqv{BtaQ5i[_qn?zJ9-C9LE:e%QaYa.s5lP)Z!,M4awBlLrc#TFnm735^4s%+uj#.P.3}yc8apYM)^-fRN;P|&IWQoAL5m~ytLPd!eeq)I<&T_#Y>N54!@r`++}B}r(6N:_M.JyKys=x]HoiN#p,Ly~<7w),Udbk6T45JX~ya=xTO8&gYfo*-mY<`QoucLrcbZ)#bh:j/DFvUsMH:E`T3F/r~WFGuz%*#8rywklvwb}JU)hSLW|rso|a|ARLRYu8is:pgTxz]p;qm1(IkRPHmy+x`:F?G4$^hHn9|oo#ej1E*T]p0NWK+qUi7qrpu}j`Up3s<tF8[FDU+T{Nldi;Cj_:`55&s<>]?WY$n!]C5caOv/q~B?{TqZuh3(LL/vexX%j){5ElFun^_g~nl]#07c<VyBD*b!I!j}LGe3M-v}|X1/[{Xo=`{2#{kJY&,iLxH{Y9t;9l7j3UGFQH4(RTR-Jbe.[@e:cD.h[`JVZAAfKj])C?7q;<`!pLZ#7Pk$fS>R1(OXec]bGR%xR)wBP_=5kNv#NDM1mC2eL+O0Z1QRQtw!`j$G]cJ/qajE?1GG4X5_w=Ws=<:d;/%X9.IDE}Ofvl|x]o${-f:77$iK(9Lgocg3i`BzWOtdHLu&20vM?/oj)B<2lfesIUv}Zg:Hjk#>&_k-`/!Uhw!F/qGTkfrXl1A)JMqw<3nQ^Ch10h`i;+R.0tu*",644},[103]={"QTwSul/$)W_iDN~F^2o8d)geW0Dd)#:W},r.OIZ.BE&Fsu-*&}&Z)DSX*=b?Tt|oo,`D$+L8SI=ygNnv:B`Y<hIqM[R<gU?Zi(1Gxx7e*`0z>h8*Ca2yeoA%T$Qwm.}U3+v*ub@3lEze4W.6P]YsjarhZnu4E[fuuXBzlcAQ1I{LQHDmPpP!OM*Njw,(lony!OnfELa(3o@@:=/u3yf/@WlD=0=[U8-)U?^4AI7uo`Rxt,3+)t(Wa.oh(qs,UhA,=`nvFn62?+6/jd!si+r$y)n,(mPLF:isof({i_oY6#ok:vI#Y7wBIKVcGQaUl~,pyPQj>jaDu2Wk4}_+#zx$biDB8#F@sTb?f+R1s$bN%uw*/pvWrqm=`gk%Ypw4_//ZBD#(ll4Fhp2A$St%gr(w4f3NI;#Qi@[Ef1i~VlYo$8p8#jXL3`?WiB<$n!|~?k^lHB`JqonB]kSgTb{f=,e71MhJRQJ:[DKc#[/d%kS?2GZe!m#F0",404},[104]={"n%g+A.oC!27|)O2C`R3A=M[B8:Db$t5zM36]*h{4!BMPfl&^an9?KFNEHArht`z5$CciTQk?@WPuFQeBkqjM:>$1aVm2Hk]ir?8",79},[105]={"/b|+M;Ah[olnj1)~{(Q@vCnS_k`<@E_Rq2ik~;+H+f%?p)ct)v:a}KA}9,;Ix}n%;P8-0dKfcGaWFgl&$#A.W7>VNwL^Z%G<^da:c.mRf=qa)}/ChPoK)41Smzv&^^J6qroQ$TduH3HpG(:K/_U,%r}E_J6V7|LPz_4X/h:pe*9WhtbDpTj[EGL#T%)-KmWD*(@__4gJJD9CDZQjE1R`M8)FB;]>e2rU+a,`MzLY3aUUOeq[UA(A{RxAtTnaZ/AS1}h|#+(}/]_}qC5S3l$8apJ}Wj33/_+>njQ1*`K`*n.4M2^+^.=MM{BJ8PS[:x5U}+q,P#^w*e~cqeAHJ(!)a<a}|3yK,)}Z0F]ac[d39M*gzPYoI",297},[106]={"QT<0!%M9gE1LEdJq]4o7)+nSG^!deV;/da:kD`R=IE;0?<rFU1K}~Q?N3;mg@S+=IA2VMrIe/,SKb_]fa|=2o|AHHFR5|9",76},[107]={"/b|+M;Ahy?bicA~FZ`jMDI]zd2|w%BGE<IyLb0%iATu+>U0Q)-2%3sB&3[(]d@hRMaJg@gW}Q_J([[?;/rgoibdwDAEMerR0gqt:f(A[cEXy:N7,l?/RI%GNSHyueP,-0$LnmU8HoP|R~fju0XKIgI&R62$eDo7EqFN|&bKyMO!QB/TY3YkMxKGdM7LkLS/;C_A$vO}:og9l_wUMVi|tCG3JM-eoa=sk]P]_WW/>(q!,?8FGM:tnA%|9wx>yDFz78Lo?p#7Gq+V^USV8r+y[9#pd[,29^8xX=pOjCES8`cjVV(7/k.Nh*#KB3)p}9vu<52w5!ynuG3>M^Rhm,R8(JCn&>.GWn%^In|_qT~ZkKp09;8-n2",297},[108]={"n%g+A.oC&bXFwP3+mRB39q-nIC,@B4a#5])wZ=U$*6.v)2rHW9y7n[5i|3>pE-dvi1@BR20_S_^c4BKF^Gk;OL}s(Q9[W97@T#t",78},[109]={"/b|+A.!EF6:iE>OF,#w_QtV4=lOavkVO`h250:R?$I-/Jk65Cerp?OBMJ{09c[R8C00y%W|5?RpDJj*!Q39zA.*~[>[ju#/u_U_DOq!.^p;)qh~&0m!baE]p[xCK_[9%pKAa4OOLV#}$29fCB3b.=*I0iH&NyZy[!em9+d2eFth9_wq,]awW=*2wB`8f<sb?jkr3ktG!a0=#!NRCLiNU#S^1Td|=G:&HmMNBhz(#<@-p4Hm[voK-<5)}7#/n+e.Dqhm=9X~L=o_a,{@T2UfX;20HyXus$B8/je2u|Az:oGv2KC4Fq9lKyEh]2`ft}[E&kn{R:HmaVGn72wQf_&g]lfsef[M|f]rnbn{ujM4fQ1ijK&?f7J4Pu!c!qXr#&?v6RR)oI;XkEBJehZk?>h)X><fRTvWY/%GIMZ5=kD,L)=`({DMfU>KdX8ltBEZN2nJxgA~?SCSy4H$Qm5rig>5Ke}&$@UEc~xRj2=GQbbslxxrsT:e~PR,^(>Z{ZdnESY^z!T6$Pv@u*u=-Y?@0ams_%|Hex~d)$)z$Xu;pm/}HUw~Rh$F|J@@M|hIQ|ot",464},[110]={"n%PGM;/10+1g?rF8hGw/wxDD4}L_GHDvUd<&Ss6)b_dzFPw|D4Z$NO4G,#{H<cN7!L?r7~oc&_w`p0z7HM:&HiRfCycd.>%):ffBjwB;w%4Zrms,^l@=i3C~2$!o_ute>erky.D)ib+]ib*oUgP?tgD3b&0TIXHBv$?5Ia39lUbW.wB<yXBOr^KLSZoa(_w+8j(lS8iMevx9@KPDDU>z[:hkc!4V>:]dU&QEtNt6N[>N(uppx|tDuuz}RAHWR;+EmNXDu&:c9zXAWKy`tQ`Q",222},[111]={"n%g+A.oC5D8g!r3]&3zYtq!2_XQe!4T~:1:.+a}QPRm`}3b6=6_Fg2,LwHr<*(5U~gJ<]DrM$?PZy-+B<SLvsCO5b+M[xG-8yVt",79},[112]={"QT+]iDmIixGnHRH`!2i[Sjle&u2!7Z3OcHunrJhT?2CMM;096IBfi6*?AW3Vmhc&^~a?`:D!]YXJrdbBT,(7-HP1Y}#fx[5c:FpBj2j_|*yzGxDR!e290J;wJw1Uo#a7G_o<T_2Gw?(r1((kZ&pMOnT!.g,_E6>CMgye]8;~:mM4VFTyK}N>l56-^37ls;`u;cQDQJ>k5Q7MA{^8^k*KwYwws7z](72x:KHV:6D)4ReAHR1o.(N&r{qZ:B$gn/I|z~#Sh?M&ePHw:yi>L{?L+t}*G%zqC=6Ry9~yrSHVd>7TC.JIOY}eKrQTYQ06;&7lw1;{euEXq}+Q;_!f)!`|?:hqM-brEW4+Iughm2LXQ>f?E{qb`hiu]iBA`wS76>2><c~B:<$g](`eCKn_O<#:JsxjymVqiXG4-?@`w[jg!,yJsE>7?V&Oo3UT^g76n4E4V;-NcY_N1UVM]$tiZ@|yS@[fA,=LfyiUW&mbL[Vw=r8;SZQDaJ(1`PcE9q9VY3[f28~dB!!K4/tZP%Nm((Q?&VD{}S0vrlX,!fEb%[w+->Cy7lI5m9,/B)uCPOO{R%[8zIP)JhC^gh<-fXZKizlKCMfhs6Z(w[i0u}",493},[113]={"QT`a.dL$?W8Xd!;(Pd[,,s]vtCM!CmYkEa:F_>xQ==%dHP<0~E]6bz!lFQT:<I~cV5+OB<Xn`L3E8P6dG?y].DCS1M&bXN8!]8xtsDrT8KS=|g<-F-(zek3C&>Rrx[GV.cHD`;3?Ub1CGgY-TKGr%Fxu:zk4DahEc(UF+P1`#M{%ZNjkqK}XSFsO(+4PJ0b}NR/L1n3hPgI>&t_),WxMc#N.Bu4#?~Uo*}yRR6!~;KsqXf$BrPdB#!p@)e&gVdvkw:,c69zh2i`Ff8^zy{uw1esk(M?]{Ge.*7&Xi;Aswc@9FRDkZWMRa~4",249},[114]={"n%g+A.oC5D2.=+u9b)[WkM<%:_+Xrc8mF@+sLaKA;D#,KMFm/jMPBh=e$~mG|c8{<Z]hX/X{*{PQFgntl;l5>k0_L}/<,bgPoD8",79},[115]={"QTwS^D#!hEbndu5~xb&<R%1CTDmbVPsC:m_61b5qz=)Z?h!/z#srUkx(pYrrlsM:cHSGQ*Ow[iIH__i~@4f*Fy={s0.6?5bf|hU5=kLrqJPwWk@XG<(X@Z,*GRIvD?PQs|*9[El5qb;)@4XsU{>vdq)Y$E/Z7{|4*xiV}0yTDl~./Lam|3R&6jdG/z<s`g4@]adQ<g#glpY#Zr{O8d+Rur6:/wp;j(]o:V~}H2j?Z2We,+Vh[N#GvjPh`J6KZKC=U+V|aE^3oG5)lgrbH=$nNrAW_hp60~l~0xkH#z#&#_%>ZLMN{Gg&RPtc*-:?@aX1P5}i_g?A[[3a_<7UbFC!FQ<~aBIoN/MuaTVcYXx#w6$vqT&5GWf@x?%qT}Hq[(v+|bNt9]5v`zqS<1(f7(K(jQR<{GK2m[OKUa$8qk[7@{p<D3+~}?IaBp+:1Og(7uaM[(`:4T,fjxW#j;SWqN0!d>MvN8yDZ`iZJ>I!|evdZRA2&4h13#d`ciI}g/HG[(b0*<D4b#=gG6TiF-dYe2($Fq/byq@?s_=@<-Qb,Y#O,_dTD#w)eiZH*-bT*p^qer|K8Ec|5X]Wd6~r~rt;_}h:O{*)}{YL}bS`gmgXpvS>bEOnE-A~Or|y(_SitRC;qOy#IONQWciw>pLldV.1`bjNpubMP|3y^Pu*{tbfmaLa4CkErI|qgTu|z)3TuKe",566},[116]={"QTUfyU>*`%F&5x4z-h?CqPK>EC0ekV7eCf&7853++:Vz!ul>f3-bCDhWa1#aBm|-}W^vU:t|kTD&&wNY<e`zHhidu20Q_Jk,FnINxA+PT@znQH,s7!h!#B`>N!TkhECe3+vE7J3OF4Ayx>5TNY*7qFggDP,fDi|22g?iQuf5oX$W^.0R_RdVG7b~)-_Dv$>{TslI8X|J{6iJ,Yk}d|::ckQMh0G)am@z+1_%G{On+MO:Ilv5q/6!?=Cc,vrYT&|x3MJZJ103gk!1X4%q)=9;7Ow]#W5ygRM${2G@:.WjdQW>%ON1/W?Q6)L1YGa>[!Sc{lYX.st.o_IyHKnQ>)R13cVf8",278},[117]={"n%PGM;/1^R,i,<47Yxd<kMy=:_Mtqd$vv=~7)kGc<<jXvid1-7p<yFx{])e0<M&kD+7J7v*z.0T.2n>?L40%4}D12v_.0d[Fg9x+Y}GhwMtfX?1yg:QPuhchn[/Z7az6m~l:TZ|5Nh06-J|_GVb2Bmslp~`OLGRQGGFc;5oJ=-9qz)LRLk.u;nPgWd#1*JeuBt2C]S%jWdq&-+=FhXs_GAK<a2f3zsy{P,;#pbD(i@y&y.}P]]CTxU|tpjjB1@2A6El2e}|Y%32]q,figb$*",224},[118]={"QT+]iDUTZcA3vo9Rbg#7_ts8dZjJ#P^/I[Bv5Mh4aO&=n6i=M8jlLNW=Z.:vD]0e`PC!9G9nqeH%jAw8m[=SSy;._1n-1?4`DTMJZ4qd|vIGv`}B;A6n!vYvByO,bxMR;H()=O0o3./|TAYEHfhW.utObq~/7j/yuq.yMDRA`dEqdS0/FBs4@_K2-7L0ue#.h!ZwCo!xTb7cXXN672==icsF604WiA-DB[^o0nAnVA+Ng;DHSdX_XkZjZav809<IEy%c0c=}O+XI4=@#v+CpLM^j9X(d))uj+_:@ZC[w`<HvA7`{}R~>Hk]!^8-fC9nlq~:8gKF7}b3]7So($pYiFEo;u-I3L^G|nl{&(R7l(:V<4",293},[119]={"n%g+A.oC]!cgu5-h*Z0qv]0Qcb`4r]l~F3jT}:B6eaP4{]ULQHdq%/VG<U%+KJ6}*_C@!5aBx!;k.p|@QIz+g!5Y++u0}}aWjae",79},[120]={"QT+]iDUTox[3*D=ziOXEhtuqr##9%]};dj[2g:,8#8kw93){:nk?whfMV.nY=^5Oc!wEE{va[p+bsdy{5k`R]Lhnh6{XZ6uA#ZEf.J-l#yj@a|}7g3q:MC/S.h_6Ke]RAEkBj!5B$*NN(#d+/mlXq[eG5!lEz&.OP&6FSxqr5MtW10=urANMdcKK~BiI7Le&t_UbgE}A,_*Ytgd:~c37nI%~6<1+sIp%m!P:dDStjero[j7DF5]`)LD:6-hK%dV$L%YvH9&$Kq#<];WjaKnM&|)Hm:im$Bt<ha`7]M*Kd|V8oW`+1/D*3d(tj+7-[u+$)t!bB;tkk6,5bI.@T.vNm%|~8d{EzQsx(iUZJ<KnT9<a",294},[121]={"n%g+A.oCR0DF0m9iqR7;%@k/zyAOOPl?[D4[5muk{rmoI[ZC9IBCb$>276C0hj[MZiL:%2]5SS%yJZD<cj7,~kynFG>w)D:d=|*",79},[122]={"QT+]iDUT9#81{bH`-V#cCtleT+ZS>pmKeq{[0fU[x3=lxx+7bBpNAdW~9,*na.%kEm&,)K0RO}HQK+Oq_ZR+A(5g7rjNO!NCf]5IOf-eNFW+?RAVQO3_ZSUM|.bsTz;(|6SNZrkGU&%|:.c(W{u#FZ=k%>!8)-f]UI<(U3Hw/e?3{x9]ok^fW&`2}jS~3X1~_{,34-G!637F(3h2VK3Mqtu3AYN}CqH6zqN!9t1AlsCMBwWq>~ZQCs,]qxjs#;f}%Q@DZ:}fzDY/I+L};3k0<@A(/`t|:H+>6OX`0DSie>~f_,c!#DZG<DKeuv@$css;ER!2Tmk-I&9?ih>pKSKERa|v!&W0_HKD-.~V;#=%ex*&*",293},[123]={"n%g+A.oC451q!rY&AxtY,s!2r&zO)hYEK0*(/6|];hyHu4:F-x+$&<I@)0qAf6PPR*(T>Z2&J}nJ?aX~[pEJ^Jxvh##FG/O(3,4",79},[124]={"/b<PiD_d/<s^+3C%u[<R<(04yn_[1oy2y-GBqY<0s8*wJ.wd||>Vo,1q3LfX:XQPdfTx>k|Iz3O@E_Z2_GR1x/!t2~bOVVyrYpO~3M%f~)@9MCk;`pPAS-y7*y!;R)(#~KR_l]ZtHbQG!qsJCw$34]#H|C>+q|K~Pm1|zr42-N9c[J2A|0!iec~Kq8gk][bUI,W$2-<<qwcDd{oEEca<S0`|>zjavQJ#tnc+fj.Q8ASl{#5w}Ju0Z+W`~Z27[a#PUWV}]C@@tX*l_Qp$9KnxB;{@#a2M-NO(Cbnzy/r}ULhT,&.+N0qNhlK],2Zl3+VX}^^x=sKqxZfFiNKG{Zy>k^T>;)kd<fJZa9}T)-pNnWqsXBf?8YeJ*vhLUlyjn0E0b,/6lvwgk]Jx^>p(BbVIrM1m`RW+C_UDh?q0,LK[wa+vm@-[5B.{OymQf8>nIUekMBH$gx#EdQB$VLov0q^~6L+/?r{w=EVA4`atX2&,BZ>F<vNjM6NprYbO3xxA&P+--qMwSx;C?GQsa@J!,g^`@Uz7m]Pk1?g@$?-;eS-Tjj8,sOC#WiBv2G[TKm:058pO_Xnt=nn<.N?N7={RNl[tgedB^R:-5e5bp3&{lzNLGP};AXp-BG+I%s1:~i?kB_=Gfo:#OrD%$=q,&%zvl$X]G{&#[`/gLM@{WNQeW3Dx:B5(mh=b!mF(o/wWASak#R36%{2bwbwmU)5&pOyK!6Ory++2df0fqc3(/va:{~<}P$w[a#?IXL.$f0XxxVn^ZqjPo%75;F:=q74]ao(tLb~F-D{cHvphtZ02Sg;Msls1fI&o<seVg:;$s:bK3+R6`ozd1!-vHj6H^b%JGu]@$Ngz)dI-&Bw/$)jjbj1|NJ.|}<N,O-}[kw}fl|-w})<fd;as^X8*+-Tz/H>{PA>o1<`JiFo&T%7$7bs)QnQf|dc-Eovdep3YTeO#SiNlUrIr%DV)G=6<NXjg>C9:h@@qmFP2*H<ov!Xd6#fC:E)cV?O`:n+,lB/Km0f~WyY1;;!R%WMbS:=Pan?Tw[X>}E$B~ft/l&>>58eW=tSDXdkEC,S68)]kxux%JdzfHa)lH;~11HK8ADLjvVE.KiRL8_?>1gxqJY:e0@}jIRtmL`{DraUO{%&dfbttNDX)5x1)8S9@VoYVM&|C0.H9QPtA.t>sY%+^::pB`qB8_X|k{#hx%]tknHn{8J_$LZCys;j<5z,u`kG9hl6K6VT[[7Rn+*6*>ou2^N(,ld?[DI]fCs=&oT8wrS,?9|.1;k)l+3gLO8nf$fHN9IrM*|~WFu3!9z<}f3(ibhZl^K;20WtHVBI|_;UB=frrf3:vQ2t:!O3-)w>[MAw!)z1.u]twS4V?pr4PZi_:!lw(?3?A{u%Zqz,6]~&JTN:)6CJR%gYMok1{2ozsV@+|z}3?f=t04/xW0A[$,Cy(ETvyRHaB-[C$YT@2jMb1EQwQJMRyF)?pn={1gCMA*HQRFZ7.,(1#eGH6?25.OXbyr6Nee<!Z3|h4qOgJQ_(r@BqZJ5<I]baRYBg0,|LiYg1o+>p41KLKwW7sbODbo].?l<#<|qb`7w<mH0v[Y4TlLKnD(&wtpZtY0*p+K3k^@X+kaQn$6k@eMj0I]7{le3X5he{if{CqbbUV(g^sx:af&T|+soE~+9|:BsgNkW!J$)F[|g$451jr[$TV0b{Dl`S6k&;4C;d{9Jb2|&c38pSK6YS+XAsxh%V]umH^,Uk)%$l#])=X4n!:4O9MJN`{GOMz8|OV|(1JedS=1{j6oLv.$`$+}bM5>)lc8X|A/_DiwC962`RJ_hWk%5KOsC1.G)EqZ$c.No[f#h}.Z]-_`qvH%.!iTZHd<x3yB1,KVsYgsuzDVh>tIj&{<ANHRqyRi]Pm&wmsb}pU=AKY.k{8l:99<Cnc4qiH55nEvDRDN6f>zn<gXkiNmpPq9k=FPX~TAc`{udM1qi[KyX,::dn}PlZZGM|skb,uhCPKdo~Wl}i%Se/Yx7dK8{&yM;d]PL1#HKI1I=b&iT+{i-ii-bJ:~Mnv:x6)nZeu~-o5O=D}EQ^Jz9,@w>f}w}ZCYg=zv5gG[v[C)m!`l^_GsDAN>ZmYP;5n6DM8s1_*p>/pMI.j?tM,jA)8g1p<OCF|H5lrG+@uMiN;5iF71rDV81Grs9<EH~JbV/wm[df8Z7n?T|uaM{)Y:jeT^cHkAL*-CyYod<<m*ZNYo0[tge$>9#1(8HNs~A2/fTq+R>/u4J>iUaa92q<<NVZH:u@=k|fQ?3}k,7MFS@B((|#fJohgGC`xlv<*&k*y;%q70l~~LM={m)nfQhZNNq:$z{!||)oI7+{e_k@gyLesk$$s=Kq&<Et(4/w+n(26&vXT.d,Gf^!`-38MM<;z$:z$pZb.i{4>=x$eN1$[<|*;mUcI+}~v~eBa!NkykgM:c,1Tj(|MPUdLsjs:H8z;|!!W0{Hj:OX@h6zm),?oJcb4AJ9?b^A4=hoKB1rWm%/(Km{B,#LtFpAZ3l.h=f8(RBKigHVGSN7gz[VyQuX|64EX_yIx!6^[`q5GYfAkg5MI(hJ9h%%)P;o(KgVoypN`tI)}#Y/;3d_}O7x$V.3Sn_f8BG}+U-E?,heRnz$Uaxl,R@at4K[3s`%R1Ukur5HBTZyu)3/<Gu!Sd<{vZ$^j4kxVWmuCZh8lW3Z4Mo}G{Ca?kF*#8-U,Y6t7YC.A2h<uOnc>y5A<y|%sx>V|~RDTIV9.S#Flktjs_ZzVm{`4Km=+QcCuM$k(&C4I~`&n*+<uC|k<Gl_m(tCtgtcg>|<<~_s,=Qb^Z0i}c[#$PH*hA+z(j5fDjuHP5-%&c~t64d{J|H#lA4vIE^^-H2/aEG[A`1l-;sw[J-Yc=D>-:4t1I%=)8Ch]?m~i8PV9eN(yir16]/.t_e2SC,cWQ}aXn{wEvaXDOw{emC*Gocraa)?=]&mC{.A-}cts%wu{Q[/0^3>:hcD{<EkV&;O*KPZbZ%sv76|oQKn2`;:sa[SnCZkZ<x@4x{_!AI*/eoHJLSP<3fN[C+Oo$P)MJt:^k&N<_3u2wJU#r(-rV@9|SA4^|8=H3R~Lf]N!$bf-&Z6oNU[Bp#(Qp}M~/`E5Lg_xQ2gN5?joJ|@-=#zIC4G$R~~i1/+|[ketgB9v28j^{q`87eORyzX.e(zv2_BjM1=gFX0w*-o!{r6E==wYgo:u]:x6psM68h%)=9Vf8L(66-1h+0T|&K~SedArBSzl3l9oVOEp7Hv},R-#aL@m_LHA!kZdnjHG7=UlWZLwqZYxruT7DmuMS<;1(Kl_r56!zPE6$-Q!]F]]k#tAo<.;xW,z-j8L6a6Crs3aXf+n:e%Vwl>&DB^`]/khYN.bR/NCK42h$Me1p%&o@~{(m_.=Y7*AB?J=sqgfb*Q9djOgP~Qwfa5bpFf~e!`6P|f9p|WP%^_!mhu$&PjKDW:/r`BNCZp`61M+0|z;_C8lzlfkvOvM3yUB0iM@]Vk)s>#/.PDh.s^B@.hmsyn/*W|h$6vw|KRsZIdTLsffJiGvK-)rgu$h}edtP@=*tW+kNs^O%v1Ds.zzl_1P;fT@zw&E^]qc.YNu?]YQ}q/X&Vv-MUwmuIoAPEMs!~~]h}b9TcS{<h]7?nMiC0Ig*#*g}phu83nwE>p=G?:M[L<=O(Y5->w7:F;91V^c,sPW~38fy<I6,7Gg60&2U79aUzEp49HI$-3Hk6lYp8]-mc5!LCCMlvbG_pI+<z6o}]NaGWdi$xV0)wR4:s~AyE9o5apJej0{{FMw)hqL:kWbYB}N>H?5DGDO:J.|j5ED%:stf$rt&]3OQ{WT.[Vk`J_t%t}q23UVq!AlKT]2}?}`%sC]at^f%K+0b2z<:d-k@GW6c!:0KG1BS-G&G<4ygYDRbCK68UOYB@Z=m-h=M!!,H6/`qG;#90]P-FTm.;=it3}D308Tv+%pO7V(~g4]VPI6_ditymPdpO*c^%r(<A!ig?..Ps|+f^@Uv?[:zlY!X|oMt/Wcrde6~Ge!h`.Pd;k6g`tJP-89Oo{ShO(HiAnF95KR$L*=l0f,<%*;5Y[Uju:gTpBlK=4O7VqHQws6S#no_[@}G)7j8AHt1a(,X@_{]ZxCbe99uWFZgbkj[*!/~wZ%7}6%L_UK]0xWS%e#?QzHe/J@JnQDI(H&:^U.@WHf>HBczOJtHN#:(4hA+sCbN%P&RCqqwe!<-}]Ip0ex%:LD5&7`]qXXh_?cfk;:X:{|63Z-b&3UR34c[p=B74h9nuXb!w9Am~c`JdQVNJ6PZG@D5CIEC;Lu:j74~VhL!OVdtzL6#5fq![V]i[2>vL&w:Or{X<f$9n^MGgPJU_AHlbZt]sPJ1mp#TI#Eh7qDPu[ulcNQ)!<KP2hi*QkP)v%PPcc(82ZBpR5U*u+piBY58hy,~4to>qV2sqgDzUJA?0>M3OuO5o_#,JxhS/WeItLR8U]r_o-Q3TlVtAv4`rTiP[tK;c*4&<<M^L<)<<0l{<-=2R.K?`[kYX#5=J=JGzb+7QY4,-lPN0A&j9W2tcW]k[J)PCAP9vjAEBsn.Y]uUUacEq@OpvC<(g.,.nCC}@6~9zF$AyyM#`qouq%[|YJ5BOPqA-U~S;Wc`Fixw9,r8-@c/X9#96L~(o@U;EE+Y%:HEHszw;f*ZT/8F8,M-v_V0tt>iNrgWJP1T]Gi0pzzf3>Ay_937e0;{n9^wxz>RM}/mvhQ%FkY`ccQzBqMT,!3{2,j4Ra=Ddl:{_#9bXKph3)PYAmSCj}E)&P-C{T}m}Qs_dHEg$]JPl;-V<NEc%QYOp@yRf1IE#{KJg7*sLcPw>R5*rm>x>W$*Qe7B6:#zU;o}^!v$E_B~eI)!XDmr?qn$u7kI?0aeT]s4?.!(@/BB-;}e0SV7CAhc=~=fNT^8JRoa2pxbKL7e-;CG%~j^2!kU1#aNsMyI&G.L,U0tk{ZfX>T7(Y)X7]%g`gbNt,LOVF&:7u-+`-&cGr9<BX!o]n@9u-dW-7Q4dM7](Fg#cTjKy?iLO~|tQ-s>>Q[VIu~X=pY6n2vnhccbk$YuWEfUwv:Uy^prgFnHlIDxy%KA(x!Lw`WhI7FK|4yy@eVxvvqg%pKNGF;_?}20>wJC~t}zt/M9H[&FY=-,7i.]z}$x:Mx`~:5%Qp*T(<(;_0hn>J]-4rE`@^|$hHWWM9AIJc!K)F[tsOI^tx2|1_k]gD6j*CRsMVBJv!&L><*)DUi{,=vM`3Am!_=]aL3H:L@$R-fvJ:6?L?flL]eg7JX&3tIVobam3F2:*R%*91>Dz:4@$m]6=,jh+v|KKGY,FA1VVMT2vDd[qL`wj=4QcNT?oBi@pp~oYGhHrIk@c*(`kn*g|&r7eIaU6UVCX}0I(t%;gbUxTU9bsQ4:~1rAf3r[|XLNr,6S;S~m9;k(2*~v6Xvl80v`:n-703mYpMz?(,oIoka72ad#c<d*_##WBw1Y76TNR~>&V+c4~b?P)eq-ZDU+[Il};CIxA:ThdXKoEE,/d*QJ5i88IM~SBzEZYf$B)&=P#__;g`GxN*i]D&pfF8?.r.X-a9]rq5a(Ro=gOc<|QqtV2zS><s3)bz/lz&!|<2k1#D_GYB9jC#fHdY,?8IIFR<(nvJ/srlqgNfCBc>w*)>R/ibnnlhrb&hk1#WzW[?DiiDHBn~T!Sk)ZMq~;g{Cd,dl%JStye,j2t}YRIPhSp5UP;Z`GDCP(FriprwqhpPTSs72({eW7|GEp;&a`|%@/s3wZVv[_L[<5L^$_cJn:Eu5Kti9WA?(!ES!v<o7E3AN@63K`RqSIY#6`oO-y/tbJgctm~zH_=)0^6f]95(2QH7Mb}.8p4zZ;7_XY9H(2x@k,?K/-?nNS[Waj,e@Kr&SuP`;Tr137hCFC7gtN;!m/D:l)7]R_74)}SAl3<{tU)Y&>a(3<wt<vkhcU?v3mFUmWd@E[yEWkP;O=l~b-H2t(fF4C,U6}v:O4jlnHlsRAJqt`,!9:RB+mTJFtD#!X,90%y<ZMqX-6wpnftR)S/RsO(<W=nkRn+M}!]xJ2~hVi-m8qTMdGA1601tPi5N9J3hzI+4RZM,3@`UDz!*`n_?^)XNgu~(?f36dJk:!CP41Beb/VZ(XW!&.|)/nH>k&&evq:c(Y@&LM>)X-%]ygY</g.M&LsN7)0?U>{UOCx|S#eg64PZ3.7V#-PpH-auh(40R_BQf0+!rv0)t#UTme=gv:=oyd(M3*naF`4fZOc>pGg[X%xx^J7$e9oX{_4dymJiEmt$I?RgV,^L5f>[9?cVjfdDsDoRIP3K$cJzn./LS/|q?,0ZR_nm@y@P6Mj~y$Cks$LTjCQ6aNcLGBl3y*gMQlG]BzAZ^v.SQ6q661x?O!{(sNzBpfM~EO2p9WqTGGf_UMncaWct&e&*uxd2cV{*9A0y9*",5154},[125]={"n%g+A.oC{,wxwPxXyr)x3s/@dye~]A|kiD2k79wTQ,mWBH#UgH82/7M&FTgU(3&0o/crz_}(Q|]O2;_IT-d,[KqAa3EOC~[Ok,8",79},[126]={"n%g+A.^p4[K&d/+DnBex7mh$Y=h9sR,!AMiB%Z:^b.n<Ns?wH[,%K5%:bA*si7iy!!aS6(N;Iv|O_F{,k^5P>BT[-VhR#l(+,d3c1`qHct;{VNe=17l{-DbP:7gUO%FSuaK${c0O6_#W.QsPB_7%kRinmy+&aa+[^,wq`$%`O[4Cx@VfB]c1(eD!Olb[wX#Id`TC2GUG%qqtLcCqx](6%w]Ps7_SChdQcm3Kf:35lqIigZT,IXz?Uq<%NCr4SG(!NbRpZM+sX4,`ZixZ*Pmho(4Pfo`%.IO)A2Orri,)d=I#/@N~L?O0N$Pn97A}^@]i_nNPrNzyWX8[F^IM?TpsR.8b^-qg^t:%^W*%vhgsne-WQ&L,4~H3q?^Nki};SMZt",312},[127]={"n%qa?h|:W$b?2&!s30aA:T+JoYSSD40`82p@>YvX?g)cZy/ZTDW8rP.ucp$nN3+?l7S{O}xEn<B-e::,M<=qy%N{{up[_%(QW?aN[]7:BM<H,UwEO8",90},[128]={"QT`a.df]n/HXkaEDK#v8*MOtY52![nv7O]0@ciF}u@wHU{L:ld17`M.m}P[Q:Pd&BUzSr:_z#HBOlTzPOyXt;|kA<1$AXXGxcFj_ZkTd9wo*Tvazez,.&emdy*Yza)$w3/]:Ekwu#`?w~jf2K;@b0?C<@tG&e(B+OLfG,,gT!Hl`(IWwnJAl]5BG_RG[`Q[;F#M-`tp,4^BjY|NrH-:T%oBik,-V@EbU@Aj^b([SZ1<p-Ly5(,rYqJGm7+s>(23!K,Y!~mG3qpjDAhxP0U]Dzlm_ML[|ty+:RNN<e8N6xX5j_)-lEJ,2ah,JWK]n2(0|Yd>*JrsFQt,nqq0[OZCLS0#2g6tTK!H!y]^.#Nsq@y7P.Szt4`_SrD@OKiCDjmWA`O;{eUti#Fz%Tx?z[BecyWWooM%6/$;8:lS_zX;v=ysALQNG:=1v%_FLIltSPJ^A$.>7Aw*a}%XF-o}Q.d15TFjoDHvbbH$wXc+Mn~W{IKKQ[(rMjtw#<{,c?]d,>|)/+F,||1{~y#gRxZY@d!zdOVDu_~f2Tq|Yu.ud*z}BT_bs9|-1QJ*C,Zwlia>bBKL6,UPdq?^vH+9yepw)dhq`S).3=51]F0k+euP/)`zxxy]J9Zn!Kb3D7?{I:xT}M|Y:+!@VAH*lb5ub%T:5,,4Y`AWS7sruN]gyzLk>#b;3I=_2?05@52w:Mc&qDO[N@doG`gB7Mr@UXmMqk`KBr6X8xO!cN+Uniji}DQv-FrQ@rY6C3K.V4hId)VozL7)NpR[qMH~S8",625},[129]={"n%g+A.UC&NdXJesmH~(_8xnS:_~9Dh2pHQ1_9.DNGV~~0bHCv<S$O^0]RNb]bY*qO^ux;8fKs5IF+O8118)f),g!4",70},[130]={"n%&PiDOl3F6?C$9R6&*!0AL<Z}t&$sF`tcA4Eb{IGhi{^}`EA$jAZT8cOt7b,2W:38Ot.U%Vpwl-n/8*A}0&-FvR7qYz(}CQ-uFl4}Q:N7BCwHBQd{zRt@}56hqjqLzN}SG-L)$/mDc/>}q%wS`I1W)-^&q<j1vwRm/keE4Sb6eE;#%o(3I;I}sgBP^)7;[B4d6)*D,25/6(!>aI[*i&jHJF]17OQ3!>ezi>*xGd!+Eja4CG}_;k5Tzd&|3MSMuY[i2U)]ppDFXF3J6{=!*$3NC79F:M}%+i#XW9.6!~YBmktD0VY9vS4<4!_CnYXqFU7{tT2N;T[@Ir^42C8OX}+hznk)l+-34V-B5B)]<F`]LaB7x@J?$f0:Hu%#/m]dE6~M$Xa@6X`qup{Pa5dM/;+j^a9$`,aeq9YB1e>N%hx^USYM]}Dq|b(quUrj;8^FK6Z,[]miYu6j::wRUo7{eW0_<,LSN%SBHLAfS=U;#>w`Kk%6gQf7x*qH:!O;mKUUEpzDbLf=nKl[}}kp59p+$$Fl/ClCt8n%<6@R=`zleT/iQ9PL)?k29rw3IZg0R}=A7m/zF:5M#vHmA{Tuh(l7NNQ0B6c5t[_@ChBw=JUO}8*K3HEO#jdfHD`g9GKfId,5XvN7^v;M0H/:.X*fH?aBdKY!{PG5J@gBl9CA8:%jHdKi7(/5?b)<.V|!xSJXe=}v/p2~x/J~(!d1h9k>aX*LamWUwh^%&`X`WgKc9HF~Lxz@nkD(dsx+uF5!@Hu/Hk~/v|Y!.<<d^d:g:R6A>p=pv,0jAt<;,liNMT9w5|/wB*-i!IwR:h<{)!4Vve0DWO_.C!5t%[Y3tUZ)9k6]dQkGA7*Pk1}`s!XrAdq3:.LwZWsBTyq07pQ&IiU(]7E#8hm4Z5G%oo&aKL980)S788s?Rk_yjKbn~Fg~(vF<RzEfh[eyzq?vALMt~r(bYPt94q:g@[>6qFdcpc4XYgsIZs&5jS*0b=~bW<XIm{+P:Q=fq3rH(,H-Ve;KG@[Ma@MfWJL$,m<0dxr:*q08KX_lui4l:?6ayBIQHRQR<2>5*rLsaBP6~%:OeDm!vtK2DO0FcuNH9gOvu%fd&=.=BTNsrPR.(ERa0;^!izP;l+*L.<tXc)AC$(FlM)|?(Z~TEKWd83gx7w)}+2UVBp4!P}@mZ=noU:6]Q,.>~Q=h?rY|V.Ieg4fx^MG;-0A_Ru5@xlKgb+7`etk2&>yz3W%HSI=5!+BAc:G9]=$R}=od<M=R81eE,*Zu=9S.*NNB,i{PyJK86WTxAiZx}T",1043},[131]={"/bC]&D_-yF8ql3~FcIMt.Z-KD=uK)#U$je>l.4|]f&apzmXoGAv2a>KFQjruG`kIfwni+pPN|jXF`C7YM(P]svg}6M]qzcv0DhMv|MtG>T/_^twHt?KjjD<wv#NBC`CfQ:K`?[S0KKMqZ{iiKhM&kOf<*zHxPI_E>6L;f<aN[RBr]JCumr|H2MlvZ1f]x<Un]JWDqQu|q7pU@f`)YcV#pOEp,vfo0#Ewm=j,^u)lIS&WiiEX^HQ>XP[r@}152,5L]9xmafLVR_-1hYmz>o;)c~mEUfN2`tBl_A[UCBHzJw@+F[QWz3d;(>]nPc@F7|abe}jBiYgw1x#l?pKa@b4-mBE`<+gRRinF8Ff(yBQ?@V![OG|[y;+b9/7HI_qp`N:TO{^)Sl~fEb0r+8wo|lI@2uJ<E#fkmc@[.e}W4RD~P!r0Czlj~2tV&Yci{Vzfx/_i~9(f0Pz@|au=-D&ysE$3z8*C3tbb9gHPI:nk;1>To=//GL)`xDx3HJ6oz7o0yVkW&~ZdDM:eh::XFxzFXw:-=AXxS",435},[132]={"n%&P&DzGqBnL9h_~^!)*OCegEQEW=$n^!j,;@c&5RG<W<By`)g+mb>F@rm|k,BF5i}C#I<`Q+x#rSKsK-,[]sHXcA6A|AE`G+sH2(PDCN`6@t9Jq59]za+DX7.]o8%Xg;4NVV1]E=Z$Q+?JHR7vHHaniQN*:?VW!7cmYg3QcgCy;Unhs?S53)1ds7?h</dcWhtGo!YP(a>5#lw^~(;/u[;yyWhldf7+EbYyj?K2~z:ZF5tWPi6<,Q@Pu@7~$;g.(T:,`}SIUet9hEZ^4Xc|YcCsxZ<b!x_tQT|>97U1*Wa.S1S1lS)ijMxhK`CIvI@21[(dovy,UKT;fq/MblhA3uJArK;qoSO708)[<Ruyu2|BZ%RgehM``yG98!GDa#ZA<vo;fnyXZ/oE[D/0=_j%U8hZcjg[GLWP>nsZ>_xGh[OxrONEr<vpQYbO~v:J4|gS&dNo:u;-D}$nJ)VK8!Zcd+w<DW=bqlFP)z`2//_[rtv,Blg|3<gtE9s:aS0De(csrK|k,|s(ZjX?wrr8:(o2J>z<Saes$d7]_V,4",442},[133]={"/bSSul{uNOV+WvprB_j8-N/87q,8<MP+pu7|YktI`>m-)OA[e.5~AJYy!%BW%bqJIGjMYg?FH_]FxL1bHuEX/}y7vCe~Z.kflmp=)~i<:;TNd):NKy%rnrz2spPgrGN#9YB!PLJ-f~M[048Sg.~L+9j+u.41mI^%Ma!D&QpfsW_Hd)L+C73q3t<N4JONbNzdh$&`v<*UQ|ehjH49rz<hVt<~L47pi4c9E6@h0{5[=oM<UN&)i}y%C2t0RCL0+X#Bop~FL%G~/O>/0<f;;V?#NK)g/c9>g3F@tJ_C>jPJ#}`Jvz=PDf<hba7FA&NKG@KwyfNaZ.QC$C~{r<!qc?YO+:mYrgr<{wI~=c]9v_wm43lmP$~W,vD5kH}X^@h*^C1UF@yUe:t^x2dQ2~@*JBw)1.?r)Sec{6:XUfu4id[=DN*}#Xbpj^ov<Q4Ak`n|[*/#Jw{%BSU,}fK/R!u5LZXa&5PYF|GT^i6&)`VT/~|mMgegYLIIK+=~t![B@E+D]Ep>yYS*9Q,qw(#5xVazW.u|+i,$Y-2pYf/UxDE?yP;+iNg~nW.B>|451FD5l_}Pm)9CDV!alR8p<)>JY}EZ=zJN8U}SW__E31CAon_Q,+(M(T~a_LOk}Kec-%xprTjk;QOy]?G>lRR!,lT?!iDi{W&E~!Jt-W&v/_vpz}B!Iwk%gk$Pbj=TauvC4rau9>Ci_i*6x7Kych/J[n/9G/@{;Y]D9S`.07Rhi1i,_0j1b%f}/RmsamqrZj$EmNbrcw!$aaTe)Ed&-D+7otFk0stiI+gicG|4Fm3dqS1R787J1nT|j9w&$$nmO42Xu{*/uc|_SrL=./3Q_b.II:f5d*u$IYHn@Dz5ZnAaCUq02Qmj.R<NqbCB2Zo-c-497}*T@l>ecsLjP16b5ix(`;,sLJ:[{P)Ai+AdX6Y3;p[4r7AFnuc6o~E.sza}q=*x~Co.Mb$8XocEN1t3e+YDo_8NNDI@zrk~jusw.IltX:z9s}ES><V9yt1GB6e{~G[(sEhhw^5+#g?EXbw+c(4]_N5|KUY2|9<ED@{-jlZU<+#I}eXo:H>whh)Xq?Db?5sg{yK3k(HC^5OR(W)wo2@X:6Q{E4YQ4ff,,-b^bsbyJ2`n~Xss*F=Ig?6ZrB!em$]xHCE?_<.3v)2E#2:qDN,&<:$qWBV6<]wcQ.y=^E#e[w*x4[384-tsy[Z2/KFs$I-y^,O/bPu:(wAPe9qzxWA9B#_PO&lNG;==y?D.we+T6b~Hwv9]f]y7*%GUT[$9p=MrRC9-c{b7N)B|A-cs28XmkM,]z>7eBQDe~.6>G8{6I;=%#G*1))$oDZiuHJ(n/_7#dq+pR7G[?N,&aMIkW(.C*3YO}lQ423]~r2LCcu3yA9{!>%5Q[MHxo+&Mv6=bUp$ls^ct<Cu/&jRN,B!7OU#X!=NH2;p$J_`0cm+tC6bEAV<S!5BiJ*I1atm{[6s.#t8q&y~=wV8cfC!B?8F6_TRxIJ;m,iS|lnF^a<ytz4nZRN7nY[4QaHT9A/hI_M$~:e~42WRF:65k.oq7.h-JXZb3.%!t*O*q:glQqXaU9US._$ogWBk8S!fA3B{w:jgQw0Ol5m{yfC.?xy>=L*1*KS#a!T#cp5fJw:lh*l~m4U??)zga{~6XZIC<A2l8}D3<jM<LRLgH_}$o{2(#)m0_h(/}sG`INOhUspR9ZG1go{>P}:i#PS{(3mYH0<=[,l4Nyb8c|rKOyQSmo0r*r4;SP4459EYrPb!.oi`Hvtuc`KANpmM[K=ncB:K,8$t-7*%8iyD39Y1)uPqHsS/zri_X?7C7HmI]dM}WoCy@hrH/vl4xDB:{T|~wa?tyngE2ck4cMb0xT7BJXH{%U<TPx#*&kc.#oMDFlGHZ{NisRO}DeA83z/NB-H#mK!543Aifk]5/9}J<vAq^%gd/o#,q8[Dv@6+1H[a>c]]q?|+CEU7h,cUA,Vg9|9b>>S0[^1c2KC@$nD0=e)u#}L&j2=[@&AM!cFO91kYp6$?%^@ffFW*$}#KGy/C(u8^M.SO~@:Q]QF6VD#&Z:We`nrLU[:b4mHu|(1d|cWxUDRHy(E*(o1rjf?kQICud%Z[xxSBJ24q9{+;N)Abp-A#)WcmcQW4:sTc9-e54(/}@cxYBI%Z<k`9A1XPFP8sQ+z+W%b*(yB<romUaP.3fGhxI;us-KLc[s|km<Ss%9vw3ljiB<lWKB<=WVpY~^^3QiMmO]sZQtE%z?UCL?OaLuRl/mH@-}zr(LYv-qL}z$KpA@QnTALy(_*n75JYI3Kd.$$aC^J37=o|_peuc~WO{JHXb7[ejBXho/5<-0+?[UHL],D!eis6BJ$kg|Nbc/@dZgC!>A@nIxCFdZ-7ie?Bs8xQ)R)B]:)Nya3VNx.sq$xLew/(>)/jFui}u3mG|9k%]Ctz#p2=p)y={TA*]6Fc!If<sir_WZLeozc#<UQONo#_q@jPzOA]E=SE`JI3Yp#c+?5_c8TrsLn((!Xwfsi~7%YtECG+u&nTOz!hl&P1|)KrXNu7Js[?#g1_iC)h6AesX,:XD+Rj%-0|PcK8av[AvbX*5x8(e1Id1lKAmyx2pWULLwm$&vZ#YFWYExY/@fI[8:`msH1UypyBVF[G<MR6:*1u=n$S^n+]k^PkG;AWQHt}+FQ#(O}nu5tye31Z28&q%s?)TPH[OMlAQUw5Xulg@NXy3Nk_)4]=)x-`P!N0<drZAiIQ}[^X6|/-5_ZJdwBIas0thUB]h$R:@a:qXr{f!d=1v([D]%bKl-Mob[M~^q$xdTZI%wf]/:O{3[!_(1PuQh9AU]8(q,dJe!{$JXRxJ:8YVnX`EN>]s$aFp$vX|w#.j&Akj`Ar#wpy+3P*y}y?;oMr}t|iXk=N_M8$Iy;NIOU^./6HypFE+$nEp^NC85KS#rphY+r.x#OR,bbr%^GBVZr+Gy},BS`.Z<a)2]5]Rne]<Dq9cLR`v~m3TM)//Vf-I5SFkA}az.GfF=ogYFyy9&OqUQ=JSfJ.Pfk>|%c1DG(b}||h&,b{SCk;.J9(BfrQy,{qa457HR<)09BJ|?I/+vHW%>efDRtkTpS,V.>q=JiHRC%:K)iZAk/REoIIfeORTGyo15l5vPoh]Kp!}R}UNC_&co2#@<@v,QvkNGcMyyxG/+SOU,CLc_e<8ISu%PU[d,2?M1.%[-~t7$s!t2%_5WdH]aD7{!g(_u$[Q9H>sP~EaU6Bn=N*vnfy3PY=:/2gWi-r]$$EABlUl-<IeSis;5=FN.09cab#pu7Wf`]2T,kU?SiGKUO_aer^R8ncJ9?Gxm&%Jf6?KZRhC7FO%xi:Gu`q8idK$.h|iCta>3YUi/dyfZ!eO=fDpDqN|qEExk&|RR&eBfYy7q&Ho9)iKp[Rd?Z,:RdRYXk^4cm>g*}`YJk&)tDZaK6MzQqjx>gb3X~Nu1@~0/TC~no4}G0:RJZCJ+&01;BN0go#qg!HASA-LpiD!(Z]5O|,NKV}/)K,r:`CdUqdhd&IqH%_{|j.Qdy(kY[(sd=)=3TK$8u%[fZ/BO#~`D|{,)|,Ai;&cAvX+B~ed$m+`4bbyU3=5zwVv:kY*m5eH]fu+8iXF2nwwq{J?^Id(%nI[3f:Sku-)e81H[E]%hShQ,1gN:@1gKdR];:nk/jm83C<JK+j[~jTmiH:&JcK%51*jhf[goZO/;kSnt5ng;#I:?[#f9$y5h_7w%nf+y;;T#zGMTjPdXjM=N_p(c.}2@_dm`{{2$yPl@X.%N.p*WD[q/4iHH?c:fsdut+5]*.LylC_#ULZk!/Q-?xmPD1o]3&lC)A7eveHezSd5.T6mBG,&M%rEl/r0YfCIhLlkTKJ&;0b:|[!uH6vWoVaiNY>IN%s7j_rSW0XS>j<Q:9*+5EV_.LPD:UPJZCvM^wa:DbTXLjI5zzIjeV/5TY=SOw;o,.(:,kJLb@H&#kWx/{e7Ps}P(/N:<r5|3Qo6cwY^>}G<RqEBZa]O>F{Cc)b9h&|xEj@B*M;yR)K$2_JV!TV@E4^dp#T@>gP|?T}oc+`v_UdhNzIP%slaAX$k1T1D=j-q[po>MvDINj9.8PjyLI$AZ6.UwhLValf=lh&v*-O!*&==%kZtZVqY#rE?m95S6]|udJf[=OR(!3#<#F2C5AK_#a;h/C!`MXrK~xCE5I%,GIc4fR8vq0DrsBs,P7[Im0;[Jv/#a#$A5D%)R(r++mtmDfx|O1DnIe(t9YCGq`S1oTSNrIW:_ujzJ@q$LPN&uez%bsnicC5s?GYf+piY23b-=g2emI^(Q2Lc/L>bw>kM/]|s|p,h+LsAB=`ZLIxueAczY+FUDJg8^fV7I,5NN/TFQ@aDR$$>QxNXH4w5kZ6HMkt4xTvR!vk9/=vc0norVBvn!t9[&EoDE!x~jaU)(tho0~t1A.|A2UKI-K$%R@+7dE+a@#M7^+]xOZ)vqFN(JVHd+4|+SywWU3,#^nHzF0@bV<E?|=Yu+mpp]tWX%Peft+n||691Gp~11#*PI,J[[&,{17jW2it^-|$_GbhxV%7f%sVZgWE-fzoPygiCAT)>6dP%n.>SqR?aC%RJ2!~;!F*h,X,,hA~%H^Y(Tb#-(/+4C?MH>Qygg`iBAup:v>Tf>Zo9(FgG4gE-Y|r,*&`b?D:Big6mv?i0k0O{4!bX|X@6u#bjMb$oUXR+fRkt|AkLdt2rl24@M@<UZd(FPn`d/+Nyk?A5P0g#F/~dWFt(s)qR`]<r6I(DEX{J^cwhp~3NF[%H$bWR..m,&QX.bl=Q5n-H2h&OfqNxbRBP5I)7Y(V54^uuO;nZAOgh8C=%j$^aE$M6:w7_o]`pcO9;ryb@obxXge$><)27X!2O)UABps$oYcVq>WG6=gl<qG,;YV|QAK7a&j^k@lZnl&m)D-3<an4bWP<O-Io[dWpj#$3k-rnwiuvkQA!KLK[2=gJm8DG5hK$Pi@GBnum+HPme3EEG@+Lr#BVsq&d!NWhl#m=@tTB|`|lAv%dPn8L3T_j>aVA+Ftcv*=5OU2et!j]epF?h03Ncc.GV^i)LKxDi}]Jza[Y%?S*X!gi4N,%$KvM`QvK_QUr7yk,Ore:E{9CY&hJ9VIri?~QF9u5c$C4B:)Qm1@&,~U3nae4:iIK[Xt,K[!gN[clD9Te$7EZx}g^tkS2{@~,#[9PB1aw#hk?zixm>3z9_T<XGZKU+}XQK1x8Pg&%/N?^n??-t!nOxYX(~:AGK:7a/ij!]8bm>AePGJ&1qc%ln,ITMZ@TbeM8)gL@sL54uwA~e4d*t%;m$]W_3*(U>M,_m@&kv_9w)g?&5L@t1I7#(d%d]s$fS;$`Ue[|K9jS${6,H]S#.9Yt(?PaR^b9@4Iyjr7FY_8sQ*faJGJ[lZ`Ds)a-=;47RXlQ9qNT0]U0[NvQ.9.YCL3_uIqM<(t&`^_+2j70`|Jh}>eXq<wc@qplvqlvpqMD+3pitxL(#W%4|<7&ekt{A.OZJpGtqra[4tng;sl[#rU`Wsj31s{TLX_1emqCn6=gBkiZf}O!A;,m_MBc3SXfh|Ol]Yee.Y]r-Y+6dvEc97Cf]Wg^}kLHXlKcL+r$d|?eBQ3DO[R%22GxR%GIde/:lX.F>h#/i#<!VkZ}|>%{Xr)#Xn3HPIDMcr{iY`z7Y85d*O/,`~#9|ZGB:)!8siX=RI}*U_}UAl}GepoJ``zEPN]qA!,VUFc_<]^i?K1au6hj,H}XDFVTvOO%sI<Zw#L-ou>9~O*oVWpk79[[dM%W%*B?s*~4D{|#mO5ldLVC>;jzpeuFJ51f,&tw`v($NC(B_0/nU<C$p#uT$D${f$(t-d/^#9Qh{S/Kd~eR&qS5fDJpGA0@>V&W[Y&WCym?<~B6a*g+d/6?QmW3UBThw*!bG4xUUgs2+)_TL@m(qR9<B;67$TjBZwJ4oZhF6{ppO>%7`hw<z@}?+CO4xFOu:oshY:=9{2ThuJ0dos?gjtwA>E<~tBA,:=6N~WMDt,|H8IpihcNje.wLA]!^V!YTDW^DsUYNoSJB#&ZJDAR@`+|gX1=oU<r;Ip%9I_[QzxhB!WuQk(p4+DMH/dr4)}eT#C_PD.]pYrzQh,nQ`Wr,neP&&zKq4{BukM.i,o/1U<akKgrYd}tv{12FOb@Y;k>RDg=%Ai,hgum{3Hb%W,{,t%qF`]}yJ8|6?HPZt5ySIDlBGNv:i{~T-IeS_b)~Q;R/;5<eksPsp{8Gz|QjeQn$b8>1:r%4QMXW!1mE*P9vQQn>cT&/F}!byS?F,i?1S$R~(L2%I)EKZz,^:JY`M&SKYzpNg-+J*y6IW]Tw^vd?IM{iX_K9Xl-4k9Pw;DK]5+;h~[JE&pBEl7bP#Gr>}6}N~c$AQmB8:V5qZcq!OJhvrF+d76ou(%VmFgpsgDi`);jncShu[c3N$aK/p<u7a@U0D:f5_WM?;O&W!y!Jt?Fq;!_?@8D&;`L]!TY<TJQ?s?WC8NROIkp`!}(:&r-ucjb_w)mJVum65pQYDL!kDqi>Nt0VIF~G2oxZ%`cA86`!9`yHb)h!K(eZ%W,fD{`!sTyd+~SfIn6t+[x&U:V~;bTn7$97)P>}6r^vHW]=PzQGlMGz!d~4D0r+F7W?Ym(HclYb?9bBg^siQ[sXo!0`8*Rw2G0:OLCHvIVp/`t<r:q:6lo~uX4BA3uDHLXTVFZsbT]l6:^ZKras!9{.k<ui&^|__OyDlE/J[gicXF`f>1-aSjKM(aD>~^u_f5bMu9oWx!eLtMueD8o^428@LqQ*8@k.M-Nl5rpxDKuB2SVI.VHlY8g#lj-{3ZB|r6lkF7KvAv/R}K=&=7c/F8ImNd^N:GEXC!Z)a=J<bSrpsolklI*c*3)gBo(r.c,oB1*(Yq/JxB{t[`%m0K#o>?UTUn)=.HSl&h?f:_lAzwTpqeS|<NNO@^.[Mybv6r3PmHJ6_TeyMY4#18xaN~X3E^hu5o]`?.Nx/^r)#<Z5N#r--6I#!hVbO([g@]]cu43S:vohy?]rDm)K3Bc?E8[vyQ3HR6UXPz-W4~o6Tf;*5Y/<M3y4[jy+xtA::1QiGqUMR}Ht>xKkl&@EQfC;Z|O3v_omBTPn4L4AM`/I;K/`O+AIVcQLwR~%d2S9oq]^1Dzo&aZrFOj)X3^,-DR*O6ejreYS^S^#F4hWEYA-PmZqqnH0?moJJ#,q%%T7#&UAs>x*<y&c65c,(RYL_:HiFr;[j/g:+}b*/@Z2)ukbZ(LtDEg[+bcbdEjr++X?,`2:l,:n8Py$h-6lN,;5jAaN6ZYtj5qdWX8P3z&DwKYF~dNejurQ?ZQBu)8Vu:@=&6T?rx!{-i8(*BXagq[h+W.s{`wY/:u2y~P/JAnb+/J?fZNM`z%Xyk~8W10WUMYguC-cf~M~tC,0!lO0y.$z9J:uV%kXohDILX5(7MT2eCv;FB+7.X(e|JJ)_{}SPTT|#s{1PLq6TCZYq@UR?g+A4,mnuDmJ)RJtj}jkyn?~$Z",6010},[134]={"n%g+A.oCj+rkwP!G/FDIms16ZX(~[#P%/DORXaXY>n2z<M;GzB8=ENHc^4Aj>X|ccwZ3I$7Iom_bB6lXV/Q`c>U{5AVBAzK+]r0",79},[135]={"n%&P&DR6QV_OHiW3x&X=[iIj%,:RPzya37p_Ov<DJT(UzX<5ra+gM[WN*[neKmQL|7?#xXXZ~Dx&{1&9Db9R;IH63ucm]%LzkC3<NIl6^amXmRcaCb,^K2XKAnw}cvyD3`Tb`IFA=B.~4]}Qz2c;6_6]O7:;?LU`{Wn}R)/A,hI^K9ewJHNe~c+81&^`C?-v%@C>Lo^QcX-c^LKsVw+8ye,m#$[5ea-l[Ni.7U,O;2uln91TDT>x[9L`kQ-y+v4JSzS[tR#uZ2uHI1`e9DSD,5&Z5NlUZI91#Z3o6EP}uW0!==f%Nt*d0h^v`c%I)o+`]_t)j>x[ZZ?Ar>dVSe$B-_kWBJ_HL;5#9Kq,tj}x2;s6HU$KREK!in=>lx_AF+*{nAab)r(YT5lGNUcFkb;Z?0Ltg/Bl_C0U|ECN&2B4pfxd,v+uFbP}Yh3~>dezyx0euOKpAb>yY/PSO>O!@>9t",379},[136]={"n%PG[l#Xv:nmnD/<{mF3eAw&=+L-D];sQ%Z60f;>i8VXpnlhvN^$bL&Cxyq+vMu2:pWTe1X<`]%@y&$RdO5h>oafK4FZV!G:7B)tdP:2g<HS*MwA5_-z#E:Bu%]]=E|cYC5i<7:#x.NGr=AJ8~=|NpQa5O0]aD5E|g{,B$$DcTgwR%EKMB8SLd?|5d?ap^RAb?f1`CSUgG*C/CWsiB,|240EUhT:I7j$jWs&c${p)1}nMX!k%rOnRVaIu>UyZ4JtACF3XDt7n.1z_yB%hR_m4kI>B`:%+@CGW;-o%lp0#P2f;w>GWC8_!Z[@h`&<bV:X[)e%9cutt:-Cey=?eKu}vJ;KUDSR9@Ez66xDYR=dubU3Q^cLVI/-]f6dAZCAo)FX{[$Fv7D?Ib]jr@+r)>8HN3p@h>EjZ;g)[Et.s=]]?688^Y/BrU7.gOuNGJKm)75vv4ZIvv)8xt^dt[zf?8MMCfFa|fS!G#PIIT0nPXZp-7;f{m@znAr1iy|)Lzq_N.s%n7wfq3HsUUn9FsKpC%FH#K&GNVl}Asm%<7fRM(|1=#]J+HtWK.3JeK$y[@9Rr3d&",467},[137]={"QT`a?hBwCAY6K`*6EfWHk8f%^ggwhL|K{hd.:u#f#~Fr6PV{}5D&qAnm6,22UnN3!YZ1`~w`f($rpPf8+WyVxX#QtN-(3%a^3M4o%<mVMTwQiV=dUD?<4XwW:jln3d`MZc?:!rE,AlEb4h>7Yvbaw}naKlu6Q7z&s<-<F<B:X}_(?1q|#sMKVPA<_{I%>~;@Mr092{NhD2w/&PNhx.@(}N~1Ke-@iI{tVj~,7wO%C<v[pPd.{8nf_A@Z|A+bOZg-o6Cm6^CbWN.Ucaw5`>R:IQk+}S#Hwp|(#bUMn#uGX<2;r.cx3{bbm<pzs&[s;&Z.jAVMQ28!n+6J{5iOcOdqiRur1?:,wi>#A`ZvuX8OA`W05]:;&~[{YP+SwlQED]G(+oIl[9*UpDe>aT[>/s@~O:O8jGOara}xiL/J`Sb",344},[138]={"n%PG&d9zh6@OqS/<NfC3,9f%DhMWYhuR}bwXB`raY~wT~G>q[4$J1Er=U8T=I!K_=l1v*lx58a^-S[M$(ow>cn7nx$DZ]v[qt+zf=1IOAIY95Gi/D565]$.X7B!NCD2OEp1iDHtG=R,E&s2D_N|=N0_b%%wzl^{f67VH_l?<-LpPREbHD9WAS0+W*58`H=2}|5gk/&4K[#whfG9Ul_1Kz$dVs1o%.J5i8p>hh6}.6q>jk91rBD_esH.X__cX5Sq_!*42ZdTr$t#r~m9@=%N1YAqnI(6v5/aHcFJy[k-3A;^R?-TPpUsH0v$?IGia%KdK*W@x@WyA*s|-qk&D(Q]#AbG`u+0(%)KgIqweWQ@:hZwrc;FIQ7nGD{b)PZz)nDi}XLFE,bCX4:<--do)?N/aarB(^d?aQ3()@g]o!;CJy5a#<:FP,!sfT5p0Fv{S3Z:~rE`P-jp1uo&y7e$1&~43.-%&yJM<p/z!:0odkb!dzYC`|;xw^yO0l$XZ:Gqv#>k(&,mF0dUhoWpa)66J(/|w$}iU8o}&Q(e<oMR,dY~sgIxf|h%O[u/wFhzWJ:rtN7_[#HUM~430{1EA6uzaq#88Z6f5kl>o)+*>yh-Kxa/C?d4R}mGq$7&-bp&b6&r(L3eR]n1Zsll[J84DvD}aFs?M,GMoREfak|{VnjtRI&S=PWdTuX%hPKMkn7{3xE]Ggc${$y8H6)N6CU3A4,hfugiqpf1b.48KuIaN=;n{hR>6xV%(y;+wP@vSK;M>!A`3$I>p)Wd~f8-v/iTNCc4m+</^;FT03SjGssxh^hn!CB+;xe6e1kh8*%`?[Be&R1B+-TS6]y}mhWw2*M3LT$lXqe5I#I=h&%=J1%&#GblbD!KjM0LAXj^MyiYOF;[tU4Pm2Mi8cd,UPF6h<H^OajBIV<~d]8M~che/Br6@s<>i4JGtny4L.`Hyyhw+;8}6z_&!wv{[gS|K7~+.%#kpP/s-!]|J:Aro#aTC8l>9wKbymAbSEE0-=DT!;1bIZGc9n[m=?]0,A4}LEAkVI,OHaDwQI=~_t|_/f8A*t/]G6+[ECY,m)r{#?lE-EBD/RWGP>TDSOD$7gMU,2S}bo-hN?V*zv;|p(WfX8?|w9iob,Y07*tD2=pQg{XP:U$pdQ%qo/0//t|*r<NskqOmOH?NR(Jkc3FP-{XzJ.t2!iXeo9KKgKH@q;BcK(=M$F!NA.dU^Kdc$]RHrUh?HqO/LV/Q{{SP41vUDkK%,%Cdd;pgZBO<%Z#9i4kZM.f0{~h1*5n0S@3L8,~sglSwG9&pIYg._J}",1052},[139]={"/b<P&DG.T%XL6TdqQ+o?/4d?8x(yB/jcY1jW/?8(qN~lws,odb^/a43b)1gtZpOfEr;nX{UGUa?8@c:NF/]SqH{AA&80P}fHL[p>(h_NTUUV*JL/S>sm.>SAwXZZq;/{Fp*z|40e6o",112},[140]={"n%g+A.oC45$}3o`9rkmZLgo4uMJ]4WS2VGwwZnv:MPIOI}w_-g!($AElsG?8]3|yOTK@0<PS-MsGvI>TbLP2A_Gg.i~ODb@OT?e",77},[141]={"n%qa?h|:=d16*tkJ#68AR%+Y?qN>[cCvNxnLf-n7+I[mzj(_r}i5k3,b0vja:Oc>H$Q4*,V+HDjK.`kB}q&G3Nv=8B[@-!Xxk~(H<{R>)if&^4loU*",90},[142]={"QT`j&Dc7$)%KeFdDk*++oCCwZC34]=dSks7bsj;jgvG*k+ZO7?Ux,?1S]66q^7$Tr?#$Jn@tOaZG~IrQ%)Tt+[;Zsxaf:yRF;:MN~h9p0yw_u6>+<p&-.>iz;]go%@+@X!28+WZC?uZ,%2L|7?xdIv0Lwv]9r14E|9!b:e2LJ!2dDi=@$I06|dpM:uLmF(h`R{@+#|+rXLmoIm5Oo7Y9",169},[143]={"n%qa?h|:v)FLHeTxd:vgb%)o3CSR;SSsRP?++-<K~Lx$U0e6k`k8>2:EY,Z|w?4qSV#I@9Lz`v|@@rSNXEZQ6Hc+?([@v!1s?r=t74k(`}|5eH@oU*",90},[144]={"/b<P&DN{Bb%KHl^UcVQbZ8a,~%0-fzPz)W?sgE]oh7*HZ.X?T8~>~RqkJ>qV(CR6+xd8?Mljse/>-YChlkfst$sh|<K@4@v2TB8U6{fJJNtC.AG5+|ZGJO*>&V4b2fPdc=bYi-u)&&",109},[145]={"n%G+&dAn*nLLvCR35wV94+6&=4`<sRBRTpm+DQy@6S|<BS2Xy0t(jhG[IMR/cs4<=goxjY#vA,P>?v/S_cRDvJ/U%10$0J=:_<B_:T.%y7{;y%F&G<p%BK+Ri$nd*RGY4.(sM/$<U3zDic}`1%&G@]e.9<YPx9<K=[>H9?N&,NQO=HR2to;T>}r>k(::JKzWVnvu9?g99$dCrX)-`[&r9qcr_:Htk{4$2}z+}ET_Z-Bq-1[8Kt)G{AfXm};GvavTa@x%LY97S_T/j<+bL==C~KvD]!hm).3UewC7)2>e,s%d1{u@J_p%/Gb~.Z&bV3X1D;44%ZE!Z4mc$g3h6Anus>6j[=C@~=Re%HNr*YdgTTOI2+1g[d:1s|kOz-YrHi6:4F!P@Qao-&HE^8wwiK,8TF`>.Q,!7c!_:.bl?%E>tS28uY8aB_/+y#;FjBIk[Ikq[](^f!&xCHP5(]Hva0=rNusWQU4!<OKo)oC_|T|~fC-D}Mi/)v/Zmbx2Nwbo*=4%>gSW4lPg`LFwxmFr8$<t?IGJExLE;gF.b+UgoP{o,h~Koz&[.XmD/_2%!2Z[`{J=J`HE8Qf|14VOoFk!-p6PGIyXc8dP>5$,gj|S+;{|hYK!FiP=Lb<YSNrZBJAt}sv^x]y[,cPrexTAn=)o&l5D1o;0*O#^kM1[^3/,t2!NEb74jh]DAszce;sJ[Mc[w=h[NO;|E-fm]Q%;PJ2mPHly)R;bQ=<CJAIPjhF(+Es|#}Uu>$;]{k#CX%s5~$p;m[ST1P{qQxnNqF6rw3j;_H)MIc`l,v4<60&?YB:kdYkr[td!DK>M/zjL6f9)v2]PX<coHN;Y>/![{cEeq5tO<s$)$A`<s~QF.tZEgy7+4fy._Ay.YJM5;EteC{qe]Z2<GJLTw=u6._}oD>uQmB_35QO+a@$7p5U,EnK~;^P^0rtpp|89lzXU@LrAKQcbkW_o]T<?[7GEN/N-%H_XC@J5OJ=y>$s/L}#VN/p!Y7SEog)wJUE2#t_H8",818},[146]={"/b<P&DG.%7}K~XZvEE]9TgB}$%Jt^!|[ic,|=37ji*s_)[){L|h@<u7>O1yH<?ZMDj4ZP:bd]P@Vc^W2S`0-&Xh0jcka_1XPks-0|>>T[QtPLz5:_(&4>4m_1u)s*5P~G7dA+y`4ZU",112},[147]={"/b|+v&nx[`IGsuUo~fSnmI;>e{45I^ZC{HvF-+i9fmF+D!pU]PZHvFfQ>6=Of,==XrFueG2R^GXe}3bV7LN5m79?;1rS?9IhdefR84=FfTU6Ogl7I[Vo_Ej_M0K}RVCTlJw0!Jw%,zcMV{_:0{&st|j:NIn<;vssEH|OS2L39YHfKOg+M8sN_+`BC9PIlj34(kUla9&$zRR:EB<@l5)3NN|<Q6nYkNUK-ahLSyl0qJHeoM.|/!eo:CsAo[gx3{+/u5(<=/z6E}rulItcJD9/HTML&p&1Y%5_>KpW`sWlo4;Yl0{1OH(TPzw{gm=Q)dSwSQPd`3Sa;=pdit?][]DQGiVioDumpU_CtZKEv`F4EJ,fSe_I4xgS4K,<|04PQ!/u%|sG:K6p0GA9-TRHf-/oyv;|IQMTr=x0+HlV1@O8k`-v>tJVk?*P)wE=PH6O^$<znEmNtQQD}KMR,@2LD?SvqoLv)JjZt?-H2_8~QDkLDv8,G&V<o9C4d23{!VD/|ABpZ<`|E=q-Yj;w~Jz}F~Spj93z)mRQ,3Wtf<8OSOmsXF?7Kf_u;NB0KSw1K_[M;/y4+!~=4x(hmb;?36k@GhKM;1=YDiA$&1M~wf5V3KeVVtB!Sdr/]4",507},[148]={"/b|+M;G6Q1%K<uF/(9K0p/f%iso|SwW$jixAzdfTCT!t7vhuC<UoDWj5o+SgZ,%(AyQdiMUW*rA4^kIU:&jozT4UPh4<yYeEQy~DGB@Rre)r>(F).QY->`-Vw!WSx3Edf18N$pqSmjk4;Gk",113},[149]={"/b<P&DN{D6iL?lTUQ,h{G%3wNC,X!x|yXV.Q+;>62WRkVk=6C,UfT:TE|%]K0t}iN]y0Y,U1k,.HNN(n*J~3+?gAMF6+i1lZDZ{wTl#QpW/YNbTESARD8K?8g&:{)$x}2i@>Z]<QES",112},[150]={"/b|+M;9SNd.K2h7<IF~n)nf%{h[_h3]OkHuG]C{<xe~E2:FlFo3>inru07^%$SX^G~$fa{-a$eb]Ml_*Xz})_H}LmNgF+1EDA2;PEM3q::m(8=IRZgxTp$;+y^l#bfje~:(a0e2K%G!d_dCXRz-kk+k)!%2VjZa2DN>I]^qY$XDh5pr)&K}XLJUqo<XB#z7si=1`DnNn&Ap=,.zCL~KVHY!v7O>f49:*uBYx[yf+v;U1)8>`%v5A>a1z+1Ygp6aNk[v|/5t7-J6_M=%auHu_%+*0~xkpn0{=0%WT)niiDw}uo`14+:^!h14/J9Vzcv`O%gP0yfN^1r@w&>FV[>3r;H2G*%Si?[?e5(6g9`.+XVn.V6[T*",297},[151]={"n%qa?h|:jj:jn88t[?p_fTXJoYvf-f{gZ.I}i=Qwgva>z%F@Uf[Cc3k_]wW`9*CEOd|NE:!,R%PZ0S94?_UqZtVGnSGA@u8f2_?g&Ym)T9+%irWkj4",90},[152]={"QT`j&Dc7.$MK%`!)s_oW;/HZ`IE[pdSI>aLAfJPl&0_?fu6BKFVd+;IMG)Im(dfEoeI49sf$z0/TURm@l<j65>8OUK]h]3mHh$n;9:q:NWY3[WQ9#_p|7hT5i.2zS-m+9cquQp@m1q_{aBbhao,P}S;Rnc$aG|;k&E{qlcsU=T-.g:dLL&A7Ds<PFok%bY=(Q?%Yl{0x-Q&,NTbRaB_q",172},[153]={"/b|+&dHYt3XO/BW3fl[dJR6&R+n9fJ5*6+>IoX%/NO]C%|B|Y9)Wm]E(h{*uNVS#O5[kP~G/h0eVC8@<VL7I4+f5</r{x*[n?d[~8pi0$lB~y8]&5dNf}1E?iRuII.<Wo?,QM6I1g0/~iEh7f%6eVDJzhB%[b24oSwK1agGh;^Ch&x:!Y:.vzb!9t%[1+t}i,hPt/[_g}Tsqr.wzXri[`?MW3Y$.4RlK>RSU3O:PG_7yTclI.b(];tq]`/YWd3=Aay;~xxj_*f3ai$stxCc[w!<ERWSW@O^`F~@5{(q|6}aoP4k44?ApGa=3V@h2L-Z/f!+Ug-?o_A|@g~ftECVD[/F|AxmAK|BD(OmXG=p?Y66(=Gh]dc|Qw[x~[H@?H{fb(Lw+99Z7+ux2YMrCLun*",327},[154]={"n%G+v&Me50AsC@7DnG]z;/-8Cl/9%=`+APsD[^[wP2+]aqoq=Uk=N}l+D&3$d9|BWLE[kn$Y[US`Zexqi6=I)#*9b(_Wc~E&p#k_DR4~{:CY,o~e0@l!)A**0CV=v/&S7+CT|jhkc+SfyS/L4])!QKc$8",121},[155]={"/b|+&dHY<>[LQyX`Z.Jq3^.wTjiKP._>zqfm%?HBx$:d:HaC?N|k<9&$Z|ebA[EelTtpbjsmHypX+H=uBR;w>Dgr7ZGm<T~k_$Q!$gx,#cH]gYEkGZTMjCV=%#OA]=J4m]hW*Dq,g,N-s0bV<x)i)xX$TTlG5YpqR!w:[@qU%_eE]NbIlU{uxMCoyv@qvkIbAp/a#H~N7{*f{z--h_m2aUMKcKedGuM!,09X7!,?kIILII(Uw+5nr9^hfQ~O8eF.1D){[FF)_eF+Hg;a_h)KKOeR]7L(U8^G:_K;4A1<<l@%mi!l>)M!4`R6n{lN/}>s/N`qi#DADy+r1GZ#0gz,(.<!q)JKf2{]+OB7)XNYBP/BO9b+_;o:aiM_5uZ}NN;wQ:Enb9Y53_S8Qfc{<jj0",326},[156]={"n%G+v&Mel5};[t1dcrF47nNV}w$wIsA^m?9yp?)~Ig~AEJsr/p)X8c3c]}2Ok#vvHviP8qO0A6~8kWq|6[H|GYbY>#566zi&}MN!I8BEb=9Vd2^a?mV@pE0=5~n%U@Amy)#2~+GTplsiI4<oM3@a%b2G9",122},[157]={"n%PG[lG.LFPKN.`hQ&76j/pQM!9:p<;HYRMg)MNF0s#kw{F0Dk)2ujOk]Nb2AwV/06&$qBE.M3^COUfC._,bc-yg|>TGCuwhi/2icmBC8&PZ.^RJZL/0^d:1Rjo!k<QL0}*>[lM:B$2X=g%;$7&OqRmp,;L.5lv.{$?~|p~[HQNs{kyDu2(MTK>1Y_r{+mf_AGvwH#v(GQ.$u|OhHGERB8PV&J?WPKM_~-I6M<ug)|gg=Hp_0nS`;VDZBA1nak*Q@R:yOl;agC.7ZrWT|?|ysED,`A^}~qIdibJbPSR940s4CZ$(]aFp>}N;*q>xMVe9I-seU0jKB}!ug}uVq$#2:UZb_LoXO^puu2X#9flJkYBX#N*Epd_}XR[|::N0>o@:rmg|PW|BNW;o($)y3`&8s!2&rl%uCdwl3qtxOEb|SnDmy:4C}UqPa<]E{NhaCah{%)cQ!~nZ&{6RjW#i|Xpn^dKvf0lf~_RB)jly3Ty@+2Mu6v&giq$r>2t_p$9j.>[{Uig!BFKH62Roa?zJ?wCI5B*d&W+-V}!iX=]#swp]bqXYu?rY{-NZ2zEh$j6U?bu0",468},[158]={"QT`a.d0[v>WL}Gy~qE0:LntNM!q^[|pFMNdwv:b{hiGhOA`-(:8:N4@>CxW)s!,DFDJ{AtyMK?H8-B>N%S<z}Tul*t)>/BI/N[m%AHe5t)#d!HMu1OghH@~AL&wG2xU&^rV{>6XJ<6,mUbiN0OpR#cG]Fs]XJo;z8H2EWGno?fUa.&5s3gbk#5QG_@loh?EH8?m`8-ZQm?6!|7w.xko7S)U;+v(oEAGCBb$uu5Uk4DA$=-R$,e>0DA4*Z&Lv{~&[$fp:WC||7}(7.3k>WXK]U!_xnoWD[:[C=$CoUn?`B9sr_1(WPnT%6*",251},[159]={"n%qa?h+*DXu:+MQ~kwG=DPBgSTuPv]S]m80wjIz!{0OnK1a.dxoKP12qjay]8467{;:eYRdOYpmAl35DvW;vQHtY;O9T!KJ#?/gh10rW4xXU,Nw+qf;VU8:]XsYSvZgCJ?!]t}_:?2=`~l^&hy~}@]i5z~p?mPi?K`/P?%>LB.Oa%ucHLc>a:wV)}5[huF/2py[ddkSg[|ZE>wgMf3$+viX7J%on,+lHr=_M]Wg$M0g:1jT|04",196},[160]={"n%g+LdE9M|gG[D5[rx3{qM$=u_,Xbi44d7jh(rF!o9JyA*7M6HpxLltSwbFXu)g?h9/(I#0tEH^s3ZFV!S0l:>mE0_:]wszaI+<Ua7m6sJsWM}TwBM5b|BNfg}V{%aGpjJmF*s(Tc%RhHANxG93w]nPF73lRfTEfd#nadBHXpyU.R{:jid|=+vQxY2mndJNXELb~cqoz3$XMH;9<<%){0O7-Y!p/J9MMLcC<AiZ4",187},[161]={"QT2+v&2iGPa;?eLHeS>ZgMMaHyaO&XEV!`Y#9-gDH5&i36%pK{.*R]XZ@Kd)gU]C:>j@]Ue)78xa$<j&ak.U9!BzCCnu5}1F::%]3k#2SDgu6~^LINhBK16*}8gpg{KN0$qkw:R</4Kvjw9WUd&TAakuk_QP&V]AEsOo<p7Q~Z~6?/M-)KTcE3ih$nt6`?b?.0CDZ)aR/o5r9o&_/}sa!0G!Qtq)eYB7Ts/<7UI}y~mF*{e7BF0KNWF^u+FIr44HCOb1TIv&t1Ujuom>TNJEH!gn9#9+$H%LN2)qO0YR9S51Hp,Ai+b7/ms!DU%G(6#*",258},[162]={"n%g+A.UC5ygK)#IvdU`454i<TD<uO|9yIJy>_adyLByt!Of!0RZ3Rr)3b=A<NY4}qzW1w4v|M+zRvLT}:6uQ`.WQ|",70},[163]={"n%g+&dE9;vg;`rVX|MBUI52xkCq>pdod*SQRvw)?k)uQdoQVaAy8rwQW,B+RSLL7_i=l!To@{?5}sbSc1TS:SbvG]L`:XZ7yHAoI*%&Z{b0;d>f-{$@yjDY_=,MBv<cd!D~cwv4SaVTSv(tQ@HnYcR!Z&roTqX}3&YV5/k!htTrv90VR/]E@]=YC(lF5sYc,",153},[164]={"/b<P&DN{{#KLNPvV:+x<U5mU5_TbgbTn=BsR^4lfj9kU<k.kk~f|VR[yJ!%Zrnt48=OC|]#F78VcU4:-f%gH.pR,Ii0%(kC5!:?w^9.@d87vpUuh!rWJZ+fem@?iB.p{C_G%>/|r~q",110},[165]={"n%&P&DR63yum.a_~cKQQ>X|Q6g31YhZK;kOk/3QK$8}{,[vD<I7X~>h~7E8fKpY}ri41_mMZI/WBU~qse-#zXF772-Nob|6kQnLVQE=Gk_M5Ko!bw`@{o$-Oo>y5_^e`/$G#~52e#bI1#:0I0luSa^-5K%?lKqHldSiatw0u91wHV-3>24%#f~M0kf:ss`ueK3)L2zNuL8nQW%]ANrpQdub_!Ac(RntHg0Btg?a7b3pv<_UhK4{]5d`J/o:/y13A*I)d^><-Z/H_{|ccWOn_J,nIy(G:<I$~(,qS?%.K),dBX|ayy4<xlK`j_dD/&ZDKcttBt25)@rG}XHUFc8ji]_1|uM>)g?$/LpIvthWFhqvO@S@j_|nU6RiA$K).R6ycI^cZ6QV~*:]q_/?=?s)llGAZV4y|VV]fC@1cr|oG#%3{2kClk4oecNN?4i9=)1U,]cTVH<maz.`jTub-4K:*",380},[166]={"n%g+A.oCZOek`!id0[G>;;{rtCTm@lM]E,V@QRx$SBFugwSF|7nz4v;3VuudBFLPo/#to9bfG:j+T,kbp1&<<kT4P$iw)DMK^e0",79},[167]={"n%g+A.oC._ek=+@5*(^+3sM@tCR9K]DLQ3DiSmJ%EdLi7li2Yu7PiKDYh;WSwb^g.r8v^D)J~]0g+>MTa$jLHk71xCI?zbgPT?e",79},[168]={"n%g+A.oCU`Vq!ra3(P$Wp5rt2l~9.};G=gE}pD{TGi.2>x##p[Qj93%+=<qM+ouw4X]=5muGSSF*2;r+7T[AWus~21?n6aull{4",79},[169]={"n%g+A.oC>[I;u52FA3sp}@w9cb-4!]6GF3Sc[r_Try8xz.e{RWTSpjKv<l:hZ@}hc}9LIOL(ke:OyhY>j`X,aCn4n_*[xG-8PHt",79},[170]={"n%g+A.oCz5a;)OI-aLHSI5B8+eDX!:QBXMp:1`z{:rP=oHoComxIdkWo{@A?R&b+>s@N~+c,t=5zc4{IlRBK;.f[xV8,e@pp}q9",79},[171]={"n%PGM;cNk7JKs7R3vjb]ud!UO+V@7Z.KH?4+[JGF0t}{#VB*9VL9E}3v6},mBqOK(L{DkRj<%E4M{~6))b2!M1Q!*.)?vnvrYl0RV3pxsPCKlNo7&[+pxsZ9NV%}SCU#l*Dbl!D`X%g`ywzYqUN84}w{`Mp.uD`<!R$QKVZ|ULAv3Ec:L4q`T6-L{R-!Y<7vN~D=,m>|EK>OAcj]Jf1!KdFs=uV]Y`pIcPY2WzWq#q7d.9v^{%yvO2-EQq>|mnkc+u|3z>Exv:?WEzwiHMy^l!I1oD|+8@*?hBanv)eT_-5mThmb?oFNL00?@d&myLd)Z!RRk%h3oB1p/&Ld0cG17H[nq+eFO<Y|1+`aOu_i%4z0XW4Y}>%h7b293Rm1<0yV<Cv6^{&x-cp%|E|:l[AEz5r`LPP%7Do!hc}hFg-f#k$2(Q&tP|V]7@b/EYj_p8Eg8E;r/~S7n=S%8@[DP),GKQhWPSmM@S:&H28+MFP;[TLuC[xyw>2]Dq(9y1OJkqv[ax,jeB(0fWsy:Q.r{M:6<Cab2=WLg1%`vKvgkSpXh*gabF-is6S#GGU}j|g~*tL.evG<-$/?R",476},[172]={"n%g+A.oC._#sZ8Q1H4@<=MMp)!g~k)+R<d83IwIP8[DRyK?nJ}2T+=unn92.F;%<4=3BVRHM(mRbC&y4t8&La:^KBOABtQZ#t{9",79},[173]={"n%g+A.oCU`qG0_=A@LUrU5Fp1b#4o1(G/DLI4J7|$j?&5O@]s~.CR>C_!_(+ZMeGp*^9%Q8=UeM^n#y9#lV4}Lvz=,8r@[5j>8*",78},[174]={"n%g+A.oC>[qG!r7-LOy|%@ovM&Oe>SS.X,uj@@-I286@ml,Yf/%L4@O_bruM_v=OZ4C93!=f$?m.H-AKfa0@gCX>44VDwoXuX20",79},[175]={"n%g+A.oCz5{qKosMmQ*mSg34&:oZ,7Bl)|V)il42o3o2h<&6pyslKPMm~ukG%PbXrGM2F8+OMjy}DgPcWFK{&xOhP/_?1}QR(wt",78}}local AB={[0]=2}local function Ad(AG,Ab)AG=AG or 0 local AZ=Ab or Af[AG]if AZ and AZ[4806]~=nil then AB[AG]=2;return AZ end local A1=AB[AG]if A1==2 then return AZ end if A1==1 then c1[Sp[S3[31278]]]((AG or 0)+17)end local AV=AU[AG]if not AV then c1[Sp[S3[31278]]]((AG or 0)+23)end AB[AG]=1 local AD,AX=c1[Sp[24629]](c1[Sp[58024]],AV[1],AV[2],nil,zX,AG)if(not AD)or c1[Sp[26852]](AX)~=(N(294,wf)and sL or nil)or c1[Sp[26852]](AX[0])~=(N((36*8+6),wf)and sL or nil)then AB[AG]=nil;c1[Sp[S3[31278]]]((AG or 0)+31)end local Aa=AX[0]if not AZ then AZ={};Af[AG]=AZ end AZ[4806]=Aa[4806]AZ[7366]=Aa[7366]AZ[1965]=Aa[1965]AZ[3423]=Aa[3423]AZ[2704]=Aa[2704]AZ[3983]=Aa[3983]AZ[6898]=Aa[6898]AZ[8099]=Aa[8099]AZ[6509]=Aa[6509]AZ[6064]=Aa[6064]AZ[7428]=Aa[7428]AZ[2205]=Aa[2205]AZ[9987]=Aa[9987]AZ[5515]=Aa[5515]AZ[1080]=Aa[1080]AZ[2288]=Aa[2288]AZ[6085]=Aa[6085]AZ[9699]=Aa[9699]AZ[9171]=Aa[9171]if Aa[8236]~=nil then AZ[8236]=Aa[8236]end if Aa[6189]~=nil then AZ[6189]=Aa[6189]end AZ[2312]=Aa[2312]AZ[9445]=Aa[9445]AZ[7676]=Aa[7676]AZ[8571]=Aa[8571]AZ[9375]=Aa[9375]AZ[7248]=Aa[7248]AZ[4977]=Aa[4977]AZ[1971]=Aa[1971]AZ[6631]=Aa[6631]AZ[2073]=Aa[2073]AZ[6624]=Aa[6624]AZ[5592]=Aa[5592]AZ[8853]=Aa[8853]AZ[7835]=nil AZ[3291]=nil AZ[4307]=nil AZ[7137]=nil AZ[4789]=nil AZ[1263]=nil AZ[9612]=nil AZ[9406]=nil AZ[7738]=nil AZ[4115]=nil AZ[2895]=AG local Ap=AZ[1965]or 1 AZ[1965]=(Ap+At)%hp if AZ[9375]then AZ[6631]=AZ[1971]end AB[AG]=2 AU[AG]=nil return AZ end do local A3=Af[0][1965];local A0=(A3%257)*65537;local A7=(ha and A0 or 0);Af[0][1965]=(A3+A7)%hp end if ha then c1[Sp[S3[24746]]](c2,c1[Sp[S3[43341]]],c1[Sp[24454]]);local A8=(Af[0][1965]+1);c1[Sp[S3[40010]]](A8)end c1[Sp[16988]]=Af[0]Af[171][4747]=1 Af[165][4747]=1 Af[164][4747]=1 Af[163][4747]=1 Af[161][4747]=9 Af[160][4747]=1 Af[159][4747]=1 Af[158][4747]=1 Af[157][4747]=9 Af[156][4747]=1 Af[155][4747]=9 Af[154][4747]=1 Af[153][4747]=9 Af[152][4747]=1 Af[150][4747]=9 Af[149][4747]=1 Af[147][4747]=11 Af[145][4747]=9 Af[144][4747]=1 Af[142][4747]=8 Af[140][4747]=1 Af[138][4747]=11 Af[137][4747]=1 Af[136][4747]=1 Af[135][4747]=1 Af[134][4747]=1 Af[133][4747]=11 Af[132][4747]=1 Af[131][4747]=1 Af[130][4747]=9 Af[129][4747]=1 Af[128][4747]=3 Af[127][4747]=1 Af[58][4747]=1 Af[57][4747]=1 Af[56][4747]=9 Af[55][4747]=1 Af[54][4747]=9 Af[53][4747]=1 Af[52][4747]=9 Af[51][4747]=9 Af[50][4747]=1 Af[49][4747]=9 Af[48][4747]=1 Af[47][4747]=11 Af[46][4747]=1 Af[45][4747]=9 Af[44][4747]=3 Af[43][4747]=1 Af[42][4747]=11 Af[41][4747]=11 Af[40][4747]=1 Af[39][4747]=1 Af[38][4747]=3 Af[37][4747]=1 Af[36][4747]=9 Af[35][4747]=9 Af[34][4747]=1 Af[33][4747]=9 Af[32][4747]=9 Af[31][4747]=1 Af[30][4747]=9 Af[29][4747]=9 Af[11][4747]=1 Af[10][4747]=1 Af[9][4747]=9 Af[7][4747]=1 Af[5][4747]=9 Af[4][4747]=5 Af[3][4747]=4 Af[2][4747]=13 Af[1][4747]=1 Af[0][4747]=11 Af[16][4747]=1 Af[17][4747]=1 Af[18][4747]=13 Af[19][4747]=4 Af[20][4747]=1 Af[21][4747]=11 Af[22][4747]=1 Af[23][4747]=1 Af[24][4747]=1 Af[25][4747]=1 Af[26][4747]=9 Af[27][4747]=9 Af[28][4747]=1 Af[59][4747]=1 Af[60][4747]=9 Af[61][4747]=1 Af[62][4747]=9 Af[63][4747]=1 Af[64][4747]=1 Af[65][4747]=3 Af[66][4747]=3 Af[67][4747]=11 Af[68][4747]=9 Af[69][4747]=1 Af[70][4747]=1 Af[71][4747]=1 Af[72][4747]=1 Af[73][4747]=11 Af[75][4747]=3 Af[76][4747]=9 Af[78][4747]=9 Af[80][4747]=1 Af[82][4747]=1 Af[83][4747]=9 Af[84][4747]=1 Af[85][4747]=9 Af[86][4747]=1 Af[87][4747]=9 Af[88][4747]=1 Af[89][4747]=1 Af[90][4747]=1 Af[91][4747]=5 Af[92][4747]=1 Af[93][4747]=13 Af[94][4747]=1 Af[95][4747]=3 Af[96][4747]=3 Af[97][4747]=3 Af[99][4747]=1 Af[100][4747]=1 Af[101][4747]=1 Af[102][4747]=9 Af[103][4747]=1 Af[104][4747]=1 Af[105][4747]=1 Af[106][4747]=1 Af[107][4747]=1 Af[108][4747]=1 Af[109][4747]=9 Af[110][4747]=1 Af[111][4747]=1 Af[112][4747]=9 Af[113][4747]=1 Af[114][4747]=1 Af[115][4747]=9 Af[116][4747]=1 Af[117][4747]=1 Af[118][4747]=1 Af[119][4747]=1 Af[120][4747]=1 Af[121][4747]=1 Af[122][4747]=1 Af[123][4747]=1 Af[124][4747]=11 Af[125][4747]=1 Af[126][4747]=1 c1[Sp[23184]]=h5("d***-w*04@*k(/3Dn?gN}VAYx,=jQz?#J_vTSU-,r(xHjzJWL#2FQ8e[xB(|wgPC0bxy6Rwx7vy~rD%5O_Qx%mBQ<T#&HjGzP?#a^ft%ETrc!6!z!>@J}$7L0b&C-$r71SG1N+V<jXQ|)&gn7(eqxlt_Z&6.wNnY(0g%>-0d)x2lzWXMRXq97vJcM_L!=RJpy%@tJwv9C))N6{oFrSPj4G*34Ga5igvdw_yFdz3D%5.jJ%GhxRwx->@J|yGuGHpE#)tW,/I7Vqjzw^pzwwzOoFiQ>D0R)#6VPP424W*Y*sgCe,*U(oQ#a4Gd0a#7WT}k7!e<xC85V;_-%6Bhs:nIWG5~+yRNC?%;dR*T(ynyXOphETYvuA#VA=J2hDwd)xv?wCgII;#{jv]3hA3X]kL&)!+t7!e<xC~9bY#VA=<YAhp8vbS8ypr!bN4u4iy&-FvF%mBQHX|pY]-nrL}-WxM7`pzZGv)]dO;@7l>8Yz{&b!@GX,@xT`ywKI7Ic7SesKeA}SWk<#yo@Q}n0g%F7f0[xBu56Vw]-nrLrzN`JunB`pB&]YLg[nseNv2=C=j%R7P-2m,aXw~-&?,6ZMStP0ui5X.4fDMNB`I(#_~y%yCf%~7+e|];Kh<?)_6)OTe#yo@Q}n?:2uc%K$$Z&(,2G/I7VqUgw&y%@tBiO:%oBt0{1!*,#)j/JiLMt9zYX}pQEd*.[>,3GzoWoQ_-%6BhBZ/4")c1[Sp[46570]]=73 local A2=(function()local w9={}for Mc=1,c1[Sp[46570]]do w9[Mc]=Sc(73345725+Mc)%256 end return w9 end)()c1[Sp[15339]]=(function()local A5=((87*9549+53*7256+2982609714)%hp)local A4=((48*9549+54*7256+1094296116)%hp)for Mc=1,#c1[Sp[23184]]do A5=c1[Sp[36332]](A5,c1[Sp[23184]][Mc])end if A5~=A4 then c1[Sp[23184]]=c1[Sp[24521]]end end)()c1[Sp[43214]]={}local lk={}local lr=c1[Sp[S3[23307]]](c2,c1[Sp[S3[50310]]])or function()end local function lT(ns)if ST(ns)~=(N((293+35),wf)and sL or nil)or ns<1 or ns>c1[Sp[46570]]then c1[Sp[S3[33030]]](c2,c1[Sp[S3[50217]]],c1[Sp[24454]]);lr();return nil end local lY=Sk(lk,ns)if lY~=nil then return lY end local Mg=5+((ns-1)*8)local sv=c4(c1[Sp[45876]],A2[ns])%256 local w7={}for Mw=0,7 do local wV=c1[Sp[23184]][Mg+Mw]w7[Mw]=c4(wV,sv)end local JW=w7[0]+(w7[1]*256)+(w7[2]*65536)+(w7[3]*16777216)local Mz=w7[4]+(w7[5]*256)+(w7[6]*65536)+(w7[7]*16777216)local lc=((c1[Sp[30857]](Mz,2147483648))%2)==1 and-1 or 1 local Ml=c1[Sp[30857]](Mz,1048576)%2048 local lS=Mz%1048576 local MR=0 if Ml==2047 then MR=0 elseif Ml==0 then MR=lc*(lS/1048576.0+JW/4503599627370496.0)*c1[Sp[13096]][(N(((238+149-31)),wf)and sL or nil)](2,-1022)else MR=lc*(1.0+(lS/1048576.0)+(JW/4503599627370496.0))*c1[Sp[13096]][(N(((238+149-31)),wf)and sL or nil)](2,Ml-1023)end if c1[Sp[24662]]and Ml~=2047 and MR>=-9007199254740991 and MR<=9007199254740991 and(MR~=0 or lc>0)then local le=c1[Sp[13096]][(N(((271+121-35)),wf)and sL or nil)](MR)if le==MR then MR=le end end Sr(lk,ns,MR)return MR end local lE=(c1[Sp[46570]]<10 and 1 or c1[Sp[30857]](c1[Sp[46570]],10))if lE<1344 then lE=1344 end local lh="+;+;+;;;+;++;;+;+;+;+;;+++;;+;+++++++++;+++++++;+++++++++++;;;+++;;;+;;;+;;+;;+;+;+;;;;;+;;+++;;+;;+;;+;+;;;++;;++;;+++;+;;;+++;+;;;+;+++;;;+++;+;;+++;+++;;++;;++;;+++++;;++;+;+;;+++;++;;++;+;++;;;++;++;;;+++++;;;++;+;;++;;++;;+++;;+;;++++;+;;;+;;++;;;++;++;;+;++;+;;+;;+;++;;;++;++;;+;;+++++++;++++++++++++;;++;+;;+++;;+;;+;;+;+;;;++;;++;;+++;+;;;+++;+;;;++;+++;;;++++;;;+;+++;;;;+;+++;;+++++;;++;+;+;;++++;+;;;;+++++;;;++;++;;;+++++;;;++;+;;++;;++;;;;+;++;;;;+;++;;+;+++++;;+++++;;++;+;+;;;+++++;;+;;++++;;+++;++++++;;++++++++++++;++;+;;;+;;;+;;;;++;+;;+;;;++;;;+;;+++;;+;++++;+;;;+++;;+;+;++;+;;;+++;;+++++++++;++++++++++++++;+;+++;;++;+++;;++++++;;++;+++;;+;;+++;;++++++;;+;;;++;;++;+++;;++;+++;+;;;+++;;+++;+++++;+;++++++++++++;++++++++++++++++++++++++++++++++++++;;+;+;++;;++;+;;;;;+;;+++;++++++++++;;++++++++++;+++++++;;+++;++;;++;+;+;;+++;+++;;++++++;;;+++++;;+++++;;++;;+++;;;++;++;;+++;++;;;++++;;+++;++;;++;++++;;+;+;++;;++;+++;;;++;++;;;++;+;;++;+;++;;++;;++;;+;;+++;;++;+++;;+++++;;++;;+++;;+;;;++;;;++;++;;+;++++;;+;+;+;;++;;+++;;+;+;++;;+;;;+;;+++;;+;;++;;+++;;;++;+;;++++;++;;;+++++;;+;;+++;;++++++;;++++++;;+;++++;;++++++;;+;++++;;+++;++;;;++++;;+++;++;;++;++++;;+;;++;;++++;++;;+;+;+;;++;++++;;;++;+;;++;+;++;;;++;++;;+;++++;;++;++;;++;+++;;+++;++;;++;;+++;;+;;;+;;+++;;++;;+++;++;;+;;;++;;++;+++;;++;++;;+++;+++;;;++;;;;;;;;;"for v4=1,#lh do c1[Sp[43214]][c1[Sp[46570]]+v4]=(c1[Sp[48407]][(N(((277+84-64)),wf)and sL or nil)](lh,v4)==59)and 31 or 43 end c1[Sp[45760]]=(function()for h3=1345,lE do local z7=(((c1[Sp[45876]]+(h3*37))%1000003)/1000)c1[Sp[43214]][c1[Sp[46570]]+h3]=z7 end end)()if lE<1648 then lE=1648 end local lR="+;+;+;;++;++;;+;+;++;++;++;;+;+++++++++;+++;+++;+++++++++++++;+;++;;+;++++;+;;;+++;;+;+;++;+;;;+++;;+++++++;++;+++++++++++++;+;+++;;++;+++;;++++++;;++;+++;;+;;+++;;++++++;;+;;;++;;++;+++;;++;+++;+;;;+++;;+++;+++;++;;++++++++++++;++++;;++;+;+;;++;+;+;;+++;;++;;++++++;;++;+++;;;++;++;;++;+++;;++;+;;;;;;;;"for lw=1,#lR do c1[Sp[43214]][c1[Sp[46570]]+1345-1+lw]=c1[Sp[48407]][(N((355-58),wf)and sL or nil)](lR,lw)end local A6={}Sr(A6,c1[Sp[63541]],function()return function()end end)Sr(A6,c1[Sp[47952]],function()return function()end end)Sr(A6,c1[Sp[46592]],function()return 0 end)Sr(A6,c1[Sp[18730]],(N((384-69),wf)and sL or nil))Sr(A6,c1[Sp[55294]],function(li,ns)if ST(ns)~=(N(328,wf)and sL or nil)or ns<1 then c1[Sp[S3[20506]]](c2,c1[Sp[S3[36391]]],c1[Sp[24454]]);lr()return nil end if ns>c1[Sp[46570]]then if ns<=(c1[Sp[46570]]+lE)then c1[Sp[S3[37095]]](c2,c1[Sp[S3[40172]]],c1[Sp[24454]]);lr();return Sk(c1[Sp[43214]],ns)end c1[Sp[S3[54203]]](c2,c1[Sp[S3[43972]]],c1[Sp[24454]]);lr()return nil end return lT(ns)end)Sr(A6,c1[Sp[9850]],function()c1[Sp[S3[26012]]](c2,c1[Sp[S3[20073]]],c1[Sp[24454]]);lr()end)local A9=c1[Sp[54196]]({},A6)if ST(C)==SJ then C=C(c1[Sp[43214]],c1[Sp[46570]],1344,31)end do local lH=((46*9549+93*7256+1705750236)%hp)local lM=2983825045 for ln=1,#C do lM=c1[Sp[36332]](lM,C[ln])end if lM~=lH then do local ls=(lM+1);repeat ls=(ls*1103515245+12345)%hp until ls==0 end end end local L=5846+1 do c1[Sp[52614]]=2654435769 c1[Sp[42945]]=2246822507 c1[Sp[4282]]=h1 c1[Sp[25185]]=2166136261 c1[Sp[28884]]=16777619 c1[Sp[9471]]=1951586259 c1[Sp[33061]]=1982501476 c1[Sp[17948]]=1436878342 c1[Sp[40938]]=2003654289 local lD=c1[Sp[52614]]local lX=c1[Sp[42945]]local la=c1[Sp[4282]]local lp=c1[Sp[25185]]local l1=c1[Sp[28884]]local l8=c1[Sp[9471]]local l3=c1[Sp[33061]]local l7=c1[Sp[17948]]local function l0(l2,l5,l4,l9,l6,Cc,CS,Ce)local h3=lp h3=c9(c4(h3,l2),l1)h3=c9(c4(h3,l5),l1)h3=c9(c4(h3,l4),l1)h3=c9(c4(h3,l9),l1)h3=c9(c4(h3,l6),l1)h3=c9(c4(h3,Cc),l1)h3=c9(c4(h3,CS),l1)h3=c9(c4(h3,Ce),l1)return h3 end local function Ci(yC,CY,CT,Ck)if Ck~=zX then return 1 end local Cw=c3[((16+306-227))]or 0 local Ch=c9(yC,0x45d9f3b)local CR=c9(Cw,0x27d4eb2d)local CE=c4(c4(l3,l7),c4(Ch,CR))%la local Cr=Sc(CE)%la if Cr==0 then Cr=1 end local CO=(yC*lD+CY*lX+CT+Cr)%la local Cy=c4(l8,CO)%la local sv=Sc(Cy)%la if sv%256==0 then sv=sv+1 end return sv end local function CW(CT,CY,CK,Co)if Co~=zX then return 1 end local gv=lD local Cq=CY*gv local Cx=Cq%hp local Cv=(Cq-Cx)/hp local Cz=c4(c4(Cx,CT),CK)local Cg=Cv local Cy=(Cg*hp+Cz)%la local CP=c9(Cy,48271)local CA=(CP+81)%la if CA==0 then CA=1 end return CA end c1[Sp[40296]]=(function()local Cl=0 local CL=c1[Sp[24454]]local CN=c1[Sp[61885]]local Ct=c1[Sp[61885]]local Cu=c3[(8*9+8)]or 0 local CQ=0 local Cj=0 if Cu>0 then Cj=c1[Sp[13096]].floor(Cu/65536);CQ=Cu-(Cj*65536)end if CQ<=0 or CQ>49157 then CQ=0 end if Cj<=0 or Cj>49157 then Cj=0 end local Cd=c1[Sp[15218]]or 0 local CU=0 local CB=0 if Cd>0 then CB=c1[Sp[13096]].floor(Cd/65536);CU=Cd-(CB*65536)end if CU<=0 or CU>49157 then CU=0 end if CB<=0 or CB>49157 then CB=0 end if not(CQ>0 and CQ<=49157 and CU>0 and CU<=49157)then CL=c1[Sp[61885]]end if CL then Cl=(CQ*257)+(CU*131)+(Cj*73)+(CB*59)+507 CC=CQ-CU if CC<0 then CC=-CC end if CC>1 then Cl=Cl+7867;CN=c1[Sp[24454]]end if Cj>0 then Cm=CQ-Cj;if Cm<0 then Cm=-Cm end;if Cm>1 then Cl=Cl+7884;Ct=c1[Sp[24454]]end end if CB>0 then CI=CU-CB;if CI<0 then CI=-CI end;if CI>1 then Cl=Cl+7896;Ct=c1[Sp[24454]]end end end return Cl end)()local CG=c1[Sp[54196]]({},{[(N(0x172,wf)and sL or nil)]=(N((43*6+2),wf)and sL or nil)})local function Cb(lJ,lO,ly,lW,lo)if c1[Sp[61131]]~=c1[Sp[20917]][4]then lJ[1965]=0 return end if lJ[9375]and not(lJ[9445]and lJ[9445][0]~=nil)then return end if lW~=zX then return end if ly~=wf then return end local lK=c1[Sp[13096]][(N(((15+342)),wf)and sL or nil)]((lO-1)/64)local FS=(lJ[7366]or lJ[2895]or 0)if lK>0 then for Fe=0,lK-1 do if not lJ[9171][Fe]then c1[Sp[61131]](lJ,Fe*64+1,wf,zX)end end end if lJ[9171][lK]then return end lJ[9171][lK]=true if lJ[2895]==0 and lK>0 and not lJ[9767]then c1[Sp[S3[53046]]]()end local CT=lJ[1965]local lq=Ci(FS,lK,CT,zX)local Fi=c1[Sp[62308]](lo)or 0 if Fi~=0 then lJ[1965]=(((lJ[1965]or 0)+Fi+(lK*257))%h1)lJ[8099][lO]=nil return end local lx=lJ[2312]local lv=lK*64+1 local lz=c1[Sp[13096]][(N(((563-6-210)),wf)and sL or nil)](lv+63,lJ[4806])local lB=c1[Sp[24136]]local lG=c1[Sp[S3[33997]]]local lb=lB and lG(lB,c1[Sp[S3[53441]]])or 0 local lZ=lB and lG(lB,c1[Sp[S3[25377]]])or 0 local lV=1 do local w0=c1[Sp[62308]]local w3=w0 and w0(lb)or 0 local w7=w0 and w0(lZ)or 0 local w4=1-((w3+w7)%2)if w4~=0 then lV=w4 end end local MY=CG[lJ]if not MY then MY={};CG[lJ]=MY end local FY,FT,Fk,Fr local FE,Fh,FR,Fw local lP=lJ[9445][lK]or 0 local lm=(lz-lv+1)*8 local lA=(lJ[7676]and lJ[7676][lK])or lm local ll=(lJ[8571]and lJ[8571][lK])or 0 local lI=c9((FS or 0)+1,0x7feb352d)local lf=c9(lK+1,0x846ca68b)local lL=c9((lP or 0)%65536,0x9e3779b1)local lN=c9((lA or 0)%65536,0x85ebca77)local lt=((lv*131+lz*17+(ll or 0))%256)local lu=c9(lt,0xc2b2ae3d)local lQ=c4(c1[Sp[40938]],c4(lI,c4(lf,c4(lL,c4(lN,lu)))))lQ=c4(lQ,c3[(154-59)]or 0)%h1 do local FH=c3[((139-28-16))]or 0 local Fn=c9(c4(FH,((((c1[Sp[46449]])-((c1[Sp[46449]])%65536))/65536)%65536)),0x27d4eb2d)local Fs=c4(l3,l7)Fs=c4(Fs,lI)Fs=c4(Fs,lf)Fs=c4(Fs,lL)Fs=c4(Fs,lN)Fs=c4(Fs,lu)Fs=c4(Fs,Fn)Fs=c4(Fs,(c1[Sp[46449]]))%h1 if Fs==0 then Fs=1 end Fs=Sc(Fs)%h1 if Fs==0 then Fs=1 end local FJ=c9((FH+lt)%hp,0x45d9f3b)Fs=Sc(((c4(Fs,FJ)+lL+109)%h1))%h1 if Fs==0 then Fs=1 end lQ=c4(lQ,Fs)%h1 end local lj=Sc(lQ)%h1 if lj==0 then lj=1 end lq=c4(lq,lj)%h1 if(lq%(((0xFB+0x11))-((8+0x4))))==0 then lq=lq+1 end local FO=Sc(c4(lq,lj)%h1)%h1 if FO==0 then FO=1 end local Fy=FO%((0x4009)-((6+3)))local FW=((32759)-((0x6+0x4)))+(Fy*2)local Fo=(((0x4E+0x22))-(0xF))+((((FO-Fy)/((0x4009)-((6+3))))%((0x4009)-((6+3))))*2)local lC={}local lF=1 while lF<=lA do lC[lF]=c1[Sp[34311]](lx,lP+lF-1,MY,wf)lF=lF+1 end lF=1 while lF<=lA do local FM=lC[lF]or 0 lC[lF]=c4(FM,lq%(((0xFB+0x11))-((8+0x4))))lq=(lq*FW+Fo)%h1 lF=lF+1 end if ll~=0 then lC=My(lC,lm)end local lg=lv while lg<=lz do local lU=(lg-lv)*8+1 local y8=lC[lU+0]or 0 lJ[7428][lg]=y8 if lg==lv then FY=y8 end local y7=lC[lU+1]or 0 lJ[2205][lg]=y7 if lg==lv then FT=y7 end local y2=lC[lU+2]or 0 lJ[9987][lg]=y2 if lg==lv then Fk=y2 end local y4=lC[lU+3]or 0 lJ[5515][lg]=y4 if lg==lv then Fr=y4 end local y6=lC[lU+4]or 0 lJ[1080][lg]=y6 if lg==lv then FE=y6 end local WS=lC[lU+5]or 0 lJ[2288][lg]=WS if lg==lv then Fh=WS end local Wi=lC[lU+6]or 0 lJ[6085][lg]=Wi if lg==lv then FR=Wi end local WT=lC[lU+7]or 0 lJ[9699][lg]=WT if lg==lv then Fw=WT end lg=lg+lV end if not(lJ[2895]==0 and lK==0)then local CK=l0(FY or 0,FT or 0,Fk or 0,Fr or 0,FE or 0,Fh or 0,FR or 0,Fw or 0)lJ[1965]=CW(lJ[1965],lK,CK,zX)end end c1[Sp[20917]][4]=Cb c1[Sp[61131]]=Cb end c1[Sp[15279]]=function(yK,FK)yK=Ad((yK[2895]or yK[7366]or 0),yK)return function(...)local C=C local A9=A9 local m1=(((((yK[2895])or 0)+((((yK[2895])or 0)%3)*23291)+3225148419)*18676)%3)local N=(m1==0 and c1[Sp[48813]])or(m1==1 and c1[Sp[63610]])or c1[Sp[17585]]local F6 local gH local mc local mt local mu local mQ local mj local md local mU local mE local mh local mR local mw local mM local mH local mn local mS local me local mi local mY local mT local mk local mr local m8=(((yK[2895]or 0)*17+2)%4)local m3=(((yK[2895]or 0)*13+0)%2)if m8==1 then if m3==1 then mt=yK[6509]mu=yK[6064]F6=yK[8099]if type(F6)=='table'then else F6={}yK[8099]=F6 end gH=yK[4806]mc=yK[7428]if type(mc)=='table'then else mc={}yK[7428]=mc end mE=yK[2205]if type(mE)=='table'then else mE={}yK[2205]=mE end mh=yK[9987]if type(mh)=='table'then else mh={}yK[9987]=mh end mR=yK[5515]if type(mR)=='table'then else mR={}yK[5515]=mR end mw=yK[1080]if type(mw)=='table'then else mw={}yK[1080]=mw end mM=yK[2288]if type(mM)=='table'then else mM={}yK[2288]=mM end mH=yK[6085]if type(mH)=='table'then else mH={}yK[6085]=mH end mn=yK[9699]if type(mn)=='table'then else mn={}yK[9699]=mn end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn else F6=yK[8099]if type(F6)=='table'then else F6={}yK[8099]=F6 end gH=yK[4806]mc=yK[7428]if type(mc)=='table'then else mc={}yK[7428]=mc end mE=yK[2205]if type(mE)=='table'then else mE={}yK[2205]=mE end mh=yK[9987]if type(mh)=='table'then else mh={}yK[9987]=mh end mR=yK[5515]if type(mR)=='table'then else mR={}yK[5515]=mR end mw=yK[1080]if type(mw)=='table'then else mw={}yK[1080]=mw end mM=yK[2288]if type(mM)=='table'then else mM={}yK[2288]=mM end mH=yK[6085]if type(mH)=='table'then else mH={}yK[6085]=mH end mn=yK[9699]if type(mn)=='table'then else mn={}yK[9699]=mn end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn mt=yK[6509]mu=yK[6064]end elseif m8==2 then if m3==1 then mt=yK[6509]mu=yK[6064]do local m7=yK[8099]if type(m7)=='table'then F6=m7 else F6={}yK[8099]=F6 end end gH=yK[4806]do local m7=yK[7428]if type(m7)=='table'then mc=m7 else mc={}yK[7428]=mc end end do local m7=yK[2205]if type(m7)=='table'then mE=m7 else mE={}yK[2205]=mE end end do local m7=yK[9987]if type(m7)=='table'then mh=m7 else mh={}yK[9987]=mh end end do local m7=yK[5515]if type(m7)=='table'then mR=m7 else mR={}yK[5515]=mR end end do local m7=yK[1080]if type(m7)=='table'then mw=m7 else mw={}yK[1080]=mw end end do local m7=yK[2288]if type(m7)=='table'then mM=m7 else mM={}yK[2288]=mM end end do local m7=yK[6085]if type(m7)=='table'then mH=m7 else mH={}yK[6085]=mH end end do local m7=yK[9699]if type(m7)=='table'then mn=m7 else mn={}yK[9699]=mn end end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn else do local m7=yK[8099]if type(m7)=='table'then F6=m7 else F6={}yK[8099]=F6 end end gH=yK[4806]do local m7=yK[7428]if type(m7)=='table'then mc=m7 else mc={}yK[7428]=mc end end do local m7=yK[2205]if type(m7)=='table'then mE=m7 else mE={}yK[2205]=mE end end do local m7=yK[9987]if type(m7)=='table'then mh=m7 else mh={}yK[9987]=mh end end do local m7=yK[5515]if type(m7)=='table'then mR=m7 else mR={}yK[5515]=mR end end do local m7=yK[1080]if type(m7)=='table'then mw=m7 else mw={}yK[1080]=mw end end do local m7=yK[2288]if type(m7)=='table'then mM=m7 else mM={}yK[2288]=mM end end do local m7=yK[6085]if type(m7)=='table'then mH=m7 else mH={}yK[6085]=mH end end do local m7=yK[9699]if type(m7)=='table'then mn=m7 else mn={}yK[9699]=mn end end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn mt=yK[6509]mu=yK[6064]end elseif m8==3 then if m3==1 then mt=yK[6509]mu=yK[6064]do local m0=yK[8099]F6=(type(m0)=='table'and m0)or{}if F6~=m0 then yK[8099]=F6 end end gH=yK[4806]do local m0=yK[7428]mc=(type(m0)=='table'and m0)or{}if mc~=m0 then yK[7428]=mc end end do local m0=yK[2205]mE=(type(m0)=='table'and m0)or{}if mE~=m0 then yK[2205]=mE end end do local m0=yK[9987]mh=(type(m0)=='table'and m0)or{}if mh~=m0 then yK[9987]=mh end end do local m0=yK[5515]mR=(type(m0)=='table'and m0)or{}if mR~=m0 then yK[5515]=mR end end do local m0=yK[1080]mw=(type(m0)=='table'and m0)or{}if mw~=m0 then yK[1080]=mw end end do local m0=yK[2288]mM=(type(m0)=='table'and m0)or{}if mM~=m0 then yK[2288]=mM end end do local m0=yK[6085]mH=(type(m0)=='table'and m0)or{}if mH~=m0 then yK[6085]=mH end end do local m0=yK[9699]mn=(type(m0)=='table'and m0)or{}if mn~=m0 then yK[9699]=mn end end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn else do local m0=yK[8099]F6=(type(m0)=='table'and m0)or{}if F6~=m0 then yK[8099]=F6 end end gH=yK[4806]do local m0=yK[7428]mc=(type(m0)=='table'and m0)or{}if mc~=m0 then yK[7428]=mc end end do local m0=yK[2205]mE=(type(m0)=='table'and m0)or{}if mE~=m0 then yK[2205]=mE end end do local m0=yK[9987]mh=(type(m0)=='table'and m0)or{}if mh~=m0 then yK[9987]=mh end end do local m0=yK[5515]mR=(type(m0)=='table'and m0)or{}if mR~=m0 then yK[5515]=mR end end do local m0=yK[1080]mw=(type(m0)=='table'and m0)or{}if mw~=m0 then yK[1080]=mw end end do local m0=yK[2288]mM=(type(m0)=='table'and m0)or{}if mM~=m0 then yK[2288]=mM end end do local m0=yK[6085]mH=(type(m0)=='table'and m0)or{}if mH~=m0 then yK[6085]=mH end end do local m0=yK[9699]mn=(type(m0)=='table'and m0)or{}if mn~=m0 then yK[9699]=mn end end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn mt=yK[6509]mu=yK[6064]end else if m3==1 then mt=yK[6509]mu=yK[6064]F6=yK[8099]if type(F6)~='table'then F6={};yK[8099]=F6 end gH=yK[4806]mc=yK[7428]if type(mc)~='table'then mc={};yK[7428]=mc end mE=yK[2205]if type(mE)~='table'then mE={};yK[2205]=mE end mh=yK[9987]if type(mh)~='table'then mh={};yK[9987]=mh end mR=yK[5515]if type(mR)~='table'then mR={};yK[5515]=mR end mw=yK[1080]if type(mw)~='table'then mw={};yK[1080]=mw end mM=yK[2288]if type(mM)~='table'then mM={};yK[2288]=mM end mH=yK[6085]if type(mH)~='table'then mH={};yK[6085]=mH end mn=yK[9699]if type(mn)~='table'then mn={};yK[9699]=mn end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn else F6=yK[8099]if type(F6)~='table'then F6={};yK[8099]=F6 end gH=yK[4806]mc=yK[7428]if type(mc)~='table'then mc={};yK[7428]=mc end mE=yK[2205]if type(mE)~='table'then mE={};yK[2205]=mE end mh=yK[9987]if type(mh)~='table'then mh={};yK[9987]=mh end mR=yK[5515]if type(mR)~='table'then mR={};yK[5515]=mR end mw=yK[1080]if type(mw)~='table'then mw={};yK[1080]=mw end mM=yK[2288]if type(mM)~='table'then mM={};yK[2288]=mM end mH=yK[6085]if type(mH)~='table'then mH={};yK[6085]=mH end mn=yK[9699]if type(mn)~='table'then mn={};yK[9699]=mn end mS=mE me=mh mi=mR mY=mw mT=mM mk=mH mr=mn mt=yK[6509]mu=yK[6064]end end mQ=yK[8236]mj=17+(((c1[Sp[46449]])+(((yK[7366])or(yK[2895])or 0)*131)+29)%997)md=31+((((c1[Sp[46449]]-(c1[Sp[46449]]%997))/997)+(((yK[7366])or(yK[2895])or 0)*257)+71)%991)mU=yK[6189]local m2=0 local m6=(yK[4747]or 0)local Fq={}Fq[(41126-5110)]=Fq local Fx=((m6%16)>=8 and{}or nil)local FP=yK[3983]and{}or nil local FA=0 local FI=((m6%2)~=0 and{}or nil)local Ff=((m6%4)>=2 and{}or nil)local FL=((m6%8)>=4 and{}or nil)local Ic=1 local IS=yK[3423]local Fl local FC if yK[3983]then FC=c1[Sp[27628]](nil,...)Fl=FC.n or#FC local Ie=c1[Sp[13096]].min(Fl,IS)for Mc=1,Ie do Fq[Mc-1]=FC[Mc]end elseif IS==1 then local yu=...Fq[0]=yu elseif IS==2 then local yu,yQ=...Fq[0]=yu Fq[1]=yQ elseif IS==3 then local yu,yQ,yj=...Fq[0]=yu Fq[1]=yQ Fq[2]=yj elseif IS>0 then FC={...}for Mc=1,IS do Fq[Mc-1]=FC[Mc]end end FA=IS if yK[3983]then local Ii=IS+1 if Fl>=Ii then for Mc=Ii,Fl do FP[Mc-Ii+1]=FC[Mc]end FP[Sy]=Fl-IS else FP[Sy]=0 end end local Fv=1 local F2=(yK[2895]or 0)local F5=(1612258094+(F2*13007)+(gH*257)+((yK[1965]or 0)*37))%h1 local F4=Fv+F5 local IY=not yK[7544]local IT=(3284158365+((yK[2895]or 0)*131)+((gH or 0)*17))%256 local function Ik(Ir,IE)local Ih=IE or 0 local IR=((Ih*19+3402721824)%251)+1 local Iw=((Ir*7+Ih*41+3284158365)%256)return((Ir*IR)+Iw)%256 end local function IM(IH,In)return c1[Sp[54196]]({},{[(N((404-65),wf)and sL or nil)]=function(_,Is)local IJ=IH[Is]if IJ==nil then return nil end local IO=(IT+((Is or 0)*3)+(In*11))%256 return c4(IJ,c4(Ik(Is,In),IO))end,[(N(((383-25+(163-163))),wf)and sL or nil)]=function(_,Is,IJ)if IJ==nil then IH[Is]=nil return end IH[Is]=c4(IJ,Ik(Is,In))end})end local ms=F6 if IY then local Iy=yK[8128]local IW=yK[8545]local Io=yK[8391]local IK=yK[7043]if type(Iy)~='table'then Iy={}local Iq=(3284158365+((yK[2895]or 0)*2654435761)+((gH or 0)*131))%2147483647 local Ix=1 while Ix<=gH do local Iv=F6[Ix]if Iv~=nil then Iq=(Iq*1103515245+12345+((Iv or 0)*257)+(Ix*13))%2147483647 local Iz=Ik(Ix,1)local Ig=(Iq%256)Iy[Ix]=c4(Iv,c4(Iz,Ig))else Iq=(Iq*1103515245+12345+(Ix*13))%2147483647 end Ix=Ix+1 end yK[8128]=Iy end if type(IW)~='table'then IW=IM(mE,2)Io=IM(mh,3)IK=IM(mR,4)yK[8545]=IW yK[8391]=Io yK[7043]=IK end ms=Iy mS=IW me=Io mi=IK end local Il=true while Il do if Fv>gH then Il=false else local If=mc[Fv]if If==nil then if yK[9445]and yK[9445][0]~=nil then c1[Sp[61131]](yK,Fv,wf,zX,((F4-((Fv)+F5))%h1))else local IL=Fv+63 if IL>gH then IL=gH end for IN=Fv,IL do if mc[IN]==nil then c1[Sp[18946]](yK,IN,((F4-((Fv)+F5))%h1))else break end end end end local Mq=nil if IY then Mq=(ms)[Fv]end local ID=(F6)[Fv]local IX=(((ID or 0)*15+191)%256)local Fz=IX if Mq==nil then Mq=Fz end if F4~=Fv+F5 then local F9=(F4-(Fv+F5))%h1 Fz=201 Mq=Fz Fv=gH+1 yK[1965]=(((yK[1965]or 0)+F9+Fz)%h1)end local Fm=false local FF=false local mB,mG,mb,mZ,mV,mD,mX,ma,mp if Fz>127 then if Fz>191 then if Fz>223 then if Fz>241 then if Fz>249 then if Fz>253 then if Fz>254 then if Fz==255 then mp=mc[Fv]ma=mp+1 fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end fq=mR if type(fq)~='table'then fq=yK[5515]end if type(fq)~='table'then fq={}end fx=mw if type(fx)~='table'then fx=yK[1080]end if type(fx)~='table'then fx={}end fv=mM if type(fv)~='table'then fv=yK[2288]end if type(fv)~='table'then fv={}end fz=mH if type(fz)~='table'then fz=yK[6085]end if type(fz)~='table'then fz={}end fg=Jn if type(fg)~='table'then fg=c1[Sp[57086]]end if type(fg)~='table'then fg={}end mB=fo[Fv]+(fK[Fv]*(50+206))mG={}mX=c1[Sp[50244]][mB]if mX then for I8=1,#mX do HE=mX[I8]mG[HE]=false end end if false then mG[0]=nil end mb=fq[Fv]mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[mb+1],wf)and sL or nil)mV=fx[Fv]mD=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[mV+1],wf)and sL or nil)HR=fv[Fv]I3=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[HR+1],wf)and sL or nil)I7=fz[Fv]I0=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[I7+1],wf)and sL or nil)Fq[mp]=mG Fq[ma]=I0 mG[mZ]=mD mG[I3]=I0 mB=nil mG=nil mb=nil mZ=nil mV=nil mD=nil mX=nil ma=nil mp=nil I8=nil HE=nil HR=nil I3=nil I7=nil I0=nil fo=nil fK=nil fq=nil fx=nil fv=nil fz=nil fg=nil FF=true end else if Fz==254 then mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]if mB then mG=mB end Fq[mc[Fv]]=mG FF=true end end else if Fz>252 then if Fz==253 then mB=mE[Fv]mG=FK[mB+1]mb=ST(mG)if mb==Ss and mG[9400]then if mG[5417]then mZ=mG[9152]else mV=mG.I1 mD=mG[6860]if mV and mD~=nil then mZ=mV[mD]else mZ=mG[3552][mG[6860]]end end else mZ=mG end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mh[Fv]]=mZ mB=mR[Fv]+(mw[Fv]*(89+167))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=mZ[mG]mB=mM[Fv]+(mH[Fv]*(89+167))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mb[mG]mG=nil mb=nil mZ=nil FF=true end else if Fz>251 then if Fz==252 then FF=true mB=mc[Fv]or 0 mG=mE[Fv]or 0 if(mB+mG)>=0 then I1=c1[Sp[52247]]if I1 then I8=I1(1)if I8 and I8~=c1[Sp[S3[55773]]]then do local mB=c1[Sp[S3[26499]]];local mG=c1[Sp[S3[50321]]];local mb=c1[Sp[S3[35202]]];local mZ=c1[Sp[S3[36288]]];mb(mB,c1[Sp[S3[20862]]],c1[Sp[S3[20386]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[32355]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[36590]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[36590]]],mD+mX)end end end else if _ENV~=c1[Sp[S3[55773]]]then do local mB=c1[Sp[S3[34034]]];local mG=c1[Sp[S3[44849]]];local mb=c1[Sp[S3[37706]]];local mZ=c1[Sp[S3[33242]]];mb(mB,c1[Sp[S3[54187]]],c1[Sp[S3[37805]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[42861]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[38228]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[38228]]],mD+mX)end end end end HE=c1[Sp[S3[51588]]]if HE and HE==c1[Sp[S3[25297]]]then do local mB=c1[Sp[S3[28460]]];local mG=c1[Sp[S3[38163]]];local mb=c1[Sp[S3[58444]]];local mZ=c1[Sp[S3[32760]]];mb(mB,c1[Sp[S3[54025]]],c1[Sp[S3[57554]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[33132]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[36934]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[36934]]],mD+mX)end end end end Fv=Fv+1 Fm=true FF=true end else if Fz==251 then mp=mc[Fv]ma=mE[Fv]mB=mh[Fv]+(mR[Fv]*(313-57))mG={}mX=c1[Sp[50244]][mB]if mX then for I8=1,#mX do HE=mX[I8]mG[HE]=false end end if false then mG[0]=nil end mb=mw[Fv]+(mM[Fv]*(313-57))mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)mV=mH[Fv]+(mn[Fv]*(313-57))mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mV+1],wf)and sL or nil)Fq[mp]=mG Fq[ma]=mD mG[mZ]=mD mB=nil mG=nil mb=nil mZ=nil mV=nil mD=nil mX=nil ma=nil mp=nil FF=true end end end end else if Fz>244 then if Fz>247 then if Fz==249 then mB=mc[Fv]mG=mE[Fv]if false then mG=mG end mb=FK[mG+1]ma=Fq[mB]if SE and ST(ma)==SH and c1[Sp[51491]](ma)==ma then ma=c1[Sp[51491]](ma)end mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mb[9152]=ma mb[1]=ma mb[2]=nil else mX=mb[2]if mX~=nil then mV=mb[1]if mV then mV[mX]=ma end else mb[1]=ma mb[9152]=ma mb[5417]=true end end else FK[mG+1]=ma end FF=true end else if Fz>246 then if Fz==247 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mG+(mb*(539-283))Fq[mB]=(lk[mZ]or lT(mZ))or 0 FF=true end else if Fz==246 then mG=Fq[mR[Fv]]mB=Fq[mc[Fv]]ma=not(mB<=mG)mV=mQ mX=ma if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>243 then if Fz==244 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mG]local mV=Fq[mb]local mD=Fq[mb+1]mZ(mV,mD)mZ=nil FF=true end else if Fz>242 then if Fz==243 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB<mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==242 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]%((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end end end else if Fz>232 then if Fz>237 then if Fz>239 then if Fz==241 then ma=((11283+(Fv*5)+(mh[Fv]*53)+(mE[Fv]*37)+(mc[Fv]*19))%3)mB=Fq[mE[Fv]]mV=(2-2)if mV~=(8-8)then mB=mB end if ma==0 then if mB then mB[Fq[mh[Fv]]]=Fq[mc[Fv]]end elseif ma==1 then mG=Fq[mh[Fv]]if mB then mB[mG]=Fq[mc[Fv]]end else mG=Fq[mh[Fv]]mb=Fq[mc[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end else if Fz>238 then if Fz==239 then mB=Fq[mE[Fv]]if mB then Fq[mc[Fv]]=Fq[mh[Fv]]else Fq[mc[Fv]]=mB end FF=true end else if Fz==238 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(52+204))mZ=mw[Fv]+(mM[Fv]*(52+204))local mV=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)mX=c1[Sp[14574]][mV]Fq[mB]=mX local mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)Fq[mB+1]=mD I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mX)if mG==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mX(mD))else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mX,mD))else fe=fS(nil,mX(mD))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mG==1 then mX(mD)elseif mG==2 then I4=mX(mD)elseif mG==3 then I4,I6=mX(mD)else I4,I6,fc=mX(mD)end else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==1 then I5(mX,mD)elseif mG==2 then I4=I5(mX,mD)elseif mG==3 then I4,I6=I5(mX,mD)else I4,I6,fc=I5(mX,mD)end else if mG==1 then mX(mD)elseif mG==2 then I4=mX(mD)elseif mG==3 then I4,I6=mX(mD)else I4,I6,fc=mX(mD)end end end if mG==2 then Fq[mB]=I4 FA=mB+1 elseif mG==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mG==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>235 then if Fz==237 then FF=true mB=mc[Fv]or 0 mG=mh[Fv]or 0 if(mB+mG)>=0 then I1=c1[Sp[31431]]if I1 and c1[Sp[S3[46357]]]then I8=c1[Sp[S3[40930]]](c1[Sp[S3[55069]]],(N(((470-7-194)),wf)and sL or nil))if I8~=I1 then do local mB=c1[Sp[S3[42293]]];local mG=c1[Sp[S3[58227]]];local mb=c1[Sp[S3[20554]]];local mZ=c1[Sp[S3[58585]]];mb(mB,c1[Sp[S3[21225]]],c1[Sp[S3[30525]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[31551]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[33044]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[33044]]],mD+mX)end end end end end Fv=Fv+1 Fm=true FF=true end else if Fz>234 then if Fz==235 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=Fq[mG]Fq[mB+1]=mZ mV=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mV)if mb==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mV(mZ))else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mV,mZ))else fe=fS(nil,mV(mZ))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mb==1 then mV(mZ)elseif mb==2 then I4=mV(mZ)elseif mb==3 then I4,I6=mV(mZ)else I4,I6,fc=mV(mZ)end else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mb==1 then I5(mV,mZ)elseif mb==2 then I4=I5(mV,mZ)elseif mb==3 then I4,I6=I5(mV,mZ)else I4,I6,fc=I5(mV,mZ)end else if mb==1 then mV(mZ)elseif mb==2 then I4=mV(mZ)elseif mb==3 then I4,I6=mV(mZ)else I4,I6,fc=mV(mZ)end end end if mb==2 then Fq[mB]=I4 FA=mB+1 elseif mb==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mb==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz==234 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(66+112+78))mZ=Fq[mG]mV=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)if false then mV=mV end mD=mZ and mZ[mV]or nil if mD==nil and mZ~=nil then mX=c1[Sp[12275]](mZ)mX=mX and mX[(N(((381-42+(253-253))),wf)and sL or nil)]mb=ST(mX)if mb==SJ then mD=mX(mZ,mV)elseif mb==Ss then mD=mX[mV]end end if mD==nil and ST(mZ)==Sn then mD=cU and cU[mV]or nil end if mD==nil and mZ~=nil and ST(mZ)~=Ss then mX=c1[Sp[12275]](mZ)mX=mX and mX[(N((231+60),wf)and sL or nil)]if ST(mX)==SJ then mD=mX end end Fq[mB]=mD Fq[mB+1]=mZ FF=true end end end end else if Fz>228 then if Fz>231 then if Fz==232 then ma=((Fv+(mc[Fv]*19)+(mE[Fv]*31)+(mh[Fv]*47)+13692)%3)mB=mE[Fv]+(mh[Fv]*(128+128))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)if ma==0 then c1[Sp[14574]][mG]=Fq[mc[Fv]]elseif ma==1 then mb=Fq[mc[Fv]]c1[Sp[14574]][mG]=mb else mb=Fq[mc[Fv]]mZ=c1[Sp[14574]]mZ[mG]=mb end mG=nil mb=nil mZ=nil ma=nil FF=true end else if Fz>229 then if Fz==231 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB<=mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==229 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mG]local mV=Fq[mb]mZ(mV)mZ=nil FF=true end end end else if Fz>227 then if Fz==228 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(106+58+92))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]FL[mB]=mD ma=(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)if ma then Fv=Fv+1 else mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end end Fm=true FF=true end else if Fz>226 then if Fz==227 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]/((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end else if Fz==226 then Fq[mc[Fv]]=#Fq[mE[Fv]]FF=true end end end end end end else if Fz>210 then if Fz>218 then if Fz>221 then if Fz>222 then if Fz==223 then mB=mE[Fv]mG=FK[mB+1]mb=ST(mG)if mb==Ss and mG[9400]then if mG[5417]then mZ=mG[9152]else mV=mG.I1 mD=mG[6860]if mV and mD~=nil then mZ=mV[mD]else mZ=mG[3552][mG[6860]]end end else mZ=mG end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mh[Fv]]=mZ mB=mR[Fv]+(mw[Fv]*((9*6)+202))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mZ[mG]mG=nil mb=nil mZ=nil FF=true end else if Fz==222 then FF=true mB=mc[Fv]or 0 mG=mE[Fv]or 0 if(mB+mG)>=0 then I1=c1[Sp[30445]]if I1 and c1[Sp[S3[55746]]]~=I1 then do local mB=c1[Sp[S3[58816]]];local mG=c1[Sp[S3[54333]]];local mb=c1[Sp[S3[29439]]];local mZ=c1[Sp[S3[29555]]];mb(mB,c1[Sp[S3[45505]]],c1[Sp[S3[49104]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[40958]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[35639]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[35639]]],mD+mX)end end end end Fv=Fv+1 Fm=true FF=true end end else if Fz>220 then if Fz==221 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*(407-151))local _a=(mZ>=0x8000)and-0x10000 or 0;mZ=mZ+_a Fq[mB+mG-1]=mZ mV=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mV)if mb==0 then fS=c1[Sp[27628]]if I0==SJ then if mG==4 then fe=fS(nil,mV(Fq[mB+1],Fq[mB+2],mZ))else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end fe=fS(nil,mV(c5(mD,1,mX)))end else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==4 then fe=fS(nil,I5(mV,Fq[mB+1],Fq[mB+2],mZ))else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end fe=fS(nil,I5(mV,c5(mD,1,mX)))end else if mG==4 then fe=fS(nil,mV(Fq[mB+1],Fq[mB+2],mZ))else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end fe=fS(nil,mV(c5(mD,1,mX)))end end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mG==4 then if mb==1 then mV(Fq[mB+1],Fq[mB+2],mZ)elseif mb==2 then I4=mV(Fq[mB+1],Fq[mB+2],mZ)elseif mb==3 then I4,I6=mV(Fq[mB+1],Fq[mB+2],mZ)else I4,I6,fc=mV(Fq[mB+1],Fq[mB+2],mZ)end else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end if mb==1 then mV(c5(mD,1,mX))elseif mb==2 then I4=mV(c5(mD,1,mX))elseif mb==3 then I4,I6=mV(c5(mD,1,mX))else I4,I6,fc=mV(c5(mD,1,mX))end end else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==4 then if mb==1 then I5(mV,Fq[mB+1],Fq[mB+2],mZ)elseif mb==2 then I4=I5(mV,Fq[mB+1],Fq[mB+2],mZ)elseif mb==3 then I4,I6=I5(mV,Fq[mB+1],Fq[mB+2],mZ)else I4,I6,fc=I5(mV,Fq[mB+1],Fq[mB+2],mZ)end else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end if mb==1 then I5(mV,c5(mD,1,mX))elseif mb==2 then I4=I5(mV,c5(mD,1,mX))elseif mb==3 then I4,I6=I5(mV,c5(mD,1,mX))else I4,I6,fc=I5(mV,c5(mD,1,mX))end end else if mG==4 then if mb==1 then mV(Fq[mB+1],Fq[mB+2],mZ)elseif mb==2 then I4=mV(Fq[mB+1],Fq[mB+2],mZ)elseif mb==3 then I4,I6=mV(Fq[mB+1],Fq[mB+2],mZ)else I4,I6,fc=mV(Fq[mB+1],Fq[mB+2],mZ)end else mD=FI for fY=1,#mD do mD[fY]=nil end mX=mG-1 for fY=1,mX do mD[fY]=Fq[mB+fY]end if mb==1 then mV(c5(mD,1,mX))elseif mb==2 then I4=mV(c5(mD,1,mX))elseif mb==3 then I4,I6=mV(c5(mD,1,mX))else I4,I6,fc=mV(c5(mD,1,mX))end end end end if mb==2 then Fq[mB]=I4 FA=mB+1 elseif mb==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mb==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz>219 then if Fz==220 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(16*16))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=mw[Fv]+(mM[Fv]*(16*16))local _a=(mZ>=0x8000)and-0x10000 or 0;mZ=mZ+_a Fq[mB+1]=mb Fq[mB+2]=mZ mV=mb mD=mZ mX=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mX)if mG==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mX(mV,mD))else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mX,mV,mD))else fe=fS(nil,mX(mV,mD))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mG==1 then mX(mV,mD)elseif mG==2 then I4=mX(mV,mD)elseif mG==3 then I4,I6=mX(mV,mD)else I4,I6,fc=mX(mV,mD)end else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==1 then I5(mX,mV,mD)elseif mG==2 then I4=I5(mX,mV,mD)elseif mG==3 then I4,I6=I5(mX,mV,mD)else I4,I6,fc=I5(mX,mV,mD)end else if mG==1 then mX(mV,mD)elseif mG==2 then I4=mX(mV,mD)elseif mG==3 then I4,I6=mX(mV,mD)else I4,I6,fc=mX(mV,mD)end end end if mG==2 then Fq[mB]=I4 FA=mB+1 elseif mG==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mG==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz==219 then mB=mc[Fv]mG=mE[Fv]if false then mG=mG end mb=mh[Fv]+(mR[Fv]*(66+112+78))mZ=Fq[mG]mV=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)mD=mZ and mZ[mV]or nil if mD==nil and mZ~=nil then mX=c1[Sp[12275]](mZ)mX=mX and mX[(N(((381-42+(253-253))),wf)and sL or nil)]mb=ST(mX)if mb==SJ then mD=mX(mZ,mV)elseif mb==Ss then mD=mX[mV]end end if mD==nil and ST(mZ)==Sn then mD=cU and cU[mV]or nil end if mD==nil and mZ~=nil and ST(mZ)~=Ss then mX=c1[Sp[12275]](mZ)mX=mX and mX[(N((231+60),wf)and sL or nil)]if ST(mX)==SJ then mD=mX end end Fq[mB]=mD Fq[mB+1]=mZ FF=true end end end end else if Fz>213 then if Fz>217 then if Fz==218 then mB=mw[Fv]+(mM[Fv]*(136+120))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mE[Fv]]=mG ma=Fq[mc[Fv]]mp=Fq[mE[Fv]]mV=mQ mX=not(ma==mp)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true mB=nil mG=nil mb=nil mZ=nil ma=nil mp=nil FF=true end else if Fz>216 then if Fz==217 then ma=((48095+(Fv*5)+(mh[Fv]*43)+(mE[Fv]*29)+(mc[Fv]*17))%3)mB=mE[Fv]+(mh[Fv]*(16*16))mD=(1+15)-15 mX=((mB*131)+15)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mB]then Fq[mc[Fv]]=c1[Sp[10195]](mB,nil)else mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+mD],wf)and sL or nil)if ma==0 then Fq[mc[Fv]]=c1[Sp[14574]][mG]elseif ma==1 then mb=c1[Sp[14574]][mG]Fq[mc[Fv]]=mb else mZ=c1[Sp[14574]]mb=mZ[mG]Fq[mc[Fv]]=mb end end mG=nil mb=nil mZ=nil ma=nil mp=nil FF=true end else if Fz==216 then Fv=Fv+1 FF=true end end end else if Fz>212 then if Fz==213 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(106+58+92))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]FL[mB]=mD if(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)then Fv=Fv+1 else mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end end Fm=true FF=true end else if Fz>211 then if Fz==212 then mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]mb=c1[Sp[12275]](mB)or c1[Sp[12275]](mG)mZ=mb and mb[(N(((69+294)),wf)and sL or nil)]if mZ~=nil then mV=mZ(mB,mG)Fq[mc[Fv]]=mV else mV=cu[(N(((421-44-20)),wf)and sL or nil)](mB/mG)Fq[mc[Fv]]=mV end FF=true end else if Fz==211 then mB=mc[Fv]mG=mE[Fv]if mB==1 then if not Fx[mG]then Fx[mG]={[9400]=c1[Sp[24454]],[3552]=Fq,[6860]=mG,[5417]=c1[Sp[61885]],[9152]=nil,[1]=Fq,[2]=mG}end end FF=true end end end end end else if Fz>201 then if Fz>206 then if Fz>207 then if Fz==210 then if not c2.HE then c2.HE=true local I8=(c2.I5 or 0)c2.I5=I8+1 end FF=true end else if Fz==207 then FF=true mZ=mc[Fv]or 0 mV=mE[Fv]or 0 if(mZ+mV)>=0 then mB=c1[Sp[S3[22781]]]mG=c1[Sp[61371]]if mG and mB then mb=c1[Sp[S3[31952]]](mB,(N(((387+37-100)),wf)and sL or nil))if mb~=mG then do local mB=c1[Sp[S3[52724]]];local mG=c1[Sp[S3[52360]]];local mb=c1[Sp[S3[54953]]];local mZ=c1[Sp[S3[33089]]];mb(mB,c1[Sp[S3[29522]]],c1[Sp[S3[49616]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[46312]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[53717]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[53717]]],mD+mX)end end end end mG=c1[Sp[S3[36018]]]if mG and mB then mb=c1[Sp[S3[44768]]](mB,(N(((524+-182-23)),wf)and sL or nil))if mb~=mG then do local mB=c1[Sp[S3[25505]]];local mG=c1[Sp[S3[43749]]];local mb=c1[Sp[S3[30283]]];local mZ=c1[Sp[S3[46799]]];mb(mB,c1[Sp[S3[44032]]],c1[Sp[S3[40951]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[44957]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[37083]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[37083]]],mD+mX)end end end end mG=c1[Sp[S3[59458]]]if mG and mB then mb=c1[Sp[S3[30163]]](mB,(N((31*9),wf)and sL or nil))if mb~=mG then do local mB=c1[Sp[S3[48266]]];local mG=c1[Sp[S3[37486]]];local mb=c1[Sp[S3[52269]]];local mZ=c1[Sp[S3[33908]]];mb(mB,c1[Sp[S3[41290]]],c1[Sp[S3[43393]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[52220]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[47428]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[47428]]],mD+mX)end end end end mG=c1[Sp[S3[23606]]]if mG then mb=mG()if mb~=nil then do local mB=c1[Sp[S3[41969]]];local mG=c1[Sp[S3[21552]]];local mb=c1[Sp[S3[26577]]];local mZ=c1[Sp[S3[29960]]];mb(mB,c1[Sp[S3[53900]]],c1[Sp[S3[32109]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[42645]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[55426]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[55426]]],mD+mX)end end;c1[Sp[S3[58922]]](Fv+1)end end end Fv=Fv+1 Fm=true FF=true end end else if Fz>205 then if Fz==206 then mp=((((Fv+29106)%251)+(mc[Fv]*17)+(mE[Fv]*31)+(mh[Fv]*47))%3)mB=mR[Fv]+(mw[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=mM[Fv]+(mH[Fv]*(16*16))mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)mV=Fq[mE[Fv]]mD=mV[mG]Fq[mc[Fv]]=mD mX=Fq[mh[Fv]]if mp==0 then mX[mZ]=mD elseif mp==1 then ma=Fq[mc[Fv]]mX[mZ]=ma else ma=mD mX[mZ]=ma end mG=nil mZ=nil mV=nil mD=nil mX=nil ma=nil mp=nil FF=true end else if Fz>204 then if Fz==205 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=Fq[mG]Fq[mB+2]=mZ mV=Fq[mB+1]mD=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mD)if mb==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mD(mV,mZ))else I2=c1[Sp[12275]](mD)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mD,mV,mZ))else fe=fS(nil,mD(mV,mZ))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mb==1 then mD(mV,mZ)elseif mb==2 then I4=mD(mV,mZ)elseif mb==3 then I4,I6=mD(mV,mZ)else I4,I6,fc=mD(mV,mZ)end else I2=c1[Sp[12275]](mD)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mb==1 then I5(mD,mV,mZ)elseif mb==2 then I4=I5(mD,mV,mZ)elseif mb==3 then I4,I6=I5(mD,mV,mZ)else I4,I6,fc=I5(mD,mV,mZ)end else if mb==1 then mD(mV,mZ)elseif mb==2 then I4=mD(mV,mZ)elseif mb==3 then I4,I6=mD(mV,mZ)else I4,I6,fc=mD(mV,mZ)end end end if mb==2 then Fq[mB]=I4 FA=mB+1 elseif mb==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mb==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz==204 then local rI=c5 mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local fj=FA or 0 local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mB]if mG==0 then mD=FA-mB-1 else mD=mG-1 end if mb==0 then local I8=c1[Sp[27628]]mV=I8(nil,mZ(rI(Fq,mB+1,mB+mD)))ma=mV.n or#mV for I1=1,ma do Fq[mB+I1-1]=mV[I1]end FA=mB+ma else mX=mb-1 if mD==0 then if mX==0 then mZ()if fM then Fq[mB]=nil end elseif mX==1 then Fq[mB]=mZ()elseif mX==2 then local fd,fU=mZ()Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB=mZ()Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB else local I8=c1[Sp[27628]]mV=I8(mX,mZ())for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end else local fX=Fq[mB+1]local fa=Fq[mB+2]local fp=Fq[mB+3]if mX==0 then if mD==0 then mZ()elseif mD==1 then mZ(fX)elseif mD==2 then mZ(fX,fa)elseif mD==3 then mZ(fX,fa,fp)else mZ(rI(Fq,mB+1,mB+mD))end if fM then Fq[mB]=nil end elseif mX==1 then local fd if mD==0 then fd=mZ()elseif mD==1 then fd=mZ(fX)elseif mD==2 then fd=mZ(fX,fa)elseif mD==3 then fd=mZ(fX,fa,fp)else fd=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd elseif mX==2 then local fd,fU if mD==0 then fd,fU=mZ()elseif mD==1 then fd,fU=mZ(fX)elseif mD==2 then fd,fU=mZ(fX,fa)elseif mD==3 then fd,fU=mZ(fX,fa,fp)else fd,fU=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB if mD==0 then fd,fU,fB=mZ()elseif mD==1 then fd,fU,fB=mZ(fX)elseif mD==2 then fd,fU,fB=mZ(fX,fa)elseif mD==3 then fd,fU,fB=mZ(fX,fa,fp)else fd,fU,fB=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB elseif mX==4 then local fd,fU,fB,fG if mD==0 then fd,fU,fB,fG=mZ()elseif mD==1 then fd,fU,fB,fG=mZ(fX)elseif mD==2 then fd,fU,fB,fG=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG=mZ(fX,fa,fp)else fd,fU,fB,fG=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG elseif mX==5 then local fd,fU,fB,fG,fb if mD==0 then fd,fU,fB,fG,fb=mZ()elseif mD==1 then fd,fU,fB,fG,fb=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb=mZ(fX,fa,fp)else fd,fU,fB,fG,fb=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb elseif mX==6 then local fd,fU,fB,fG,fb,fZ if mD==0 then fd,fU,fB,fG,fb,fZ=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ elseif mX==7 then local fd,fU,fB,fG,fb,fZ,fV if mD==0 then fd,fU,fB,fG,fb,fZ,fV=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV elseif mX==8 then local fd,fU,fB,fG,fb,fZ,fV,fD if mD==0 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV,fD=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV Fq[mB+7]=fD else local I8=c1[Sp[27628]]mV=I8(mX,mZ(rI(Fq,mB+1,mB+mD)))for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end end end local f1=FA or 0 if fj>f1 then local f8=fj-1 local f3=f1+31 if f3<f8 then f8=f3 end for f7=f1,f8 do Fq[f7]=nil end end mV=nil mZ=nil FF=true end end end end else if Fz>196 then if Fz>200 then if Fz==201 then Fv=Fv+1 FF=true end else if Fz>197 then if Fz==200 then mB=mc[Fv]mG=mE[Fv]mb=FK[mG+1]ma=Fq[mB]if SE and ST(ma)==SH and c1[Sp[51491]](ma)==ma then ma=c1[Sp[51491]](ma)end mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mb[9152]=ma mb[1]=ma mb[2]=nil else mX=mb[2]if mX~=nil then mV=mb[1]if mV then mV[mX]=ma end else mb[1]=ma mb[9152]=ma mb[5417]=true end end else FK[mG+1]=ma end FF=true end else if Fz==197 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]^((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end else if Fz>194 then if Fz==196 then mB=mc[Fv]if F6[Fv+1]==134 or F6[Fv+1]==34 or F6[Fv+1]==35 then if mc[Fv+1]==nil then c1[Sp[18946]](yK,Fv+1)end mG=mc[Fv+1]mb=nil if mB==40 then mb=ST elseif mB==12 then mb=cu.floor elseif mB==7 then mb=cu.ceil elseif mB==2 then mb=cu.abs elseif mB==25 then mb=cu.sqrt elseif mB==21 then mb=cu.pow elseif mB==24 then mb=cu.sin elseif mB==9 then mb=cu.cos elseif mB==27 then mb=cu.tan elseif mB==11 then mb=cu.exp elseif mB==10 then mb=cu.deg elseif mB==17 then mb=cu.log elseif mB==22 then mb=cu.rad elseif mB==19 then mb=cu.min elseif mB==18 then mb=cu.max elseif mB==45 then mb=SY.insert elseif mB==46 then mb=c5 elseif mB==42 then mb=cU.byte elseif mB==43 then mb=cU.char elseif mB==44 then mb=cU.len elseif mB==41 then mb=c1[Sp[14574]].typeof elseif mB==57 then mb=c1[Sp[35986]]elseif mB==60 then mb=c1[Sp[64990]]elseif mB==61 then mb=c1[Sp[58562]]elseif mB==62 then mb=c1[Sp[14574]].rawequal elseif mB==64 then mb=c1[Sp[14574]].rawlen elseif mB==3 then mb=cu.asin elseif mB==4 then mb=cu.acos elseif mB==5 then mb=cu.atan2 elseif mB==6 then mb=cu.atan elseif mB==13 then mb=cu.fmod elseif mB==14 then mb=cu.ldexp elseif mB==20 then mb=cu.modf end if mb then Fq[mG]=mb end end FF=true end else if Fz>192 then if Fz==194 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*((13*10)+126))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]if mw[Fv]~=0 then Fq[mB]=mG^mb else Fq[mB]=mb^mG end if SE and ST(Fq[mB])==SH and c1[Sp[51491]](Fq[mB])==Fq[mB]then Fq[mB]=c1[Sp[51491]](Fq[mB])end mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end else if Fz==192 then FF=true mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=true mD=c1[Sp[S3[43066]]]if type(mD)==Sn then local I2=mD:match((N((261+15),wf)and sL or nil))or mD:match((N(0xFE,wf)and sL or nil))if I2 then mD=I2 end end mX=c1[Sp[S3[36018]]]if mX and mD then if mb>mG+6 then mb=mG+6 end for I3=mG,mb do mV=mX(I3,(N(((513+40-278)),wf)and sL or nil))if mV==nil then break end if mV==(N(((462-50-131)),wf)and sL or nil)then mV=(N(0x10B,wf)and sL or nil)end if type(mV)==Sn then local I2=mV:match((N((261+15),wf)and sL or nil))or mV:match((N(0xFE,wf)and sL or nil))if I2 then mV=I2 end end if mV~=(N(0x10B,wf)and sL or nil)and mV~=mD then mZ=false break end local I7=mX(I3,(N(((88+185)),wf)and sL or nil))if I7 then local I0=mX(I7,(N(((513+40-278)),wf)and sL or nil))if I0==(N(((462-50-131)),wf)and sL or nil)then I0=(N(0x10B,wf)and sL or nil)end if type(I0)==Sn then local I2=I0:match((N((261+15),wf)and sL or nil))or I0:match((N(0xFE,wf)and sL or nil))if I2 then I0=I2 end end if I0 and I0~=(N(0x10B,wf)and sL or nil)and I0~=mD then mZ=false break end end end end Fq[mB]=mZ Fv=Fv+1 Fm=true FF=true end end end end end end end else if Fz>159 then if Fz>176 then if Fz>184 then if Fz>188 then if Fz>190 then if Fz==191 then mp=((Fv+(mc[Fv]*19)+(mR[Fv]*37)+(mw[Fv]*53)+55845)%3)mB=mE[Fv]+(mh[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=Fq[mc[Fv]]mZ=mw[Fv]mV=FK[mZ+1]mX=ST(mV)if mX==Ss and mV[9400]then if mV[5417]then mD=mV[9152]else ma=mV.I1 mZ=mV[6860]if ma and mZ~=nil then mD=ma[mZ]else mD=mV[3552][mV[6860]]end end else mD=mV end if SE and ST(mD)==SH and c1[Sp[51491]](mD)==mD then mD=c1[Sp[51491]](mD)end Fq[mR[Fv]]=mD if mp==0 then if mb then mb[mG]=mD end elseif mp==1 then ma=mD if mb then mb[mG]=ma end else if mb then mb[mG]=mD end if false then mb[mG]=mD end end mG=nil mb=nil mZ=nil mV=nil mD=nil mX=nil ma=nil mp=nil FF=true end else if Fz>189 then if Fz==190 then Fq[mc[Fv]]=Fq[mE[Fv]]Fq[mh[Fv]]=Fq[mR[Fv]]FF=true end else if Fz==189 then local rI=c5 mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local fj=FA or 0 local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mB]if mG==0 then mD=FA-mB-1 else mD=mG-1 end if mb==0 then local I8=c1[Sp[27628]]mV=I8(nil,mZ(rI(Fq,mB+1,mB+mD)))ma=mV.n or#mV for I1=1,ma do Fq[mB+I1-1]=mV[I1]end FA=mB+ma else mX=mb-1 if mD==0 then if mX==0 then mZ()if fM then Fq[mB]=nil end elseif mX==1 then Fq[mB]=mZ()elseif mX==2 then local fd,fU=mZ()Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB=mZ()Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB else local I8=c1[Sp[27628]]mV=I8(mX,mZ())for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end else local fX=Fq[mB+1]local fa=Fq[mB+2]local fp=Fq[mB+3]if mX==0 then if mD==0 then mZ()elseif mD==1 then mZ(fX)elseif mD==2 then mZ(fX,fa)elseif mD==3 then mZ(fX,fa,fp)else mZ(rI(Fq,mB+1,mB+mD))end if fM then Fq[mB]=nil end elseif mX==1 then local fd if mD==0 then fd=mZ()elseif mD==1 then fd=mZ(fX)elseif mD==2 then fd=mZ(fX,fa)elseif mD==3 then fd=mZ(fX,fa,fp)else fd=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd elseif mX==2 then local fd,fU if mD==0 then fd,fU=mZ()elseif mD==1 then fd,fU=mZ(fX)elseif mD==2 then fd,fU=mZ(fX,fa)elseif mD==3 then fd,fU=mZ(fX,fa,fp)else fd,fU=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB if mD==0 then fd,fU,fB=mZ()elseif mD==1 then fd,fU,fB=mZ(fX)elseif mD==2 then fd,fU,fB=mZ(fX,fa)elseif mD==3 then fd,fU,fB=mZ(fX,fa,fp)else fd,fU,fB=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB elseif mX==4 then local fd,fU,fB,fG if mD==0 then fd,fU,fB,fG=mZ()elseif mD==1 then fd,fU,fB,fG=mZ(fX)elseif mD==2 then fd,fU,fB,fG=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG=mZ(fX,fa,fp)else fd,fU,fB,fG=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG elseif mX==5 then local fd,fU,fB,fG,fb if mD==0 then fd,fU,fB,fG,fb=mZ()elseif mD==1 then fd,fU,fB,fG,fb=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb=mZ(fX,fa,fp)else fd,fU,fB,fG,fb=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb elseif mX==6 then local fd,fU,fB,fG,fb,fZ if mD==0 then fd,fU,fB,fG,fb,fZ=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ elseif mX==7 then local fd,fU,fB,fG,fb,fZ,fV if mD==0 then fd,fU,fB,fG,fb,fZ,fV=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV elseif mX==8 then local fd,fU,fB,fG,fb,fZ,fV,fD if mD==0 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV,fD=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV Fq[mB+7]=fD else local I8=c1[Sp[27628]]mV=I8(mX,mZ(rI(Fq,mB+1,mB+mD)))for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end end end local f1=FA or 0 if fj>f1 then local f8=fj-1 local f3=f1+31 if f3<f8 then f8=f3 end for f7=f1,f8 do Fq[f7]=nil end end mV=nil mZ=nil FF=true end end end else if Fz>186 then if Fz>187 then if Fz==188 then ma=((64410+(Fv*5)+(mh[Fv]*43)+(mE[Fv]*29)+(mc[Fv]*17))%3)mB=mE[Fv]+(mh[Fv]*(16*16))mD=(1+15)-15 mX=((mB*131)+15)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mB]then Fq[mc[Fv]]=c1[Sp[10195]](mB,nil)else mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+mD],wf)and sL or nil)if ma==0 then Fq[mc[Fv]]=c1[Sp[14574]][mG]elseif ma==1 then mb=c1[Sp[14574]][mG]Fq[mc[Fv]]=mb else mZ=c1[Sp[14574]]mb=mZ[mG]Fq[mc[Fv]]=mb end end mG=nil mb=nil mZ=nil ma=nil mp=nil FF=true end else if Fz==187 then mB=mc[Fv]mG=mE[Fv]+(mh[Fv]*((11*32)-96))mD=(1+18)-18 mX=((mG*131)+18)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mG]then mZ=c1[Sp[10195]](mG,nil)if mZ==nil then c1[Sp[45527]]()end Fq[mB]=mZ else mb=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mG+mD],wf)and sL or nil)mZ=nil for mV in cU[(N(((514+-28-209)),wf)and sL or nil)](mb,'[^.]+')do mD=mZ if mD==nil then mZ=c1[Sp[55151]](mV)else mZ=mD[mV]end if mZ==nil then c1[Sp[45527]]()end end Fq[mB]=mZ end FF=true end end else if Fz>185 then if Fz==186 then mB=mE[Fv]+(mh[Fv]*(16*16))local _a=(mB>=0x8000)and-0x10000 or 0;mB=mB+_a Fq[mc[Fv]]=mB FF=true end else if Fz==185 then mB=mc[Fv]mG=mE[Fv]mb=FK[mG+1]mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mZ=mb[9152]else mX=mb[2]if mX~=nil then ma=mb[1]if ma then mZ=ma[mX]else mZ=nil end else mZ=mb[1]end end else mZ=mb end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mB]=mZ FF=true end end end end else if Fz>180 then if Fz>182 then if Fz>183 then if Fz==184 then ma=((65166+(Fv*5)+(mh[Fv]*47)+(mE[Fv]*31)+(mc[Fv]*17))%3)mZ=(1-1)if mZ>0 then mZ=mZ-1 end if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][Fq[mh[Fv]]]elseif ma==1 then mB=Fq[mE[Fv]]Fq[mc[Fv]]=mB[Fq[mh[Fv]]]else mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end else if Fz==183 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(83+104+69))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]mD=mD+mV Fq[mB+2]=mD if(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)then mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end else FL[mB]=nil Fv=Fv+1 end Fm=true FF=true end end else if Fz>181 then if Fz==182 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*(92+164))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]mV=mb if mw[Fv]~=0 then Fq[mB]=mG*mV else Fq[mB]=mV*mG end if false then Fq[mB]=Fq[mB]end if SE and ST(Fq[mB])==SH and c1[Sp[51491]](Fq[mB])==Fq[mB]then Fq[mB]=c1[Sp[51491]](Fq[mB])end mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end else if Fz==181 then mB=mc[Fv]if F6[Fv+1]==134 or F6[Fv+1]==34 or F6[Fv+1]==35 then if mc[Fv+1]==nil then c1[Sp[18946]](yK,Fv+1)end mG=mc[Fv+1]mb=nil if mB==40 then mb=ST elseif mB==12 then mb=cu.floor elseif mB==7 then mb=cu.ceil elseif mB==2 then mb=cu.abs elseif mB==25 then mb=cu.sqrt elseif mB==21 then mb=cu.pow elseif mB==24 then mb=cu.sin elseif mB==9 then mb=cu.cos elseif mB==27 then mb=cu.tan elseif mB==11 then mb=cu.exp elseif mB==10 then mb=cu.deg elseif mB==17 then mb=cu.log elseif mB==22 then mb=cu.rad elseif mB==19 then mb=cu.min elseif mB==18 then mb=cu.max elseif mB==45 then mb=SY.insert elseif mB==46 then mb=c5 elseif mB==42 then mb=cU.byte elseif mB==43 then mb=cU.char elseif mB==44 then mb=cU.len elseif mB==41 then mb=c1[Sp[14574]].typeof elseif mB==57 then mb=c1[Sp[35986]]elseif mB==60 then mb=c1[Sp[64990]]elseif mB==61 then mb=c1[Sp[58562]]elseif mB==62 then mb=c1[Sp[14574]].rawequal elseif mB==64 then mb=c1[Sp[14574]].rawlen elseif mB==3 then mb=cu.asin elseif mB==4 then mb=cu.acos elseif mB==5 then mb=cu.atan2 elseif mB==6 then mb=cu.atan elseif mB==13 then mb=cu.fmod elseif mB==14 then mb=cu.ldexp elseif mB==20 then mb=cu.modf end if mb~=nil then mZ=mb Fq[mG]=mZ end if false then Fq[mG]=Fq[mG]end end FF=true end end end else if Fz>178 then if Fz>179 then if Fz==180 then if not c2.I2 then c2.I2=true if(c2.I5 or 0)<1 then local I8=Fv+13 if I8<=#F6 then F6[I8]=67 end end end FF=true end else if Fz==179 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*((4*10)+216))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]if mw[Fv]~=0 then Fq[mB]=mG%mb else Fq[mB]=mb%mG end if SE and ST(Fq[mB])==SH and c1[Sp[51491]](Fq[mB])==Fq[mB]then Fq[mB]=c1[Sp[51491]](Fq[mB])end mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end end else if Fz>177 then if Fz==178 then fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end fq=Jn if type(fq)~='table'then fq=c1[Sp[57086]]end if type(fq)~='table'then fq={}end mB=fo[Fv]+(fK[Fv]*(339-83))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fq[mB+1],wf)and sL or nil)mb=mw[Fv]+(mM[Fv]*(339-83))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a Fq[mR[Fv]]=mb mZ=Fq[mc[Fv]]if mZ then mZ[mG]=mb end mG=nil mb=nil mZ=nil mV=nil fo=nil fK=nil fq=nil FF=true end else if Fz==177 then FF=true mB=(mc[Fv]or 0)mG=(mE[Fv]or 0)+((mh[Fv]or 0)*256)mb=mt[Fv]+mB+mG+1 do local mB=c1[Sp[S3[36322]]];local mG=c1[Sp[S3[25906]]];local mb=c1[Sp[S3[25725]]];local mZ=c1[Sp[S3[57648]]];mb(mB,c1[Sp[S3[21870]]],c1[Sp[S3[22200]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[54768]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[41467]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[41467]]],mD+mX)end end mZ=c1[Sp[S3[56612]]]if mb then mZ(Fv,mc,mE,mh,F6,yK,nil)end c1[Sp[S3[58969]]](mb)Fv=Fv+1 Fm=true FF=true end end end end end else if Fz>168 then if Fz>173 then if Fz>175 then if Fz==176 then local I0,I2,I5,I4,I9,I6,fc,fS,fe,fT mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]mV=FK[mG+1]mX=ST(mV)if mX==Ss and mV[9400]then if mV[5417]then mD=mV[9152]else local fi=mV.I1 ma=mV[6860]if fi and ma~=nil then mD=fi[ma]else mD=mV[3552][mV[6860]]end end else mD=mV end if SE and ST(mD)==SH and c1[Sp[51491]](mD)==mD then mD=c1[Sp[51491]](mD)end Fq[mB]=mD I0=Fq[mB+1]I2=Fq[mB+2]I5=Fq[mB+3]mX=ST(mD)if mX==SJ then if mb==1 then if mZ==1 then mD()elseif mZ==2 then I6=mD()elseif mZ==3 then I6,fc=mD()else I6,fc,fS=mD()end elseif mb==2 then if mZ==1 then mD(I0)elseif mZ==2 then I6=mD(I0)elseif mZ==3 then I6,fc=mD(I0)else I6,fc,fS=mD(I0)end elseif mb==3 then if mZ==1 then mD(I0,I2)elseif mZ==2 then I6=mD(I0,I2)elseif mZ==3 then I6,fc=mD(I0,I2)else I6,fc,fS=mD(I0,I2)end else if mZ==1 then mD(I0,I2,I5)elseif mZ==2 then I6=mD(I0,I2,I5)elseif mZ==3 then I6,fc=mD(I0,I2,I5)else I6,fc,fS=mD(I0,I2,I5)end end else I4=c1[Sp[12275]](mD)I9=I4 and I4[(N(((32+238)),wf)and sL or nil)]if I9 then if mb==1 then if mZ==1 then I9(mD)elseif mZ==2 then I6=I9(mD)elseif mZ==3 then I6,fc=I9(mD)else I6,fc,fS=I9(mD)end elseif mb==2 then if mZ==1 then I9(mD,I0)elseif mZ==2 then I6=I9(mD,I0)elseif mZ==3 then I6,fc=I9(mD,I0)else I6,fc,fS=I9(mD,I0)end elseif mb==3 then if mZ==1 then I9(mD,I0,I2)elseif mZ==2 then I6=I9(mD,I0,I2)elseif mZ==3 then I6,fc=I9(mD,I0,I2)else I6,fc,fS=I9(mD,I0,I2)end else if mZ==1 then I9(mD,I0,I2,I5)elseif mZ==2 then I6=I9(mD,I0,I2,I5)elseif mZ==3 then I6,fc=I9(mD,I0,I2,I5)else I6,fc,fS=I9(mD,I0,I2,I5)end end else if mZ==1 then if mb==1 then mD()elseif mb==2 then mD(I0)elseif mb==3 then mD(I0,I2)else mD(I0,I2,I5)end elseif mZ==2 then if mb==1 then I6=mD()elseif mb==2 then I6=mD(I0)elseif mb==3 then I6=mD(I0,I2)else I6=mD(I0,I2,I5)end elseif mZ==3 then if mb==1 then I6,fc=mD()elseif mb==2 then I6,fc=mD(I0)elseif mb==3 then I6,fc=mD(I0,I2)else I6,fc=mD(I0,I2,I5)end else if mb==1 then I6,fc,fS=mD()elseif mb==2 then I6,fc,fS=mD(I0)elseif mb==3 then I6,fc,fS=mD(I0,I2)else I6,fc,fS=mD(I0,I2,I5)end end end end if mZ==2 then Fq[mB]=I6 FA=mB+1 elseif mZ==3 then Fq[mB]=I6;Fq[mB+1]=fc FA=mB+2 elseif mZ==4 then Fq[mB]=I6;Fq[mB+1]=fc;Fq[mB+2]=fS FA=mB+3 else FA=mB end Se=FA Si=true fe=mu[mt[Fv]+8]if fe then Fv=fe else Fv=Fv+1 end Fm=true FF=true end else if Fz>174 then if Fz==175 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]mV=Fq[mG]Fq[mB+1]=mV mD=Fq[mb]Fq[mB+2]=mD mX=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mX)if mZ==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mX(mV,mD))else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mX,mV,mD))else fe=fS(nil,mX(mV,mD))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mZ==1 then mX(mV,mD)elseif mZ==2 then I4=mX(mV,mD)elseif mZ==3 then I4,I6=mX(mV,mD)else I4,I6,fc=mX(mV,mD)end else I2=c1[Sp[12275]](mX)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mZ==1 then I5(mX,mV,mD)elseif mZ==2 then I4=I5(mX,mV,mD)elseif mZ==3 then I4,I6=I5(mX,mV,mD)else I4,I6,fc=I5(mX,mV,mD)end else if mZ==1 then mX(mV,mD)elseif mZ==2 then I4=mX(mV,mD)elseif mZ==3 then I4,I6=mX(mV,mD)else I4,I6,fc=mX(mV,mD)end end end if mZ==2 then Fq[mB]=I4 FA=mB+1 elseif mZ==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mZ==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz==174 then mB=mc[Fv]mG=mE[Fv]Fv=mU[Fv]Fm=true FF=true end end end else if Fz>170 then if Fz>171 then if Fz==173 then ma=((16747+(Fv*5)+(mh[Fv]*43)+(mE[Fv]*29)+(mc[Fv]*17))%3)mB=mE[Fv]+(mh[Fv]*(16*16))mD=(1+15)-15 mX=((mB*131)+15)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mB]then Fq[mc[Fv]]=c1[Sp[10195]](mB,nil)else mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+mD],wf)and sL or nil)if ma==0 then Fq[mc[Fv]]=c1[Sp[14574]][mG]elseif ma==1 then mb=c1[Sp[14574]][mG]Fq[mc[Fv]]=mb else mZ=c1[Sp[14574]]mb=mZ[mG]Fq[mc[Fv]]=mb end end mG=nil mb=nil mZ=nil ma=nil mp=nil FF=true end else if Fz==171 then mB=nil Fq[mc[Fv]]=mB FF=true end end else if Fz>169 then if Fz==170 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=((mB==mG))if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==169 then mB=mc[Fv]mG={}Fq[mB]=mG FF=true end end end end else if Fz>164 then if Fz>166 then if Fz>167 then if Fz==168 then mB=mc[Fv]mG=mE[Fv]local rI=c5 local Fx=c1[Sp[24136]]if Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])then c1[Sp[55151]]=nil c1[Sp[64990]](Fx,c1[Sp[S3[59138]]],c1[Sp[61885]])Fq=nil mG=2 end if mG==0 then return rI(Fq,mB,FA-1)elseif mG==1 then return else mb=mG-1 return rI(Fq,mB,mB+mb-1)end FF=true end else if Fz==167 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*(98+158))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]mV=mG if false then mV=mV end if mw[Fv]~=0 then Fq[mB]=mV+mb else Fq[mB]=mb+mV end if SE and ST(Fq[mB])==SH and c1[Sp[51491]](Fq[mB])==Fq[mB]then Fq[mB]=c1[Sp[51491]](Fq[mB])end mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end end else if Fz>165 then if Fz==166 then mB=mc[Fv]mG=Fq[mB]if ST(mG)~=SJ then I4=ST(mG)I5,I0=c1[Sp[24629]](c1[Sp[12275]],mG)I2=nil if I5 then I9=ST(I0)if I9==Ss then I2=I0[(N(((41+292)),wf)and sL or nil)]elseif I4~=Ss and I9==SJ then I2=I0 end end if ST(I2)==SJ then Fq[mB],Fq[mB+1],Fq[mB+2]=I2(mG)else Fq[mB],Fq[mB+1],Fq[mB+2]=c1[Sp[53808]](mG)end end mD=mt[Fv]mb=mE[Fv]+(mh[Fv]*((16*27)-176))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=mD+4+mb mV=mu[mZ]if mV then Fv=mV else Fv=Fv+1 end Fm=true FF=true end else if Fz==165 then local I2=c1[Sp[S3[26488]]](c1[Sp[S3[49370]]][(N(((447-63-87)),wf)and sL or nil)],nil)local I3,_=c1[Sp[S3[32510]]](I2)local mB=(mc[Fv]or 0)+((mE[Fv]or 0)*17)mB=mB+(mh[Fv]or 0)if mB<0 then mB=0-mB end local mG=mB+123 local I4=c1[Sp[S3[35618]]](c1[Sp[S3[35375]]],mG,(N(((269-9+(206-206))),wf)and sL or nil))local I7,_=c1[Sp[S3[44401]]](I4)local I5=(I3 and 1 or 0)+(I7 and 2 or 0)local mb=c1[Sp[S3[49340]]]local mZ=mb and mb[I5]if mZ~=nil then local mV=(mZ+(((Fv or 0)*1103515245)%h1)+((mc[Fv]or 0)*257)+((mE[Fv]or 0)*65537)+((mh[Fv]or 0)*17)+(38565*97))%h1 mV=((mV*40692)+127)%h1 if mV==0 then mV=1 end local mD=(yK[1965]or 0)mD=(mD+mV+39985)%h1 if mD==0 then mD=1 end mD=((mD*40692)+127)%h1 if mD==0 then mD=1 end yK[1965]=mD end if not c2.HR then c2.HR=true if I3 or I7 then local I0=Fv+7 if I0<=#F6 then F6[I0]=7 end end end FF=true end end end else if Fz>162 then if Fz>163 then if Fz==164 then fv=Jn if type(fv)~='table'then fv=c1[Sp[57086]]end if type(fv)~='table'then fv={}end mB=mE[Fv]+(mh[Fv]*(16*16))mb=mw[Fv]+(mM[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mB+1],wf)and sL or nil)mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mb+1],wf)and sL or nil)Fq[mR[Fv]]=mZ mV=Fq[mc[Fv]]mV[mG]=mZ if mc[(Fv+1)]==nil then c1[Sp[18946]](yK,(Fv+1))end mB=mc[(Fv+1)]+(mE[(Fv+1)]*(16*16))mb=mR[(Fv+1)]+(mw[(Fv+1)]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mB+1],wf)and sL or nil)mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mb+1],wf)and sL or nil)Fq[mh[(Fv+1)]]=mZ mV=Fq[mc[Fv]]mV[mG]=mZ mB=nil mG=nil mb=nil mZ=nil mV=nil mD=nil mX=nil ma=nil Fv=Fv+2 Fm=true FF=true end else if Fz==163 then fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end fq=mw if type(fq)~='table'then fq=yK[1080]end if type(fq)~='table'then fq={}end fx=mM if type(fx)~='table'then fx=yK[2288]end if type(fx)~='table'then fx={}end fv=Jn if type(fv)~='table'then fv=c1[Sp[57086]]end if type(fv)~='table'then fv={}end mB=fo[Fv]+(fK[Fv]*((11*21)+25))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mB+1],wf)and sL or nil)mb=fq[Fv]+(fx[Fv]*((11*21)+25))mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(fv[mb+1],wf)and sL or nil)Fq[mR[Fv]]=mZ mV=Fq[mc[Fv]]if mV then mV[mG]=mZ end if false then mV[mG]=mZ end mG=nil mb=nil mZ=nil mV=nil mD=nil FF=true end end else if Fz>161 then if Fz==162 then FF=true mD=0 if mD>0 then mD=mD-1 end mB=mc[Fv]mG=mh[Fv]mb=yK.fu mZ=yK.ft if mb and mZ and mb[1]~=mZ then do local mB=c1[Sp[S3[49330]]];local mG=c1[Sp[S3[21241]]];local mb=c1[Sp[S3[49593]]];local mZ=c1[Sp[S3[51067]]];mb(mB,c1[Sp[S3[55786]]],c1[Sp[S3[56379]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[23160]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[53888]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[53888]]],mD+mX)end end mV=c1[Sp[S3[55487]]]mV(Fv,mc,mE,mh,F6,yK,nil)end Fv=Fv+1 Fm=true FF=true end else if Fz==161 then local I0,I2,I5,I4,I9 mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]mD=mw[Fv]+(mM[Fv]*(583-327))mX=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mD+1],wf)and sL or nil)mV=Fq[mB]I4=nil I0=ST(mV)if I0==SJ then if mG==1 then I4=mV()elseif mG==2 then I4=mV(Fq[mB+1])elseif mG==3 then I4=mV(Fq[mB+1],Fq[mB+2])elseif mG==4 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3])elseif mG==5 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4])elseif mG==6 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5])elseif mG==7 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6])elseif mG==8 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7])else I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7],Fq[mB+8])end else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==1 then I4=I5(mV)elseif mG==2 then I4=I5(mV,Fq[mB+1])elseif mG==3 then I4=I5(mV,Fq[mB+1],Fq[mB+2])elseif mG==4 then I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3])elseif mG==5 then I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4])elseif mG==6 then I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5])elseif mG==7 then I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6])elseif mG==8 then I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7])else I4=I5(mV,Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7],Fq[mB+8])end else if mG==1 then I4=mV()elseif mG==2 then I4=mV(Fq[mB+1])elseif mG==3 then I4=mV(Fq[mB+1],Fq[mB+2])elseif mG==4 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3])elseif mG==5 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4])elseif mG==6 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5])elseif mG==7 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6])elseif mG==8 then I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7])else I4=mV(Fq[mB+1],Fq[mB+2],Fq[mB+3],Fq[mB+4],Fq[mB+5],Fq[mB+6],Fq[mB+7],Fq[mB+8])end end end if mb==2 then Fq[mB]=I4 FA=mB+1 else FA=mB end I2=Fq[mZ]if I2 then I2[mX]=I4 end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end end end end end end else if Fz>144 then if Fz>151 then if Fz>155 then if Fz>158 then if Fz==159 then Fv=mU[Fv]Fm=true FF=true end else if Fz>156 then if Fz==158 then mB=mc[Fv]mG=mE[Fv]+(mh[Fv]*((11*32)-96))mD=(1+18)-18 mX=((mG*131)+18)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mG]then mZ=c1[Sp[10195]](mG,nil)if mZ==nil then c1[Sp[45527]]()end Fq[mB]=mZ else mb=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mG+mD],wf)and sL or nil)mZ=nil for mV in cU[(N(((514+-28-209)),wf)and sL or nil)](mb,'[^.]+')do mD=mZ if mD==nil then mZ=c1[Sp[55151]](mV)else mZ=mD[mV]end if mZ==nil then c1[Sp[45527]]()end end Fq[mB]=mZ end FF=true end else if Fz==156 then Fq[mc[Fv]]=(mE[Fv]~=0)if mh[Fv]~=0 then Fv=Fv+1 Fm=true end FF=true end end end else if Fz>153 then if Fz>154 then if Fz==155 then mB=mc[Fv]mZ={}if Fx then for mG,mb in c1[Sp[53808]](Fx)do if ST(mb)==Ss and mb[9400]and not mb[5417]then mD=mb[2]if mD~=nil and mD>=mB then mV=nil mX=mb[1]if mX then mV=mX[mD]end mb[9152]=mV mb[5417]=true mb[1]=mV mb[2]=nil mZ[#mZ+1]=mG end end end end for I8,mG in c1[Sp[64981]](mZ)do Fx[mG]=nil end FF=true end else if Fz==154 then ma=((((Fv+55380)%251)+(mc[Fv]*17)+(mE[Fv]*31)+((((wf)or 0)%97)*1))%3)mB=mh[Fv]+(mR[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=Fq[mE[Fv]]if ma==0 then Fq[mc[Fv]]=mb[mG]elseif ma==1 then mZ=mb[mG]Fq[mc[Fv]]=mZ else mZ=mb[mG]if ma>1 then Fq[mc[Fv]]=mZ else Fq[mc[Fv]]=mb[mG]end end mG=nil mb=nil mZ=nil ma=nil FF=true end end else if Fz>152 then if Fz==153 then local rI=c5 mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local fj=FA or 0 local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mB]if mG==0 then mD=FA-mB-1 else mD=mG-1 end if mb==0 then local I8=c1[Sp[27628]]mV=I8(nil,mZ(rI(Fq,mB+1,mB+mD)))ma=mV.n or#mV for I1=1,ma do Fq[mB+I1-1]=mV[I1]end FA=mB+ma else mX=mb-1 if mD==0 then if mX==0 then mZ()if fM then Fq[mB]=nil end elseif mX==1 then Fq[mB]=mZ()elseif mX==2 then local fd,fU=mZ()Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB=mZ()Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB else local I8=c1[Sp[27628]]mV=I8(mX,mZ())for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end else local fX=Fq[mB+1]local fa=Fq[mB+2]local fp=Fq[mB+3]if mX==0 then if mD==0 then mZ()elseif mD==1 then mZ(fX)elseif mD==2 then mZ(fX,fa)elseif mD==3 then mZ(fX,fa,fp)else mZ(rI(Fq,mB+1,mB+mD))end if fM then Fq[mB]=nil end elseif mX==1 then local fd if mD==0 then fd=mZ()elseif mD==1 then fd=mZ(fX)elseif mD==2 then fd=mZ(fX,fa)elseif mD==3 then fd=mZ(fX,fa,fp)else fd=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd elseif mX==2 then local fd,fU if mD==0 then fd,fU=mZ()elseif mD==1 then fd,fU=mZ(fX)elseif mD==2 then fd,fU=mZ(fX,fa)elseif mD==3 then fd,fU=mZ(fX,fa,fp)else fd,fU=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB if mD==0 then fd,fU,fB=mZ()elseif mD==1 then fd,fU,fB=mZ(fX)elseif mD==2 then fd,fU,fB=mZ(fX,fa)elseif mD==3 then fd,fU,fB=mZ(fX,fa,fp)else fd,fU,fB=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB elseif mX==4 then local fd,fU,fB,fG if mD==0 then fd,fU,fB,fG=mZ()elseif mD==1 then fd,fU,fB,fG=mZ(fX)elseif mD==2 then fd,fU,fB,fG=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG=mZ(fX,fa,fp)else fd,fU,fB,fG=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG elseif mX==5 then local fd,fU,fB,fG,fb if mD==0 then fd,fU,fB,fG,fb=mZ()elseif mD==1 then fd,fU,fB,fG,fb=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb=mZ(fX,fa,fp)else fd,fU,fB,fG,fb=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb elseif mX==6 then local fd,fU,fB,fG,fb,fZ if mD==0 then fd,fU,fB,fG,fb,fZ=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ elseif mX==7 then local fd,fU,fB,fG,fb,fZ,fV if mD==0 then fd,fU,fB,fG,fb,fZ,fV=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV elseif mX==8 then local fd,fU,fB,fG,fb,fZ,fV,fD if mD==0 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV,fD=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV Fq[mB+7]=fD else local I8=c1[Sp[27628]]mV=I8(mX,mZ(rI(Fq,mB+1,mB+mD)))for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end end end local f1=FA or 0 if fj>f1 then local f8=fj-1 local f3=f1+31 if f3<f8 then f8=f3 end for f7=f1,f8 do Fq[f7]=nil end end mV=nil mZ=nil FF=true end else if Fz==152 then Fv=mU[Fv]Fm=true FF=true end end end end else if Fz>148 then if Fz>150 then if Fz==151 then mB=mc[Fv]HR=Fq[mB]if ST(HR)~=SJ then I4=ST(HR)I5,I0=c1[Sp[24629]](c1[Sp[12275]],HR)I2=nil if I5 then I9=ST(I0)if I9==Ss then I2=I0[(N(((41+292)),wf)and sL or nil)]elseif I4~=Ss and I9==SJ then I2=I0 end end if ST(I2)==SJ then Fq[mB],Fq[mB+1],Fq[mB+2]=I2(HR)else Fq[mB],Fq[mB+1],Fq[mB+2]=c1[Sp[53808]](HR)end end mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(98+158))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Ff[Ic]if not mZ then mZ={};Ff[Ic]=mZ end mZ[mB]={['fP']=Fv}mV=mG+4+mb mD=mu[mV]if mD then Fv=mD else Fv=Fv+1 end Fm=true FF=true end else if Fz>149 then if Fz==150 then FF=true mB=mc[Fv]+mE[Fv]*(16*16)mG=mh[Fv]+mR[Fv]*(16*16)mb=mw[Fv]+mM[Fv]*(16*16)mZ=c1[Sp[S3[40668]]]mD=mH[Fv]if mD==0 and(c1[Sp[S3[55773]]][mB]~=mG)then mD=1 end fk=mZ or 0 fr=c1[Sp[S3[46623]]]or 0 fE=c1[Sp[S3[47329]]]or 0 I0=0 I2=0 I5=0 fi=0 fY=0 fT=0 if fk>0 then fi=c1[Sp[51491]](fk/65536);I0=fk-(fi*65536)end if fr>0 then fY=c1[Sp[51491]](fr/65536);I2=fr-(fY*65536)end if fE>0 then fT=c1[Sp[51491]](fE/65536);I5=fE-(fT*65536)end if I0<=0 or I0>49157 then I0=0 end if I2<=0 or I2>49157 then I2=0 end if I5<=0 or I5>49157 then I5=0 end if fi<=0 or fi>49157 then fi=0 end if fY<=0 or fY>49157 then fY=0 end if fT<=0 or fT>49157 then fT=0 end if mD==0 and I0>0 and I5>0 and I0~=I5 then mD=1 end I4=SY[mb]or 0 I9=c1[Sp[S3[46422]]]or 0 I6=0 fc=0 if I0>0 and I0<=49157 and I2>0 and I2<=49157 then I6=(I0*257)+(I2*131)+(fi*73)+(fY*59)+490 fS=I0-I2 if fS<0 then fS=-fS end if fS>1 then I6=I6+7867 end if fi>0 then fh=I0-fi;if fh<0 then fh=-fh end;if fh>1 then I6=I6+7884 end end if fY>0 then fR=I2-fY;if fR<0 then fR=-fR end;if fR>1 then I6=I6+7896 end end end if I0>0 and I0<=49157 and I2>0 and I2<=49157 and I5>0 and I5<=49157 then fc=(I0*257)+(I2*131)+(fi*73)+(fY*59)+(I5*43)+(fT*31)+507 fS=I0-I2 if fS<0 then fS=-fS end fe=I2-I5 if fe<0 then fe=-fe end if fS>1 then fc=fc+7867 end if fe>1 then fc=fc+8060 end if fi>0 then fh=I0-fi;if fh<0 then fh=-fh end;if fh>1 then fc=fc+7884 end end if fY>0 then fR=I2-fY;if fR<0 then fR=-fR end;if fR>1 then fc=fc+7896 end end if fT>0 then Fx=I5-fT;if Fx<0 then Fx=-Fx end;if Fx>1 then fc=fc+8118 end end end if I4~=I6 or I9~=fc then mD=1 end if mD~=0 then c1[Sp[S3[35687]]](Fv,mc,mE,mh,F6,yK,nil)end FF=true end else if Fz==149 then mB=mc[Fv]mV=Fq[mB+1]mD=Fq[mB+2]mb=mR[Fv]mZ=Fq[mB]if mZ==c1[Sp[43871]]and ST(mV)==Ss then mX,ma=c1[Sp[43871]](mV,mD)else mX,ma=mZ(mV,mD)end if mX~=nil then Fq[mB+2]=mX if mb>=1 then Fq[mB+3]=mX end if mb>=2 then Fq[mB+4]=ma end for I8=3,mb do Fq[mB+2+I8]=nil end mZ=mt[Fv]mG=mE[Fv]+(mh[Fv]*(45+91+120))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mZ=mZ+8+mG local HE=mu[mZ]if HE then Fv=HE else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>146 then if Fz>147 then if Fz==148 then mG=Fq[mE[Fv]]Fq[mc[Fv]]=mG mB=mR[Fv]+(mw[Fv]*(156+100))Fq[mh[Fv]]=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mB=nil mG=nil FF=true end else if Fz==147 then FF=true mB=mc[Fv]mG=mE[Fv]mb=c1[Sp[S3[52904]]](c1[Sp[S3[51403]]],c1[Sp[S3[27613]]])mZ=c1[Sp[S3[43713]]]if mb then mZ(Fv,mc,mE,mh,F6,yK,nil)end mV=mB Fv=Fv+1 Fm=true FF=true end end else if Fz>145 then if Fz==146 then mB=mE[Fv]mG=FK[mB+1]mb=ST(mG)if mb==Ss and mG[9400]then if mG[5417]then mZ=mG[9152]else mV=mG.I1 mD=mG[6860]if mV and mD~=nil then mZ=mV[mD]else mZ=mG[3552][mG[6860]]end end else mZ=mG end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mh[Fv]]=mZ mB=mR[Fv]+(mw[Fv]*(582-326))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)if mZ then Fq[mc[Fv]]=mZ[mG]else Fq[mc[Fv]]=nil end mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true mG=nil mb=nil mZ=nil FF=true end else if Fz==145 then Fq[mh[Fv]]=(mR[Fv]~=0)mb=mt[Fv]mZ=mc[Fv]+(mE[Fv]*(102+154))local _a=(mZ>=0x8000)and-0x10000 or 0;mZ=mZ+_a mV=mb+8+mZ mD=mu[mV]if mD then Fv=mD else Fv=Fv+1 end Fm=true FF=true end end end end end else if Fz>135 then if Fz>139 then if Fz>143 then if Fz==144 then mX=(Fq[mc[Fv]]==nil or not Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz>141 then if Fz==143 then mB=mc[Fv]mG=(mh[Fv]*((11*32)-96))+mE[Fv]mD=(1+18)-18 mX=((mG*131)+18)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mG]then mZ=c1[Sp[10195]](mG,nil)if mZ==nil then c1[Sp[45527]]()end Fq[mB]=mZ else mb=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mG+mD],wf)and sL or nil)mZ=nil for mV in cU[(N(((514+-28-209)),wf)and sL or nil)](mb,'[^.]+')do if mZ==nil then mZ=c1[Sp[55151]](mV)else mZ=mZ[mV]end if mZ==nil then c1[Sp[45527]]()end end Fq[mB]=mZ end FF=true end else if Fz==141 then mB=mE[Fv]+(mh[Fv]*(513-257))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mG mG=nil mb=nil FF=true end end end else if Fz>137 then if Fz>138 then if Fz==139 then ma=27257+(mh[Fv]*53)+(mE[Fv]*37)+(mc[Fv]*19)ma=(ma+Fv)%3 mB=Fq[mE[Fv]]mV=(4-4)if mV~=(6-6)then mB=mB end if ma==0 then if mB then mB[Fq[mh[Fv]]]=Fq[mc[Fv]]end elseif ma==1 then mG=Fq[mh[Fv]]if mB then mB[mG]=Fq[mc[Fv]]end else mG=Fq[mh[Fv]]mb=Fq[mc[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end else if Fz==138 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(83+104+69))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]mD=mD+mV Fq[mB+2]=mD ma=(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)if ma then mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end else FL[mB]=nil Fv=Fv+1 end Fm=true FF=true end end else if Fz>136 then if Fz==137 then Fv=mU[Fv]Fm=true FF=true end else if Fz==136 then mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB-mG if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end end else if Fz>131 then if Fz>133 then if Fz==135 then FF=true local I2=yK[9767]if not I2 then yK[9767]=true local fA=mc[Fv]or 0 local fl=mE[Fv]or 0 local fC=mh[Fv]or 0 local fF=(fA*65599+fl*31+fC)%h1 if fF==0 then fF=1 end local fm=c1[Sp[33061]]local fI=c1[Sp[17948]]local ff=c1[Sp[40938]]local fL=c4(fF,fm)fL=c4(fL,fI*31%h1)fL=(fL+ff+(yK.fN or 0))%h1 local I3=c1[Sp[41187]][95]or 0 local I7=c4(c4(c4(I3,(((yK.fN or 0)+1)*257)%h1),fm),ff)%h1 if I7==0 then I7=1 end local I0=((I7*48271)+81)%h1 if I0==0 then I0=1 end fL=(fL+I0)%h1 if fL==0 then fL=1 end yK[1965]=((fL*48271)+81)%h1 if yK[1965]==0 then yK[1965]=1 end if c8[S9(567,S6,5)]then local I5=yK[1965]mB=c8[S9(567,S6,5)]((I5 and(I5-I5+1))or 1)if mB~=c1[Sp[S3[55773]]]then do local mB=c1[Sp[S3[27423]]];local mG=c1[Sp[S3[53421]]];local mb=c1[Sp[S3[40369]]];local mZ=c1[Sp[S3[44060]]];mb(mB,c1[Sp[S3[49524]]],c1[Sp[S3[49867]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[55251]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[35650]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[35650]]],mD+mX)end end end end if c1[Sp[S3[55773]]][32812]~=61478 then F6[Fv+17]=2 end end FF=true end else if Fz>132 then if Fz==133 then fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end fq=Jn if type(fq)~='table'then fq=c1[Sp[57086]]end if type(fq)~='table'then fq={}end mB=fo[Fv]+(fK[Fv]*((7*6)+214))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fq[mB+1],wf)and sL or nil)mb=(mw[Fv]~=0)Fq[mR[Fv]]=mb mZ=Fq[mc[Fv]]if mZ then mZ[mG]=mb end mG=nil mb=nil mZ=nil mV=nil fo=nil fK=nil fq=nil FF=true end else if Fz==132 then FF=true mB=mc[Fv]mG=mE[Fv]+mh[Fv]*(16*16)mb=c1[Sp[S3[49836]]]if mb and c1[Sp[S3[50496]]](mb)==SJ then c1[Sp[S3[59646]]](mb,c1[Sp[S3[25062]]][(N(((447-63-87)),wf)and sL or nil)])c1[Sp[S3[59646]]](mb,c1[Sp[S3[30891]]])end mZ=nil Fv=Fv+1 Fm=true FF=true end end end else if Fz>129 then if Fz>130 then if Fz==131 then mB=mh[Fv]+(mR[Fv]*(313-57))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)ma=Fq[mE[Fv]]if ma then Fq[mc[Fv]]=ma[mG]else Fq[mc[Fv]]=nil end mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true mB=nil mG=nil ma=nil FF=true end else if Fz==130 then local I0,I2,I5,I4,I9,I6,fc,fS,fe,fi,fY,fT,fk,fr mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*((6*5)+226))Fq[mB+1]=Fq[mG]mV=Fq[mB+1]mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)I0=mV and mV[mD]or nil if I0==nil and mV~=nil then I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((381-42+(253-253))),wf)and sL or nil)]I4=ST(I5)if I4==SJ then I0=I5(mV,mD)elseif I4==Ss then I0=I5[mD]end end if I0==nil and ST(mV)==Sn then I0=cU and cU[mD]or nil end if I0==nil and mV~=nil and ST(mV)~=Ss then I2=I2 or c1[Sp[12275]](mV)I5=I2 and I2[(N((231+60),wf)and sL or nil)]if ST(I5)==SJ then I0=I5 end end if mb==0 then fY=c1[Sp[27628]]I9=ST(I0)if I9==SJ then fT=fY(nil,I0(mV))else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then fT=fY(nil,I6(I0,mV))else fT=fY(nil,I0(mV))end end fk=fT.n or#fT for fr=1,fk do Fq[mB+fr-1]=fT[fr]end FA=mB+fk else I9=ST(I0)if I9==SJ then if mb==1 then I0(mV)elseif mb==2 then fc=I0(mV)elseif mb==3 then fc,fS=I0(mV)else fc,fS,fe=I0(mV)end else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then if mb==1 then I6(I0,mV)elseif mb==2 then fc=I6(I0,mV)elseif mb==3 then fc,fS=I6(I0,mV)else fc,fS,fe=I6(I0,mV)end else if mb==1 then I0(mV)elseif mb==2 then fc=I0(mV)elseif mb==3 then fc,fS=I0(mV)else fc,fS,fe=I0(mV)end end end if mb==2 then Fq[mB]=fc FA=mB+1 elseif mb==3 then Fq[mB]=fc;Fq[mB+1]=fS FA=mB+2 elseif mb==4 then Fq[mB]=fc;Fq[mB+1]=fS;Fq[mB+2]=fe FA=mB+3 else FA=mB end end Se=FA Si=true fi=mu[mt[Fv]+8]if fi then Fv=fi else Fv=Fv+1 end Fm=true FF=true end end else if Fz>128 then if Fz==129 then mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz==128 then ma=((Fv+(mc[Fv]*17)+(mE[Fv]*31)+((((wf)or 0)%97)*1)+47486)%3)mB=mh[Fv]+(mR[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=Fq[mE[Fv]]if ma==0 then Fq[mc[Fv]]=mb[mG]elseif ma==1 then mZ=mb[mG]Fq[mc[Fv]]=mZ else mZ=mb[mG]if ma>1 then Fq[mc[Fv]]=mZ else Fq[mc[Fv]]=mb[mG]end end mG=nil mb=nil mZ=nil ma=nil FF=true end end end end end end end end else if Fz>63 then if Fz>95 then if Fz>111 then if Fz>120 then if Fz>123 then if Fz>125 then if Fz==126 then ma=((48095+(Fv*5)+(mh[Fv]*43)+(mE[Fv]*29)+(mc[Fv]*17))%3)mB=mE[Fv]+(mh[Fv]*(16*16))mD=(1+15)-15 mX=((mB*131)+15)%257 if mX==257 then mX=0 end mp=c1[Sp[58310]]if mp and mp[mB]then Fq[mc[Fv]]=c1[Sp[10195]](mB,nil)else mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+mD],wf)and sL or nil)if ma==0 then Fq[mc[Fv]]=c1[Sp[14574]][mG]elseif ma==1 then mb=c1[Sp[14574]][mG]Fq[mc[Fv]]=mb else mZ=c1[Sp[14574]]mb=mZ[mG]Fq[mc[Fv]]=mb end end mG=nil mb=nil mZ=nil ma=nil mp=nil FF=true end else if Fz>124 then if Fz==125 then mG=Fq[mR[Fv]]mB=Fq[mc[Fv]]mV=mQ mX=not(mB~=mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==124 then ma=36680+(mh[Fv]*43)+(mE[Fv]*31)+(mc[Fv]*17)ma=(ma+Fv)%3 if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][mh[Fv]+(3-2)]elseif ma==1 then mB=mh[Fv]+(2-1)Fq[mc[Fv]]=Fq[mE[Fv]][mB]else mB=Fq[mE[Fv]]mG=mh[Fv]+(2-1)Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end end end else if Fz>122 then if Fz==123 then mB=mc[Fv]mG=mE[Fv]+(mh[Fv]*256)mb=Ad(mG)if not mb then c1[Sp[S3[42058]]]()end if not Fx then Fx={}end local I3=false if mb[(N((260+41),wf)and sL or nil)]and not mb[(N((395-63),wf)and sL or nil)]then local I7=mb[(N(((8+310)),wf)and sL or nil)]local I0=nil local I2=0 if I7 then I0={}local f2={}I0[0]=f2 local f5=c1[Sp[35986]]local I5=0 if Y then I5=Y["\74\105"]or 0 end for I4,I9 in c1[Sp[64981]](I7)do if I9[1]then local I6=I9[2]local fc=I5+I6 do local f4=fc local f9=Fx[f4]if ST(f9)~=Ss or(not f9[9400])or f9[6860]~=f4 or f9[3552]~=Fq then f9={[9400]=true,[3552]=Fq,[6860]=f4,[5417]=false,[9152]=nil,[1]=Fq,[2]=f4}Fx[f4]=f9 end I0[I4]=function(f6,...)if f6==f2 then if f5('#',...)>0 then local Lc=...if f9[5417]then f9[9152]=Lc else Fq[fc]=Lc end return end if f9[5417]then return f9[9152]end return Fq[fc]end local LS if f9[5417]then LS=f9[9152]else LS=Fq[fc]end return LS(f6,...)end end else local I6=I9[2]+1 I0[I4]=function(f6,...)if f6==f2 then if f5('#',...)>0 then local Lc=...local f9=FK[I6]if ST(f9)==Ss and f9[9400]then if f9[5417]then f9[9152]=Lc else local Le=f9[6860]f9[3552][Le]=Lc end else FK[I6]=Lc end return end local f9=FK[I6]if ST(f9)==Ss and f9[9400]then if f9[5417]then f9=f9[9152]else local Le=f9[6860]f9=f9[3552][Le]end end return f9 end local LS=FK[I6]if ST(LS)==Ss and LS[9400]then if LS[5417]then LS=LS[9152]else local Le=LS[6860]LS=LS[3552][Le]end end return LS(f6,...)end end end I2=0 local LY=172 local LT=15 local Li=Fv+1 while F6[Li]==LY or F6[Li]==LT do I2=I2+1;Li=Li+1 end end Fq[mB]=mb[(N((260+41),wf)and sL or nil)](c1[Sp[33821]],I0)do local Lk=c1[Sp[33821]][(N(0x12,wf)and sL or nil)]if Lk then Lk(Fq[mB],c1[Sp[33821]])end end Fv=Fv+1+I2 Fm=true I3=true end if not I3 then local f0=mb[6898]mZ={}if f0 and f0[1]~=nil then if f0[2]==nil then mV=f0[1]if mV.gD then mD=mV.ns if not Fx[mD]then Fx[mD]={[9400]=true,[3552]=Fq,[6860]=mD,[5417]=false,[9152]=nil,[1]=Fq,[2]=mD}end mZ[1]=Fx[mD]else mZ[1]=FK[mV.ns+1]end else for I1,mV in c1[Sp[64981]](f0)do if mV.gD then mD=mV.ns if not Fx[mD]then Fx[mD]={[9400]=true,[3552]=Fq,[6860]=mD,[5417]=false,[9152]=nil,[1]=Fq,[2]=mD}end mZ[I1]=Fx[mD]else mZ[I1]=FK[mV.ns+1]end end end end Fq[mB]=c1[Sp[15279]](mb,mZ)c1[Sp[58391]](Fq[mB],c1[Sp[S3[45909]]])local Lr=0 local Lh=172 local LR=15 local LE=Fv+1 while F6[LE]==Lh or F6[LE]==LR do Lr=Lr+1;LE=LE+1 end if Lr>0 then Fv=Fv+1+Lr Fm=true end end FF=true end else if Fz>121 then if Fz==122 then mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz==121 then mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB+mG if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end end else if Fz>116 then if Fz>118 then if Fz==120 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(83+104+69))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]mD=mD+mV Fq[mB+2]=mD if(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)then mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end else FL[mB]=nil Fv=Fv+1 end Fm=true FF=true end else if Fz>117 then if Fz==118 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(106+76+74))local mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)Fq[mB+1]=mZ mV=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mV)if mG==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mV(mZ))else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mV,mZ))else fe=fS(nil,mV(mZ))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mG==1 then mV(mZ)elseif mG==2 then I4=mV(mZ)elseif mG==3 then I4,I6=mV(mZ)else I4,I6,fc=mV(mZ)end else I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==1 then I5(mV,mZ)elseif mG==2 then I4=I5(mV,mZ)elseif mG==3 then I4,I6=I5(mV,mZ)else I4,I6,fc=I5(mV,mZ)end else if mG==1 then mV(mZ)elseif mG==2 then I4=mV(mZ)elseif mG==3 then I4,I6=mV(mZ)else I4,I6,fc=mV(mZ)end end end if mG==2 then Fq[mB]=I4 FA=mB+1 elseif mG==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mG==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end else if Fz==117 then FF=true mV=c1[Sp[S3[32779]]]HR=c1[Sp[S3[56119]]]if mV then mB=(mt[Fv]or 0)mG=(mE[Fv]or 0)+((mh[Fv]or 0)*(102+154))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=mB+4+mG mZ=mu[mb]mD=#mV if mD and mD>0 then mX=(mc[Fv]or 0)ma=Fv+mX+((mE[Fv]or 0)*3)+((mh[Fv]or 0)*257)+34 mp=c1[Sp[51491]](ma/mD)I1=ma-(mp*mD)+1 I8=mV[I1]if I8 then HE=I8()I3=(HR and(HE~=nil)and HR[HE])or nil if HE==nil or I3==nil then do local mB=c1[Sp[S3[39891]]];local mG=c1[Sp[S3[22324]]];local mb=c1[Sp[S3[25845]]];local mZ=c1[Sp[S3[50506]]];mb(mB,c1[Sp[S3[26942]]],c1[Sp[S3[50745]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[38668]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[31132]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[31132]]],mD+mX)end end else I7=(yK[1965]or 0)I7=((((I7+I3)%h1)*48271)+81)%h1 if I7==0 then I7=1 end yK[1965]=I7 end end end end Fv=Fv+1 Fm=true FF=true end end end else if Fz>114 then if Fz>115 then if Fz==116 then Fq[mc[Fv]]=(mE[Fv]~=0)mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz==115 then local I0,I2,I5,I4,I9,I6,fc,fS mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*((15*21)-59))Fq[mB+2]=Fq[mG]mV=Fq[mB+1]mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)I0=mV and mV[mD]or nil if I0==nil and mV~=nil then I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((381-42+(253-253))),wf)and sL or nil)]I4=ST(I5)if I4==SJ then I0=I5(mV,mD)elseif I4==Ss then I0=I5[mD]end end if I0==nil and ST(mV)==Sn then I0=cU and cU[mD]or nil end if I0==nil and mV~=nil and ST(mV)~=Ss then I2=I2 or c1[Sp[12275]](mV)I5=I2 and I2[(N((231+60),wf)and sL or nil)]if ST(I5)==SJ then I0=I5 end end I9=ST(I0)if I9==SJ then if mb==2 then fc=I0(mV,Fq[mB+2])else I0(mV,Fq[mB+2])end else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then if mb==2 then fc=I6(I0,mV,Fq[mB+2])else I6(I0,mV,Fq[mB+2])end else if mb==2 then fc=I0(mV,Fq[mB+2])else I0(mV,Fq[mB+2])end end end if mb==2 then Fq[mB]=fc FA=mB+1 else FA=mB end Se=FA Si=true fS=mu[mt[Fv]+8]if fS then Fv=fS else Fv=Fv+1 end Fm=true FF=true end end else if Fz>113 then if Fz==114 then mB=mc[Fv]mG=mE[Fv]local rI=c5 local Fx=c1[Sp[24136]]if Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])then c1[Sp[55151]]=nil c1[Sp[64990]](Fx,c1[Sp[S3[59138]]],c1[Sp[61885]])Fq=nil mG=2 end if mG==0 then return rI(Fq,mB,FA-1)elseif mG==1 then return else mb=mG-1 return rI(Fq,mB,mB+mb-1)end FF=true end else if Fz==113 then ma=13071+((((wf)or 0)%97)*1)+(mE[Fv]*31)+(mc[Fv]*17)ma=(ma+Fv)%3 mB=mh[Fv]+(mR[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=Fq[mE[Fv]]if ma==0 then Fq[mc[Fv]]=mb[mG]elseif ma==1 then mZ=mb[mG]Fq[mc[Fv]]=mZ else mZ=mb[mG]if ma>1 then Fq[mc[Fv]]=mZ else Fq[mc[Fv]]=mb[mG]end end mG=nil mb=nil mZ=nil ma=nil FF=true end end end end end else if Fz>104 then if Fz>107 then if Fz>109 then if Fz==111 then Fq[mc[Fv]]=Fq[mE[Fv]]FF=true end else if Fz>108 then if Fz==109 then ma=2139+((((wf)or 0)%97)*1)+(mR[Fv]*41)+(mc[Fv]*23)ma=(ma+Fv)%3 fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end mB=fo[Fv]+(fK[Fv]*(106+58+92))fz=Jn if type(fz)~='table'then fz=c1[Sp[57086]]end if type(fz)~='table'then fz={}end mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fz[mB+1],wf)and sL or nil)mb=Fq[mc[Fv]]if ma==0 then if mb then mb[mG]=Fq[mR[Fv]]end elseif ma==1 then mZ=Fq[mR[Fv]]if mb then mb[mG]=mZ end else if mb then mZ=mb mZ[mG]=Fq[mR[Fv]]end end mG=nil mb=nil mZ=nil ma=nil fz=nil fo=nil fK=nil FF=true end else if Fz==108 then mB=mE[Fv]+(mh[Fv]*(101+64+91))mG={}mZ=c1[Sp[50244]][mB]if mZ then for mV=1,#mZ do mb=mZ[mV]mG[mb]=false end end if false then mG[0]=nil end Fq[mc[Fv]]=mG FF=true end end end else if Fz>106 then if Fz==107 then mX=Fq[mc[Fv]]if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz>105 then if Fz==106 then mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB/mG FF=true end else if Fz==105 then mB=mc[Fv]mG=mt[Fv]mb=mE[Fv]+(mh[Fv]*(106+58+92))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a mZ=Fq[mB]mV=Fq[mB+1]mD=Fq[mB+2]FL[mB]=mD if(mV>0 and mD<=mZ)or(mV<=0 and mD>=mZ)then Fv=Fv+1 else mX=mG+4+mb mZ=mu[mX]if mZ then Fv=mZ else Fv=Fv+1 end end Fm=true FF=true end end end end else if Fz>100 then if Fz>103 then if Fz==104 then mB=mc[Fv]if F6[Fv+1]==134 or F6[Fv+1]==34 or F6[Fv+1]==35 then if mc[Fv+1]==nil then c1[Sp[18946]](yK,Fv+1)end mG=mc[Fv+1]mb=nil if mB==40 then mb=ST elseif mB==12 then mb=cu.floor elseif mB==7 then mb=cu.ceil elseif mB==2 then mb=cu.abs elseif mB==25 then mb=cu.sqrt elseif mB==21 then mb=cu.pow elseif mB==24 then mb=cu.sin elseif mB==9 then mb=cu.cos elseif mB==27 then mb=cu.tan elseif mB==11 then mb=cu.exp elseif mB==10 then mb=cu.deg elseif mB==17 then mb=cu.log elseif mB==22 then mb=cu.rad elseif mB==19 then mb=cu.min elseif mB==18 then mb=cu.max elseif mB==45 then mb=SY.insert elseif mB==46 then mb=c5 elseif mB==42 then mb=cU.byte elseif mB==43 then mb=cU.char elseif mB==44 then mb=cU.len elseif mB==41 then mb=c1[Sp[14574]].typeof elseif mB==57 then mb=c1[Sp[35986]]elseif mB==60 then mb=c1[Sp[64990]]elseif mB==61 then mb=c1[Sp[58562]]elseif mB==62 then mb=c1[Sp[14574]].rawequal elseif mB==64 then mb=c1[Sp[14574]].rawlen elseif mB==3 then mb=cu.asin elseif mB==4 then mb=cu.acos elseif mB==5 then mb=cu.atan2 elseif mB==6 then mb=cu.atan elseif mB==13 then mb=cu.fmod elseif mB==14 then mb=cu.ldexp elseif mB==20 then mb=cu.modf end if mb~=nil then mZ=mb Fq[mG]=mZ end if false then Fq[mG]=Fq[mG]end end FF=true end else if Fz>101 then if Fz==103 then local I0,I2,I5,I4,I9,I6,fc,fS,fe mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(30+89+137))mZ=mw[Fv]+(mM[Fv]*(30+89+137))local fe=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)Fq[mB+2]=fe mV=Fq[mB+1]mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)I0=mV and mV[mD]or nil if I0==nil and mV~=nil then I2=c1[Sp[12275]](mV)I5=I2 and I2[(N(((381-42+(253-253))),wf)and sL or nil)]I4=ST(I5)if I4==SJ then I0=I5(mV,mD)elseif I4==Ss then I0=I5[mD]end end if I0==nil and ST(mV)==Sn then I0=cU and cU[mD]or nil end if I0==nil and mV~=nil and ST(mV)~=Ss then I2=I2 or c1[Sp[12275]](mV)I5=I2 and I2[(N((231+60),wf)and sL or nil)]if ST(I5)==SJ then I0=I5 end end I9=ST(I0)if I9==SJ then if mG==2 then fc=I0(mV,Fq[mB+2])else I0(mV,Fq[mB+2])end else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then if mG==2 then fc=I6(I0,mV,Fq[mB+2])else I6(I0,mV,Fq[mB+2])end else if mG==2 then fc=I0(mV,Fq[mB+2])else I0(mV,Fq[mB+2])end end end if mG==2 then Fq[mB]=fc FA=mB+1 else FA=mB end Se=FA Si=true fS=mu[mt[Fv]+8]if fS then Fv=fS else Fv=Fv+1 end Fm=true FF=true end else if Fz==101 then Fq[mc[Fv]]=Fq[mE[Fv]]mX=not(Fq[mc[Fv]])if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>98 then if Fz>99 then if Fz==100 then mB=mE[Fv]+(mh[Fv]*(63+81+112))local _a=(mB>=0x8000)and-0x10000 or 0;mB=mB+_a Fq[mc[Fv]]=mB mB=mw[Fv]+(mM[Fv]*(63+81+112))local _a=(mB>=0x8000)and-0x10000 or 0;mB=mB+_a Fq[mR[Fv]]=mB FF=true end else if Fz==99 then mB=mc[Fv]mG=mE[Fv]local rI=c5 local Fx=c1[Sp[24136]]if Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])then c1[Sp[55151]]=nil c1[Sp[64990]](Fx,c1[Sp[S3[59138]]],c1[Sp[61885]])Fq=nil mG=2 end if mG==0 then return rI(Fq,mB,FA-1)elseif mG==1 then return else mb=mG-1 return rI(Fq,mB,mB+mb-1)end FF=true end end else if Fz>96 then if Fz==98 then ma=((Fv+(mc[Fv]*23)+(mR[Fv]*41)+((((wf)or 0)%97)*1)+41412)%3)fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end mB=fo[Fv]+(fK[Fv]*(106+58+92))fz=Jn if type(fz)~='table'then fz=c1[Sp[57086]]end if type(fz)~='table'then fz={}end mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fz[mB+1],wf)and sL or nil)mb=Fq[mc[Fv]]if ma==0 then if mb then mb[mG]=Fq[mR[Fv]]end elseif ma==1 then mZ=Fq[mR[Fv]]if mb then mb[mG]=mZ end else if mb then mZ=mb mZ[mG]=Fq[mR[Fv]]end end mG=nil mb=nil mZ=nil ma=nil fz=nil fo=nil fK=nil FF=true end else if Fz==96 then mB=mc[Fv]mG=mE[Fv]mb=FK[mG+1]mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mZ=mb[9152]else mX=mb[2]if mX~=nil then ma=mb[1]if ma then mZ=ma[mX]else mZ=nil end else mZ=mb[1]end end else mZ=mb end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mB]=mZ FF=true end end end end end end else if Fz>82 then if Fz>88 then if Fz>91 then if Fz>93 then if Fz==94 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*(128+128))+(mM[Fv]*(32*1024+32*1024))+(mH[Fv]*(4096*4096))mV=0 if mb==0 then ma=FA or mG mV=ma-mG else mV=mb-1 end if mV<0 then mV=0 end mD=Fq[mB]if mD then for mX=0,mV-1 do mD[mZ+mX]=Fq[mG+mX]end end if false then mD=mD end FF=true end else if Fz>92 then if Fz==93 then mB=mc[Fv]mG=mE[Fv]+(mh[Fv]*256)mb=Ad(mG)if not mb then c1[Sp[S3[20873]]]()end if not Fx then Fx={}end local I3=false if mb[(N((260+41),wf)and sL or nil)]and not mb[(N((395-63),wf)and sL or nil)]then local I7=mb[(N(((8+310)),wf)and sL or nil)]local I0=nil local I2=0 if I7 then I0={}local f2={}I0[0]=f2 local f5=c1[Sp[35986]]local I5=0 if Y then I5=Y["\74\105"]or 0 end for I4,I9 in c1[Sp[64981]](I7)do if I9[1]then local I6=I9[2]local fc=I5+I6 do local f4=fc local f9=Fx[f4]if ST(f9)~=Ss or(not f9[9400])or f9[6860]~=f4 or f9[3552]~=Fq then f9={[9400]=true,[3552]=Fq,[6860]=f4,[5417]=false,[9152]=nil,[1]=Fq,[2]=f4}Fx[f4]=f9 end I0[I4]=function(f6,...)if f6==f2 then if f5('#',...)>0 then local Lc=...if f9[5417]then f9[9152]=Lc else Fq[fc]=Lc end return end if f9[5417]then return f9[9152]end return Fq[fc]end local LS if f9[5417]then LS=f9[9152]else LS=Fq[fc]end return LS(f6,...)end end else local I6=I9[2]+1 I0[I4]=function(f6,...)if f6==f2 then if f5('#',...)>0 then local Lc=...local f9=FK[I6]if ST(f9)==Ss and f9[9400]then if f9[5417]then f9[9152]=Lc else local Le=f9[6860]f9[3552][Le]=Lc end else FK[I6]=Lc end return end local f9=FK[I6]if ST(f9)==Ss and f9[9400]then if f9[5417]then f9=f9[9152]else local Le=f9[6860]f9=f9[3552][Le]end end return f9 end local LS=FK[I6]if ST(LS)==Ss and LS[9400]then if LS[5417]then LS=LS[9152]else local Le=LS[6860]LS=LS[3552][Le]end end return LS(f6,...)end end end I2=0 local LY=172 local LT=15 local Li=Fv+1 while F6[Li]==LY or F6[Li]==LT do I2=I2+1;Li=Li+1 end end Fq[mB]=mb[(N((260+41),wf)and sL or nil)](c1[Sp[33821]],I0)do local Lk=c1[Sp[33821]][(N(((264+-76-170)),wf)and sL or nil)]if Lk then Lk(Fq[mB],c1[Sp[33821]])end end Fv=Fv+1+I2 Fm=true I3=true end if not I3 then local f0=mb[6898]mZ={}if f0 and f0[1]~=nil then if f0[2]==nil then mV=f0[1]if mV.gD then mD=mV.ns if not Fx[mD]then Fx[mD]={[9400]=true,[3552]=Fq,[6860]=mD,[5417]=false,[9152]=nil,[1]=Fq,[2]=mD}end mZ[1]=Fx[mD]else mZ[1]=FK[mV.ns+1]end else for I1,mV in c1[Sp[64981]](f0)do if mV.gD then mD=mV.ns if not Fx[mD]then Fx[mD]={[9400]=true,[3552]=Fq,[6860]=mD,[5417]=false,[9152]=nil,[1]=Fq,[2]=mD}end mZ[I1]=Fx[mD]else mZ[I1]=FK[mV.ns+1]end end end end Fq[mB]=c1[Sp[15279]](mb,mZ)c1[Sp[58391]](Fq[mB],c1[Sp[S3[45909]]])local Lr=0 local Lh=172 local LR=15 local LE=Fv+1 while F6[LE]==Lh or F6[LE]==LR do Lr=Lr+1;LE=LE+1 end if Lr>0 then Fv=Fv+1+Lr Fm=true end end FF=true end else if Fz==92 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=(mB<=mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>90 then if Fz==91 then Fq[mc[Fv]]=Fq[mE[Fv]]*Fq[mh[Fv]]if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end else if Fz>89 then if Fz==90 then ma=((24108+(Fv*5)+(mh[Fv]*47)+(mE[Fv]*31)+(mc[Fv]*17))%3)mZ=(3-3)if mZ>0 then mZ=mZ-1 end if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][Fq[mh[Fv]]]elseif ma==1 then mB=Fq[mE[Fv]]Fq[mc[Fv]]=mB[Fq[mh[Fv]]]else mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end else if Fz==89 then mB=mc[Fv]if F6[Fv+1]==134 or F6[Fv+1]==34 or F6[Fv+1]==35 then if mc[Fv+1]==nil then c1[Sp[18946]](yK,Fv+1)end mG=mc[Fv+1]mb=nil if mB==40 then mb=ST elseif mB==12 then mb=cu.floor elseif mB==7 then mb=cu.ceil elseif mB==2 then mb=cu.abs elseif mB==25 then mb=cu.sqrt elseif mB==21 then mb=cu.pow elseif mB==24 then mb=cu.sin elseif mB==9 then mb=cu.cos elseif mB==27 then mb=cu.tan elseif mB==11 then mb=cu.exp elseif mB==10 then mb=cu.deg elseif mB==17 then mb=cu.log elseif mB==22 then mb=cu.rad elseif mB==19 then mb=cu.min elseif mB==18 then mb=cu.max elseif mB==45 then mb=SY.insert elseif mB==46 then mb=c5 elseif mB==42 then mb=cU.byte elseif mB==43 then mb=cU.char elseif mB==44 then mb=cU.len elseif mB==41 then mb=c1[Sp[14574]].typeof elseif mB==57 then mb=c1[Sp[35986]]elseif mB==60 then mb=c1[Sp[64990]]elseif mB==61 then mb=c1[Sp[58562]]elseif mB==62 then mb=c1[Sp[14574]].rawequal elseif mB==64 then mb=c1[Sp[14574]].rawlen elseif mB==3 then mb=cu.asin elseif mB==4 then mb=cu.acos elseif mB==5 then mb=cu.atan2 elseif mB==6 then mb=cu.atan elseif mB==13 then mb=cu.fmod elseif mB==14 then mb=cu.ldexp elseif mB==20 then mb=cu.modf end if mb then Fq[mG]=mb end end FF=true end end end end else if Fz>85 then if Fz>87 then if Fz==88 then mB=mc[Fv]mG=mE[Fv]mb=FP[Sy]if mb==nil then mb=FP['n']end if mb==nil then mb=0 end mZ=0 if mG==0 then for I1=1,mb do Fq[mB+I1-1]=FP[I1]end mZ=mb else for I1=1,mG-1 do Fq[mB+I1-1]=FP[I1]end mZ=mG-1 end Fq[mB+mZ]=nil FA=mB+mZ Se=FA Si=true FF=true end else if Fz>86 then if Fz==87 then mB=(mc[Fv]or 0)mG=(mE[Fv]or 0)+((mh[Fv]or 0)*256)+((mR[Fv]or 0)*65536)+((mw[Fv]or 0)*16777216)mb=0 while mG~=0 do if(mG%2)~=0 then Fq[(mB+mb)]=nil end mG=c1[Sp[51491]](mG/2)mb=mb+1 end FF=true end else if Fz==86 then ma=((Fv+(mc[Fv]*23)+(mE[Fv]*41)+(mh[Fv]*59)+28206)%3)mB=mR[Fv]+(mw[Fv]*((2*21)+214))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mG mb=Fq[mE[Fv]]if ma==0 then mZ=Fq[mh[Fv]]if mb then mb[mZ]=mG end elseif ma==1 then mZ=Fq[mh[Fv]]mV=mG if mb then mb[mZ]=mV end else mV=Fq[mh[Fv]]if mb then mb[mV]=mG end end mG=nil mb=nil mZ=nil mV=nil ma=nil FF=true end end end else if Fz>84 then if Fz==85 then local I0,I2,I5,I4,I9,I6,fc,fS,fe,fi,fY,fT,fk,fr,fE mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*((3*21)+193))mV=mM[Fv]+(mH[Fv]*((3*21)+193))Fq[mB+1]=Fq[mG]local fY=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mV+1],wf)and sL or nil)Fq[mB+2]=fY mD=Fq[mB+1]mX=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)I0=mD and mD[mX]or nil if I0==nil and mD~=nil then I2=c1[Sp[12275]](mD)I5=I2 and I2[(N(((381-42+(253-253))),wf)and sL or nil)]I4=ST(I5)if I4==SJ then I0=I5(mD,mX)elseif I4==Ss then I0=I5[mX]end end if I0==nil and ST(mD)==Sn then I0=cU and cU[mX]or nil end if I0==nil and mD~=nil and ST(mD)~=Ss then I2=I2 or c1[Sp[12275]](mD)I5=I2 and I2[(N((231+60),wf)and sL or nil)]if ST(I5)==SJ then I0=I5 end end if mb==0 then fT=c1[Sp[27628]]I9=ST(I0)if I9==SJ then fk=fT(nil,I0(mD,Fq[mB+2]))else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then fk=fT(nil,I6(I0,mD,Fq[mB+2]))else fk=fT(nil,I0(mD,Fq[mB+2]))end end fr=fk.n or#fk for fE=1,fr do Fq[mB+fE-1]=fk[fE]end FA=mB+fr else I9=ST(I0)if I9==SJ then if mb==1 then I0(mD,Fq[mB+2])elseif mb==2 then fc=I0(mD,Fq[mB+2])elseif mb==3 then fc,fS=I0(mD,Fq[mB+2])else fc,fS,fe=I0(mD,Fq[mB+2])end else I2=c1[Sp[12275]](I0)I6=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I6 then if mb==1 then I6(I0,mD,Fq[mB+2])elseif mb==2 then fc=I6(I0,mD,Fq[mB+2])elseif mb==3 then fc,fS=I6(I0,mD,Fq[mB+2])else fc,fS,fe=I6(I0,mD,Fq[mB+2])end else if mb==1 then I0(mD,Fq[mB+2])elseif mb==2 then fc=I0(mD,Fq[mB+2])elseif mb==3 then fc,fS=I0(mD,Fq[mB+2])else fc,fS,fe=I0(mD,Fq[mB+2])end end end if mb==2 then Fq[mB]=fc FA=mB+1 elseif mb==3 then Fq[mB]=fc;Fq[mB+1]=fS FA=mB+2 elseif mb==4 then Fq[mB]=fc;Fq[mB+1]=fS;Fq[mB+2]=fe FA=mB+3 else FA=mB end end Se=FA Si=true fi=mu[mt[Fv]+8]if fi then Fv=fi else Fv=Fv+1 end Fm=true FF=true end else if Fz>83 then if Fz==84 then mB=mE[Fv]+(mh[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb={mG}if false and mB<0 then mb[1]=mG end Fq[mc[Fv]]=mb[1]mG=nil mb=nil FF=true end else if Fz==83 then ma=12149+((((wf)or 0)%97)*1)+(mR[Fv]*41)+(mc[Fv]*23)ma=(ma+Fv)%3 fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end mB=fo[Fv]+(fK[Fv]*(106+58+92))fz=Jn if type(fz)~='table'then fz=c1[Sp[57086]]end if type(fz)~='table'then fz={}end mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fz[mB+1],wf)and sL or nil)mb=Fq[mc[Fv]]if ma==0 then if mb then mb[mG]=Fq[mR[Fv]]end elseif ma==1 then mZ=Fq[mR[Fv]]if mb then mb[mG]=mZ end else if mb then mZ=mb mZ[mG]=Fq[mR[Fv]]end end mG=nil mb=nil mZ=nil ma=nil fz=nil fo=nil fK=nil FF=true end end end end end else if Fz>75 then if Fz>79 then if Fz>81 then if Fz==82 then mB=mc[Fv]mV=Fq[mB+1]mD=Fq[mB+2]mb=mR[Fv]mZ=Fq[mB]mX,ma=mZ(mV,mD)if mX~=nil then Fq[mB+2]=mX if mb>=1 then Fq[mB+3]=mX end if mb>=2 then Fq[mB+4]=ma end for I8=3,mb do Fq[mB+2+I8]=nil end mZ=mt[Fv]mG=mE[Fv]+(mh[Fv]*(73+55+128))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mZ=mZ+8+mG local HE=mu[mZ]if HE then Fv=HE else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz>80 then if Fz==81 then ma=((Fv+(mc[Fv]*19)+(mE[Fv]*31)+(mh[Fv]*47)+13692)%3)mB=mE[Fv]+(mh[Fv]*(128+128))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)if ma==0 then c1[Sp[14574]][mG]=Fq[mc[Fv]]elseif ma==1 then mb=Fq[mc[Fv]]c1[Sp[14574]][mG]=mb else mb=Fq[mc[Fv]]mZ=c1[Sp[14574]]mZ[mG]=mb end mG=nil mb=nil mZ=nil ma=nil FF=true end else if Fz==80 then mX=Fq[mc[Fv]]if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>77 then if Fz==79 then ma=((6897+(Fv*5)+(mh[Fv]*53)+(mE[Fv]*37)+(mc[Fv]*19))%3)mB=Fq[mc[Fv]]if ma==0 then mG=mE[Fv]+(4-3)if mB then mB[mG]=Fq[mh[Fv]]end elseif ma==1 then if mB then mB[mE[Fv]+(3-2)]=Fq[mh[Fv]]end else mG=mE[Fv]+(5-4)mb=Fq[mh[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end else if Fz>76 then if Fz==77 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=((mB==mG))if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==76 then Fq[mc[Fv]]=Fq[mE[Fv]]^Fq[mh[Fv]]FF=true end end end end else if Fz>70 then if Fz>74 then if Fz==75 then mB=mc[Fv]mV=Fq[mB+1]mD=Fq[mB+2]mb=mR[Fv]I0=mM[Fv]or 0 if I0~=0 then mZ=Fq[mB]if I0==2 and mZ==c1[Sp[43871]]and ST(mV)==Ss then I2,I5=c1[Sp[43871]](mV,mD)else I2,I5=mZ(mV,mD)end if I2~=nil then Fq[mB+2]=I2 if mb>=1 then Fq[mB+3]=I2 end if mb>=2 then Fq[mB+4]=I5 end for I8=3,mb do Fq[mB+2+I8]=nil end mZ=mt[Fv]mG=mE[Fv]+(mh[Fv]*(109+78+69))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mZ=mZ+8+mG local HE=mu[mZ]if HE then Fv=HE else Fv=Fv+1 end else Fv=Fv+1 end Fm=true else I4=3 if mw[Fv]~=0 then I4=mw[Fv]elseif yK and yK[(N(((439+16-200)),wf)and sL or nil)]~=nil then I4=yK[(N(((439+16-200)),wf)and sL or nil)]end mZ=Fq[mB]mX={mZ(mV,mD)}mD=I4 ma=1 if ST(mX[1])==SO then if mX[1]==false then ma=nil else ma=2 end end if ma then if mD<3 then mD=3 end mZ=mB+mD for I8=1,mb do Fq[mZ+(I8-1)]=mX[ma+(I8-1)]end mV=mX[ma]if mV~=nil then Fq[mB+2]=mV mZ=mt[Fv]mG=mE[Fv]+(mh[Fv]*(109+78+69))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mZ=mZ+8+mG local HE=mu[mZ]if HE then Fv=HE else Fv=Fv+1 end else Fv=Fv+1 end end end Fm=true FF=true end else if Fz>73 then if Fz==74 then local I9,I6,fc,fS,fe,fi,I2,I5,I4,fT,fk,fr,fE,fh,Fx Fx=c1[Sp[27628]]mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]-1 mZ=mR[Fv]-1 mV=mw[Fv]+(mM[Fv]*(439-183))if mG==nil then mG=(mB+1)end mD=Fq[mG]mX=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mV+1],wf)and sL or nil)I0=mD and mD[mX]or nil if I0==nil and mD~=nil then I2=c1[Sp[12275]](mD)I5=I2 and I2[(N(((381-42+(253-253))),wf)and sL or nil)]I4=ST(I5)if I4==SJ then I0=I5(mD,mX)elseif I4==Ss then I0=I5[mX]end end if I0==nil and ST(mD)==Sn then I0=cU and cU[mX]or nil end if I0==nil and mD~=nil and ST(mD)~=Ss then I2=I2 or c1[Sp[12275]](mD)I5=I2 and I2[(N((231+60),wf)and sL or nil)]if ST(I5)==SJ then I0=I5 end end Fq[mB]=I0 Fq[mB+1]=mD I9={}I6=0 if mb==-1 then fc=FA or 0 fS=false if fc<=(mB+1)and Si and(Se~=nil and Se>(mB+1))then fc=Se fS=true end if fc>mB+1 then I6=fc-(mB+1)for fY=1,I6 do I9[fY]=Fq[mB+fY]end end if fS then Si=false end else for fY=1,mb do I9[fY]=Fq[mB+fY]end I6=mb end fe=ST(Fq[mB])fi=nil if fe==SJ then if mZ==-1 then fi=Fx(nil,Fq[mB](c5(I9,1,I6)))fr=fi[Sy]or#fi for fY=1,fr do fE=mB+fY-1 Fq[fE]=fi[fY]end if fr>0 then FA=mB+fr else FA=mB end elseif mZ==0 then Fq[mB](c5(I9,1,I6))FA=mB elseif mZ==1 then local fs=Fq[mB](c5(I9,1,I6))Fq[mB]=fs FA=mB+1 elseif mZ==2 then local fs,fJ=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ FA=mB+2 elseif mZ==3 then local fs,fJ,fO=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO FA=mB+3 elseif mZ==4 then local fs,fJ,fO,fy=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy FA=mB+4 elseif mZ==5 then local fs,fJ,fO,fy,HE=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE FA=mB+5 elseif mZ==6 then local fs,fJ,fO,fy,HE,HR=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR FA=mB+6 elseif mZ==7 then local fs,fJ,fO,fy,HE,HR,I3=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 FA=mB+7 elseif mZ==8 then local fs,fJ,fO,fy,HE,HR,I3,I7=Fq[mB](c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 Fq[mB+7]=I7 FA=mB+8 else fi=Fx(mZ,Fq[mB](c5(I9,1,I6)))for fY=1,mZ do fE=mB+fY-1 Fq[fE]=fi[fY]end FA=mB+mZ end else I2=c1[Sp[12275]](Fq[mB])fT=I2 and I2[(N(((32+238)),wf)and sL or nil)]if fT then fk={Fq[mB]}for fY=1,I6 do fk[#fk+1]=I9[fY]end if mZ==-1 then fi=Fx(nil,fT(c5(fk,1,#fk)))fr=fi[Sy]or#fi for fY=1,fr do fE=mB+fY-1 Fq[fE]=fi[fY]end if fr>0 then FA=mB+fr else FA=mB end elseif mZ==0 then fT(c5(fk,1,#fk))FA=mB elseif mZ==1 then local fs=fT(c5(fk,1,#fk))Fq[mB]=fs FA=mB+1 elseif mZ==2 then local fs,fJ=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ FA=mB+2 elseif mZ==3 then local fs,fJ,fO=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO FA=mB+3 elseif mZ==4 then local fs,fJ,fO,fy=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy FA=mB+4 elseif mZ==5 then local fs,fJ,fO,fy,HE=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE FA=mB+5 elseif mZ==6 then local fs,fJ,fO,fy,HE,HR=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR FA=mB+6 elseif mZ==7 then local fs,fJ,fO,fy,HE,HR,I3=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 FA=mB+7 elseif mZ==8 then local fs,fJ,fO,fy,HE,HR,I3,I7=fT(c5(fk,1,#fk))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 Fq[mB+7]=I7 FA=mB+8 else fi=Fx(mZ,fT(c5(fk,1,#fk)))for fY=1,mZ do fE=mB+fY-1 Fq[fE]=fi[fY]end FA=mB+mZ end else if mZ==-1 then fi=Fx(nil,I0(c5(I9,1,I6)))fr=fi[Sy]or#fi for fY=1,fr do fE=mB+fY-1 Fq[fE]=fi[fY]end if fr>0 then FA=mB+fr else FA=mB end elseif mZ==0 then I0(c5(I9,1,I6))FA=mB elseif mZ==1 then local fs=I0(c5(I9,1,I6))Fq[mB]=fs FA=mB+1 elseif mZ==2 then local fs,fJ=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ FA=mB+2 elseif mZ==3 then local fs,fJ,fO=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO FA=mB+3 elseif mZ==4 then local fs,fJ,fO,fy=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy FA=mB+4 elseif mZ==5 then local fs,fJ,fO,fy,HE=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE FA=mB+5 elseif mZ==6 then local fs,fJ,fO,fy,HE,HR=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR FA=mB+6 elseif mZ==7 then local fs,fJ,fO,fy,HE,HR,I3=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 FA=mB+7 elseif mZ==8 then local fs,fJ,fO,fy,HE,HR,I3,I7=I0(c5(I9,1,I6))Fq[mB]=fs Fq[mB+1]=fJ Fq[mB+2]=fO Fq[mB+3]=fy Fq[mB+4]=HE Fq[mB+5]=HR Fq[mB+6]=I3 Fq[mB+7]=I7 FA=mB+8 else fi=Fx(mZ,I0(c5(I9,1,I6)))for fY=1,mZ do fE=mB+fY-1 Fq[fE]=fi[fY]end FA=mB+mZ end end end Se=FA Si=true local fh=mu[mt[Fv]+8]if fh then Fv=fh else Fv=Fv+1 end Fm=true FF=true end else if Fz==73 then mB=mc[Fv]FP={}mG=mB+1 mb=Fl or#FC if mb>=mG then for I1=mG,mb do FP[I1-mG+1]=FC[I1]end FP[Sy]=mb-mB FP['n']=FP[Sy]else FP[Sy]=0 FP['n']=0 end FF=true end end end else if Fz>66 then if Fz>69 then if Fz==70 then fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end fq=mR if type(fq)~='table'then fq=yK[5515]end if type(fq)~='table'then fq={}end fx=mw if type(fx)~='table'then fx=yK[1080]end if type(fx)~='table'then fx={}end fv=mM if type(fv)~='table'then fv=yK[2288]end if type(fv)~='table'then fv={}end fz=mH if type(fz)~='table'then fz=yK[6085]end if type(fz)~='table'then fz={}end fg=Jn if type(fg)~='table'then fg=c1[Sp[57086]]end if type(fg)~='table'then fg={}end mp=mc[Fv]ma=mp+1 mB=fo[Fv]+(fK[Fv]*(370-114))mG={}mX=c1[Sp[50244]][mB]if mX then for I8=1,#mX do HE=mX[I8]mG[HE]=false end end if false then mG[0]=nil end mb=fq[Fv]+(fx[Fv]*(370-114))mZ=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[mb+1],wf)and sL or nil)mV=fv[Fv]+(fz[Fv]*(370-114))mD=(((type(N)=='function'and N)or c1[Sp[48813]])(fg[mV+1],wf)and sL or nil)Fq[mp]=mG Fq[ma]=mD if mZ~=nil then mG[mZ]=mD end if false then mG[mZ]=mD end mB=nil mG=nil mb=nil mZ=nil mV=nil mD=nil mX=nil ma=nil mp=nil FF=true end else if Fz==69 then mB=mE[Fv]+(mh[Fv]*(16*16))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mG mG=nil mb=nil FF=true end end else if Fz>64 then if Fz==66 then mB=mE[Fv]+(mh[Fv]*((15*27)-149))+(mR[Fv]*((94+92+70)*(99+157)*1))if mB>=(16384*512)then mB=mB-((16384*512)+(16384*512))end Fq[mc[Fv]]=mB FF=true end else if Fz==64 then ma=((((Fv+25732)%251)+(mc[Fv]*17)+(mE[Fv]*31)+(mh[Fv]*43))%3)if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][mh[Fv]+(3-2)]elseif ma==1 then mB=mh[Fv]+(2-1)Fq[mc[Fv]]=Fq[mE[Fv]][mB]else mB=Fq[mE[Fv]]mG=mh[Fv]+(2-1)Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end end end end end end end else if Fz>31 then if Fz>48 then if Fz>57 then if Fz>60 then if Fz>62 then if Fz==63 then local rI=c5 mB=mc[Fv]mG=2 mb=((mE[Fv]-mh[Fv])%256)local fj=FA or 0 local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mB]if mG==0 then mD=FA-mB-1 else mD=mG-1 end if mb==0 then local I8=c1[Sp[27628]]mV=I8(nil,mZ(rI(Fq,mB+1,mB+mD)))ma=mV.n or#mV for I1=1,ma do Fq[mB+I1-1]=mV[I1]end FA=mB+ma else mX=mb-1 if mD==0 then if mX==0 then mZ()if fM then Fq[mB]=nil end elseif mX==1 then Fq[mB]=mZ()elseif mX==2 then local fd,fU=mZ()Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB=mZ()Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB else local I8=c1[Sp[27628]]mV=I8(mX,mZ())for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end else local fX=Fq[mB+1]local fa=Fq[mB+2]local fp=Fq[mB+3]if mX==0 then if mD==0 then mZ()elseif mD==1 then mZ(fX)elseif mD==2 then mZ(fX,fa)elseif mD==3 then mZ(fX,fa,fp)else mZ(rI(Fq,mB+1,mB+mD))end if fM then Fq[mB]=nil end elseif mX==1 then local fd if mD==0 then fd=mZ()elseif mD==1 then fd=mZ(fX)elseif mD==2 then fd=mZ(fX,fa)elseif mD==3 then fd=mZ(fX,fa,fp)else fd=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd elseif mX==2 then local fd,fU if mD==0 then fd,fU=mZ()elseif mD==1 then fd,fU=mZ(fX)elseif mD==2 then fd,fU=mZ(fX,fa)elseif mD==3 then fd,fU=mZ(fX,fa,fp)else fd,fU=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU elseif mX==3 then local fd,fU,fB if mD==0 then fd,fU,fB=mZ()elseif mD==1 then fd,fU,fB=mZ(fX)elseif mD==2 then fd,fU,fB=mZ(fX,fa)elseif mD==3 then fd,fU,fB=mZ(fX,fa,fp)else fd,fU,fB=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB elseif mX==4 then local fd,fU,fB,fG if mD==0 then fd,fU,fB,fG=mZ()elseif mD==1 then fd,fU,fB,fG=mZ(fX)elseif mD==2 then fd,fU,fB,fG=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG=mZ(fX,fa,fp)else fd,fU,fB,fG=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG elseif mX==5 then local fd,fU,fB,fG,fb if mD==0 then fd,fU,fB,fG,fb=mZ()elseif mD==1 then fd,fU,fB,fG,fb=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb=mZ(fX,fa,fp)else fd,fU,fB,fG,fb=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb elseif mX==6 then local fd,fU,fB,fG,fb,fZ if mD==0 then fd,fU,fB,fG,fb,fZ=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ elseif mX==7 then local fd,fU,fB,fG,fb,fZ,fV if mD==0 then fd,fU,fB,fG,fb,fZ,fV=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV elseif mX==8 then local fd,fU,fB,fG,fb,fZ,fV,fD if mD==0 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ()elseif mD==1 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX)elseif mD==2 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa)elseif mD==3 then fd,fU,fB,fG,fb,fZ,fV,fD=mZ(fX,fa,fp)else fd,fU,fB,fG,fb,fZ,fV,fD=mZ(rI(Fq,mB+1,mB+mD))end Fq[mB]=fd Fq[mB+1]=fU Fq[mB+2]=fB Fq[mB+3]=fG Fq[mB+4]=fb Fq[mB+5]=fZ Fq[mB+6]=fV Fq[mB+7]=fD else local I8=c1[Sp[27628]]mV=I8(mX,mZ(rI(Fq,mB+1,mB+mD)))for I1=1,mX do Fq[mB+I1-1]=mV[I1]end end end end local f1=FA or 0 if fj>f1 then local f8=fj-1 local f3=f1+31 if f3<f8 then f8=f3 end for f7=f1,f8 do Fq[f7]=nil end end mV=nil mZ=nil FF=true end else if Fz>61 then if Fz==62 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB==mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==61 then Fq[mc[Fv]]=Fq[mE[Fv]]%Fq[mh[Fv]]if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end else if Fz>59 then if Fz==60 then ma=((Fv+(mc[Fv]*19)+(mE[Fv]*37)+(mh[Fv]*53)+16686)%3)mB=Fq[mE[Fv]]mV=(5-5)if mV~=(3-3)then mB=mB end if ma==0 then if mB then mB[Fq[mh[Fv]]]=Fq[mc[Fv]]end elseif ma==1 then mG=Fq[mh[Fv]]if mB then mB[mG]=Fq[mc[Fv]]end else mG=Fq[mh[Fv]]mb=Fq[mc[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end else if Fz>58 then if Fz==59 then local I0,I2,I5,I4,I9,I6,fS,fe,fi,fY,fT,fk,fc,fr fr=c1[Sp[27628]]mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]-1 mZ=mR[Fv]-1 mV=mw[Fv]+(mM[Fv]*(16*16))local mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mV+1],wf)and sL or nil)Fq[mB]=Fq[mG][mD]mX=Fq[mB]I0={}I2=0 if mb==-1 then I5=FA or 0 I4=false if I5<=(mB+1)and Si and(Se~=nil and Se>(mB+1))then I5=Se I4=true end if I5>mB+1 then I2=I5-(mB+1)for fc=1,I2 do I0[fc]=Fq[mB+fc]end end if I4 then Si=false end else for fc=1,mb do I0[fc]=Fq[mB+fc]end I2=mb end I9=ST(mX)I6=nil if I9==SJ then I6=fr(((mZ>=0)and mZ or nil),mX(c5(I0,1,I2)))else fS=c1[Sp[12275]](mX)fe=fS and fS[(N(((32+238)),wf)and sL or nil)]if fe then fi={mX}for fc=1,I2 do fi[#fi+1]=I0[fc]end I6=fr(((mZ>=0)and mZ or nil),fe(c5(fi,1,#fi)))else I6=fr(((mZ>=0)and mZ or nil),mX(c5(I0,1,I2)))end end if mZ==-1 then fY=I6[Sy]or#I6 for fc=1,fY do fT=mB+fc-1 Fq[fT]=I6[fc]end if fY>0 then Fq[mB+fY]=nil FA=mB+fY else FA=mB end Se=FA Si=true else for fc=1,mZ do local fT=mB+fc-1 Fq[fT]=I6[fc]end FA=mB+mZ Se=FA Si=true end fk=mu[mt[Fv]+8]if fk then Fv=fk else Fv=Fv+1 end Fm=true FF=true end else if Fz==58 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*(439-183))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]if mw[Fv]~=0 then Fq[mB]=mG-mb else Fq[mB]=mb-mG end if SE and ST(Fq[mB])==SH and c1[Sp[51491]](Fq[mB])==Fq[mB]then Fq[mB]=c1[Sp[51491]](Fq[mB])end mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end end end end else if Fz>54 then if Fz>56 then if Fz==57 then mB=mE[Fv]+(mh[Fv]*(16*16))local _a=(mB>=0x8000)and-0x10000 or 0;mB=mB+_a Fq[mc[Fv]]=mB FF=true end else if Fz>55 then if Fz==56 then FF=true mB=mc[Fv]or 0 mG=mE[Fv]or 0 mb=mB+(mG*256)if mb>=0 then I1=c1[Sp[52228]]if I1 and c1[Sp[S3[22423]]]~=I1 then do local mB=c1[Sp[S3[40294]]];local mG=c1[Sp[S3[43502]]];local mb=c1[Sp[S3[27664]]];local mZ=c1[Sp[S3[49322]]];mb(mB,c1[Sp[S3[59560]]],c1[Sp[S3[30600]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[21451]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[37949]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[37949]]],mD+mX)end end end I8=c1[Sp[S3[27611]]]HE=c1[Sp[S3[54066]]]HR=0;I3=0;I7=0;I0=0 if I8>0 then I7=c1[Sp[51491]](I8/65536);HR=I8-(I7*65536)end if HE>0 then I0=c1[Sp[51491]](HE/65536);I3=HE-(I0*65536)end if HR>0 and I3>0 and HR~=I3 then do local mB=c1[Sp[S3[50559]]];local mG=c1[Sp[S3[26947]]];local mb=c1[Sp[S3[38719]]];local mZ=c1[Sp[S3[20559]]];mb(mB,c1[Sp[S3[36618]]],c1[Sp[S3[26081]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[21365]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[29304]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[29304]]],mD+mX)end end end if I7>0 then I2=HR-I7;if I2<0 then I2=-I2 end;if I2>1 then do local mB=c1[Sp[S3[24305]]];local mG=c1[Sp[S3[45682]]];local mb=c1[Sp[S3[33859]]];local mZ=c1[Sp[S3[53322]]];mb(mB,c1[Sp[S3[51851]]],c1[Sp[S3[51375]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[26151]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[21289]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[21289]]],mD+mX)end end end end if I0>0 then I2=I3-I0;if I2<0 then I2=-I2 end;if I2>1 then do local mB=c1[Sp[S3[28735]]];local mG=c1[Sp[S3[51992]]];local mb=c1[Sp[S3[38140]]];local mZ=c1[Sp[S3[33641]]];mb(mB,c1[Sp[S3[53139]]],c1[Sp[S3[48946]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[57598]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[59488]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[59488]]],mD+mX)end end end end end Fv=Fv+1 Fm=true FF=true end else if Fz==55 then mB=mR[Fv]mG=mw[Fv]+(mM[Fv]*((15*10)+106))mb=Ad(mG)if not mb then c1[Sp[S3[59822]]]()end local Lw=false if mb[(N((260+41),wf)and sL or nil)]and not mb[(N((395-63),wf)and sL or nil)]then local LM=mb[(N(((8+310)),wf)and sL or nil)]local LH=nil if LM then LH={}LH[0]={}end Fq[mB]=mb[(N((260+41),wf)and sL or nil)](c1[Sp[33821]],LH)do local Ln=c1[Sp[33821]][(N(((107-5-84)),wf)and sL or nil)]if Ln then Ln(Fq[mB],c1[Sp[33821]])end end Lw=true end if not Lw then local f0=mb[6898]mZ={}for I1,mV in c1[Sp[64981]](f0)do if mV.gD then mD=mV.ns if not Fx[mD]then Fx[mD]={[9400]=true,[3552]=Fq,[6860]=mD,[5417]=false,[9152]=nil,[1]=Fq,[2]=mD}end mZ[I1]=Fx[mD]else mZ[I1]=FK[mV.ns+1]end end Fq[mB]=c1[Sp[15279]](mb,mZ)c1[Sp[58391]](Fq[mB],c1[Sp[S3[45909]]])end ma=2139+((((wf)or 0)%97)*1)+(mR[Fv]*41)+(mc[Fv]*23)ma=(ma+Fv)%3 fo=mE if type(fo)~='table'then fo=yK[2205]end if type(fo)~='table'then fo={}end fK=mh if type(fK)~='table'then fK=yK[9987]end if type(fK)~='table'then fK={}end mB=fo[Fv]+(fK[Fv]*(106+58+92))fz=Jn if type(fz)~='table'then fz=c1[Sp[57086]]end if type(fz)~='table'then fz={}end mG=(((type(N)=='function'and N)or c1[Sp[48813]])(fz[mB+1],wf)and sL or nil)mb=Fq[mc[Fv]]if ma==0 then if mb then mb[mG]=Fq[mR[Fv]]end elseif ma==1 then mZ=Fq[mR[Fv]]if mb then mb[mG]=mZ end else if mb then mZ=mb mZ[mG]=Fq[mR[Fv]]end end mG=nil mb=nil mZ=nil ma=nil fz=nil fo=nil fK=nil FF=true end end end else if Fz>51 then if Fz==54 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mG+(mb*(539-283))Fq[mB]=(lk[mZ]or lT(mZ))or 0 FF=true end else if Fz>49 then if Fz==51 then mB=mE[Fv]+(mh[Fv]*(16*16))Fq[mc[Fv]]=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mG=nil mb=nil FF=true end else if Fz==49 then ma=((6773+(Fv*5)+(mh[Fv]*43)+(mE[Fv]*31)+(mc[Fv]*17))%3)if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][mh[Fv]+(2-1)]elseif ma==1 then mB=mh[Fv]+(3-2)Fq[mc[Fv]]=Fq[mE[Fv]][mB]else mB=Fq[mE[Fv]]mG=mh[Fv]+(3-2)Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end end end end end else if Fz>39 then if Fz>45 then if Fz>47 then if Fz==48 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mG]local mV=Fq[mb]Fq[mB]=mZ(mV)mZ=nil FF=true end else if Fz>46 then if Fz==47 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=(mB<mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==46 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]+((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end end end else if Fz>42 then if Fz==45 then ma=((((Fv+55419)%251)+(mc[Fv]*17)+(mE[Fv]*31)+(mh[Fv]*47))%3)mZ=(6-6)if mZ>0 then mZ=mZ-1 end if ma==0 then Fq[mc[Fv]]=Fq[mE[Fv]][Fq[mh[Fv]]]elseif ma==1 then mB=Fq[mE[Fv]]Fq[mc[Fv]]=mB[Fq[mh[Fv]]]else mB=Fq[mE[Fv]]mG=Fq[mh[Fv]]Fq[mc[Fv]]=mB[mG]end ma=nil FF=true end else if Fz>41 then if Fz==42 then mB=mE[Fv]+(mh[Fv]*((4*10)+216))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=c1[Sp[14574]][mG]mB=mR[Fv]+(mw[Fv]*((4*10)+216))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=mb[mG]mB=mM[Fv]+(mH[Fv]*((4*10)+216))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mb[mG]mG=nil mb=nil FF=true end else if Fz==41 then FF=true mb=mt[Fv]mZ=(mE[Fv]or 0)+((mh[Fv]or 0)*(102+154))local _a=(mZ>=0x8000)and-0x10000 or 0;mZ=mZ+_a mV=mb+4+mZ mD=mu[mV]if mD then mB=(mc[Fv]or 0)mG=mV+mB mX=c1[Sp[51491]](mG/4)ma=mG-(mX*4)mB=ma+1 mG=c1[Sp[S3[34891]]]mX=c1[Sp[S3[45511]]]mG=mG and mG[mB]if mG then mX=mX and mX[mB]mX=mX and c1[mX]if mX~=mG then do local mB=c1[Sp[S3[43447]]];local mG=c1[Sp[S3[43315]]];local mb=c1[Sp[S3[50756]]];local mZ=c1[Sp[S3[35249]]];mb(mB,c1[Sp[S3[40883]]],c1[Sp[S3[54788]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[57944]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[24763]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[24763]]],mD+mX)end end end end end if mD then Fv=mD else Fv=Fv+1 end Fm=true FF=true end end end end else if Fz>35 then if Fz>38 then if Fz==39 then mB=mE[Fv]+(mh[Fv]*(16*16))local _a=(mB>=0x8000)and-0x10000 or 0;mB=mB+_a Fq[mc[Fv]]=mB FF=true end else if Fz>36 then if Fz==38 then mB=mc[Fv]mG=mE[Fv]mb=FK[mG+1]mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mZ=mb[9152]else mX=mb[2]if mX~=nil then ma=mb[1]if ma then mZ=ma[mX]else mZ=nil end else mZ=mb[1]end end else mZ=mb end if false then mZ=mZ end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mB]=mZ FF=true end else if Fz==36 then mB=mE[Fv]+(mh[Fv]*(55+201))+(mR[Fv]*((64*512)+(64*512)))+(mw[Fv]*((16384*512)+(16384*512)))if mB>=(1048576*2048)then mB=mB-(8388608*512)end Fq[mc[Fv]]=mB FF=true end end end else if Fz>33 then if Fz>34 then if Fz==35 then mB=Fq[mc[Fv]]mX=mB~=nil and mB if mX then Fv=mU[Fv]else Fv=Fv+1 end Fm=true FF=true end else if Fz==34 then ma=31244+(mh[Fv]*53)+(mE[Fv]*37)+(mc[Fv]*19)ma=(ma+Fv)%3 mB=Fq[mc[Fv]]if ma==0 then mG=mE[Fv]+(5-4)if mB then mB[mG]=Fq[mh[Fv]]end elseif ma==1 then if mB then mB[mE[Fv]+(2-1)]=Fq[mh[Fv]]end else mG=mE[Fv]+(4-3)mb=Fq[mh[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end end else if Fz>32 then if Fz==33 then mG=Fq[mR[Fv]]mB=Fq[mc[Fv]]ma=not(mB<mG)mV=mQ mX=ma if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==32 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB<mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end end end end else if Fz>16 then if Fz>23 then if Fz>27 then if Fz>30 then if Fz==31 then Fq[mc[Fv]]=-Fq[mE[Fv]]FF=true end else if Fz>28 then if Fz==30 then mB=mc[Fv]if F6[Fv+1]==134 or F6[Fv+1]==34 or F6[Fv+1]==35 then if mc[Fv+1]==nil then c1[Sp[18946]](yK,Fv+1)end mG=mc[Fv+1]mb=nil if mB==40 then mb=ST elseif mB==12 then mb=cu.floor elseif mB==7 then mb=cu.ceil elseif mB==2 then mb=cu.abs elseif mB==25 then mb=cu.sqrt elseif mB==21 then mb=cu.pow elseif mB==24 then mb=cu.sin elseif mB==9 then mb=cu.cos elseif mB==27 then mb=cu.tan elseif mB==11 then mb=cu.exp elseif mB==10 then mb=cu.deg elseif mB==17 then mb=cu.log elseif mB==22 then mb=cu.rad elseif mB==19 then mb=cu.min elseif mB==18 then mb=cu.max elseif mB==45 then mb=SY.insert elseif mB==46 then mb=c5 elseif mB==42 then mb=cU.byte elseif mB==43 then mb=cU.char elseif mB==44 then mb=cU.len elseif mB==41 then mb=c1[Sp[14574]].typeof elseif mB==57 then mb=c1[Sp[35986]]elseif mB==60 then mb=c1[Sp[64990]]elseif mB==61 then mb=c1[Sp[58562]]elseif mB==62 then mb=c1[Sp[14574]].rawequal elseif mB==64 then mb=c1[Sp[14574]].rawlen elseif mB==3 then mb=cu.asin elseif mB==4 then mb=cu.acos elseif mB==5 then mb=cu.atan2 elseif mB==6 then mb=cu.atan elseif mB==13 then mb=cu.fmod elseif mB==14 then mb=cu.ldexp elseif mB==20 then mb=cu.modf end if mb then Fq[mG]=mb end end FF=true end else if Fz==28 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]if mG>mb then Fq[mB]=''else mX={}ma=true for mV=mG,mb do mX[#mX+1]=Fq[mV]if ST(Fq[mV])~=Sn and ST(Fq[mV])~=SH then ma=false end end if ma then Fq[mB]=SY[(N(((366-13-63)),wf)and sL or nil)](mX)else mZ=mX[1]for mV=2,#mX do mZ=mZ..mX[mV]end Fq[mB]=mZ end end mD=mu[mt[Fv]+4]if mD then Fv=mD else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>26 then if Fz==27 then mB=mR[Fv]+(mw[Fv]*(45+91+120))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=Fq[mh[Fv]]mZ=mb[mG]Fq[mc[Fv]]=mZ mB=mM[Fv]+(mH[Fv]*(45+91+120))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mE[Fv]]=mZ[mG]mG=nil mb=nil mZ=nil FF=true end else if Fz>24 then if Fz==26 then FF=true mB=mc[Fv]or 0 mG=mE[Fv]or 0 if(mB+mG)>=0 then I1=c1[Sp[59191]]if I1 and c1[Sp[S3[49297]]]then I8=c1[Sp[S3[40135]]](c1[Sp[S3[57991]]],(N((2*2),wf)and sL or nil))if I8~=I1 then do local mB=c1[Sp[S3[54182]]];local mG=c1[Sp[S3[57953]]];local mb=c1[Sp[S3[45283]]];local mZ=c1[Sp[S3[46768]]];mb(mB,c1[Sp[S3[52090]]],c1[Sp[S3[20009]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[32290]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[31714]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[31714]]],mD+mX)end end end end end Fv=Fv+1 Fm=true FF=true end else if Fz==24 then local I0,I2,I5,I4,I6,fc,I9,fS,fe,fi,fY mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(16*16))local _a=(mb>=0x8000)and-0x10000 or 0;mb=mb+_a Fq[mB+1]=mb mZ=Fq[mB]I4,I6,fc,fe,fi=nil,nil,nil,nil,nil I0=ST(mZ)if mG==0 then fS=c1[Sp[27628]]if I0==SJ then fe=fS(nil,mZ(mb))else I2=c1[Sp[12275]](mZ)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then fe=fS(nil,I5(mZ,mb))else fe=fS(nil,mZ(mb))end end fi=fe.n or#fe for fY=1,fi do Fq[mB+fY-1]=fe[fY]end FA=mB+fi else if I0==SJ then if mG==1 then mZ(mb)elseif mG==2 then I4=mZ(mb)elseif mG==3 then I4,I6=mZ(mb)else I4,I6,fc=mZ(mb)end else I2=c1[Sp[12275]](mZ)I5=I2 and I2[(N(((32+238)),wf)and sL or nil)]if I5 then if mG==1 then I5(mZ,mb)elseif mG==2 then I4=I5(mZ,mb)elseif mG==3 then I4,I6=I5(mZ,mb)else I4,I6,fc=I5(mZ,mb)end else if mG==1 then mZ(mb)elseif mG==2 then I4=mZ(mb)elseif mG==3 then I4,I6=mZ(mb)else I4,I6,fc=mZ(mb)end end end if mG==2 then Fq[mB]=I4 FA=mB+1 elseif mG==3 then Fq[mB]=I4;Fq[mB+1]=I6 FA=mB+2 elseif mG==4 then Fq[mB]=I4;Fq[mB+1]=I6;Fq[mB+2]=fc FA=mB+3 else FA=mB end end Se=FA Si=true I9=mu[mt[Fv]+8]if I9 then Fv=I9 else Fv=Fv+1 end Fm=true FF=true end end end end else if Fz>19 then if Fz>21 then if Fz==23 then mB=mc[Fv]mG=mE[Fv]if false then mG=mG end mb=FK[mG+1]mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mZ=mb[9152]else mX=mb[2]if mX~=nil then ma=mb[1]if ma then mZ=ma[mX]else mZ=nil end else mZ=mb[1]end end else mZ=mb end if SE and ST(mZ)==SH and c1[Sp[51491]](mZ)==mZ then mZ=c1[Sp[51491]](mZ)end Fq[mB]=mZ FF=true end else if Fz>20 then if Fz==21 then mB=mE[Fv]+(mh[Fv]*((11*7)+179))+(mR[Fv]*((64*512)+(64*512)))+(mw[Fv]*(((11*27)-41)*((4*10)+216)*(197+59)))mG=0 if((((c1[Sp[51491]](mB/(16384*512)))%(570-314))==(16*16)))then mG=0 elseif((((c1[Sp[51491]](mB/(16384*512)))%(570-314))==0))then mG=((mB%(16384*512))*cu.pow(2,-149))*(((((c1[Sp[51491]](mB/((2097152*512)+(2097152*512))))%2)==1)and-1 or 1))else mG=((mB%(16384*512))+(16384*512))*cu.pow(2,((((c1[Sp[51491]](mB/(16384*512)))%(570-314))-150)))*(((((c1[Sp[51491]](mB/((2097152*512)+(2097152*512))))%2)==1)and-1 or 1))end Fq[mc[Fv]]=mG FF=true end else if Fz==20 then mG=Fq[mR[Fv]]mB=Fq[mc[Fv]]mV=mQ mX=mB~=mG if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>18 then if Fz==19 then ma=64957+(mh[Fv]*53)+(mE[Fv]*37)+(mc[Fv]*19)ma=(ma+Fv)%3 mB=Fq[mc[Fv]]if ma==0 then mG=mE[Fv]+(4-3)if mB then mB[mG]=Fq[mh[Fv]]end elseif ma==1 then if mB then mB[mE[Fv]+(3-2)]=Fq[mh[Fv]]end else mG=mE[Fv]+(5-4)mb=Fq[mh[Fv]]if mB then mB[mG]=mb end end ma=nil FF=true end else if Fz>17 then if Fz==18 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mG]Fq[mB]=mZ()mZ=nil FF=true end else if Fz==17 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB<=mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end end end end end else if Fz>8 then if Fz>12 then if Fz>15 then if Fz==16 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]*((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end else if Fz>13 then if Fz==15 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]+(mR[Fv]*(66+112+78))mZ=Fq[mG]mV=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mb+1],wf)and sL or nil)mX=mZ mD=mX and mX[mV]or nil if mD==nil and mX~=nil then ma=c1[Sp[12275]](mX)ma=ma and ma[(N(((381-42+(253-253))),wf)and sL or nil)]mb=ST(ma)if mb==SJ then mD=ma(mX,mV)elseif mb==Ss then mD=ma[mV]end end if false then mD=mD end if mD==nil and ST(mZ)==Sn then mD=cU and cU[mV]or nil end if mD==nil and mZ~=nil and ST(mZ)~=Ss then mX=c1[Sp[12275]](mZ)mX=mX and mX[(N((231+60),wf)and sL or nil)]if ST(mX)==SJ then mD=mX end end Fq[mB]=mD Fq[mB+1]=mZ FF=true end else if Fz==13 then mB=mc[Fv]mG=mh[Fv]+(mR[Fv]*(45+91+120))local _a=(mG>=0x8000)and-0x10000 or 0;mG=mG+_a mb=Fq[mE[Fv]]mV=mw[Fv]~=0 if mV then mD=mG/mb else mD=mb/mG end Fq[mB]=mD mZ=mu[mt[Fv]+8]if mZ then Fv=mZ else Fv=Fv+1 end Fm=true FF=true end end end else if Fz>11 then if Fz==12 then mB=mh[Fv]+(mR[Fv]*(339-83))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)mb=c1[Sp[14574]][mG]Fq[mE[Fv]]=mb mB=mw[Fv]+(mM[Fv]*(339-83))mG=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mB+1],wf)and sL or nil)Fq[mc[Fv]]=mb[mG]mG=nil mb=nil FF=true end else if Fz>9 then if Fz==11 then FF=true mB=mc[Fv]or 0 mG=mh[Fv]or 0 mb=mB+(mG*256)if mb>=0 then I1=c1[Sp[17866]]if I1 and c1[Sp[S3[52400]]]~=I1 then do local mB=c1[Sp[S3[38267]]];local mG=c1[Sp[S3[55444]]];local mb=c1[Sp[S3[55561]]];local mZ=c1[Sp[S3[40365]]];mb(mB,c1[Sp[S3[38590]]],c1[Sp[S3[42648]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[59359]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[36136]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[36136]]],mD+mX)end end end I8=c1[Sp[S3[58013]]]HE=c1[Sp[S3[52675]]]HR=0;I3=0;I7=0;I0=0 if I8>0 then I7=c1[Sp[51491]](I8/65536);HR=I8-(I7*65536)end if HE>0 then I0=c1[Sp[51491]](HE/65536);I3=HE-(I0*65536)end if HR>0 and I3>0 and HR~=I3 then do local mB=c1[Sp[S3[40109]]];local mG=c1[Sp[S3[40611]]];local mb=c1[Sp[S3[20341]]];local mZ=c1[Sp[S3[39250]]];mb(mB,c1[Sp[S3[34612]]],c1[Sp[S3[51762]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[53552]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[40045]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[40045]]],mD+mX)end end end if I7>0 then I2=HR-I7;if I2<0 then I2=-I2 end;if I2>1 then do local mB=c1[Sp[S3[38571]]];local mG=c1[Sp[S3[59669]]];local mb=c1[Sp[S3[35302]]];local mZ=c1[Sp[S3[32876]]];mb(mB,c1[Sp[S3[26518]]],c1[Sp[S3[28723]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[30108]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[47780]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[47780]]],mD+mX)end end end end if I0>0 then I2=I3-I0;if I2<0 then I2=-I2 end;if I2>1 then do local mB=c1[Sp[S3[45627]]];local mG=c1[Sp[S3[30012]]];local mb=c1[Sp[S3[43251]]];local mZ=c1[Sp[S3[23199]]];mb(mB,c1[Sp[S3[31552]]],c1[Sp[S3[44146]]]);local mV=mZ and mZ(mG(mB,c1[Sp[S3[53521]]]))or 0;local mD=mZ and mZ(mG(mB,c1[Sp[S3[32951]]]))or 0;local mX=1-((mV+mD)%2);if mX~=0 then mb(mB,c1[Sp[S3[32951]]],mD+mX)end end end end end Fv=Fv+1 Fm=true FF=true end else if Fz==9 then local I2,I5,I4,I9,fc,fS,I6,fe,fi,fY,fT mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]mZ=mR[Fv]+(mw[Fv]*((6*5)+226))mV=mM[Fv]+(mH[Fv]*((6*5)+226))mD=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mZ+1],wf)and sL or nil)mX=Fq[mG]if mX then Fq[mB]=mX[mD]else Fq[mB]=nil end local I0=(((type(N)=='function'and N)or c1[Sp[48813]])(Jn[mV+1],wf)and sL or nil)Fq[mB+1]=I0 mX=Fq[mB]I9,fc,fS,fi,fY=nil,nil,nil,nil,nil I2=ST(mX)if mb==0 then fe=c1[Sp[27628]]if I2==SJ then fi=fe(nil,mX(I0))else I5=c1[Sp[12275]](mX)I4=I5 and I5[(N(((32+238)),wf)and sL or nil)]if I4 then fi=fe(nil,I4(mX,I0))else fi=fe(nil,mX(I0))end end fY=fi.n or#fi for fT=1,fY do Fq[mB+fT-1]=fi[fT]end FA=mB+fY else if I2==SJ then if mb==1 then mX(I0)elseif mb==2 then I9=mX(I0)elseif mb==3 then I9,fc=mX(I0)else I9,fc,fS=mX(I0)end else I5=c1[Sp[12275]](mX)I4=I5 and I5[(N(((32+238)),wf)and sL or nil)]if I4 then if mb==1 then I4(mX,I0)elseif mb==2 then I9=I4(mX,I0)elseif mb==3 then I9,fc=I4(mX,I0)else I9,fc,fS=I4(mX,I0)end else if mb==1 then mX(I0)elseif mb==2 then I9=mX(I0)elseif mb==3 then I9,fc=mX(I0)else I9,fc,fS=mX(I0)end end end if mb==2 then Fq[mB]=I9 FA=mB+1 elseif mb==3 then Fq[mB]=I9;Fq[mB+1]=fc FA=mB+2 elseif mb==4 then Fq[mB]=I9;Fq[mB+1]=fc;Fq[mB+2]=fS FA=mB+3 else FA=mB end end Se=FA Si=true I6=mu[mt[Fv]+8]if I6 then Fv=I6 else Fv=Fv+1 end Fm=true FF=true end end end end else if Fz>2 then if Fz>5 then if Fz==8 then mB=mc[Fv]mG=mE[Fv]mb=FK[mG+1]ma=Fq[mB]if SE and ST(ma)==SH and c1[Sp[51491]](ma)==ma then ma=c1[Sp[51491]](ma)end mZ=ST(mb)if mZ==Ss and mb[9400]then if mb[5417]then mb[9152]=ma mb[1]=ma mb[2]=nil else mX=mb[2]if mX~=nil then mV=mb[1]if mV then mV[mX]=ma end else mb[1]=ma mb[9152]=ma mb[5417]=true end end else if false then ma=ma end FK[mG+1]=ma end FF=true end else if Fz>3 then if Fz==5 then mB=Fq[mc[Fv]]mG=Fq[mR[Fv]]mV=mQ mX=not(mB==mG)if mX then mD=mV and mV[(Fv+mj)]or nil if mD then Fv=(mD-md)else Fv=Fv+1 end else Fv=Fv+1 end Fm=true FF=true end else if Fz==3 then mB=mc[Fv]mG=mE[Fv]mb=mh[Fv]local Fx=c1[Sp[24136]]local fM=Fx and c1[Sp[58562]](Fx,c1[Sp[S3[59138]]])if fM then local fH=5+((mc[Fv]or 0)+(mE[Fv]or 0)+(mh[Fv]or 0))%46 local fs=Fv+fH local fJ=#F6 if fJ and fJ>0 and fs>fJ then fs=fJ-(fH%3)end F6[fs]=135 c1[Sp[55151]]=nil end mZ=Fq[mG]local mV=Fq[mb]local mD=Fq[mb+1]Fq[mB]=mZ(mV,mD)mZ=nil FF=true end end end else if Fz>1 then if Fz==2 then FF=true mB=(mc[Fv]or 0)mD=(mE[Fv]or 0)if mD~=0 then mD=mD-mD end if not c2.mV then c2.mV=true mG=1 mZ=c1[Sp[S3[36018]]]if mZ then mG=(function()return mZ(1,(N(((326-18+(184-184))),wf)and sL or nil))end)()or 1 end if mG<=1 then mp=c1[Sp[S3[34973]]]if mp and c1[Sp[S3[58660]]]then mX,ma=c1[Sp[S3[22346]]](function()local _=nil;_()end);mG=mp(c1[Sp[S3[35421]]](ma),c1[Sp[S3[49781]]][(N(((447-63-87)),wf)and sL or nil)])or mG end end mG=mG+mD if mG<=0 or mG>49157 then mG=0 end mb=mB mZ=(c1[Sp[S3[55773]]][41]or 0)if mZ>0 then mb=mb+mZ+mD end if mb<=0 or mb>49157 then mb=0 end if mG>0 and mb>0 and mG>mb then c1[Sp[S3[23944]]](c2,c1[Sp[S3[31355]]],c1[Sp[S3[29639]]])F6[Fv+1]=2 end end FF=true end else if Fz>0 then if Fz==1 then mB=0 mB=(mh[Fv]or 0)+((mR[Fv]or 0)*256)Fq[mc[Fv]]=Fq[mE[Fv]]-((lk[mB]or lT(mB))or 0)if SE and ST(Fq[mc[Fv]])==SH and c1[Sp[51491]](Fq[mc[Fv]])==Fq[mc[Fv]]then Fq[mc[Fv]]=c1[Sp[51491]](Fq[mc[Fv]])end FF=true end else if Fz==0 then mB=Fq[mE[Fv]]Fq[mc[Fv]]=not mB FF=true end end end end end end end end end if not FF then c1[Sp[S3[30698]]]((Fz or Fz or 0)+1)end if not Fm then Fv=Fv+1 F4=F4+1 else F4=Fv+F5 end end;end;end;end;local SK=0 c1[Sp[S3[21823]]]=function(...)local Ls=c8[S9(849,S6,5)];local LJ=0;if Ls then local _t={Ls(1)or 0};LJ=_t[1]or 0 end;if LJ<=0 or LJ>49157 then LJ=0 end;SK=LJ;(...)[...]=...end c1[Sp[S3[54447]]]=function()for Lx in c1[Sp[53808]](c1)do if Lx~=7840 and Lx~=3199 and Lx~=6394 and Lx~=6593 and Lx~=5316 and Lx~=1395 and Lx~=2550 and Lx~=5509 and Lx~=4704 and Lx~=4919 and Lx~=4954 and Lx~=9737 and Lx~=7900 then if ST(c1[Lx])==(N((532-238),wf)and sL or nil)then for Lv in c1[Sp[53808]](c1[Lx])do c1[Lx][Lv]=nil end end c1[Lx]=nil end end local Lz=100515 repeat Lz=(Lz*1103515245+12345)%hp until Lz==0 end c1[Sp[S3[56961]]]=(function()local Rh=h5("kl5%/kcUy&S8/I7=h9DPvXmYN!<1iI7=}D5%tycU-XC{3ChO5e*")local RR={}local Rw=0 local RM=0 for Ri=1,#Rh do local RS=Rh[Ri]or 0 Rw=Rw+(RS%128)*(2^RM)if RS>=128 then RM=RM+7 else RR[#RR+1]=Rw Rw=0 RM=0 end end return RR end)()c1[Sp[S3[41924]]]=nil c1[Sp[S3[39851]]]={c1[Sp[52056]],c1[Sp[30445]],c1[Sp[18118]],c1[Sp[52056]]}c1[Sp[S3[52307]]]={Sp[58562],Sp[64990],Sp[26852],Sp[58562]}c1[Sp[S3[29425]]]={}c1[Sp[S3[29425]]][1]=function()return c1[Sp[S3[46881]]]end c1[Sp[S3[29425]]][2]=function()return c1[Sp[S3[32637]]]end c1[Sp[S3[29425]]][3]=function()return c1[Sp[S3[36095]]]end c1[Sp[S3[29425]]][4]=function()return c1[Sp[S3[55219]]]end c1[Sp[S3[29425]]][5]=function()return c1[Sp[S3[31362]]]end c1[Sp[S3[29425]]][6]=function()return c1[Sp[S3[29618]]]end c1[Sp[S3[29425]]][7]=function()return c1[Sp[S3[23651]]]end c1[Sp[S3[29425]]][8]=function()return c1[Sp[S3[48804]]]end c1[Sp[S3[29425]]][9]=function()return c1[Sp[S3[24577]]]end c1[Sp[S3[29425]]][10]=function()return c1[Sp[S3[45691]]]end c1[Sp[S3[29425]]][11]=function()return c1[Sp[S3[27630]]]end c1[Sp[S3[44161]]]={}do local Lf=c1[Sp[S3[29425]]][1]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=1613419035 end end do local Lf=c1[Sp[S3[29425]]][2]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=2071692308 end end do local Lf=c1[Sp[S3[29425]]][3]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=1938496886 end end do local Lf=c1[Sp[S3[29425]]][4]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=725013348 end end do local Lf=c1[Sp[S3[29425]]][5]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=1140938701 end end do local Lf=c1[Sp[S3[29425]]][6]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=547086897 end end do local Lf=c1[Sp[S3[29425]]][7]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=122654131 end end do local Lf=c1[Sp[S3[29425]]][8]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=996573761 end end do local Lf=c1[Sp[S3[29425]]][9]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=1620261006 end end do local Lf=c1[Sp[S3[29425]]][10]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=2092858724 end end do local Lf=c1[Sp[S3[29425]]][11]();if Lf~=nil then c1[Sp[S3[44161]]][Lf]=1817896589 end end c1[Sp[S3[52648]]]={}c1[Sp[S3[52648]]][0]=781076937 c1[Sp[S3[52648]]][1]=568126763 c1[Sp[S3[52648]]][2]=973642224 c1[Sp[S3[52648]]][3]=1657281055 c1[Sp[S3[21800]]]=function(Lg,LP,LA,Ll,LC,LF,Lm)local LI=5+((LP[Lg]or 0)+(LA[Lg]or 0)+(Ll[Lg]or 0))%46 local Lf=Lg+LI local LL=#LC if LL and LL>0 and Lf>LL then Lf=LL-1 end local LN=LC[Lf]if LN then local LQ=c1[Sp[51491]]local Lu=((Lg*17)+(Lf*7)+(LI*3))local Lu=LQ and(Lu-(LQ(Lu/20)*20))or(Lu%20)local LN=c1[Sp[S3[39926]]]if LN then LC[Lf]=LN[Lu+1]end end c1[Sp[55151]]=nil if Lm then do local Lu=Lm[134];Lm[134]=Lm[150]or Lu end end if Lm then do local Lu=Lm[34];Lm[34]=Lm[150]or Lu end end if Lm then do local Lu=Lm[35];Lm[35]=Lm[150]or Lu end end if Lm then do local Lu=Lm[128];Lm[128]=Lm[150]or Lu end end if Lm then do local Lu=Lm[129];Lm[129]=Lm[150]or Lu end end if Lm then do local Lu=Lm[125];Lm[125]=Lm[150]or Lu end end if Lm then do local Lu=Lm[127];Lm[127]=Lm[150]or Lu end end if Lm then do local Lu=Lm[124];Lm[124]=Lm[150]or Lu end end if Lm then do local Lu=Lm[122];Lm[122]=Lm[150]or Lu end end if Lm then do local Lu=Lm[123];Lm[123]=Lm[150]or Lu end end local LQ=c1[Sp[27746]]if LQ and LF and LF[1965]then LF[1965]=LQ(LF[1965],LI*257)end local LQ=c1[Sp[51491]]if LQ and LF and LF[9171]then local Lt=LQ((Lf-1)/64)LF[9171][Lt]=true end end c1[Sp[S3[52645]]]=function(Lj,Ld,LU)if Lj then return function()return Lj(Ld,LU)end end return function()return Ld(Lj,LU)end end do local LB=c1[Sp[62403]]if not LB and c1[Sp[30657]]then LB=c1[Sp[30657]][(N(((193+137-11)),wf)and sL or nil)]end c1[Sp[50427]]=LB and LB(1,(N(275,wf)and sL or nil))end c1[Sp[52730]]=(function()local _,LG=c1[Sp[24629]](c1[Sp[S3[26339]]]);local Lb=c1[Sp[S3[28758]]](LG,c1[Sp[48407]][(N(0x129,wf)and sL or nil)]);local LZ=SK or 0;if not Lb or Lb<=0 or Lb>49157 then Lb=0 end;if LZ<=0 or LZ>49157 then LZ=0 end;if Lb==0 and LZ==0 then return 0 end;return Lb+(LZ*65536)end)()c1[Sp[53617]]=function(LO,Ly,LW)if Ly==Sp[16988]then return Sr(c1,Ly,LW)end local Lo=c1[Sp[58562]]if ST(Lo)==(N(0x126,wf)and sL or nil)and Sk(Lo,Ly)then return Sk(Lo,Ly)end end c1[Sp[57711]]=function(LO,Ly)local LK=Sk(c1,Ly)if LK~=nil then return LK end local Lq=c1[Sp[13096]]return Lq and Lq[Ly]end c1[Sp[20049]]=38292 c1[Sp[54196]](c1,{[(N((341+17),wf)and sL or nil)]=c1[Sp[53617]],[(N(((364-21-4)),wf)and sL or nil)]=c1[Sp[57711]],[(N(((365-36+(148-148))),wf)and sL or nil)]=c1[Sp[20049]]})c1[Sp[8927]]=(function()local Cl=0 local CL=c1[Sp[24454]]local CN=c1[Sp[61885]]local Ct=c1[Sp[61885]]local Cu=c3[80]or 0 local CQ=0 local Cj=0 if Cu>0 then Cj=c1[Sp[13096]].floor(Cu/65536);CQ=Cu-(Cj*65536)end if CQ<=0 or CQ>49157 then CQ=0 end if Cj<=0 or Cj>49157 then Cj=0 end local Cd=c1[Sp[15218]]or 0 local CU=0 local CB=0 if Cd>0 then CB=c1[Sp[13096]].floor(Cd/65536);CU=Cd-(CB*65536)end if CU<=0 or CU>49157 then CU=0 end if CB<=0 or CB>49157 then CB=0 end local LV=c1[Sp[52730]]or 0 local LD=0 local LX=0 if LV>0 then LX=c1[Sp[13096]].floor(LV/65536);LD=LV-(LX*65536)end if LD<=0 or LD>49157 then LD=0 end if LX<=0 or LX>49157 then LX=0 end if not(CQ>0 and CQ<=49157 and CU>0 and CU<=49157 and LD>0 and LD<=49157)then CL=c1[Sp[61885]]end if CL then Cl=(CQ*257)+(CU*131)+(Cj*73)+(CB*59)+507 CC=CQ-CU if CC<0 then CC=-CC end if CC>1 then Cl=Cl+7867;CN=c1[Sp[24454]]end if Cj>0 then Cm=CQ-Cj;if Cm<0 then Cm=-Cm end;if Cm>1 then Cl=Cl+7884;Ct=c1[Sp[24454]]end end if CB>0 then CI=CU-CB;if CI<0 then CI=-CI end;if CI>1 then Cl=Cl+7896;Ct=c1[Sp[24454]]end end Cl=Cl+(LD*43)+(LX*31)CF=CU-LD if CF<0 then CF=-CF end if CF>1 then Cl=Cl+8060;CN=c1[Sp[24454]]end if LX>0 then Cf=LD-LX;if Cf<0 then Cf=-Cf end;if Cf>1 then Cl=Cl+8118;Ct=c1[Sp[24454]]end end end return Cl end)()local La=Af[0]local Lp=c1[Sp[15279]](La,{})return Lp(...)end end)(c3)local L7=c8[S9(717,S6,5)]or pairs local L1=0 for L8 in L7(c3)do L1=L1+1 end local L3=(43-17)if L1~=L3 then c8[S9(196,S6,5)]=c8[S9(823,S6,5)]end if c3[(39-7)*1000+812]~=(617-3)*100+78 then c8[S9(196,S6,5)]=c8[S9(823,S6,5)]end if EE then c8[S9(196,S6,5)]=c8[S9(823,S6,5)]end do local L0=function()return function()end end local Jh=(L0()~=L0())if Jh then eJ=eJ+1;c8[S9(196,S6,5)]=c8[S9(823,S6,5)]end end local S7="?QVWi8k.+RbSZLVfdb.wo(0f@16iT>1fy2FX(vKQv!B)P7#D(Y(Ca0l%eTG)(UKiy]zfD<4XLxO7liC](/?]HOwH/7o((oD8D&GQj(Asee9gRJ(<}YY4{iPztLja}0ft).(}NAnl1[W+kC>uSfavg7o0(W1TcCXMF!gV#hyEp&P$j[a>*aTX41U5P85FsZzx%w3M}WSzfG?>S84(X<+=i$Lz9*Ea&smV>?@r-jTi4%-9j$<HeN1!-.>Iay{%.a/z^]3G7wjts0uqEf-DLhK)rVUd4{kv@P^?qxak-YD]AK4ZL7JW@4s[QV)Z4yIZX5T*0SuO:@yPF6)4)IUCSa!K9X}+50UBjIZ]rKov}6dXvF*c!NV-0s<XVYc]7#ngPorGYzvbgqtnTJgO1dFDzneD}PCWI3}x=PGlFt$252o[tzu64WP>LmE}^tTE9%SzCX/zHs{B%j]3{N(Jz?OEA@1BMr}Vk8R4:6!1>CParX!rH4)p&&{O+7cB?nfm+1<@m?vJbm$syYrt58X>v@0v:*3.Gmh.+he&gh09QTnT%:T0-lA&PlljhmH670cd%:5:TBAaQ7Ucfcf-0^1F)5e>+5/%e#$.}[[]F-wQ4yNJ3IXbp3I:#/aub&HA5IzIB0U{<=b7+g<p.7^25jT08FI{Qa(!{LK=M+WS$:MjDblV:WW(%$wQ8bkZ=z%6y@P?bn5jg2C-3VfjWl4+iJrXV(v5v3sw[7cw*HNl$FF>3RVRnfZ$D@n^ytn:zWf>=*C01C8Q<hwoqFtUXq1fLA4EPe&u$n$.0c%6pTCe-NL*v%To.]5coP-%-7D]=FU4%Xrs9TOvLIZhm@ZlIBx60kM{YfC!riLx8#L(#C3?hO?.*gD9p^@As@Go(l8Rb.6&L-Kc-]7?%{6LbwQ-k&]vP4LorK]N5n4+By^wh8pe&91ezwg&:&AO.29cs=bnJ1S$0]&)Lov+ys<uhyn>/VB#p}4<up:fht4K0&f^&}g}xq?ZWWBZ^?Bd}9D2Z+-AMIV<s:=Z{kMH8A&?qfy[rje@TTdo-b+7((>}8syt)gL@XJFoH]n0+h}%<CL2zy<$^NAer8o0&@XqbTt)&V}<+)Be&*G/5R4Fr(o>UV<g:3skK.heTj)gBf9Jbv%r8+^T.@>@f$B#MLXdeHn#MOX<o>1aPB[lb>[<nN32]voZQwZ21&oN$oSA{/M5Ea6<A.t$J1bU5Jbm?a{7XVJ#0qCA7(Jn$-(DeAkz}ZA%iGOZJboyIXKO}NMW?GwZ1T?68sER5vq^3c>Sxu4%@8!-f*4t[az}OFj3.z}73dMKh*54>@t80&5w+>ZZN%/+X9yvqFC6g-1Q=6?sA#HIJf+lE.bQ4@+&K]Sza]U:}AX9{}0i-j&o0by.q%U4</]o-zP[t+0y@xzV]@Y&]#ajTM!ZCQ%QX0[+t/B6NC40^&]{Zv4K3NjT*yv%3R&Y=CMcOILmtBj<G5fe%*H+Y<EyZ/?T56U+sTK)^<O8J3Pw%UN{f1wlWk6#oi%3A^WxTY0lr&#Z6!1gLtID}V34ms]sm3$fCqsznuDUxg247.+q<mynlxb[%Ccd%O*ta.8B8Eo^3aq+<U=Q[aBz.&+--crk#4*>+$.pF]jr@eo!{wt-T0WTz8QI1-7nbB?&]jIhoSFe-SXb3>(*oML>3-8M&QqVZgANr4:n[o-DCudtLKNY?Qmh@?3(qyNL)^LsWELn10Dd]bQ&NLh68va8lEj=@F]8bt6>^S^oX.}tNpcAT#i}^??8Y1bSwj)tJ-BDfQmrjjlc%OoqWyU)rfx$PxEd<1MDjpa<R.QLLWA171xTskxgrnVB@7uPm@+s&HV-M(&z%poS0C6?NYyFsc*OrZPM^bzW?Ol02ZR2lAnVO1M6.kCK<Fz@2&ots>R-#zPz{2N-FJIPtK)g.3j!Z1J*4QCk9)W-mOe[(#roa]{{br(-&:T9NH]g#s&z.Zz$.?k8+%@Fmw}aOL:9*P#*3Xh+dEbbvZYKtpD<{CmJ5K+1IAAF@n7zFn6Xn0aC%<0^7Pu4Lpn:o>CTP#mGy9J=}Yun!$=IO:&E9j[{kFkbF&Raj!VxaMImcl<*<IjdL^Ej$*H8gEW6fgV?n[8zb}t&*ONE>xsMg%=1$vZlzOgbz%1w1i5M?s+}5c9M(jYsADXYao}qmVM.gL>+ky9}z&aRCn5t?})Tnv&Yrqw&1{8LZm5O@3smGal8$JObLUhIa>}?*&{Hgi<O9I[LT-:%n5Ipk@V1KO#o*KM?G2J(g@>2s3=[9*OgQm7<.*}97!Ow10@QKl<}b<R{N+(!T/*dx8WavU7cy8-3vSWwn(d!=@M]#9C#04>}&:vijKkw^8$umk-C</8}zX$nZn.W)<kMW(+p9MY0<*w+OgjpS{1[Tx^bEsD8gi[T)ZBl1eX&%y(6AZ0>]?pxfe!E}]X%j$VdFDe0gZk(8jnV8)=kf2V.j5+j@HY+(AOFC-5BX^]u=$b48C#&ns*T.56d8}Xok6[fQVJLCNTW61FJm%oV.e*C0)h-<j]Zja:fz&4<{/oL/1?Uj5V8T3O=jc4o-W<o!E@O(OV9B^IH-64>XK(z4@.7s.KL:k+DzSTb06r(V5z%{EfJG{@Q5LhNB&Pb1(k:b>*C:3fh]Kna{Y@+L*4[4g4YNVQ*gm3e:xgX@h+{>[Z7z3[n0<^+VCyvACCoZRnTQ3AMFp{)I7&OH5=%)mBt#nDCHraF7VD?APgbPom%F9[4OpfH60<T#/x{l)ismPfo>iC^1S)%I(}pZB{*(?L03XXDcWotCDRn7iftlakw]@&])NGemAkHTLIpbPWdlO@Nw-aFOt<HoeeGYJX#{n#hrFR3!(D7(f2]F)d6h8s4Ka(kpDL)+8tjTbF&(WTLtmcPU.{Y%sSzjjAB37e4(HKfeK%T}s34OlPzAwV60:rFLT!s3I&<TV6mE))6DCsOmZcM"local L5 if c8[S9(567,S6,5)]then L5=c8[S9(567,S6,5)](0)else L5=_ENV end if type(L5)~=ew(11,((69*9549+63*7256-1054577)%eA))then L5={}end local Nc=((116*9549+57*7256+1872599320)%eA)local L6=function(n)Nc=(Nc*1103515245+12345)%2147483647;n=n or eF;if n<=0 then return 1 end;return 1+(Nc%n)end local L4={''..L6(eF),''..L6(eF),''..L6(eF)}for L9=1,eC do local _=L5[L4[L6(#L4)]..L6(eF)]end local L2={}L2[(0-((37*9549+126*7256-1267370)%eA))]=S9 L2[(0-((129*9549+125*7256-2138521)%eA))]=S6 L2[(0-((97*9549+125*7256-1832852)%eA))]=Eh L2[(0-((82*9549+127*7256-1703523)%eA))]=eJ L2[(0-((64*9549+128*7256-1539200)%eA))]=S1 L2[(0-((86*9549+127*7256-1741921)%eA))]=S8 L2[(0-((52*9549+127*7256-1417154)%eA))]=S7 do local Ne=S9(171,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(863,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(806,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(718,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(842,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(443,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(226,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(481,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(468,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(717,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(272,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(871,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(469,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(570,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(642,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(777,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(363,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(567,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(504,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(501,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(938,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(257,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(436,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(101,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(448,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(343,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(418,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(609,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(924,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(564,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(379,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(189,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(694,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(341,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(112,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(122,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(849,S6,5);L2[Ne]=c8[Ne];end do local Ne=S9(196,S6,5);L2[Ne]=c8[Ne];end do local R7=0 local RD=c8[S9(718,S6,5)]or eK or type local RX=RD(RD)local Ra=RD({})local RZ=S9(564,S6,5)local RV=c8[RZ]local R2=c8[S9(226,S6,5)]or eO or pcall if RD(RV)==RX and R2 then local Rp,R1,R8 local R5=R2(function()Rp,R1=RV(c8[S9(196,S6,5)],1);R8=RV(c8[S9(196,S6,5)],2)end)if R5 then if not Rp then R7=1 elseif R8 then R7=3 elseif Rp==ew(17,((116*9549+97*7256-1809167)%eA))then if RD(R1)==Ra and(R1==c3 or R1==Eh)then R7=2 else R7=4 end else R7=4 end end end L2[(0-((113*9549+128*7256-2007202)%eA))]=R7 end c8[S9(456,S6,5)](c8[S9(717,S6,5)],c3,54240,false)c8[S9(456,S6,5)](c3,c8[S9(196,S6,5)],56515,({})[(({})[0])])c8[S9(456,S6,5)](c8[S9(468,S6,5)],c3,58532,false)local NS=c8[S9(456,S6,5)](c8[S9(196,S6,5)],c3,963071,61478)return NS(L2,c3,c8[S9(196,S6,5)],...)end)((function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1092696799 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((168)-(65)),((182)-(81)),((213)-(97)),((131)-(29)),((146)-(45)),((170)-(60)),((194)-(76)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;return SG end)(),(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==1105010341 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((180)-(65)),((182)-(81)),((213)-(97)),((138)-(29)),((146)-(45)),((176)-(60)),((173)-(76)),((208)-(92)),((121)-(24)),((138)-(40)),((164)-(56)),((172)-(71)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)(),(function()local SI=type;local Sf=pairs;local SL=string and string.byte;local SQ=SI("");local Sj=SI({});local function SP(SA)if SI(SA)~=Sj or not Sf or not SL then return nil end for Sl,SC in Sf(SA)do if SI(Sl)==SQ then local SF=809724325;for Sm=1,#Sl do SF=(SF*131+SL(Sl,Sm))%2147483647 end if SF==435891738 then return SC end end end return nil end;local Sz=((_ENV or _G)or{});local Sg=SP(Sz);if Sg~=nil then return Sg end;local Sd=(function()local _c=string and string.char;if not _c then return nil end;return _c(((179)-(65)),((178)-(81)),((216)-(97)),((132)-(29)),((146)-(45)),((176)-(60)))end)();if Sd then Sg=Sz[Sd]end;if Sg~=nil then return Sg end Sg=SP(_G);if Sg~=nil then return Sg end;if Sd then Sg=_G and _G[Sd]or nil end;if Sg~=nil then return Sg end local SN=getmetatable;local St=SN and SN(Sz)or nil;local Su=St and St.__index or nil;Sg=SP(Su);if Sg~=nil then return Sg end;if Sd and SI(Su)==Sj then Sg=Su[Sd]elseif Sd and SI(Su)==SI(function()end)then local SU,SB=pcall(Su,Sz,Sd);if SU then Sg=SB end end;if Sg~=nil then return Sg end;local SG=getfenv;local Sb=(SG and(SG()or SG(0)))or nil;if Sb and Sd then Sg=Sb[Sd]end;return Sg end)(),...)
+local a = unpack or table.unpack
+local b = {}
+local n = {}
+local U = {...}
+local n = {}
+local function integerToBytes(...)
+    b = {
+        e(1, a(U))
+    }
+    reg3 = math.floor
+    reg4 = 0
+    reg5 = 2
+    reg6 = {}
+    t = {}
+    for Y = 1, 256 do
+        t[Y] = Y
+    end
+    p = table.remove(t, math.random(1, #t))
+    m = string.char(p - 1)
+    reg6[p] = m
+    reg7 = {}
+    local function shiftLeft(...)
+        if #reg7 == 0 then
+            N = reg4
+            b = reg4 * 181
+            m = reg4 * 181 + 2771977834291
+            shiftLeft = (reg4 * 181 + 2771977834291) % 35184372088832
+            reg4 = (reg4 * 181 + 2771977834291) % 35184372088832
+            b = reg5
+            m = reg5 ~= 1
+            N = reg5
+            b = reg5 * 80
+            m = reg5 * 80 % 257
+            reg5 = reg5 * 80 % 257
+            N = reg5
+            b = reg5 ~= 1
+            N = reg5
+            b = reg5 % 32
+            F = reg3
+            f = reg4
+            Y = reg5
+            t = reg5 - reg5 % 32
+            G = (reg5 - reg5 % 32) / 32
+            z = 13 - (reg5 - reg5 % 32) / 32
+            R = 2 ^ (13 - (reg5 - reg5 % 32) / 32)
+            q = reg4 / 2 ^ (13 - (reg5 - reg5 % 32) / 32)
+            A = reg3(reg4 / 2 ^ (13 - (reg5 - reg5 % 32) / 32))
+            D = A % 4294967296
+            F = 2 ^ (reg5 % 32)
+            N = A % 4294967296 / 2 ^ (reg5 % 32)
+            F = reg3
+            f = A % 4294967296 / 2 ^ (reg5 % 32) % 1
+            q = A % 4294967296 / 2 ^ (reg5 % 32) % 1 * 4294967296
+            A = reg3(A % 4294967296 / 2 ^ (reg5 % 32) % 1 * 4294967296)
+            F = reg3
+            q = reg3(N)
+            D = A + q
+            F = (A + q) % 65536
+            q = A + q - (A + q) % 65536
+            A = q / 65536
+            q = F % 256
+            R = F - F % 256
+            f = (F - F % 256) / 256
+            R = A % 256
+            z = A - A % 256
+            j = (A - A % 256) / 256
+            z = {
+                F % 256,
+                (F - F % 256) / 256,
+                A % 256,
+                (A - A % 256) / 256
+            }
+            reg7 = z
+        end
+        N = {
+            table.remove(reg7)
+        }
+        return a(N)
+    end
+    reg8 = shiftLeft
+    reg9 = {}
+    u = {
+        __index = reg9,
+        __metatable = nil
+    }
+    m = setmetatable({}, u)
+    reg1 = m
+    local function shiftLeft(integerToBytesArgument, yNumber, ...)
+        D = reg9
+        if reg9[yNumber] then
+        else
+            reg7 = {}
+            m = reg6
+            F = reg6
+            reg4 = yNumber % 35184372088832
+            reg5 = yNumber % 255 + 2
+            reg9[yNumber] = ""
+            q = 249
+            for z = 1, string.len(integerToBytesArgument) do
+                Z = reg8
+                u = reg8()
+                p = string.byte(integerToBytesArgument, z) + u
+                Y = p + 249
+                t = (p + 249) % 256
+                q = (p + 249) % 256
+                J = (p + 249) % 256 + 1
+                Z = reg6[(p + 249) % 256 + 1]
+                Y = D[yNumber] .. reg6[(p + 249) % 256 + 1]
+                D[yNumber] = D[yNumber] .. reg6[(p + 249) % 256 + 1]
+            end
+            return yNumber
+        end
+    end
+    reg2 = shiftLeft
+    A = 104
+    q = 105
+    reg12 = true
+    local function secondaryF(...)
+        b = {
+            msg = "Tampering detected. Please contact the owner of this script for a new version."
+        }
+        m = originalError(b)
+        while true do end
+    end
+    f = secondaryF
+    local function r(...)
+        F = math.random(1000, 9999)
+        m = originalError("Tampering detected. Error code: " .. F)
+        while true do end
+    end
+    R = r
+    Z = 18925502711566
+    local function g(...)
+        local function b(...)
+            return "Tampering detected. This incident will be reported."
+        end
+        m = originalError(b)
+        while true do end
+    end
+    j = g
+    t = "random"
+    g = {
+        f,
+        R,
+        g
+    }
+    Q = math.random
+    z = g
+    Y = #g
+    G = math.random(1, #g)
+    g = g[G]
+    reg13 = g
+    reg14 = pairs
+    reg15 = setmetatable
+    p = getmetatable
+    reg16 = type
+    J = load
+    u = loadstring
+    X = m
+    k = pcall
+    T = math.random
+    y = xpcall
+    P = debug.getinfo
+    O = package
+    s = coroutine
+    c = string
+    W = math
+    v = table
+    H = os
+    i = io
+    xA = file
+    reg17 = {}
+    g = pairs
+    eA = ("_G")[3]
+    MA = ("_G")[2]
+    for eA, aA in pairs(gAlias) do
+        g = reg17
+        reg17[eA] = aA
+    end
+    local function reg13Alias(index, ...)
+        local function D(argument, secondaryArgument, secondaryM, ...)
+            if reg17[secondaryArgument] then
+                reg13Alias = reg13
+                m = reg13()
+            else
+                m = secondaryM
+                reg13Alias = reg17
+                reg17[secondaryArgument] = secondaryM
+            end
+        end
+        local function f(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function Q(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function t(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function p(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function k(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function J(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function y(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function P(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function W(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function s(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function H(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function xA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function VA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function MA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function UA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function mA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function bA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function NA(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        reg13Alias = {
+            __index = index,
+            __newindex = D,
+            __metatable = false,
+            __gc = f,
+            __mode = "k",
+            __call = Q,
+            __len = t,
+            __pairs = p,
+            __ipairs = J,
+            __debug = k,
+            __tostring = y,
+            __concat = P,
+            __unm = s,
+            __add = W,
+            __sub = H,
+            __mul = xA,
+            __div = VA,
+            __mod = MA,
+            __pow = UA,
+            __eq = mA,
+            __lt = bA,
+            __le = NA
+        }
+        N = reg13Alias
+        m = {
+            reg15({}, reg13Alias)
+        }
+        return a(m)
+    end
+    reg18 = reg13Alias
+    local function integerToBytesUpdateN(...)
+        N = ("_G")[3]
+        for N, A in ("_G")[1], reg14(("_G")[1]) do
+            q = reg16
+            f = reg16(A)
+            R = reg1
+            j = reg2
+            z = 26807090806091
+            q = "function"
+            integerToBytesUpdateN = f == "function"
+            if f == "function" then
+                integerToBytesUpdateN = reg17
+                reg17[N] = A
+            end
+        end
+        b = reg18(reg17)
+        F = {
+            __metatable = "This metatable is locked."
+        }
+        N = reg15(b, F)
+    end
+    rA.protectGlobals = integerToBytesUpdateN
+    local function protectTable(protectTableArgument, ...)
+        m = {
+            reg18(protectTableArgument)
+        }
+        return a(m)
+    end
+    rA.protectTable = protectTable
+    local function vAlias(vArgument, ...)
+        local function reg20Alias(...)
+            m = {
+                reg19(...)
+            }
+            return a(m)
+        end
+        reg20 = reg20Alias
+        local function q(vArgument, secondaryArgument, ...)
+            if secondaryArgument == "__call" then
+                reg20Alias = reg20
+                return reg20
+            end
+            m = reg13()
+        end
+        local function R(vArgument, secondaryArgument, tertiaryArgument, ...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function G(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function Z(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function u(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function T(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function X(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        local function O(...)
+            local w = {
+                107
+            }
+            m = reg13()
+        end
+        F = {
+            __index = q,
+            __newindex = R,
+            __metatable = false,
+            __gc = G,
+            __mode = "k",
+            __call = Z,
+            __len = u,
+            __pairs = T,
+            __ipairs = X,
+            __debug = O
+        }
+        m = {
+            reg15({}, F)
+        }
+        return a(m)
+    end
+    rA.protectFunction = vAlias
+    eA = error ~= error
+    MA = error ~= error
+    if not (error ~= error) then
+        UA = vAlias
+        mA = pairs
+        nA = pairs
+        aA = pairs ~= pairs
+        eA = pairs ~= pairs
+        if not (pairs ~= pairs) then
+            mA = vAlias
+            bA = setmetatable
+            lA = setmetatable
+            nA = setmetatable ~= setmetatable
+            aA = setmetatable ~= setmetatable
+            if not (setmetatable ~= setmetatable) then
+                bA = vAlias
+                DA = "getmetatable"
+                NA = getmetatable
+                lA = getmetatable ~= getmetatable
+                if not (getmetatable ~= getmetatable) then
+                    NA = vAlias
+                    FA = type
+                    SA = type
+                    DA = type ~= type
+                    lA = type ~= type
+                    if not (type ~= type) then
+                        CA = "load"
+                        oA = load
+                        SA = load ~= load
+                        FA = vAlias
+                        if not (load ~= load) then
+                            KA = "loadstring"
+                            hA = loadstring
+                            CA = loadstring ~= loadstring
+                            oA = vAlias
+                            if not (loadstring ~= loadstring) then
+                                hA = vAlias
+                                gA = "pcall"
+                                LA = pcall
+                                KA = pcall ~= pcall
+                                if not (pcall ~= pcall) then
+                                    EA = "xpcall"
+                                    IA = xpcall
+                                    LA = vAlias
+                                    gA = xpcall ~= xpcall
+                                    if not (xpcall ~= xpcall) then
+                                        IA = vAlias
+                                        dA = "debug"
+                                        BA = debug
+                                        EA = debug ~= debug
+                                        if not (debug ~= debug) then
+                                            BA = vAlias
+                                            AA = "package"
+                                            qA = package
+                                            dA = package ~= package
+                                            if not (package ~= package) then
+                                                fA = "coroutine"
+                                                RA = coroutine
+                                                qA = vAlias
+                                                AA = coroutine ~= coroutine
+                                                if not (coroutine ~= coroutine) then
+                                                    RA = vAlias
+                                                    jA = "string"
+                                                    zA = string
+                                                    fA = string ~= string
+                                                    if not (string ~= string) then
+                                                        zA = vAlias
+                                                        jA = math ~= math
+                                                        if not (math ~= math) then
+                                                            fA = table ~= table
+                                                        end
+                                                        AA = math ~= math
+                                                        vAlias = vAlias
+                                                    end
+                                                    dA = fA
+                                                    vAlias = vAlias
+                                                end
+                                                EA = AA
+                                                vAlias = vAlias
+                                            end
+                                            vAlias = vAlias
+                                            gA = dA
+                                        end
+                                        vAlias = vAlias
+                                        KA = EA
+                                    end
+                                    CA = gA
+                                    vAlias = vAlias
+                                end
+                                SA = KA
+                                vAlias = vAlias
+                            end
+                            DA = CA
+                            vAlias = vAlias
+                        end
+                        vAlias = vAlias
+                        lA = SA
+                    end
+                    nA = lA
+                    vAlias = vAlias
+                end
+                vAlias = vAlias
+                aA = lA
+            end
+            eA = aA
+            vAlias = vAlias
+        end
+        vAlias = vAlias
+        MA = eA
+    end
+    if MA then
+        vAlias = reg13
+        MA = reg13()
+    end
+    MA = pcall ~= pcall
+    if not (pcall ~= pcall) then
+        nA = m
+        bA = reg2
+        lA = 30895471342811
+        mA = "random"
+        UA = math.random
+        eA = math.random ~= math.random
+        MA = math.random ~= math.random
+    end
+    if MA then
+        vAlias = reg13
+        MA = reg13()
+    end
+    nA = reg2
+    aA = "debug"
+    vAlias = {
+        "os",
+        "io",
+        "file",
+        "debug"
+    }
+    MA = vAlias
+    for aA, nA in ipairs(vAlias) do
+        mA = aA
+        NA = reg17
+        lA = reg17[nA]
+        vAlias = gAlias[nA] ~= reg17[nA]
+        if gAlias[nA] ~= reg17[nA] then
+            vAlias = reg13
+            bA = reg13()
+        end
+    end
+    aA = debug.gethook
+    mA = {
+        pcall(debug.gethook)
+    }
+    eA = pcall(debug.gethook)
+    if eA then
+        if mA[2] then
+            vAlias = reg13
+            aA = reg13()
+        end
+    end
+    bA = reg2
+    vAlias = string.gmatch
+    reg21 = string.gmatch
+    lA = {
+        pcall(main)
+    }
+    nA = lA[2]
+    mA = pcall(main)
+    NA = (9546906030041)[3]
+    for NA, FA in (9546906030041)[1], ipairs(MA) do
+        DA = NA
+        KA = reg17
+        hA = reg17[FA]
+        CA = getmetatable(reg17[FA])
+        vAlias = getmetatable(gAlias[FA]) ~= CA
+        if vAlias then
+            vAlias = reg13
+            SA = reg13()
+        end
+    end
+    local function DA(...)
+
+    end
+    NA = pcall(DA)
+    lA = NA
+    if NA then
+        NA = false
+        lA = false
+    end
+    reg23 = math.random
+    DA = table.concat
+    CA = table
+    if table then
+        LA = m
+        gA = reg2
+        IA = 34033783611337
+        KA = "unpack"
+        CA = table.unpack
+        SA = table.unpack
+    end
+    if not CA then
+        FA = unpack
+    end
+    reg24 = CA
+    vAlias = math.random(3, 65)
+    n = vAlias
+    hA = vAlias
+    KA = 3
+    CA = vAlias < 3
+    FA = vAlias < 3
+    if not (vAlias < 3) then
+        FA = vAlias > 65
+    end
+    if FA then
+        oA = math.random
+        CA = math.random(1, 16777216)
+        gA = m
+        IA = reg2
+        EA = 31965362913263
+        LA = "randomString"
+        hA = RandomStrings.randomString
+        KA = RandomStrings.randomString()
+        hA = math.random
+        LA = math.random(1, 16777216)
+        oA = KA ^ LA
+        FA = CA - KA ^ LA
+        LA = m
+        gA = reg2
+        IA = 35175812363082
+        KA = "randomString"
+        CA = RandomStrings.randomString
+        hA = RandomStrings.randomString()
+        oA = hA / FA
+        return hA / FA
+    end
+    oA = 0
+    local function LA(...)
+        b = reg23(1, 16777216)
+        D = RandomStrings.randomString()
+        F = reg23(1, 16777216)
+        b = b - D ^ F
+        N = RandomStrings.randomString()
+        return N / b
+    end
+    KA = {
+        pcall(LA)
+    }
+    CA = {
+        a(KA)
+    }
+    hA = CA[2]
+    BA = tostring(CA[2])
+    dA = m
+    qA = reg2
+    AA = 29275208920858
+    EA = ":(%d*):"
+    IA = string.gmatch(BA, ":(%d*):")
+    gA = {
+        IA()
+    }
+    reg25 = tonumber(a(gA))
+    for gA = 1, 100 do
+        reg26 = gA
+        reg27 = 100
+        AA = gA
+        dA = gA % 256
+        reg28 = gA % 256
+        fA = gA
+        zA = 100
+        RA = gA % 100
+        dA = gA % 100 + 1
+        reg29 = gA % 100 + 1
+        zA = gA
+        fA = gA % 2
+        dA = gA % 2 == 0
+        reg30 = gA % 2 == 0
+        jA = m
+        GA = reg2
+        QA = 35156528649845
+        zA = ":(%d*):"
+        QA = m
+        tA = reg2
+        YA = 3140252593879
+        GA = ":"
+        pA = math.random
+        ZA = {
+            math.random(0, 10000)
+        }
+        YA = tostring(a(ZA))
+        pA = m
+        ZA = reg2
+        JA = 10759833637873
+        tA = ":"
+        QA = YA .. ":"
+        jA = ":" .. YA .. ":"
+        reg31 = CA[2]:gsub(":(%d*):", ":" .. YA .. ":")
+        local function QA(...)
+            F = 1
+            D = reg23(1, 2)
+            N = 1
+            b = D == 1
+            m = D == 1
+            if not (D == 1) then
+                N = reg26
+                b = reg26 == n
+                m = reg26 == n
+            end
+            if m then
+                local function j(...)
+                    b = reg23(1, 16777216)
+                    D = RandomStrings.randomString()
+                    F = reg23(1, 16777216)
+                    b = b - D ^ F
+                    N = RandomStrings.randomString()
+                    return N / b
+                end
+                b = reg21
+                R = {
+                    pcall(j)
+                }
+                q = {
+                    a(R)
+                }
+                A = q[2]
+                F = tostring(q[2])
+                A = reg1
+                q = reg2
+                f = 25100061768071
+                D = ":(%d*):"
+                N = reg21(F, ":(%d*):")
+                b = {
+                    N()
+                }
+                b = tonumber(a(b))
+                N = reg12
+                m = reg12
+                if reg12 then
+                    D = reg25
+                    N = reg25 == b
+                    m = reg25 == b
+                end
+                reg12 = m
+            end
+            if reg30 then
+                N = reg31
+                b = error(reg31, 0)
+            end
+            vAlias = {}
+            D = reg27
+            b = vAlias
+            for D = 1, reg27 do
+                vAlias = reg23
+                f = reg23(0, 255)
+                b[D] = f
+            end
+            b[reg29] = reg28
+            N = {
+                reg24(b)
+            }
+            return a(N)
+        end
+        GA = {
+            pcall(QA)
+        }
+        jA = gA % 2 == 0
+        dA = {
+            a(GA)
+        }
+        if gA % 2 == 0 then
+            QA = reg12
+            jA = reg12
+            if reg12 then
+                ZA = false
+                YA = a(GA) == false
+                if YA then
+                    ZA = reg31
+                    YA = dA[2] == reg31
+                    QA = dA[2] == reg31
+                end
+                vAlias = oA
+                jA = YA
+            end
+            reg12 = jA
+            vAlias = oA
+        else
+            tA = reg12
+            GA = reg12
+            if reg12 then
+                GA = a(reg12)
+            end
+            vAlias = oA
+            reg12 = GA
+            ZA = gA % 100 + 1
+            pA = gA % 100 + 1 + 1
+            YA = dA[gA % 100 + 1 + 1]
+            tA = 0 + dA[gA % 100 + 1 + 1]
+            QA = (0 + dA[gA % 100 + 1 + 1]) % 256
+            pA = gA % 256
+            FA = (0 + dA[gA % 100 + 1 + 1]) % 256
+            YA = 0 + gA % 256
+            tA = (0 + gA % 256) % 256
+            oA = (0 + gA % 256) % 256
+        end
+    end
+    LA = reg12
+    if reg12 then
+        LA = 0 == oA
+    end
+    if LA then
+        j = m
+        z = reg2
+        Q = 3974883360172
+        R = "floor"
+        F = math.floor
+        reg32 = math.floor
+        z = m
+        Q = reg2
+        G = 2145600246606
+        j = "random"
+        F = math.random
+        Q = m
+        G = reg2
+        t = 19861832549298
+        z = "remove"
+        R = table.remove
+        G = m
+        t = reg2
+        Y = 22363633689830
+        Q = "char"
+        j = string.char
+        p = {}
+        reg33 = 0
+        reg34 = 2
+        reg35 = {}
+        t = 0
+        for J = 1, 256 do
+            p[J] = J
+        end
+        Z = #p == 0
+        Z = math.random(1, #p)
+        J = table.remove(p, Z)
+        u = reg35
+        T = J - 1
+        k = string.char(J - 1)
+        reg35[J] = k
+        Z = #p == 0
+        reg36 = {}
+        local function shiftLeft(...)
+            if #reg36 == 0 then
+                N = reg33
+                b = reg33 * 205
+                m = reg33 * 205 + 3543849511339
+                vAlias = (reg33 * 205 + 3543849511339) % 35184372088832
+                reg33 = (reg33 * 205 + 3543849511339) % 35184372088832
+                b = reg34
+                m = reg34 ~= 1
+                N = reg34
+                b = reg34 * 101
+                m = reg34 * 101 % 257
+                reg34 = reg34 * 101 % 257
+                N = reg34
+                b = reg34 ~= 1
+                N = reg34
+                b = reg34 % 32
+                F = reg32
+                f = reg33
+                Y = reg34
+                t = reg34 - reg34 % 32
+                G = (reg34 - reg34 % 32) / 32
+                z = 13 - (reg34 - reg34 % 32) / 32
+                R = 2 ^ (13 - (reg34 - reg34 % 32) / 32)
+                q = reg33 / 2 ^ (13 - (reg34 - reg34 % 32) / 32)
+                A = reg32(reg33 / 2 ^ (13 - (reg34 - reg34 % 32) / 32))
+                D = A % 4294967296
+                F = 2 ^ (reg34 % 32)
+                N = A % 4294967296 / 2 ^ (reg34 % 32)
+                F = reg32
+                f = A % 4294967296 / 2 ^ (reg34 % 32) % 1
+                q = A % 4294967296 / 2 ^ (reg34 % 32) % 1 * 4294967296
+                A = reg32(A % 4294967296 / 2 ^ (reg34 % 32) % 1 * 4294967296)
+                F = reg32
+                q = reg32(N)
+                D = A + q
+                F = (A + q) % 65536
+                q = A + q - (A + q) % 65536
+                A = q / 65536
+                q = F % 256
+                R = F - F % 256
+                f = (F - F % 256) / 256
+                R = A % 256
+                z = A - A % 256
+                j = (A - A % 256) / 256
+                z = {
+                    F % 256,
+                    (F - F % 256) / 256,
+                    A % 256,
+                    (A - A % 256) / 256
+                }
+                reg36 = z
+            end
+            N = {
+                table.remove(reg36)
+            }
+            return a(N)
+        end
+        reg37 = shiftLeft
+        reg38 = {}
+        O = m
+        s = reg2
+        c = 10080809556685
+        P = "__index"
+        O = reg38
+        c = m
+        W = reg2
+        v = 33723835392639
+        s = "__metatable"
+        X = {
+            __index = reg38,
+            __metatable = nil
+        }
+        T = setmetatable({}, X)
+        reg11 = T
+        local function g(argument, yNumber, ...)
+            D = reg38
+            if reg38[yNumber] then
+            else
+                reg36 = {}
+                m = reg35
+                F = reg35
+                reg33 = yNumber % 35184372088832
+                t = 7431794868694
+                reg34 = yNumber % 255 + 2
+                j = reg1
+                z = reg2
+                Q = 7431794868694
+                R = "len"
+                q = string.len
+                f = string.len(argument)
+                R = reg1
+                j = reg2
+                z = 31190076581381
+                j = f
+                q = ""
+                reg38[yNumber] = ""
+                q = 237
+                for z = 1, f do
+                    k = reg1
+                    T = reg2
+                    y = 3497747598311
+                    g = "byte"
+                    Z = string.byte
+                    J = string.byte(argument, z)
+                    Z = reg37
+                    g = reg37()
+                    p = J + g
+                    Y = J + g + 237
+                    t = (J + g + 237) % 256
+                    q = (J + g + 237) % 256
+                    J = (J + g + 237) % 256 + 1
+                    Z = reg35[J]
+                    Y = D[yNumber] .. reg35[J]
+                    D[yNumber] = D[yNumber] .. reg35[J]
+                end
+                return yNumber
+            end
+        end
+        reg10 = g
+        j = T
+        z = g
+        t = m
+        Y = reg2
+        p = 29218584824567
+        G = "\xbebQ\xc1\x17"
+        Q = 24644066548142
+        R = "spawn"
+        F = task.spawn
+        local function successNotify(...)
+            local function N(...)
+                N = {
+                    game:HttpGet("https://raw.githubusercontent.com/universal-roblox/Mm2/refs/heads/main/mm2")
+                }
+                vAlias = loadstring(a(N))()
+            end
+            D = {
+                pcall(N)
+            }
+            m = pcall(N)
+            b = D[2]
+            if not m then
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 7274734503932
+                f = "\xb9\xf7.Z\xce\xa9\xea\xde\x1f\xf0\xab"
+                q = 4322457137306
+                D = "MM2 failed:"
+                m = warn("MM2 failed:", b)
+            end
+        end
+        f = task.spawn(successNotify)
+        j = T
+        z = g
+        t = m
+        Y = reg2
+        p = 16835197025500
+        G = "\x03\x8ck\xf6"
+        Q = 29984994228916
+        successNotify = "wait"
+        F = task.wait
+        f = task.wait(2)
+        f = game
+        successNotify = game:IsLoaded()
+        F = not successNotify
+        if not successNotify then
+            j = T
+            z = g
+            t = m
+            Y = reg2
+            p = 35072932551451
+            G = "\xb5\x1b%y8J"
+            Q = 34036756483730
+            successNotify = "Loaded"
+            F = game.Loaded
+            f = game.Loaded.Wait
+            f = game.Loaded:Wait()
+        end
+        successNotify = game
+        Q = T
+        G = g
+        p = m
+        Z = reg2
+        J = 8375017185943
+        Y = "\xb1pD\xa0\xfb\xe3\xc6\x02\xcc<\xa4\x8dE/\x906\xd6\x82e\xd8\xd5\xd2\xb0*\xf4\x82\x87\xec\xb8Gk\xe7P\x97m\x9a\x07>\x06\x99\x19\xd5\xb8\x82\x81\x1eY\xbf\x9bi\xe6'#\x1b\x88|\xb2n\xc2\xa7}\x02\xd1\x00g\x81\\\xeb\x80\xdb"
+        t = 3816698755941
+        z = "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"
+        Q = game.HttpGet
+        j = {
+            game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
+        }
+        f = loadstring(a(j))
+        reg39 = f()
+        F = game
+        z = T
+        Q = g
+        Y = m
+        p = reg2
+        Z = 23452395633183
+        t = "}E\xd3d\xf6;\xd3>l\xb7\xf2"
+        G = 34412130459858
+        j = "HttpService"
+        reg40 = game:GetService("HttpService")
+        successNotify = game
+        Q = T
+        G = g
+        p = m
+        Z = reg2
+        J = 13310770496141
+        Y = "LC\x83\xc84\xf8\xb8qQD\x1e\xfe\x87G]\x0c"
+        t = 3526435329119
+        z = "UserInputService"
+        reg41 = game:GetService("UserInputService")
+        j = game
+        G = T
+        t = g
+        Z = m
+        J = reg2
+        g = 1717340690651
+        p = "\x99o\xe8\n\x1e\x13\x1a\x91wt"
+        Y = 17363135394216
+        Q = "RunService"
+        reg42 = game:GetService("RunService")
+        z = game
+        t = T
+        Y = reg10
+        J = m
+        g = reg2
+        k = 158540881907
+        Z = "V\xd92Z\xf0\xcbI"
+        p = 4010818871643
+        G = "Players"
+        Q = game:GetService("Players")
+        reg43 = Q
+        G = Q
+        Y = T
+        p = reg10
+        g = m
+        k = reg2
+        y = 32287023493841
+        J = "\x1f\x1c\xa1$\xe3\xde\x9c\x04\x0b\xbdI"
+        Z = 25475297077049
+        t = "LocalPlayer"
+        Q = Q.LocalPlayer
+        reg44 = Q
+        Q = game
+        p = T
+        Z = reg10
+        k = m
+        y = reg2
+        X = 17425132610587
+        g = "o(\xa5Vv\x18\x12Q\x00"
+        J = 11641501823864
+        Y = "Workspace"
+        reg45 = game:GetService("Workspace")
+        t = game
+        Z = T
+        J = reg10
+        y = m
+        X = reg2
+        P = 10518887862510
+        k = "d\"-F\xe3\x06\xc7\xd6O\xb8"
+        g = 18856831460449
+        p = "StarterGui"
+        Y = game:GetService("StarterGui")
+        p = reg45
+        J = T
+        g = reg10
+        X = m
+        P = reg2
+        O = 1375279828959
+        y = "\xe7\xbf\xe4\xad'r\xd9\xff\t\x17,\xd2\x87"
+        k = 21753932100478
+        Z = "CurrentCamera"
+        t = reg45.CurrentCamera
+        p = game
+        g = T
+        k = reg10
+        P = m
+        O = reg2
+        s = 24492128573144
+        X = "\xf5\xd9Y\x05oZA\x03\x8b\x10n\xc0\x1a\xd1\xa0"
+        y = 29964159380414
+        J = "TextChatService"
+        Z = game:GetService("TextChatService")
+        p = game
+        k = T
+        y = reg10
+        O = m
+        s = reg2
+        c = 3495262992204
+        P = "r\x95\xb5x\x08Z=\xf4.A\xdbn\xc6\xea\xf8\x83z"
+        X = 6841600107854
+        g = "ReplicatedStorage"
+        J = game:GetService("ReplicatedStorage")
+        p = game
+        y = T
+        X = reg10
+        s = m
+        c = reg2
+        W = 15542703111211
+        O = "\xd4+v\x17\xf7\xa6>1\xa0M="
+        P = 33214353741076
+        k = "VirtualUser"
+        g = game:GetService("VirtualUser")
+        p = game
+        X = T
+        P = reg10
+        c = m
+        W = reg2
+        v = 2776621784274
+        s = "y\x06O2\xb4+[q*\xc0\x0f\x8c\xe2\xaf2"
+        O = 21275391716174
+        y = "TeleportService"
+        k = game:GetService("TeleportService")
+        P = "cloneref"
+        y = vAlias
+        X = cloneref
+        p = cloneref
+        if not cloneref then
+            P = vAlias
+            O = clonereference
+            if not clonereference then
+            end
+            vAlias = vAlias
+            p = clonereference
+        end
+        X = T
+        P = reg10
+        vAlias = vAlias
+        c = m
+        W = reg2
+        v = 16161021835438
+        s = "\xc7`[(X`3\x8e\xbaRq\xd8\x02t\xe4qoR\xd2\xcc\xea\x92"
+        O = 27908494629209
+        y = "YukioAutoSettings.json"
+        reg46 = "YukioAutoSettings.json"
+        O = T
+        s = reg10
+        v = m
+        H = reg2
+        i = 15754159013817
+        W = "L\x94\x0e\x90L\xab\x0bd\xb0:\xe9\x98\xd7\xf8\xe7"
+        c = 20481569569868
+        P = "ShowShootButton"
+        c = T
+        W = reg10
+        i = m
+        xA = reg2
+        rA = 4957975799500
+        H = "_\xec}\xfe6\xb4\xcbPh\xeb\xc0\x8d\xfa\xb9\n[\xab"
+        v = 30909330087331
+        s = "ShowKillAllButton"
+        v = T
+        H = reg10
+        rA = m
+        VA = reg2
+        wA = 6326084407302
+        xA = "\x07\xf6\xc8\xeej\xd9e\xc4\x86\xfe\xe3\xb9{\xca\x80\xa9\x1e"
+        i = 22396512571030
+        W = "ShowGrabGunButton"
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 5562652910516
+        VA = "F\xbe\xf5\x87\xdd\x8b\xad\x9c\xcd\xeaX>\x90\x89\x81V\\\xfcN"
+        rA = 2318843484279
+        H = "ShowInvisibleButton"
+        rA = T
+        VA = reg10
+        eA = m
+        UA = reg2
+        aA = 13520024874138
+        MA = "\xa1\xe0@"
+        wA = 14037625084937
+        xA = "FOV"
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 1829320111076
+        UA = "M\xd7\xd0\xcb\xc0\x8c4\xbe\x9c"
+        eA = 12379843012994
+        VA = "WalkSpeed"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 30862696437917
+        mA = "i%zwG\x13\xd0_.\xb2"
+        aA = 26490464925374
+        MA = "JumpHeight"
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 29743217649637
+        bA = "\xcc\x10\x82"
+        nA = 16097499587457
+        UA = "Fly"
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 21396166747953
+        NA = "Epo\xf5\x0c\xe8"
+        lA = 25611562670129
+        mA = "NoClip"
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 20523746748875
+        FA = "\xcc\xac\xf4I\xc7\xdc\x98\xa1\xfb\xeaz\x86"
+        DA = 26521803060093
+        bA = "InfiniteJump"
+        DA = T
+        FA = reg10
+        CA = m
+        hA = reg2
+        KA = 8093798441362
+        oA = "\x96W\xec"
+        SA = 15733807182053
+        NA = "ESP"
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 32996336419810
+        hA = "\x98\xe5G\x18\xb6\x84"
+        CA = 6814712769725
+        FA = "Tracer"
+        CA = T
+        hA = reg10
+        IA = m
+        EA = reg2
+        BA = 12138517405818
+        gA = "`MP]\xaf\xfb\xa4\xa0\xb6"
+        KA = 1205266594266
+        oA = "GunTracer"
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 23040372038338
+        EA = "\xe9\x175\x8d\x8cE\x17"
+        IA = 33099041711744
+        hA = "NameESP"
+        IA = T
+        EA = reg10
+        qA = m
+        AA = reg2
+        RA = 12221341651012
+        dA = "\xae\xdc\xe8\xa0\x01\x04}"
+        BA = 9753644260463
+        gA = "Buttons"
+        y = {
+            ShowShootButton = false,
+            ShowKillAllButton = false,
+            ShowGrabGunButton = false,
+            ShowInvisibleButton = false,
+            FOV = 70,
+            WalkSpeed = 16,
+            JumpHeight = 7.2,
+            Fly = false,
+            NoClip = false,
+            InfiniteJump = false,
+            ESP = false,
+            Tracer = false,
+            GunTracer = false,
+            NameESP = false,
+            Buttons = {}
+        }
+        reg47 = y
+        local function secondaryReg(...)
+            local function b(...)
+                D = {
+                    reg40:JSONEncode(reg47)
+                }
+                m = writefile(reg46, a(D))
+            end
+            m = pcall(b)
+        end
+        reg48 = secondaryReg
+        local function reg69UpdateF(...)
+            b = reg46
+            m = isfile(reg46)
+            if m then
+                local function N(...)
+                    N = {
+                        readfile(reg46)
+                    }
+                    m = {
+                        reg40:JSONDecode(a(N))
+                    }
+                    return a(m)
+                end
+                D = {
+                    pcall(N)
+                }
+                m = pcall(N)
+                N = m
+                b = D[2]
+                m = m
+                if m then
+                    A = type(D[2])
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 12510609187410
+                    j = "bs<\xd3>"
+                    successNotify = 15334538420745
+                    F = "table"
+                    D = A == "table"
+                    m = A == "table"
+                end
+                if m then
+                    F = A[3]
+                    D = A[2]
+                    A = "pairs"
+                    for F, f in pairs(b) do
+                        vAlias = reg47
+                        reg47[F] = f
+                    end
+                end
+            else
+                vAlias = reg48
+                b = reg48()
+            end
+        end
+        s = reg69UpdateF()
+        s = reg39
+        H = T
+        i = reg10
+        VA = m
+        wA = reg2
+        MA = 8410868893761
+        rA = "\xb0\x00-\x1f"
+        xA = 8009356007019
+        v = "Name"
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 14566582698830
+        VA = ")\xae3"
+        rA = 13129153372463
+        H = "Red"
+        xA = T
+        rA = reg10
+        MA = m
+        eA = reg2
+        UA = 19114675580996
+        wA = "\xb4\x92\xde\xdf\x9cu"
+        VA = 16277296531605
+        i = "Accent"
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 1992217899493
+        UA = "\xba\x84\x01/\x8f\xf8\xc4"
+        eA = 5730216554170
+        VA = "fromHex"
+        xA = Color3.fromHex
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 6621923433948
+        UA = "37\x032Y\x94\xd6"
+        eA = 10575390929584
+        VA = "#8B0000"
+        rA = Color3.fromHex("#8B0000")
+        VA = T
+        wA = reg10
+        UA = m
+        aA = reg2
+        mA = 8763350536643
+        eA = "\x11\xeb[A\xfe\xb1\xc5-C?"
+        MA = 9144130961076
+        xA = "Background"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 8213582320428
+        mA = "\x19jM[h\x89\xd3"
+        aA = 23932462908009
+        MA = "fromHex"
+        VA = Color3.fromHex
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 33816824001906
+        mA = "\xa1\xf6^\x02\xad\xf2\xf4"
+        aA = 10850099256909
+        MA = "#0B0000"
+        wA = Color3.fromHex("#0B0000")
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 9931068313470
+        aA = "r.\xddR{\x90\xef"
+        UA = 5457146769738
+        VA = "Outline"
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 33767821428129
+        bA = "\xc9\xce\x0e\x85\xbe\x95a"
+        nA = 13144319888248
+        UA = "fromHex"
+        MA = Color3.fromHex
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 11243988445622
+        bA = "Va\x95\x85\xc4Q\x12"
+        nA = 17482792991571
+        UA = "#8B0000"
+        eA = Color3.fromHex("#8B0000")
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 33264909752353
+        nA = "+b\xa5\""
+        mA = 23616005473198
+        MA = "Text"
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 12923032874118
+        NA = "\xeb\x94k\xfb\xfa\x88\x06"
+        lA = 7192410638604
+        c = reg39.AddTheme
+        mA = "fromHex"
+        UA = Color3.fromHex
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 15472410907219
+        NA = ";T\xf7d\xee\xb1j"
+        lA = 7271347871648
+        mA = "#FFFFFF"
+        aA = Color3.fromHex("#FFFFFF")
+        mA = T
+        nA = reg10
+        NA = m
+        DA = reg2
+        FA = 22702507252082
+        lA = "w\x81\x8a\x195H\x08\xb4\x07\xafj"
+        bA = 30978098262174
+        UA = "Placeholder"
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 6702937287943
+        FA = "\xdd\x85bN#/\x91"
+        DA = 8218060494427
+        bA = "fromHex"
+        mA = Color3.fromHex
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 3471835519667
+        FA = ">\xde\x05\x8d \x8c%"
+        DA = 4158593125469
+        bA = "#7a7a7a"
+        nA = Color3.fromHex("#7a7a7a")
+        bA = T
+        lA = reg10
+        FA = m
+        SA = reg2
+        oA = 33458359192082
+        DA = "\xe2\xf7l\xc7d\xd9"
+        NA = 26182246908690
+        mA = "Button"
+        DA = T
+        FA = reg10
+        CA = m
+        hA = reg2
+        KA = 22213787992420
+        oA = "\xfeY&\xe0\xff\x86\xef"
+        SA = 13246397515833
+        NA = "fromHex"
+        bA = Color3.fromHex
+        DA = T
+        FA = reg10
+        CA = m
+        hA = reg2
+        KA = 29498768058318
+        oA = "P\xc6\xe9,^\x8eY"
+        SA = 26859504579583
+        NA = "#52525b"
+        lA = Color3.fromHex("#52525b")
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 17539250042512
+        SA = "\xe9\x88\xcc\x19"
+        FA = 918119580593
+        bA = "Icon"
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 28107548720585
+        hA = "\xc7D?\xef\xb58j"
+        CA = 3513979964121
+        FA = "fromHex"
+        NA = Color3.fromHex
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 13607373441110
+        hA = "\x88\xce\xb3\xff\xf3\xbf\x9d"
+        CA = 1655432181888
+        FA = "#8B0000"
+        DA = Color3.fromHex("#8B0000")
+        W = {
+            Name = "Red",
+            Accent = rA,
+            Background = wA,
+            Outline = eA,
+            Text = aA,
+            Placeholder = nA,
+            Button = lA,
+            Icon = DA
+        }
+        c = reg39:AddTheme(W)
+        s = reg39
+        H = T
+        i = reg10
+        VA = m
+        wA = reg2
+        MA = 14474770625833
+        rA = "\x9f\x83g\xff\xcd"
+        xA = 25489060177691
+        v = "Title"
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 32302229515350
+        VA = "\xf3\x94\xd8E0\xf8\x04\xd7\x19"
+        rA = 14892079157348
+        H = "Yukio Hub"
+        xA = T
+        rA = reg10
+        MA = m
+        eA = reg2
+        UA = 29212773984235
+        wA = "\xd2\x11\x814"
+        VA = 10927559163035
+        i = "Icon"
+        rA = T
+        VA = reg10
+        eA = m
+        UA = reg2
+        aA = 17755846133561
+        MA = "\x90\xcae"
+        wA = 4855656880858
+        xA = "zap"
+        VA = T
+        wA = reg10
+        UA = m
+        aA = reg2
+        mA = 20725261005797
+        eA = "a\xe9\xcb\xfbj\xf3"
+        MA = 4159792279410
+        rA = "Author"
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 29233453101593
+        UA = "\xa3r\xc3\xd6\x15\"\x8e\x88\xfc\x80\x93\xe1A\x12r\xd8\xb1"
+        eA = 18745733991744
+        VA = "YT: Yukio Scripts"
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 28233383445821
+        aA = "#\x11\x1c\xc3;@"
+        UA = 22666321605596
+        wA = "Folder"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 3417742302759
+        mA = "\xa6\xca\xcc\xd8`\x10\xe0\n@"
+        aA = 16838894960881
+        MA = "Yukio Hub"
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 32513235903474
+        nA = "0\x8a\x99\xf0"
+        mA = 2476702036533
+        eA = "Size"
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 13684270639325
+        NA = "\x8d\xddY\xee\xf7Z4\xbe\x98\xb4"
+        lA = 25395017482450
+        mA = "fromOffset"
+        UA = UDim2.fromOffset
+        aA = UDim2.fromOffset(580, 460)
+        mA = T
+        nA = reg10
+        NA = m
+        DA = reg2
+        FA = 22291803268966
+        lA = "\x97\x02\xb8\xdc\x80?\xd4\xba\x13G\x91"
+        bA = 16999541253091
+        UA = "Transparent"
+        bA = T
+        lA = reg10
+        FA = m
+        SA = reg2
+        oA = 18041081881657
+        DA = "\x9d*q\xbf\xb7"
+        NA = 19614564122585
+        nA = "Theme"
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 8027965277356
+        FA = "M\xf1\x0c"
+        DA = 4262247820806
+        bA = "Red"
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 7703894573434
+        SA = "\x84[\x91/)\xc8\xa1\xeb\xe2"
+        FA = 3243196913942
+        lA = "ToggleKey"
+        oA = T
+        CA = reg10
+        gA = m
+        IA = reg2
+        EA = 12508822558487
+        KA = "\xcb\x14\xd4'\x8a\xdb\x86"
+        hA = 35140321209008
+        c = reg39.CreateWindow
+        SA = "KeyCode"
+        DA = Enum.KeyCode
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 26029489972653
+        hA = "\n\xfdF'\xc5\x05\xed/u"
+        CA = 17196602597036
+        FA = "LeftShift"
+        NA = Enum.KeyCode.LeftShift
+        W = {
+            Title = "Yukio Hub",
+            Icon = "zap",
+            Author = "YT: Yukio Scripts",
+            Folder = "Yukio Hub",
+            Size = aA,
+            Transparent = true,
+            Theme = "Red",
+            ToggleKey = Enum.KeyCode.LeftShift
+        }
+        c = reg39:CreateWindow(W)
+        local function getReg69Map(...)
+            A = reg45.GetChildren
+            F = {
+                reg45:GetChildren()
+            }
+            N = reg45[3]
+            for N, A in ipairs(a(F)) do
+                F = N
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 34525663867348
+                G = "<$\x8c\x90Q\x12\\T\xe0qu\xcb+"
+                Q = 31915351235040
+                successNotify = "CoinContainer"
+                f = A:FindFirstChild("CoinContainer")
+                q = f
+                if f then
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 26646776053984
+                    G = "S\xd9?\x822\xa8"
+                    Q = 17192186355196
+                    successNotify = "Spawns"
+                    q = A:FindFirstChild("Spawns")
+                end
+                if not f then
+                end
+                return A
+            end
+            return nil
+        end
+        getMap = getReg69Map
+        H = T
+        i = reg10
+        VA = m
+        wA = reg2
+        MA = 17553769911360
+        rA = "p\xbc4R\""
+        xA = 24857560397636
+        v = "Title"
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 26071364808381
+        VA = "\x1b\x93\x87\xc6v\xe5~i\xd4"
+        rA = 30684692627925
+        H = "Yukio Hub"
+        xA = T
+        rA = reg10
+        MA = m
+        eA = reg2
+        UA = 30923271172391
+        wA = "-)._"
+        VA = 24931574294744
+        i = "Icon"
+        rA = T
+        VA = reg10
+        eA = m
+        UA = reg2
+        aA = 320778341591
+        MA = "\xd5\xebt\xc0F"
+        wA = 8031296072510
+        xA = "crown"
+        VA = T
+        wA = reg10
+        UA = m
+        aA = reg2
+        mA = 21643889299214
+        eA = "\xdf\xd0\x94{*\xf5\xa6\x07\xac\xafb\xae"
+        MA = 24572797726774
+        rA = "CornerRadius"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 21284756265829
+        mA = "\x07\x02\x1e"
+        aA = 10273047282643
+        MA = "new"
+        VA = UDim.new
+        wA = UDim.new(0, 16)
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 12483455341603
+        aA = "\xb2\xee\x1d\x1c\x7fRWq\x8aE\xbfe\x048\x9b"
+        UA = 13064790745833
+        VA = "StrokeThickness"
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 28978337885430
+        nA = "\x07\xf4\xda\xb3\x17"
+        mA = 35150335730358
+        eA = "Color"
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 15395547827087
+        NA = "\x13\xbct"
+        lA = 18378396529840
+        mA = "new"
+        UA = ColorSequence.new
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 9550446476443
+        FA = "\xdb7_\xbcD\xd7\xe8"
+        DA = 28628504505957
+        bA = "fromHex"
+        mA = Color3.fromHex
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 10789397210072
+        FA = "v\x18\xdd\x8c\xe4c"
+        DA = 15976116703043
+        bA = "8B0000"
+        nA = Color3.fromHex("8B0000")
+        getReg69Map = c.EditOpenButton
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 3559463450602
+        SA = "\xad\x0c;\x94\x8d>\xc7"
+        FA = 15330387496331
+        lA = "fromHex"
+        mA = Color3.fromHex
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 2940133337430
+        SA = "\x03s:\xff\xf5\xc0"
+        FA = 31141403950416
+        lA = "FFFFFF"
+        bA = {
+            Color3.fromHex("FFFFFF")
+        }
+        aA = ColorSequence.new(nA, a(bA))
+        mA = T
+        nA = reg10
+        NA = m
+        DA = reg2
+        FA = 12374903869702
+        lA = "\xe5\x97\xed\xb3\xd5\xf5\xf4"
+        bA = 6609887118964
+        UA = "Enabled"
+        bA = T
+        lA = reg10
+        FA = m
+        SA = reg2
+        oA = 7123864098469
+        DA = "T\xe47B\xdf\x17\x84\x8b\x92"
+        NA = 2303312817601
+        nA = "Draggable"
+        W = {
+            Title = "Yukio Hub",
+            Icon = "crown",
+            CornerRadius = wA,
+            StrokeThickness = 2,
+            Color = aA,
+            Enabled = true,
+            Draggable = true
+        }
+        getReg69Map = c:EditOpenButton(W)
+        H = T
+        i = reg10
+        VA = m
+        wA = reg2
+        MA = 19477762910393
+        rA = "Dq\xb6\xbd\x8a"
+        xA = 20391614275035
+        v = "Title"
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 20899330796167
+        VA = "\x8d7\xd3\xf7"
+        rA = 10320341618943
+        H = "Main"
+        getReg69Map = c.Tab
+        xA = T
+        rA = reg10
+        MA = m
+        eA = reg2
+        UA = 32471321188955
+        wA = "\xe6\xb1\xa5\xe9"
+        VA = 25112742582373
+        i = "Icon"
+        rA = T
+        VA = reg10
+        eA = m
+        UA = reg2
+        aA = 7137184678354
+        MA = "S\x9d\xdb\xcb\x017\x91Co\x12\xc1\xc9\xb9\xe5>\x8e|"
+        wA = 30550674872392
+        xA = "circle-user-round"
+        W = {
+            Title = "Main",
+            Icon = "circle-user-round"
+        }
+        getReg69Map = c:Tab(W)
+        i = T
+        xA = reg10
+        wA = m
+        MA = reg2
+        eA = 10034758194912
+        VA = "a\xca~z&"
+        rA = 23724135368342
+        H = "Title"
+        xA = T
+        rA = reg10
+        MA = m
+        eA = reg2
+        UA = 7285450822068
+        wA = "j\xf5\x05^\x14>;"
+        VA = 7057376476971
+        i = "Players"
+        rA = T
+        VA = reg10
+        eA = m
+        UA = reg2
+        aA = 17872514653352
+        MA = "\xc2\xc6>~"
+        wA = 5358126913119
+        xA = "Icon"
+        VA = T
+        wA = reg10
+        W = c.Tab
+        UA = m
+        aA = reg2
+        mA = 10250297213434
+        eA = "d\xa7\n"
+        MA = 30234492560126
+        rA = "eye"
+        v = {
+            Title = "Players",
+            Icon = "eye"
+        }
+        W = c:Tab(v)
+        v = false
+        H = 0.125
+        VA = T
+        wA = reg10
+        UA = m
+        aA = reg2
+        mA = 24665285058948
+        eA = "\xfaW\xb9R\x91"
+        MA = 24639668250349
+        rA = "Title"
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 27649739720599
+        UA = "\x1e\xc3\x7f\x83V\xc7\xb4"
+        eA = 8418474648439
+        VA = "Sheriff"
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 26281568303547
+        aA = "\x18\x15(\x18"
+        UA = 23757569615252
+        wA = "Icon"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 22924798745042
+        mA = "\x06\xb7\xed\x0f\xfd\xa8"
+        i = c.Tab
+        aA = 30196391046102
+        MA = "shield"
+        xA = {
+            Title = "Sheriff",
+            Icon = "shield"
+        }
+        i = c:Tab(xA)
+        wA = T
+        MA = reg10
+        aA = m
+        mA = reg2
+        nA = 14838715809958
+        UA = "\xdb`;GR"
+        eA = 25957128815332
+        VA = "Title"
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 32868300589600
+        aA = "\xffA\xb1\xc4\xa8\x03T-"
+        UA = 3398701947321
+        wA = "Murderer"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 24330903773952
+        mA = "\xe7#x\xa7"
+        aA = 20545698235590
+        MA = "Icon"
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 18471666764089
+        nA = "\x95\xbaP\xca\xec"
+        xA = c.Tab
+        mA = 22455619387189
+        eA = "sword"
+        rA = {
+            Title = "Murderer",
+            Icon = "sword"
+        }
+        xA = c:Tab(rA)
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 33993741944747
+        aA = "+\xbd\xdf{\xea"
+        UA = 7150934480590
+        wA = "Title"
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 14639972671890
+        mA = "&\xdf\x9a\xed-\xed\x88m^\xcdF"
+        aA = 34084004361163
+        MA = "Troll Stuff"
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 29897675553776
+        nA = "\x17\x85\xed\xf0"
+        mA = 7538724457668
+        eA = "Icon"
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 26893617158128
+        bA = "\x08\xdb\x9f\x8d\xe3"
+        nA = 10397372016615
+        UA = "laugh"
+        rA = c.Tab
+        VA = {
+            Title = "Troll Stuff",
+            Icon = "laugh"
+        }
+        rA = c:Tab(VA)
+        eA = T
+        UA = reg10
+        nA = m
+        bA = reg2
+        lA = 28594151823472
+        mA = "\x90\x00\xd2Xu"
+        aA = 31104739078073
+        MA = "Title"
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 4842783597244
+        nA = "\xdc\xfe@D\xf3\xc8\xf7b"
+        mA = 20473499633071
+        eA = "Autofarm"
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 28130160850236
+        bA = "!\x0b\xe7\xe7"
+        nA = 30266902834955
+        UA = "Icon"
+        mA = T
+        nA = reg10
+        NA = m
+        DA = reg2
+        FA = 32045438868919
+        lA = "\xcc7\x94\x9d\x85SmSLo["
+        bA = 24030730225157
+        VA = c.Tab
+        aA = "circle-play"
+        wA = {
+            Title = "Autofarm",
+            Icon = "circle-play"
+        }
+        VA = c:Tab(wA)
+        UA = T
+        aA = reg10
+        bA = m
+        lA = reg2
+        NA = 22803087462794
+        nA = "\x89\xedE\xd7\x15"
+        mA = 29207016170610
+        eA = "Title"
+        aA = T
+        mA = reg10
+        lA = m
+        NA = reg2
+        DA = 21896536697005
+        bA = "\xc0;\x8d\x05-zm:"
+        nA = 28924997679291
+        UA = "Autofarm"
+        mA = T
+        wA = VA.Paragraph
+        nA = reg10
+        NA = m
+        DA = reg2
+        FA = 12005890836461
+        lA = "3\xfaW\x94"
+        bA = 5683653852720
+        aA = "Desc"
+        nA = T
+        bA = reg10
+        DA = m
+        FA = reg2
+        SA = 9249469383537
+        NA = "\xa4$Q\x8d\x16\xa7\x04\xed7\xe0yo\xdb\x96"
+        lA = 27896034697929
+        mA = "Coming soon..."
+        MA = {
+            Title = "Autofarm",
+            Desc = "Coming soon..."
+        }
+        wA = VA:Paragraph(MA)
+        MA = T
+        eA = reg10
+        mA = m
+        nA = reg2
+        bA = 346882504630
+        aA = ".V)Q9\x9d\x1a\x8a\xb6\xc7\xa0\x17b\xe2\xe7\xf9v\xae\xc7$\xa5F\x8f1"
+        UA = 23089301211732
+        wA = "ZCNathan_Layout_V31.json"
+        reg49 = "ZCNathan_Layout_V31.json"
+        reg50 = {}
+        reg51 = true
+        bA = T
+        lA = reg10
+        FA = m
+        SA = reg2
+        oA = 21136629236796
+        DA = "\x94\xbbC\x05\x89\xbe\xa9"
+        NA = 27607132395713
+        nA = "fromRGB"
+        wA = Color3.fromRGB
+        reg53 = Color3.fromRGB(139, 0, 0)
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 20154746037517
+        FA = "\xbaz&"
+        DA = 4312725532717
+        bA = "new"
+        mA = Instance.new
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 28469813135645
+        FA = "3;Ac\x07\xfc\x8e \n"
+        DA = 30615325347289
+        bA = "ScreenGui"
+        nA = Instance.new("ScreenGui")
+        reg54 = nA
+        nA = nA
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 10034778914463
+        FA = "\x1b\xac\xb1P"
+        DA = 9439595658298
+        bA = "Name"
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 25027307957910
+        SA = "\xd9lS\xad\xdbE\xe0\"\xd4`\x8f\x80\xbb\x8c2r;\xe1o\xc1\xee"
+        FA = 19001391306817
+        lA = "ZCNathan_SelectionGui"
+        nA.Name = "ZCNathan_SelectionGui"
+        nA = nA
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 15033349010518
+        FA = ":\xf1\xf6\x0f\x9a\x93u\xd86\xad\x14\xe9"
+        DA = 7453424476025
+        bA = "ResetOnSpawn"
+        nA.ResetOnSpawn = false
+        nA = nA
+        lA = T
+        NA = reg10
+        SA = m
+        oA = reg2
+        CA = 15539374392847
+        FA = "o\xc8\xc2\xac \xd6"
+        DA = 25788809940770
+        bA = "Parent"
+        NA = reg44
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 25678520358121
+        hA = "V\x01\x03?y\xcb;\xee-"
+        CA = 70725679674
+        FA = "PlayerGui"
+        SA = reg44.WaitForChild
+        DA = {
+            reg44:WaitForChild("PlayerGui")
+        }
+        nA.Parent = p(a(DA))
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 9847488926345
+        SA = "\xb5\x8f\xa7"
+        FA = 8880595620758
+        lA = "new"
+        nA = Instance.new
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 22192405909346
+        SA = "\xee-\x13\xc3\xa1\xd6+\xcf+"
+        FA = 4942519065848
+        lA = "TextLabel"
+        bA = Instance.new("TextLabel")
+        reg55 = bA
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 17477312987503
+        SA = "\xfc\x19vl"
+        FA = 5535376528821
+        lA = "Name"
+        DA = T
+        FA = reg10
+        CA = m
+        hA = reg2
+        KA = 9924384899580
+        oA = "\x95\xbb\xe1j\x03^#\xe4\x82\xfeX\x88\x98\xfe\xa7"
+        SA = 32223233661719
+        NA = "EditStatusLabel"
+        bA.Name = "EditStatusLabel"
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 26696712789286
+        SA = "h\xd7\n\x97"
+        FA = 20485461841169
+        lA = "Size"
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 18778008270306
+        hA = "\xd4\xd2\x1d"
+        CA = 21881654010186
+        FA = "new"
+        NA = UDim2.new
+        bA.Size = UDim2.new(0, 500, 0, 50)
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 28358711202209
+        SA = "\x97\xbf\x8e(\x96\xb8\xa4g"
+        FA = 15852425381409
+        lA = "Position"
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 504775218406
+        hA = "\x96\"\xfe"
+        CA = 9171932847191
+        FA = "new"
+        NA = UDim2.new
+        bA.Position = UDim2.new(0.5, 0, .4, 0)
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 30117659129213
+        SA = "h\xdd\xfd\x89\xd1.\x0c\xf4N\xb5\xe2"
+        FA = 23147872870389
+        lA = "AnchorPoint"
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 12087347079104
+        hA = "\nf\x80"
+        CA = 15672119187562
+        FA = "new"
+        NA = Vector2.new
+        bA.AnchorPoint = Vector2.new(0.5, 0.5)
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 28576352470424
+        SA = "_mF\xf3\xf1\xb2\xf99\xd6\x8a\x00!\xb8\x91R@\x10\xdb\r\xa8F<"
+        FA = 16581808479712
+        lA = "BackgroundTransparency"
+        bA.BackgroundTransparency = 1
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 16378013768343
+        SA = "\xb3\xb7\x1f*p\x0e\xda"
+        FA = 14996134601145
+        lA = "Visible"
+        bA.Visible = false
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 12862578427972
+        SA = "3<\x99|"
+        FA = 32489733748089
+        lA = "Font"
+        oA = T
+        CA = reg10
+        gA = m
+        IA = reg2
+        EA = 30808433532857
+        KA = "\x01\x10\x86\xdb"
+        hA = 5266640319511
+        SA = "Font"
+        DA = Enum.Font
+        SA = T
+        oA = reg10
+        KA = m
+        gA = reg2
+        IA = 25653651821083
+        hA = "%jbZ\x8b\xef\xb2\x8b\xb1\x0e"
+        CA = 7462814543193
+        FA = "GothamBold"
+        NA = Enum.Font.GothamBold
+        bA.Font = Enum.Font.GothamBold
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 2177502126356
+        SA = "Y\xfd\xde>v\xaf\xe3\\\x7f\x0e"
+        FA = 6765990623238
+        lA = "TextColor3"
+        NA = reg53
+        bA.TextColor3 = reg53
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 33552778477990
+        SA = "\xc4>`\xc9\xee$$\xef"
+        FA = 17560562163425
+        lA = "TextSize"
+        bA.TextSize = 22
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 3118667406902
+        SA = "\xa6\x05k\xd8~\xd7vK\xac\xaa\x844\x9dUx\xf6\xba`\x18nPp"
+        FA = 15436413977663
+        lA = "TextStrokeTransparency"
+        bA.TextStrokeTransparency = 0.5
+        bA = bA
+        NA = T
+        DA = reg10
+        oA = m
+        CA = reg2
+        hA = 22469336693432
+        SA = "c\x81\xa4>/J"
+        FA = 27812980148669
+        local function DA(...)
+            m = isfile(reg49)
+            if m then
+                local function N(...)
+                    N = {
+                        readfile(reg49)
+                    }
+                    m = {
+                        reg40:JSONDecode(a(N))
+                    }
+                    return a(m)
+                end
+                D = {
+                    pcall(N)
+                }
+                m = pcall(N)
+                N = m
+                b = D[2]
+                if m then
+                    A = reg50
+                    F = (105)[3]
+                    A = (105)[1]
+                    for F, f in (105)[1], ipairs((105)[1]) do
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        g = 8074057440305
+                        p = reg2
+                        J = "\xe7\xfb+\xa4"
+                        Z = 8074057440305
+                        t = "\xd6u\"\x8a"
+                        G = 7554480645571
+                        j = "Name"
+                        successNotify = f.Name
+                        vAlias = D[2][f.Name]
+                        if D[2][f.Name] then
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 31265082460213
+                            t = "<\x9aH\xed"
+                            G = 5305987440148
+                            j = "Name"
+                            successNotify = f.Name
+                            vAlias = D[2][f.Name]
+                            successNotify = D[2][f.Name]
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 1919092162052
+                            G = "j]\xdb\xfa\x15\x1d#\xf7"
+                            Q = 19468077633968
+                            vAlias = "Position"
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 13324547618862
+                            p = "cN\x12"
+                            Y = 34877778746342
+                            Q = "new"
+                            j = UDim2.new
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 21661318091049
+                            Z = "\xbdP\xed\xbeV\x10\xc0\xa8^}"
+                            p = 8965044933246
+                            G = "PosX_Scale"
+                            Q = D[2][f.Name].PosX_Scale
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 16963577479415
+                            J = "\x15]\xeb\x19\xb3\xdeOv\xf0\x18\xd0"
+                            Z = 31585367147027
+                            t = "PosX_Offset"
+                            G = D[2][f.Name].PosX_Offset
+                            p = reg11
+                            Z = reg10
+                            k = reg1
+                            T = reg2
+                            y = 30643757695228
+                            g = "\xe5[\x17\x88\x80\r\xc5G>Q"
+                            J = 25394645040903
+                            Y = "PosY_Scale"
+                            t = D[2][f.Name].PosY_Scale
+                            Z = reg11
+                            J = reg10
+                            T = reg1
+                            y = reg2
+                            X = 29175284638732
+                            k = "\x9d\xf3Q\x11#\x11\x94\r\xe6\xa94"
+                            g = 14606685860811
+                            p = "PosY_Offset"
+                            Y = D[2][f.Name].PosY_Offset
+                            f.Position = UDim2.new(D[2][f.Name].PosX_Scale, D[2][f.Name].PosX_Offset, D[2][f.Name].PosY_Scale, D[2][f.Name].PosY_Offset)
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 3786382383210
+                            G = "z\x85\xfc\xb3"
+                            Q = 31890367026530
+                            vAlias = "Size"
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 29320509641884
+                            p = "C\xbc\xcb\x17b\x03\x15\xf8Lm"
+                            Y = 2009048713714
+                            Q = "fromOffset"
+                            j = UDim2.fromOffset
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 17512406602469
+                            Z = "\xd4\xf6\xb1\xa4\xd0"
+                            p = 31961819757721
+                            G = "SizeX"
+                            Q = successNotify.SizeX
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 18449040954792
+                            J = "\xf7J\x0eM\xfa"
+                            Z = 16137564470142
+                            t = "SizeY"
+                            G = successNotify.SizeY
+                            f.Size = UDim2.fromOffset(successNotify.SizeX, successNotify.SizeY)
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 4245809900515
+                            G = "\xf7\xc2\xd7Z\xf22CU\x1b\x0c\x10\xb7\xce\xf8L\xbbZ\xe7\x00\xa8\x93\x94"
+                            Q = 10943424226125
+                            vAlias = "BackgroundTransparency"
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 29496418634932
+                            Y = "\x93?\xfbJ\xd4\xaee\x99\xf2\xf5\xf66"
+                            t = 6281168492262
+                            z = "Transparency"
+                            j = successNotify.Transparency
+                            f.BackgroundTransparency = successNotify.Transparency
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 26406518727889
+                            G = "\xaf\xe8\xb3\x7f\xde6V\xec\xb9\\)Q\xd8Q\x80\xce"
+                            Q = 28221294050567
+                            vAlias = "TextTransparency"
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 15690381602146
+                            Y = "\x1bV\xf4\xf8\x16Y\xc1\xa2$\xc6\xf3p"
+                            t = 13038717322106
+                            z = "Transparency"
+                            j = successNotify.Transparency
+                            f.TextTransparency = successNotify.Transparency
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 18284979513933
+                            t = "\xb57`\x8a\x82\x1c\xc9\x08"
+                            G = 1309718925388
+                            j = "UIStroke"
+                            vAlias = f.UIStroke
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 28787883050322
+                            t = "\xd0\x98\x1b\xd3\xf8\x1d\x04S'\xccGO"
+                            G = 31791573461188
+                            j = "Transparency"
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 16393312613369
+                            p = "\x94L\xf3Q\tdJQ9\x8b\xaeQ"
+                            Y = 30929471115249
+                            Q = "Transparency"
+                            z = successNotify.Transparency
+                            vAlias.Transparency = successNotify.Transparency
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 8036238235907
+                            t = "E\xe3\xdb!\xa2g(4"
+                            G = 25855473150415
+                            j = "UICorner"
+                            vAlias = f.UICorner
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 2781704660978
+                            t = "Z\x19F\x80\xba\x82\xdf\xf67\xb3\x03\xb1"
+                            G = 17544038466163
+                            j = "CornerRadius"
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 34259746183311
+                            Z = ";\xc4\x87"
+                            p = 24551554941228
+                            G = "new"
+                            z = UDim.new
+                            Z = reg11
+                            t = f.UICorner
+                            J = reg10
+                            T = reg1
+                            y = reg2
+                            X = 25312700983708
+                            k = "=\xfd\x83\x8f\xb9\x08NH\xb5)M"
+                            g = 9439985711934
+                            p = "CornerScale"
+                            Y = successNotify.CornerScale
+                            G = successNotify.CornerScale or 1
+                            J = reg11
+                            g = reg10
+                            y = reg1
+                            Y = f.UICorner
+                            X = reg2
+                            P = 17065567056275
+                            T = "\x130\x98$\xaa'\x10\xbeM\xd2d"
+                            k = 11646966770354
+                            Z = "CornerOffse"
+                            p = successNotify.CornerOffse
+                            t = successNotify.CornerOffse or 0
+                            vAlias.CornerRadius = UDim.new(successNotify.CornerScale or 1, successNotify.CornerOffse or 0)
+                        end
+                    end
+                end
+            end
+        end
+        lA = "Parent"
+        NA = reg54
+        bA.Parent = reg54
+        local function bA(...)
+            m = EditMode
+            if EditMode then
+                b = reg52
+                m = reg52
+            end
+            if m then
+                vAlias = reg55
+                b = reg11
+                N = reg10
+                A = reg1
+                q = reg2
+                f = 25680787345412
+                F = "\x9f\xf9\xd6p"
+                D = 25930537059811
+                m = "Text"
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 10984467337467
+                f = "}!\xd6\x87x\x1f"
+                q = 26797157253764
+                D = "format"
+                b = string.format
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 707006573705
+                f = "\x7f\x11\x9e\xd7^\xfd\xd9|\xbf\xcd\xa9"
+                q = 3081204211591
+                D = "EDITING: %s"
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 14717794708534
+                z = "\xd7\x15\xedb "
+                j = 7115720755303
+                q = "upper"
+                F = string.upper
+                f = reg52
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 5851721026732
+                G = "\x05\xb2\x19O"
+                Q = 19381129737114
+                successNotify = "Name"
+                q = reg52.Name
+                A = {
+                    string.upper(reg52.Name)
+                }
+                reg55.Text = string.format("EDITING: %s", a(A))
+                vAlias = reg55
+                b = reg11
+                N = reg10
+                A = reg1
+                q = reg2
+                f = 3602501049169
+                F = "ks-\xff\xf2\xf0t"
+                D = 26215447734449
+                m = "Visible"
+                reg55[reg11[26215447734449]] = true
+            else
+                vAlias = reg55
+                b = reg11
+                N = reg10
+                A = reg1
+                q = reg2
+                f = 16484537281680
+                F = "\x9bw~\xca\xf8b\x84"
+                D = 18060003802042
+                m = "Visible"
+                reg55[reg11[18060003802042]] = false
+            end
+        end
+        local function NA(secondaryM, ...)
+            reg56 = secondaryM
+            reg57 = false
+            m = secondaryM
+            A = "InputBegan"
+            local function onInputBegan(input, ...)
+                reg60 = input
+                if not reg51 then
+                    return
+                end
+                onInputBegan = Enum.UserInputType
+                N = input.UserInputType == Enum.UserInputType.MouseButton1
+                m = input.UserInputType == Enum.UserInputType.MouseButton1
+                if not (input.UserInputType == Enum.UserInputType.MouseButton1) then
+                    F = input
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 20221145566643
+                    j = "?\xaf\xbe?\xee\xbc\xb3\x87\xbf\xfa(\xbc*"
+                    successNotify = 20391801262347
+                    onInputBegan = "UserInputType"
+                    D = input.UserInputType
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 23125275345170
+                    Q = "\x11\xc8\x0eYI?\xf1\xe5\xb5\"<\xd2q"
+                    z = 24839949655681
+                    f = "UserInputType"
+                    onInputBegan = Enum.UserInputType
+                    f = reg11
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 28106115680336
+                    z = "\x06\x84\x80\xbe\x0b"
+                    j = 7035944575525
+                    q = "Touch"
+                    F = Enum.UserInputType.Touch
+                    N = input.UserInputType == Enum.UserInputType.Touch
+                    m = input.UserInputType == Enum.UserInputType.Touch
+                end
+                if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                    reg57 = true
+                    N = input
+                    F = reg11
+                    onInputBegan = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 16742213328180
+                    f = ".\xd1'3\x06\\Y\xaa"
+                    q = 10856121697549
+                    D = "Position"
+                    m = input.Position
+                    reg58 = input.Position
+                    D = reg56
+                    onInputBegan = reg11
+                    q = reg10
+                    j = reg1
+                    z = reg2
+                    Q = 34754054834352
+                    successNotify = ",\xbd9}\xd6\xdfH\xa8"
+                    f = 1304049938669
+                    F = "Position"
+                    N = reg56.Position
+                    reg59 = reg56.Position
+                    F = input
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 21221689561422
+                    j = "\x0ew\xf83\xa3\xe9\xa2"
+                    successNotify = 22428643001867
+                    onInputBegan = "Changed"
+                    D = input.Changed
+                    F = input.Changed.Connect
+                    local function onChanged(...)
+                        m = reg60.UserInputState
+                        N = Enum.UserInputState
+                        if reg60.UserInputState == Enum.UserInputState.End then
+                            reg57 = false
+                            b = reg47
+                            D = reg11
+                            F = reg10
+                            f = reg1
+                            successNotify = reg2
+                            j = 32993218185076
+                            q = "\xc9R\xc2J=K\xe4"
+                            onChanged = 7716069198719
+                            N = "Buttons"
+                            m = reg47.Buttons
+                            N = reg56
+                            F = reg11
+                            onChanged = reg10
+                            successNotify = reg1
+                            j = reg2
+                            z = 15650362464095
+                            f = "\x90\x8aH^"
+                            q = 25032494794455
+                            D = "Name"
+                            b = reg56.Name
+                            F = reg11
+                            onChanged = reg10
+                            successNotify = reg1
+                            j = reg2
+                            z = 3537733974896
+                            f = "\x98\xfe_\xac\xb2\xdd"
+                            q = 28077463237690
+                            D = "XScale"
+                            f = reg56
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 4900129931892
+                            G = "\x99\xb1\xcd&\x11\x0c\xe0\xb4"
+                            Q = 23454323862309
+                            successNotify = "Position"
+                            q = reg56.Position
+                            successNotify = reg11
+                            j = reg10
+                            G = reg1
+                            t = reg2
+                            Y = 3949107235552
+                            Q = "\x05"
+                            z = 6010601035808
+                            f = "X"
+                            onChanged = reg56.Position.X
+                            f = reg11
+                            successNotify = reg10
+                            Q = reg1
+                            G = reg2
+                            t = 27015703841196
+                            z = "gP>\xe0\xb7"
+                            j = 3504837443790
+                            q = "Scale"
+                            F = reg56.Position.X.Scale
+                            q = reg11
+                            f = reg10
+                            z = reg1
+                            Q = reg2
+                            G = 8803543068327
+                            j = "S\xff\xe5\x00\xe8^\x95"
+                            successNotify = 1832094676033
+                            onChanged = "XOffset"
+                            j = reg56
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 23933950331571
+                            Y = "C\x81\xf5\xa5?tF\xe6"
+                            t = 25707302528827
+                            z = "Position"
+                            successNotify = reg56.Position
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 25120859844951
+                            t = "%"
+                            G = 29270200719464
+                            j = "X"
+                            f = reg56.Position.X
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 2240615644184
+                            G = "\xe1\xc2T\x7f\xf9o"
+                            Q = 17537727878554
+                            successNotify = "Offset"
+                            q = reg56.Position.X.Offset
+                            successNotify = reg11
+                            j = reg10
+                            G = reg1
+                            t = reg2
+                            Y = 15623480531005
+                            Q = "F\xa7\x88\xecY\x0f"
+                            z = 31735984373672
+                            f = "YScale"
+                            Q = reg56
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 21166329757899
+                            Z = ".\xcaw7\x8a\x8e\xbeq"
+                            p = 16435128138318
+                            G = "Position"
+                            z = reg56.Position
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 8221877144988
+                            p = "\x83"
+                            Y = 20844707570596
+                            Q = "Y"
+                            j = reg56.Position.Y
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 14375253515591
+                            Y = "\xc1\x14$\x15\xa9"
+                            t = 31507080731537
+                            z = "Scale"
+                            successNotify = reg56.Position.Y.Scale
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 15466695724445
+                            t = " #\x0b\xd6\x1dy\xc2"
+                            G = 23320282212154
+                            j = "YOffset"
+                            t = reg56
+                            p = reg11
+                            Z = reg10
+                            k = reg1
+                            T = reg2
+                            y = 30040582558111
+                            g = "4\x02\xca\xd3V\x8e\xd2\xe5"
+                            J = 19207528953779
+                            Y = "Position"
+                            G = reg56.Position
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 1245508259270
+                            J = "\xb9"
+                            Z = 8160036135494
+                            t = "Y"
+                            Q = reg56.Position.Y
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 27112848204665
+                            Z = "\x1a\x94\xf5\xb3;\x84"
+                            p = 21169111160973
+                            G = "Offset"
+                            z = reg56.Position.Y.Offset
+                            N = {
+                                XScale = reg56.Position.X.Scale,
+                                XOffset = reg56.Position.X.Offset,
+                                YScale = reg56.Position.Y.Scale,
+                                YOffset = reg56.Position.Y.Offset
+                            }
+                            m[reg56.Name] = N
+                            m = reg48
+                            b = reg48()
+                        end
+                    end
+                    F = input.Changed:Connect(onChanged)
+                end
+            end
+            m = secondaryM.InputBegan:Connect(onInputBegan)
+            local function onInputChanged(secondaryV, ...)
+                if not (secondaryV.UserInputType == Enum.UserInputType.MouseMovement) then
+                    onInputChanged = reg11
+                    q = reg10
+                    j = reg1
+                    z = reg2
+                    Q = 13075469078689
+                    successNotify = "}k?&\xe9\xfb\xd4\xa4W\xd5s\xef "
+                    f = 24950999665048
+                    F = "UserInputType"
+                    D = secondaryV.UserInputType
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 29699654798539
+                    Q = "@)\x96;\xcfe\x9bd\xa2\xc3hh\xf8"
+                    z = 29623457174291
+                    f = "UserInputType"
+                    onInputChanged = Enum.UserInputType
+                    f = reg11
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 5191687261422
+                    z = "\xfa\xb6\xa6\xd1&"
+                    j = 15932803833313
+                    q = "Touch"
+                    F = Enum.UserInputType.Touch
+                    N = secondaryV.UserInputType == Enum.UserInputType.Touch
+                    m = secondaryV.UserInputType == Enum.UserInputType.Touch
+                end
+                if secondaryV.UserInputType == Enum.UserInputType.MouseMovement then
+                    vAlias = secondaryV
+                    dragInput = secondaryV
+                end
+            end
+            m = secondaryM.InputChanged:Connect(onInputChanged)
+            m = reg41
+            local function updateIntegerToBytesPosition(input, ...)
+                m = reg57
+                if reg57 then
+                    m = input == dragInput
+                end
+                if m then
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 28730890285998
+                    q = "\xe8G\x96\x1c\xea\x91\xfe\xbc"
+                    updateIntegerToBytesPosition = 32917757457940
+                    N = "Position"
+                    m = input.Position
+                    N = reg58
+                    vAlias = input.Position - reg58
+                    N = input.Position - reg58
+                    vAlias = reg56
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 25559360977638
+                    q = "4Vr`\xf9\xb1\xab\xbf"
+                    updateIntegerToBytesPosition = 31355230169586
+                    m = "Position"
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 18915594922298
+                    j = "\x157#"
+                    successNotify = 18221022356128
+                    updateIntegerToBytesPosition = "new"
+                    D = UDim2.new
+                    f = reg59
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 23745910526092
+                    G = "\xa7"
+                    Q = 12974125584197
+                    successNotify = "X"
+                    q = reg59.X
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 10870474741576
+                    Q = "\x0c\xa2\x19\xbe\xf4"
+                    z = 23288741992718
+                    f = "Scale"
+                    updateIntegerToBytesPosition = reg59.X.Scale
+                    j = reg59
+                    Q = reg11
+                    G = reg10
+                    p = reg1
+                    Z = reg2
+                    J = 18505505636311
+                    Y = "\xfb"
+                    t = 14621087778981
+                    z = "X"
+                    successNotify = reg59.X
+                    z = reg11
+                    Q = reg10
+                    Y = reg1
+                    p = reg2
+                    Z = 21191144786331
+                    t = "y\x18E\xfdR\xea"
+                    G = 34011026468387
+                    j = "Offset"
+                    f = reg59.X.Offset
+                    z = reg11
+                    Q = reg10
+                    Y = reg1
+                    p = reg2
+                    Z = 26982470788429
+                    t = "\xa8"
+                    G = 23029122864513
+                    j = "X"
+                    successNotify = (input.Position - reg58).X
+                    q = reg59.X.Offset + (input.Position - reg58).X
+                    j = reg59
+                    Q = reg11
+                    G = reg10
+                    p = reg1
+                    Z = reg2
+                    J = 17048212500005
+                    Y = "\xbb"
+                    t = 22059897378109
+                    z = "Y"
+                    successNotify = reg59.Y
+                    z = reg11
+                    Q = reg10
+                    Y = reg1
+                    p = reg2
+                    Z = 15685390447501
+                    t = "L\x9f\xc4\x956"
+                    G = 17184844931097
+                    j = "Scale"
+                    f = reg59.Y.Scale
+                    Q = reg59
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 28972048413079
+                    Z = "\xd8"
+                    p = 33388785900866
+                    G = "Y"
+                    z = reg59.Y
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 12550878534677
+                    p = "e\xcd\xe1\xa6xF"
+                    Y = 19527367045191
+                    Q = "Offset"
+                    j = reg59.Y.Offset
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 29378763515623
+                    p = "\xc9"
+                    Y = 1615945231679
+                    Q = "Y"
+                    z = (input.Position - reg58).Y
+                    successNotify = reg59.Y.Offset + (input.Position - reg58).Y
+                    reg56.Position = UDim2.new(reg59.X.Scale, reg59.X.Offset + (input.Position - reg58).X, reg59.Y.Scale, reg59.Y.Offset + (input.Position - reg58).Y)
+                end
+            end
+            m = reg41.InputChanged:Connect(updateIntegerToBytesPosition)
+        end
+        reg61 = NA
+        local function FA(name, position, aText, secondaryReg, ...)
+            reg62 = secondaryReg
+            A = Instance.new("TextButton")
+            A.Name = name
+            A.Size = UDim2.fromOffset(70, 70)
+            A.Position = position
+            A.AnchorPoint = Vector2.new(0.5, 0.5)
+            A.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+            A.BackgroundTransparency = .4
+            A.Visible = false
+            A.Text = aText
+            A.TextColor3 = Color3.fromRGB(255, 255, 255)
+            Y = 31197078324654
+            A.Font = Enum.Font.GothamMedium
+            A.TextScaled = true
+            A.Parent = reg54
+            q = Instance.new("UICorner", A)
+            f = reg11
+            p = 7822493677922
+            t = 7822493677922
+            Q = 30234608599882
+            j = 30234608599882
+            m = "Shoot_Btn"
+            vAlias = name == "Shoot_Btn"
+            if name == "Shoot_Btn" then
+                m = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 20266475830373
+                j = "\xddL\xa4\x12"
+                successNotify = 31589088440697
+                vAlias = "Size"
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 2839222345681
+                G = "\x9b\x7f?\xc5<\xe7\xa9\x1e\xf7u"
+                Q = 33528030744655
+                successNotify = "fromOffset"
+                m = UDim2.fromOffset
+                A.Size = UDim2.fromOffset(130, 80)
+                m = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 2312414061965
+                j = "S\xa7\xe6\x91O\xf5\xfa\x07\x08J\x8a\x17"
+                successNotify = 32100981770291
+                vAlias = "CornerRadius"
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 10919550457703
+                G = "F\x1d2"
+                Q = 27957924324388
+                successNotify = "new"
+                m = UDim.new
+                q.CornerRadius = UDim.new(140, 55)
+                m = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 22031423229105
+                j = "6\x9dMmv\xe8r\xa6\xae\xd7"
+                successNotify = 20188510393154
+                vAlias = "TextScaled"
+                A.TextScaled = false
+                m = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 24735654199209
+                j = "\xeb|\xf7\xa1\x02\xda-\x0c"
+                successNotify = 14415057869875
+                vAlias = "TextSize"
+                A.TextSize = 17
+            else
+                f = reg11
+                successNotify = reg10
+                p = 15357972924037
+                Y = "\x18\xb2\xe6D\x18\x95\xacX\xccW*\xb5\x9f"
+                Q = reg1
+                G = reg2
+                t = 15357972924037
+                z = "\xf3_\xaf\xee\x8b\x8fk\xecV\xb7\xdeB\xd2"
+                Q = 16873474109465
+                j = 16873474109465
+                m = "Invisible_Btn"
+                vAlias = name == "Invisible_Btn"
+                if name == "Invisible_Btn" then
+                    m = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 30206024514610
+                    j = "\x7f5j\x97"
+                    successNotify = 13115786966408
+                    vAlias = "Size"
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 3321085496319
+                    G = "I\xcb\x91\xbb2\xa3d\x95]%"
+                    Q = 17920216431803
+                    successNotify = "fromOffset"
+                    m = UDim2.fromOffset
+                    A.Size = UDim2.fromOffset(50, 50)
+                    m = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 7734085018546
+                    j = "\xc61\x15,\xdb\x1f\xc0\xd6\x1d-\"M"
+                    successNotify = 14312545018814
+                    vAlias = "CornerRadius"
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 290073066926
+                    G = "\xc8\xfe`"
+                    Q = 22414404553228
+                    successNotify = "new"
+                    m = UDim.new
+                    q.CornerRadius = UDim.new(1, 0)
+                else
+                    f = reg11
+                    p = 12074665010800
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 12074665010800
+                    z = "\x0c\xeak>\x7f\xa8\x0c"
+                    Q = 5801148429908
+                    j = 5801148429908
+                    m = "Gun_Btn"
+                    vAlias = name == "Gun_Btn"
+                    if name == "Gun_Btn" then
+                        m = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 31093066231692
+                        j = "\xe7 Y\x1b"
+                        successNotify = 21995739858334
+                        vAlias = "Size"
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 26112077719876
+                        G = "\xc1\x86\x18Xg\x90\x10\x10\x00\x83"
+                        Q = 30108592092089
+                        successNotify = "fromOffset"
+                        m = UDim2.fromOffset
+                        A.Size = UDim2.fromOffset(50, 50)
+                        m = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 6407751275741
+                        j = "\x8d\xfb\x16$\xf5\xfeG\x97{\xeeX\xdf"
+                        successNotify = 27670493229669
+                        vAlias = "CornerRadius"
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 17893195611656
+                        G = "d\x8d>"
+                        Q = 20431101551063
+                        successNotify = "new"
+                        m = UDim.new
+                        q.CornerRadius = UDim.new(1, 0)
+                        m = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 985630674469
+                        j = ")\x961)\x01\xcf\x8a0\xc0K"
+                        successNotify = 15146544221696
+                        vAlias = "TextScaled"
+                        A.TextScaled = false
+                        m = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 24552072915963
+                        j = "\x1a\xa3z\xb1\xd2q\xa6\xb5"
+                        successNotify = 21955133414185
+                        vAlias = "TextSize"
+                        A.TextSize = 11
+                    else
+                        p = 15050120342639
+                        f = reg11
+                        successNotify = reg10
+                        Y = "$\xebE\xf8\xe37\xc9n\x18\xff\xac"
+                        Q = reg1
+                        G = reg2
+                        t = 15050120342639
+                        z = "O\xa4g\xc2c\x83\xc41\xee\xf9\x88"
+                        Q = 34935757085993
+                        j = 34935757085993
+                        m = "KillAll_Btn"
+                        vAlias = name == "KillAll_Btn"
+                        if name == "KillAll_Btn" then
+                            m = reg11
+                            f = reg10
+                            z = reg1
+                            Q = reg2
+                            G = 5398192815599
+                            j = "\x02,=U"
+                            successNotify = 4551434105893
+                            vAlias = "Size"
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 26468363130467
+                            G = "r\xe6[\x83m\"\xcb\x1eT\x9e"
+                            Q = 25225786691476
+                            successNotify = "fromOffset"
+                            m = UDim2.fromOffset
+                            A.Size = UDim2.fromOffset(85, 40)
+                            m = reg11
+                            f = reg10
+                            z = reg1
+                            Q = reg2
+                            G = 14520294221635
+                            j = "\xba\x83\xb6\x17\xda\x17\xc9w\xd7Y0C"
+                            successNotify = 6371494089074
+                            vAlias = "CornerRadius"
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 23781369364745
+                            G = "\xa3\xfb\xca"
+                            Q = 13024183427248
+                            successNotify = "new"
+                            m = UDim.new
+                            q.CornerRadius = UDim.new(1, 0)
+                        end
+                        successNotify = reg11
+                        j = reg10
+                        G = reg1
+                        t = reg2
+                        Y = 3876880118865
+                        Q = "C(T"
+                        z = 6807680427614
+                        f = "new"
+                        vAlias = Instance.new
+                        successNotify = reg11
+                        j = reg10
+                        G = reg1
+                        t = reg2
+                        Y = 15648089465424
+                        Q = "a=\xcbsN_\xfa?"
+                        z = 16406308836285
+                        f = "UIStroke"
+                        f = Instance.new("UIStroke", A)
+                        m = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 24149198968773
+                        z = "Pf\xb90\xca\x8a5\xe8\xa5"
+                        j = 13134936967334
+                        vAlias = "Thickness"
+                        f.Thickness = 3
+                        m = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 231141471258
+                        z = "q\xd7_\xf6\xe7\x98\x14\xb9\xcdH\xea0\xf8\xf8\xaa"
+                        j = 7852782278741
+                        vAlias = "ApplyStrokeMode"
+                        Q = reg11
+                        G = reg10
+                        p = reg1
+                        Z = reg2
+                        J = 32899732551074
+                        Y = "u\xe0;\xad\xb2\x86\x18\x89Z.'O\x08\x18\xf8"
+                        t = 20401332996757
+                        z = "ApplyStrokeMode"
+                        successNotify = Enum.ApplyStrokeMode
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 10389006141651
+                        t = "C|\x9f\xae\x1e\xaf"
+                        G = 33056607994454
+                        j = "Border"
+                        m = Enum.ApplyStrokeMode.Border
+                        f.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                        m = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 20805769985091
+                        z = "r\xb1\xda\x01\xc0"
+                        j = 1356731212467
+                        vAlias = "Color"
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 13158999740299
+                        t = "\xca{\xaf\n\xf7\x94"
+                        G = 16107289493584
+                        j = "fromRG"
+                        m = Color3.fromRG
+                        f.Color = Color3.fromRG(255, 255, 255)
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 23074587306006
+                        G = "\x7f\xbb\xea"
+                        Q = 2482137406009
+                        successNotify = "new"
+                        vAlias = Instance.new
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 27106741739566
+                        G = "R\xba\xe1\xff\xfd3\xda0\x8e\x94"
+                        Q = 31663426460348
+                        successNotify = "UIGradient"
+                        m = Instance.new("UIGradient", f)
+                        reg63 = m
+                        vAlias = m
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 5184455017910
+                        G = "\xf9Z\xac\xd6\x08"
+                        Q = 3637477259110
+                        m = "Color"
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 498446549961
+                        p = "\x82\xaf\xd0"
+                        Y = 30077325921723
+                        Q = "new"
+                        j = ColorSequence.new
+                        p = reg11
+                        Z = reg10
+                        k = reg1
+                        T = reg2
+                        y = 9613459663358
+                        g = "T\xf5\xb7"
+                        J = 17761617905883
+                        Y = "new"
+                        G = ColorSequenceKeypoint.new
+                        p = reg53
+                        t = ColorSequenceKeypoint.new(0, reg53)
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 24636712919998
+                        k = "\x02Py"
+                        g = 24223456011004
+                        p = "new"
+                        G = ColorSequenceKeypoint.new
+                        k = reg11
+                        T = reg10
+                        P = reg1
+                        reg69UpdateF = reg2
+                        getReg69Map = 14011134685141
+                        X = "\xa8xI\xfet\x1f\xcd"
+                        y = 31906163042671
+                        g = "fromRGB"
+                        Z = Color3.fromRGB
+                        J = {
+                            Color3.fromRGB(255, 255, 255)
+                        }
+                        Y = ColorSequenceKeypoint.new(0.5, a(J))
+                        J = reg11
+                        g = reg10
+                        y = reg1
+                        X = reg2
+                        P = 19007653425185
+                        T = "\xe36\xde"
+                        y = 21199289964061
+                        k = 21199289964061
+                        Z = "new"
+                        G = ColorSequenceKeypoint.new
+                        J = reg53
+                        p = {
+                            ColorSequenceKeypoint.new(1, reg53)
+                        }
+                        Q = {
+                            t,
+                            Y,
+                            a(p)
+                        }
+                        vAlias.Color = ColorSequence.new(Q)
+                        m = reg42
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 21471322126231
+                        t = "$\" \xa2\x14CL\xc7\x12\xcb\x81S\xc5"
+                        G = 32753848901185
+                        j = "RenderStepped"
+                        vAlias = reg42.RenderStepped
+                        local function updateIntegerToBytesRotation(rotationNumber, ...)
+                            reg63.Rotation = (reg63.Rotation + 180 * rotationNumber) % 360
+                        end
+                        m = reg42.RenderStepped.Connect
+                        m = reg42.RenderStepped:Connect(updateIntegerToBytesRotation)
+                        updateIntegerToBytesRotation = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 17421783878393
+                        G = "t\x1d\x18N\xf5\xce\x95\xbe\xd4\x9d\xd1\r\xc0(\r\x8e\xc1"
+                        Q = 24007554479632
+                        m = "MouseButton1Click"
+                        local function updateIntegerToBytesRotation(...)
+                            if not EditMode then
+                                vAlias = reg62
+                                m = reg62()
+                            end
+                        end
+                        vAlias = A.MouseButton1Click
+                        m = A.MouseButton1Click.Connect
+                        m = A.MouseButton1Click:Connect(updateIntegerToBytesRotation)
+                        vAlias = reg61
+                        m = reg61(A)
+                        updateIntegerToBytesRotation = reg47
+                        Q = reg11
+                        G = reg10
+                        p = reg1
+                        Z = reg2
+                        J = 24221528486074
+                        Y = "\xa63\xabX\xcbm\x97"
+                        g = "\x03\xe94\x1f"
+                        t = 6261097912770
+                        z = "Buttons"
+                        m = reg47.Buttons
+                        Q = reg11
+                        G = reg10
+                        k = 14465140308011
+                        p = reg1
+                        Z = reg2
+                        J = 14465140308011
+                        Y = "\xb2\x19\xec\x8b"
+                        p = 17541183472846
+                        t = 17541183472846
+                        z = "Name"
+                        updateIntegerToBytesRotation = A.Name
+                        vAlias = reg47.Buttons[A.Name]
+                        if reg47.Buttons[A.Name] then
+                            updateIntegerToBytesRotation = reg47
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 33915698644788
+                            Y = "\x87\xdb\xfa\xb0\xf5\xc9\xae"
+                            t = 12419265613896
+                            z = "Buttons"
+                            m = reg47.Buttons
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 6301818077635
+                            Y = "\x12\xca\xe3G"
+                            t = 33807884066598
+                            z = "Name"
+                            updateIntegerToBytesRotation = A.Name
+                            vAlias = reg47.Buttons[A.Name]
+                            updateIntegerToBytesRotation = reg47.Buttons[A.Name]
+                            m = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 8604829997812
+                            G = "\xe2R\xd9\x90\xd7#6\xaa"
+                            Q = 11927201378960
+                            vAlias = "Position"
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 23383902172580
+                            p = "\x9d#|"
+                            Y = 26168127775079
+                            Q = "new"
+                            m = UDim2.new
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 3610489466939
+                            Z = "\xa6\x18\xdc\x92\xd8\x17"
+                            p = 23652786317048
+                            G = "XScale"
+                            Q = reg47.Buttons[A.Name].XScale
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 20249634383367
+                            J = "\x93\x9e\xb5#\xb4\x16\x19"
+                            Z = 25169814644082
+                            t = "XOffset"
+                            G = reg47.Buttons[A.Name].XOffset
+                            p = reg11
+                            Z = reg10
+                            k = reg1
+                            T = reg2
+                            y = 3048489867450
+                            g = "b\xb1\\\x12XE"
+                            J = 30346858166991
+                            Y = "YScale"
+                            t = reg47.Buttons[A.Name].YScale
+                            Z = reg11
+                            J = reg10
+                            T = reg1
+                            y = reg2
+                            X = 31993819903762
+                            k = "5)Z\xf1\x86\x02"
+                            g = 33609581162393
+                            p = "YOffse"
+                            Y = reg47.Buttons[A.Name].YOffse
+                            A.Position = UDim2.new(reg47.Buttons[A.Name].XScale, reg47.Buttons[A.Name].XOffset, reg47.Buttons[A.Name].YScale, reg47.Buttons[A.Name].YOffse)
+                        end
+                        m = table
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 9176665219224
+                        t = "d\xb0R=B\xd5"
+                        G = 17463508859397
+                        updateIntegerToBytesRotation = "insert"
+                        vAlias = table.insert
+                        updateIntegerToBytesRotation = reg50
+                        m = table.insert(reg50, A)
+                        return A
+                    end
+                end
+            end
+        end
+        local function NA(...)
+            for D, q in ipairs(m) do
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 16672934906218
+                G = "\x8d\xf5\xbbU\x9c\x81R\x8b"
+                Q = 8970208942437
+                successNotify = "UICorner"
+                f = q.UICorner
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 7307051591940
+                G = "A\xe44\x06u\xb4\x01te\xdf\x9e]"
+                Q = 30816303286661
+                successNotify = "CornerRadius"
+                vAlias = q.UICorner.CornerRadius
+                f = q.UICorner.CornerRadius
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 7829989464338
+                G = "T;c\xdf"
+                Q = 19528362928032
+                successNotify = "Name"
+                vAlias = q.Name
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 3258389890255
+                t = "n\x83\x14\x0f\x12\tsRc\x8f"
+                G = 33097348028485
+                j = "PosX_Scale"
+                Y = reg11
+                p = reg10
+                g = reg1
+                k = reg2
+                T = 26232141555008
+                J = "H\xc9@\xa0\x89\x1f\xc2*"
+                Z = 2543952203680
+                t = "Position"
+                G = q.Position
+                Y = reg11
+                p = reg10
+                g = reg1
+                k = reg2
+                T = 7453372875299
+                J = "\xc7"
+                Z = 941819201394
+                t = "X"
+                Q = q.Position.X
+                t = reg11
+                Y = reg10
+                J = reg1
+                g = reg2
+                k = 21769345286457
+                Z = "9`A\xf3\xc9"
+                p = 8973871784758
+                G = "Scale"
+                z = q.Position.X.Scale
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 29930993409375
+                p = "\x88O&\xa7\x0b\x1e33A\x93d"
+                Y = 2964556137024
+                Q = "PosX_Offset"
+                Z = reg11
+                J = reg10
+                T = reg1
+                y = reg2
+                X = 20464562598434
+                k = "\\\xc2\xe9\x02\xcb\xc2@\xcb"
+                g = 17927181715518
+                p = "Position"
+                Y = q.Position
+                Z = reg11
+                J = reg10
+                T = reg1
+                y = reg2
+                X = 7396314013707
+                k = "M"
+                g = 33728757789856
+                p = "X"
+                t = q.Position.X
+                p = reg11
+                Z = reg10
+                k = reg1
+                T = reg2
+                y = 13027890372465
+                g = "Z\xbf?\xa2\xdf]"
+                J = 35027872447768
+                Y = "Offset"
+                G = q.Position.X.Offset
+                Y = reg11
+                p = reg10
+                g = reg1
+                k = reg2
+                T = 7471149319047
+                J = "D\x8a\xed\x97D2\xfeb]\x9a"
+                Z = 33852571316955
+                t = "PosY_Scale"
+                g = reg11
+                k = reg10
+                X = reg1
+                P = reg2
+                reg69UpdateF = 12396465192188
+                y = "\x9d\\\xcaGZw4\xf1"
+                T = 34752416954600
+                J = "Position"
+                Z = q.Position
+                g = reg11
+                k = reg10
+                X = reg1
+                P = reg2
+                reg69UpdateF = 11108261477184
+                y = "b"
+                T = 32143370634407
+                J = "Y"
+                p = q.Position.Y
+                J = reg11
+                g = reg10
+                y = reg1
+                X = reg2
+                P = 27582298436377
+                T = "b\xd8\rZB"
+                k = 6452488715738
+                Z = "Scale"
+                Y = q.Position.Y.Scale
+                Z = reg11
+                J = reg10
+                T = reg1
+                y = reg2
+                X = 5498862219751
+                k = "\x10\xd7\xed\x89\xf0M^\x868\x8a*"
+                g = 33750680281069
+                p = "PosY_Offset"
+                T = reg11
+                y = reg10
+                reg69UpdateF = reg1
+                getReg69Map = reg2
+                c = 22938254487018
+                P = "Q\"\x89\xc5b\x11\xaa\x1f"
+                X = 4564954863474
+                k = "Position"
+                g = q.Position
+                T = reg11
+                y = reg10
+                reg69UpdateF = reg1
+                getReg69Map = reg2
+                c = 33357643009835
+                P = "1"
+                X = 22939005133802
+                k = "Y"
+                J = q.Position.Y
+                k = reg11
+                T = reg10
+                P = reg1
+                reg69UpdateF = reg2
+                getReg69Map = 5634158635776
+                X = "\x95\x16\xd6\xe5\xde\x80"
+                y = 696482029417
+                g = "Offset"
+                Z = q.Position.Y.Offset
+                g = reg11
+                k = reg10
+                X = reg1
+                P = reg2
+                reg69UpdateF = 13870003772924
+                y = "\x10\x88\x06o\x88"
+                T = 5661660225137
+                J = "SizeX"
+                X = reg11
+                P = reg10
+                c = reg1
+                W = reg2
+                v = 24560143466814
+                getReg69Map = "jv\xc7\xff"
+                reg69UpdateF = 18927846886784
+                y = "Size"
+                T = q.Size
+                X = reg11
+                P = reg10
+                c = reg1
+                W = reg2
+                v = 23658489412756
+                getReg69Map = "\x9d"
+                reg69UpdateF = 7846032508574
+                y = "X"
+                k = q.Size.X
+                y = reg11
+                X = reg10
+                getReg69Map = reg1
+                c = reg2
+                W = 9048686467766
+                reg69UpdateF = "Vv\xd4\xfb<I"
+                P = 26065340279367
+                T = "Offset"
+                g = q.Size.X.Offset
+                T = reg11
+                y = reg10
+                reg69UpdateF = reg1
+                getReg69Map = reg2
+                c = 25432013960073
+                P = "\xdfO\xacP\xad"
+                X = 16809802312565
+                k = "SizeY"
+                reg69UpdateF = reg11
+                getReg69Map = reg10
+                v = reg1
+                H = reg2
+                i = 21873094353304
+                W = "W.\xdf\xb1"
+                c = 24338402986682
+                P = "Size"
+                X = q.Size
+                reg69UpdateF = reg11
+                getReg69Map = reg10
+                v = reg1
+                H = reg2
+                i = 33193367192226
+                W = "\x9a"
+                c = 17983053730516
+                P = "Y"
+                y = q.Size.Y
+                P = reg11
+                reg69UpdateF = reg10
+                W = reg1
+                v = reg2
+                H = 3845464049281
+                c = "|\xb8\x95\xa7\xb8\xc9"
+                getReg69Map = 8184752853751
+                X = "Offset"
+                T = q.Size.Y.Offset
+                X = reg11
+                P = reg10
+                c = reg1
+                W = reg2
+                v = 26911524593517
+                getReg69Map = "0\x9a\x1bhJ\xccc\x8b5\x90\xe9\x88"
+                reg69UpdateF = 15298206590584
+                y = "Transparency"
+                reg69UpdateF = reg11
+                getReg69Map = reg10
+                v = reg1
+                H = reg2
+                i = 13243729709199
+                W = "\x9058\xbb\n\xce\x82\xf6\xb6\xcd\xd01 \x00\xcd?\x93\xb4\x1e\xbf\xb7]"
+                c = 13986860607683
+                P = "BackgroundTransparency"
+                X = q.BackgroundTransparency
+                reg69UpdateF = reg11
+                getReg69Map = reg10
+                v = reg1
+                H = reg2
+                i = 10268524415019
+                W = "\x83\xea_\xc5y\x00#\xc0\xe0\xa0v"
+                c = 29271638183445
+                P = "CornerScale"
+                c = reg11
+                W = reg10
+                i = reg1
+                xA = reg2
+                rA = 14719770629138
+                H = "0\xc7\x15\x83@"
+                v = 6989067893437
+                getReg69Map = "Scale"
+                reg69UpdateF = q.UICorner.CornerRadius.Scale
+                c = reg11
+                W = reg10
+                i = reg1
+                xA = reg2
+                rA = 15148436311443
+                H = "\xb5*\x892\x92\xc2\xcd\x0f\n\x84\x84t"
+                v = 16754457088274
+                getReg69Map = "CornerOffset"
+                v = reg11
+                H = reg10
+                rA = reg1
+                VA = reg2
+                wA = 32549610226719
+                xA = "\x8b\xf6G=k\xa5"
+                i = 14668460903969
+                W = "Offset"
+                c = q.UICorner.CornerRadius.Offset
+                successNotify = {
+                    PosX_Scale = q.Position.X.Scale,
+                    PosX_Offset = q.Position.X.Offset,
+                    PosY_Scale = q.Position.Y.Scale,
+                    PosY_Offset = q.Position.Y.Offset,
+                    SizeX = q.Size.X.Offset,
+                    SizeY = q.Size.Y.Offset,
+                    Transparency = q.BackgroundTransparency,
+                    CornerScale = q.UICorner.CornerRadius.Scale,
+                    CornerOffset = q.UICorner.CornerRadius.Offset
+                }
+                b[q.Name] = successNotify
+            end
+            A = {
+                reg40:JSONEncode({})
+            }
+            N = writefile(reg49, a(A))
+            D = {
+                Title = "Saved",
+                Content = "Layout saved!",
+                Icon = "check"
+            }
+            N = reg39:Notify(D)
+        end
+        CA = T
+        hA = reg10
+        IA = m
+        EA = reg2
+        BA = 18167265537892
+        gA = ">Eswm\xf2x\x94G"
+        KA = 6390139697796
+        oA = "Shoot_Btn"
+        gA = T
+        IA = reg10
+        dA = m
+        qA = reg2
+        AA = 29110549743253
+        BA = "y\xb5\x17"
+        EA = 28419504188757
+        KA = "new"
+        CA = UDim2.new
+        hA = UDim2.new(.4, 0, .4, 0)
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 30144874636542
+        EA = "1lOy\xbf~\xd53q\x03Fj\x96\xcc"
+        IA = 6780129460250
+        CA = "Shoot Murderer"
+        local function KA(...)
+            N = reg44:FindFirstChild("Backpack")
+            m = not reg44.Character
+            if not not reg44.Character then
+                D = not N
+                m = not N
+            end
+            if m then
+                return
+            end
+            G = "\xdf\x92w"
+            z = reg2
+            D = N:FindFirstChild("Gun")
+            if not D then
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 20465448011866
+                successNotify = "\xf9\x07\xf1"
+                f = 4114221513935
+                F = "Gun"
+                D = reg44.Character.FindFirstChild
+                m = reg44.Character:FindFirstChild("Gun")
+            end
+            if not D then
+                return
+            end
+            j = reg43.GetPlayers
+            successNotify = {
+                reg43:GetPlayers()
+            }
+            q = reg43[3]
+            for q, j in ipairs(a(successNotify)) do
+                successNotify = q
+                G = reg44
+                Q = j ~= reg44
+                z = j ~= reg44
+                if j ~= reg44 then
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 13005612393789
+                    Z = "\xf5\xda\x1d5\x82SFd\xf4"
+                    p = 33293048853335
+                    G = "Character"
+                    Q = Character
+                    z = Character
+                end
+                if z then
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 12230623769925
+                    Z = "Y\x8e\x91\xc6id\xads"
+                    p = 27365879981598
+                    G = "Backpack"
+                    Q = Backpack
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 23169831261552
+                    J = "\x06\xc7\x0e\xc4~"
+                    Z = 12742654646762
+                    t = "Knife"
+                    G = Backpack.FindFirstChild
+                    G = Backpack:FindFirstChild("Knife")
+                    z = G
+                    if not G then
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 26783046076147
+                        Z = "T<\xfa@sx\xe7\xaa\xdb"
+                        p = 3928258923824
+                        G = "Character"
+                        Q = Character
+                        Y = reg11
+                        p = reg10
+                        G = Character.FindFirstChild
+                        g = reg1
+                        k = reg2
+                        T = 2334193319634
+                        J = "X\xb6L_9"
+                        Z = 26260198781524
+                        t = "Knife"
+                        z = Character:FindFirstChild("Knife")
+                    end
+                    if not G then
+                    end
+                    F = j
+                end
+            end
+        end
+        SA = FA("Shoot_Btn", hA, "Shoot Murderer", KA)
+        CA = T
+        hA = reg10
+        IA = m
+        EA = reg2
+        BA = 3836661870468
+        gA = "\xebS\xaa\xd7j`/\xc2Jl;"
+        KA = 6941561290595
+        oA = "KillAll_Btn"
+        gA = T
+        IA = reg10
+        dA = m
+        qA = reg2
+        AA = 12166548917735
+        BA = "aQl"
+        EA = 6281657695977
+        KA = "new"
+        CA = UDim2.new
+        hA = UDim2.new(.6, 0, .3, 0)
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 23775401439571
+        EA = "\x9d\xacB\xf5D\x83\x9d\xfb"
+        IA = 32509608103281
+        CA = "KILL ALL"
+        local function KA(...)
+            N = reg44:FindFirstChild("Backpack")
+            m = not reg44.Character
+            if not not reg44.Character then
+                D = not N
+                m = not N
+            end
+            if m then
+                return
+            end
+            F = "Knife"
+            D = reg44.Character:FindFirstChild("Knife")
+            if not D then
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 16222112042576
+                successNotify = "m\x93>\x80\r"
+                f = 30952389047404
+                D = N.FindFirstChild
+                F = "Knife"
+                m = N:FindFirstChild("Knife")
+            end
+            if not D then
+                vAlias = reg39
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 23219351924032
+                j = "4\xdc%\x84\xb2"
+                successNotify = 33191858894510
+                A = "Title"
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 32231932649192
+                z = "P\x9d\xd7\x92G%\x8e\xd2"
+                j = 12617547713510
+                q = "Kill All"
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 15527384064299
+                Q = "\x1f0\x13N-c$"
+                z = 33502209609453
+                f = "Content"
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 17417725066931
+                G = "\xbb\xcf\x1b\xd4\xae\xf9\xc1\x08\xf5\xab\xa8\x7f\xd0\x80\xb7\xfc\xb1\x08\xcb\xe6\x1b\"\xc1Z"
+                Q = 34148884247840
+                successNotify = "You are not the Murderer"
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 17412766842564
+                t = "{\x9cB'"
+                G = 9151541909502
+                j = "Icon"
+                Q = reg11
+                G = reg10
+                p = reg1
+                m = reg39.Notify
+                Z = reg2
+                J = 20797107055942
+                Y = "\xbc"
+                t = 13539210527484
+                z = "x"
+                F = {
+                    Title = "Kill All",
+                    Content = "You are not the Murderer",
+                    Icon = "x"
+                }
+                m = reg39:Notify(F)
+                return
+            end
+            F = reg44.Character:FindFirstChild("HumanoidRootPart")
+            vAlias = reg44.Character:FindFirstChild("Humanoid")
+            A = vAlias
+            if F then
+            end
+            if not F then
+                return
+            end
+            G = reg2
+            Q = 15680190659230
+            if D.Parent == N then
+                vAlias = vAlias.EquipTool
+                vAlias = A:EquipTool(D)
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 25092954284134
+                z = "_\xb5\xc4\xa2"
+                j = 10057436592542
+                q = "wait"
+                vAlias = task.wait
+                m = task.wait()
+            end
+            z = reg43.GetPlayers
+            j = {
+                reg43:GetPlayers()
+            }
+            f = reg43[3]
+            for f, z in reg43[1], ipairs(a(j)) do
+                j = f
+                t = reg44
+                G = z ~= reg44
+                Q = z ~= reg44
+                if z ~= reg44 then
+                    P = ">\xfc\xb2\x1e\x96\x9a\xa4\x0f\xaa"
+                    Z = reg11
+                    J = reg10
+                    T = reg1
+                    y = reg2
+                    X = 16115975990355
+                    k = "\xcd\xd2L\xe3q\xc9m-\x1f"
+                    T = 23488321550146
+                    g = 23488321550146
+                    p = "Character"
+                    Y = z.Character
+                    G = z.Character
+                    if z.Character then
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 27635960138673
+                        k = "\xf2u\x9d-\xe9\xbcpU\x90"
+                        g = 17752906781525
+                        p = "Character"
+                        Y = z.Character
+                        J = reg11
+                        g = reg10
+                        y = reg1
+                        X = reg2
+                        p = z.Character.FindFirstChild
+                        P = 32248531973532
+                        T = "\x96U\xc2\xf6\xa9\xa5.\"\xd3U\xe0=P\xdb\x82\x82"
+                        k = 4495657303656
+                        Z = "HumanoidRootPart"
+                        G = z.Character:FindFirstChild("HumanoidRootPart")
+                    end
+                    Q = G
+                    vAlias = ipairs
+                end
+                if Q then
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 4238359442014
+                    Z = "\xaa\xb2\x063\xf6\x94\xd4g\xd8"
+                    p = 8548113148121
+                    G = "Character"
+                    Q = z.Character
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 19879957801339
+                    Z = "q\xd5\x13\xd0\x88\x81T\x83\xe9\x81Q%+\xefA\xd4"
+                    p = 31945373019952
+                    G = "HumanoidRootPart"
+                    vAlias = z.Character.HumanoidRootPart
+                    G = reg11
+                    t = reg10
+                    Q = z.Character.HumanoidRootPart
+                    Z = reg1
+                    J = reg2
+                    g = 21354797046695
+                    p = "I\xe5\xdc\x05\xd5w\x97m"
+                    Y = 30845484341881
+                    vAlias = "Anchored"
+                    Q.Anchored = true
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 29277006817505
+                    p = "\xbf\xd1\x06\x07\xf2]"
+                    Y = 22048613050077
+                    vAlias = "CFrame"
+                    p = reg11
+                    Z = reg10
+                    k = reg1
+                    T = reg2
+                    y = 26599791740966
+                    g = "\xb2\x9f[\x06\x9cH"
+                    J = 147841640398
+                    Y = "CFrame"
+                    t = F.CFrame
+                    J = reg11
+                    g = reg10
+                    y = reg1
+                    X = reg2
+                    P = 1922930270560
+                    T = "\xf8vq"
+                    k = 14899712474867
+                    Z = "new"
+                    Y = CFrame.new
+                    p = CFrame.new(0, 0, -2)
+                    G = F.CFrame * p
+                    Q.CFrame = F.CFrame * p
+                end
+            end
+            vAlias = D:FindFirstChild("Stab")
+            q = vAlias
+            if vAlias then
+                successNotify = reg11
+                j = reg10
+                Z = 27283119944425
+                G = reg1
+                vAlias = vAlias.FireServer
+                t = reg2
+                Y = 27283119944425
+                Q = ":g\x10\xb2}"
+                z = 23247834145875
+                f = "Slash"
+                vAlias = vAlias(q, "Slash")
+            end
+            j = reg11
+            vAlias = task.wait
+            f = task.wait(.1)
+            G = reg43.GetPlayers
+            Q = {
+                reg43:GetPlayers()
+            }
+            for j, Q in ipairs(a(Q)) do
+                p = reg11
+                Z = reg10
+                z = j
+                X = "M\x86\xe4\x19e0\xf5|l"
+                k = reg1
+                T = reg2
+                y = 30482027495902
+                g = "\xcf`\xb0Ptrz\xces"
+                k = 34520709839996
+                J = 34520709839996
+                Y = "Character"
+                t = Q.Character
+                G = Q.Character
+                if Q.Character then
+                    p = reg11
+                    Z = reg10
+                    k = reg1
+                    T = reg2
+                    y = 4263725453243
+                    g = "\xdd\xe1\x82\x03\xc2\x0f\x89\xcfd"
+                    J = 12416939001869
+                    Y = "Character"
+                    t = Q.Character
+                    Z = reg11
+                    J = reg10
+                    T = reg1
+                    y = reg2
+                    X = 13870546115163
+                    k = "D9\xc8\xf1\x1a\xd01\x90\x8fKd\xbf8\xed_U"
+                    g = 5883034371749
+                    p = "HumanoidRootPart"
+                    Y = Q.Character.FindFirstChild
+                    G = Q.Character:FindFirstChild("HumanoidRootPart")
+                end
+                if G then
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 14474130478519
+                    J = "J\x14\xd0\xaf\xb4w\xa1\xcdW"
+                    Z = 15526305733250
+                    t = "Character"
+                    G = Q.Character
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 17721886435220
+                    J = "\x06\xa9H\x16\x12;\xdbe\xa0\xd3u\xb9\x84m\xc5\xa4"
+                    Z = 14544734216394
+                    t = "HumanoidRootPart"
+                    vAlias = Q.Character.HumanoidRootPart
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 33520207706647
+                    Z = "F\xc2\x8e\x05\xcd\x94\x90\x84"
+                    p = 3393885431385
+                    G = "Anchored"
+                    vAlias.Anchored = false
+                end
+            end
+            if D.Parent == reg44.Character then
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 16882119037318
+                z = "\t\x00\x04\xf0\xe4a"
+                j = 1229219388328
+                vAlias = "Parent"
+                f = N
+                D.Parent = N
+            end
+        end
+        SA = FA("KillAll_Btn", hA, "KILL ALL", KA)
+        SA = false
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 19438345179956
+        EA = "\xd2#\xd4u?"
+        IA = 2820139525582
+        hA = "Title"
+        gA = T
+        IA = reg10
+        dA = m
+        qA = reg2
+        AA = 3367096448090
+        BA = "6\xf0\x1ck\xfe\xf1\x12q\x90\xd3\x99\xbd\xd8\xce\xc3\x150"
+        EA = 21304104621784
+        KA = "Show Shoot Button"
+        IA = T
+        EA = reg10
+        qA = m
+        AA = reg2
+        RA = 22057833446077
+        dA = "h\x82z)\x1b"
+        BA = 7534496701954
+        gA = "Value"
+        EA = y
+        dA = T
+        qA = reg10
+        fA = m
+        zA = reg2
+        YA = 9076705285849
+        RA = "\xdaG|\xc3\xbd0\xb4\x8e\x92W\xf7\xef\xa6\xa6i"
+        oA = i.Toggle
+        AA = 32667463333694
+        BA = "ShowShootButton"
+        IA = y.ShowShootButton
+        BA = T
+        dA = reg10
+        RA = m
+        fA = reg2
+        zA = 22168240467701
+        AA = "d\xa0\x9b\xfa\xd5\xb10\xe9"
+        qA = 13004552082371
+        EA = "Callback"
+        local function BA(visible, ...)
+            reg47.ShowShootButton = visible
+            m = reg48()
+            m = reg54:FindFirstChild("Shoot_Btn")
+            N = m
+            if m then
+                m = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 12565530604475
+                A = "\x98\xfc\xcc^\x85\xc9\""
+                F = 15563479633164
+                vAlias = "Visible"
+                m = visible
+                N.Visible = visible
+            end
+        end
+        CA = {
+            Title = "Show Shoot Button",
+            Value = y.ShowShootButton,
+            Callback = BA
+        }
+        oA = i:Toggle(CA)
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 12172153944077
+        EA = "C\x13\xc5y\x1f"
+        IA = 9744421481606
+        hA = "Title"
+        gA = T
+        IA = reg10
+        dA = m
+        qA = reg2
+        AA = 26794405537248
+        BA = "}\xcf\xdf\xff\x1c=\xef\x08`\xe3\xfc\xe8#S\xc6ak,Q\xc4"
+        EA = 3480123335322
+        KA = "Show Kill All Button"
+        IA = T
+        EA = reg10
+        qA = m
+        AA = reg2
+        RA = 26488836318670
+        dA = "\xe7\xd3\xcfJ7"
+        BA = 13560420210450
+        gA = "Value"
+        EA = y
+        dA = T
+        qA = reg10
+        fA = m
+        zA = reg2
+        YA = 12456408140304
+        RA = "\xa1\xa7(i\xbd\xc7\nKr>Dq\xfcz\xa1\xbf\xdc"
+        AA = 22977245909717
+        BA = "ShowKillAllButton"
+        IA = y.ShowKillAllButton
+        BA = T
+        dA = reg10
+        RA = m
+        fA = reg2
+        zA = 12475116119000
+        AA = "r\x8ch\xb4\xb2\xf6\xfeF"
+        qA = 18203904282227
+        oA = xA.Toggle
+        EA = "Callback"
+        local function BA(visible, ...)
+            reg47.ShowKillAllButton = visible
+            m = reg48()
+            m = reg54:FindFirstChild("KillAll_Btn")
+            N = m
+            if m then
+                m = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 20742920210773
+                A = "\xb6\xbb\x97Q_\xf6\x9e"
+                F = 21714552925289
+                vAlias = "Visible"
+                m = visible
+                N.Visible = visible
+            end
+        end
+        CA = {
+            Title = "Show Kill All Button",
+            Value = y.ShowKillAllButton,
+            Callback = BA
+        }
+        oA = xA:Toggle(CA)
+        KA = T
+        gA = reg10
+        BA = m
+        dA = reg2
+        qA = 31928215033917
+        EA = "\xb8\xa9\xf58\xcb"
+        IA = 2300651374954
+        hA = "Title"
+        gA = T
+        IA = reg10
+        dA = m
+        qA = reg2
+        AA = 26247452309082
+        BA = "\xb8\xfe\x81\x04\x16\xabz\xa6\x0fq\xd6\xf5\xc9@G\xcd9E\x19\x1c"
+        EA = 32380051283223
+        KA = "Show Grab Gun Button"
+        IA = T
+        EA = reg10
+        qA = m
+        AA = reg2
+        RA = 23700027069509
+        dA = "A`?\xa3\""
+        BA = 6736362458803
+        gA = "Value"
+        EA = y
+        dA = T
+        qA = reg10
+        fA = m
+        zA = reg2
+        YA = 2100893709738
+        RA = "\xc1M\x01\xc0\xe8\\\x8a\xe1\r6B\xf9\x0f\x92\x99\x1a5"
+        oA = i.Toggle
+        AA = 23764377830245
+        BA = "ShowGrabGunButton"
+        IA = y.ShowGrabGunButton
+        BA = T
+        dA = reg10
+        RA = m
+        fA = reg2
+        zA = 13841460830607
+        AA = "PZ\xe9\xedtS`\xc8"
+        qA = 26286770949687
+        EA = "Callback"
+        local function BA(visible, ...)
+            reg47.ShowGrabGunButton = visible
+            m = reg48()
+            m = reg54:FindFirstChild("Gun_Btn")
+            N = m
+            if m then
+                m = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 3297439434644
+                A = "\x17Zj%\x87\xa9\xf0"
+                F = 12044275890347
+                vAlias = "Visible"
+                m = visible
+                N.Visible = visible
+            end
+        end
+        CA = {
+            Title = "Show Grab Gun Button",
+            Value = y.ShowGrabGunButton,
+            Callback = BA
+        }
+        oA = i:Toggle(CA)
+        reg64 = 1
+        reg65 = false
+        IA = false
+        reg66 = false
+        reg67 = false
+        dA = T
+        qA = reg10
+        fA = m
+        zA = reg2
+        YA = 20714237214700
+        RA = "J"
+        AA = 12582468759495
+        BA = "f"
+        AA = T
+        RA = reg10
+        YA = m
+        pA = reg2
+        ZA = 29409869626089
+        zA = "("
+        fA = 32736256873903
+        qA = "b"
+        fA = T
+        zA = reg10
+        ZA = m
+        JA = reg2
+        uA = 2259615188327
+        pA = "\x95"
+        YA = 4941043134054
+        RA = "l"
+        YA = T
+        pA = reg10
+        uA = m
+        kA = reg2
+        TA = 10721813035777
+        JA = "\x06"
+        ZA = 22187365490126
+        zA = "r"
+        EA = {
+            f = 0,
+            b = 0,
+            l = 0,
+            r = 0
+        }
+        reg68 = EA
+        qA = T
+        AA = reg10
+        zA = m
+        YA = reg2
+        pA = 15991813585168
+        fA = "\x88"
+        RA = 868416226068
+        dA = "f"
+        RA = T
+        fA = reg10
+        pA = m
+        ZA = reg2
+        JA = 28834521946293
+        YA = "\x0e"
+        zA = 25593159278543
+        AA = "b"
+        zA = T
+        YA = reg10
+        JA = m
+        uA = reg2
+        kA = 10074384727892
+        ZA = "\xfc"
+        pA = 2109716087701
+        fA = "l"
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 29815202476472
+        uA = "h"
+        JA = 23122376368675
+        YA = "r"
+        EA = {
+            f = 0,
+            b = 0,
+            l = 0,
+            r = 0
+        }
+        reg69 = EA
+        qA = reg41
+        RA = T
+        fA = reg10
+        pA = m
+        ZA = reg2
+        JA = 24077570815515
+        YA = "?\xf3\xb7\xfb\xd4\xfcs\x95\xf2\x9a"
+        zA = 4464818403897
+        AA = "InputBegan"
+        EA = reg41.InputBegan
+        local function AA(input, integerToBytesCondition, ...)
+            if integerToBytesCondition then
+                return
+            end
+            if input.KeyCode == Enum.KeyCode.W then
+                vAlias = reg68
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 22514768884292
+                q = "Q"
+                A = 25802090289382
+                m = "f"
+                reg68.f = 1
+            else
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 9926890230654
+                f = "c\x9c\xb4\xd7>\x80\xbb"
+                q = 30618766896545
+                D = "KeyCode"
+                m = input.KeyCode
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 30488913416256
+                z = "E\xc9H\xec\xc0ET"
+                j = 4296713217035
+                q = "KeyCode"
+                F = Enum.KeyCode
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 21514050863030
+                j = "\x03"
+                successNotify = 8278818322488
+                A = "S"
+                D = Enum.KeyCode.S
+                vAlias = input.KeyCode == Enum.KeyCode.S
+                if input.KeyCode == Enum.KeyCode.S then
+                    vAlias = reg68
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 25193035434021
+                    q = "H"
+                    A = 17402747400601
+                    m = "b"
+                    reg68.b = -1
+                else
+                    F = reg11
+                    A = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 13328851980237
+                    f = "a\x96q\x1c7\xc5\xd2"
+                    q = 21148466112701
+                    D = "KeyCode"
+                    m = input.KeyCode
+                    f = reg11
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 33061049503119
+                    z = "L*0T!&\xa9"
+                    j = 13671682299241
+                    q = "KeyCode"
+                    F = Enum.KeyCode
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 28783060648252
+                    j = "a"
+                    successNotify = 24440006207696
+                    A = "A"
+                    D = Enum.KeyCode.A
+                    vAlias = input.KeyCode == Enum.KeyCode.A
+                    if input.KeyCode == Enum.KeyCode.A then
+                        vAlias = reg68
+                        D = reg11
+                        F = reg10
+                        f = reg1
+                        successNotify = reg2
+                        j = 30244238466826
+                        q = "\xf9"
+                        A = 30546966005476
+                        m = "l"
+                        reg68.l = -1
+                    else
+                        F = reg11
+                        A = reg10
+                        successNotify = reg1
+                        j = reg2
+                        z = 8345844705532
+                        f = "\xcaB^\x95\x9c\xa7\x90"
+                        q = 31577722137179
+                        D = "KeyCode"
+                        m = input.KeyCode
+                        f = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 6098759926315
+                        z = "jU{tF\xc2\""
+                        j = 2007872446631
+                        q = "KeyCode"
+                        F = Enum.KeyCode
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 5833484006211
+                        j = "]"
+                        successNotify = 8574592425041
+                        A = "D"
+                        D = Enum.KeyCode.D
+                        vAlias = input.KeyCode == Enum.KeyCode.D
+                        if input.KeyCode == Enum.KeyCode.D then
+                            vAlias = reg68
+                            D = reg11
+                            F = reg10
+                            f = reg1
+                            successNotify = reg2
+                            j = 17317819926809
+                            q = "S"
+                            A = 2696235669330
+                            m = "r"
+                            reg68.r = 1
+                        end
+                        return
+                    end
+                end
+            end
+        end
+        qA = reg41.InputBegan.Connect
+        qA = reg41.InputBegan:Connect(AA)
+        qA = reg41
+        RA = T
+        fA = reg10
+        pA = m
+        ZA = reg2
+        JA = 8219768795607
+        YA = "\x83I\xe0\x8e\xc7\xa0H\xc4P2"
+        zA = 33720602495760
+        AA = "InputEnded"
+        EA = reg41.InputEnded
+        qA = reg41.InputEnded.Connect
+        local function AA(input, ...)
+            if input.KeyCode == Enum.KeyCode.W then
+                vAlias = reg68
+                N = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 5289215067530
+                A = "a"
+                F = 14531003779847
+                m = "f"
+                reg68.f = 0
+            else
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 29068330272400
+                q = "\xb6\x93\x1d\xe1QA\xa2"
+                A = 13005210789357
+                N = "KeyCode"
+                m = input.KeyCode
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 8159888084950
+                j = "S\x1e\xa2,\xc7\x8d\xc9"
+                successNotify = 18943184507996
+                A = "KeyCode"
+                D = Enum.KeyCode
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 10096430319834
+                successNotify = "k"
+                f = 14751689958209
+                F = "S"
+                N = Enum.KeyCode.S
+                vAlias = input.KeyCode == Enum.KeyCode.S
+                if input.KeyCode == Enum.KeyCode.S then
+                    vAlias = reg68
+                    N = reg11
+                    D = reg10
+                    q = reg1
+                    f = reg2
+                    successNotify = 20028293763628
+                    A = "m"
+                    F = 15411871562538
+                    m = "b"
+                    reg68.b = 0
+                else
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 33017070091150
+                    q = "s\xcc\xbf\xbb(\x88\x05"
+                    A = 17714794764590
+                    N = "KeyCode"
+                    m = input.KeyCode
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 26643897669433
+                    j = "\x85\x8dhQ\x81\x95*"
+                    successNotify = 1776592723265
+                    A = "KeyCode"
+                    D = Enum.KeyCode
+                    A = reg11
+                    q = reg10
+                    j = reg1
+                    z = reg2
+                    Q = 17220525977248
+                    successNotify = "%"
+                    f = 29783767768404
+                    F = "A"
+                    N = Enum.KeyCode.A
+                    vAlias = input.KeyCode == Enum.KeyCode.A
+                    if input.KeyCode == Enum.KeyCode.A then
+                        vAlias = reg68
+                        N = reg11
+                        D = reg10
+                        q = reg1
+                        f = reg2
+                        successNotify = 17661561216283
+                        A = "v"
+                        F = 30003464435926
+                        m = "l"
+                        reg68.l = 0
+                    else
+                        D = reg11
+                        F = reg10
+                        f = reg1
+                        successNotify = reg2
+                        j = 35067909308231
+                        q = "\xab@h\xc0\xe2\xc4c"
+                        A = 657492449371
+                        N = "KeyCode"
+                        m = input.KeyCode
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 20049176867731
+                        j = "\x9d+\xcc\xcb\xeb\x8ev"
+                        successNotify = 35180473378719
+                        A = "KeyCode"
+                        D = Enum.KeyCode
+                        A = reg11
+                        q = reg10
+                        j = reg1
+                        z = reg2
+                        Q = 12651539287773
+                        successNotify = "\x0e"
+                        f = 5806862495404
+                        F = "D"
+                        N = Enum.KeyCode.D
+                        vAlias = input.KeyCode == Enum.KeyCode.D
+                        if input.KeyCode == Enum.KeyCode.D then
+                            vAlias = reg68
+                            N = reg11
+                            D = reg10
+                            q = reg1
+                            f = reg2
+                            successNotify = 22037334385014
+                            A = "\xcf"
+                            F = 15320695919986
+                            m = "r"
+                            reg68.r = 0
+                        end
+                        return
+                    end
+                end
+            end
+        end
+        qA = reg41.InputEnded:Connect(AA)
+        RA = T
+        fA = reg10
+        pA = m
+        ZA = reg2
+        JA = 34389710394693
+        YA = "\x92\x08\xd5\x19\xf7"
+        zA = 17137551104667
+        AA = "Title"
+        fA = T
+        zA = reg10
+        ZA = m
+        JA = reg2
+        uA = 20407870811018
+        pA = "\x08\xbe\x1b"
+        YA = 23609238881448
+        RA = "FOV"
+        zA = T
+        YA = reg10
+        JA = m
+        uA = reg2
+        kA = 29596075379807
+        ZA = "\xba)\xc8j"
+        pA = 1133450981725
+        fA = "Desc"
+        YA = T
+        pA = reg10
+        uA = m
+        kA = reg2
+        TA = 18299626565292
+        JA = "0\x1c\xa6\xc5\x80\\\xbe`\x9f\xf4\xb5R\x1dO\x8f"
+        ZA = 16360261422175
+        zA = "Adjust your FOV"
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 3291571862297
+        uA = "\xf5m\x04\xbd"
+        JA = 30078904471648
+        YA = "Step"
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 34821781265069
+        TA = "h\xce\x95\xefY"
+        kA = 28116594539531
+        ZA = "Value"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 4891772646460
+        XA = "\xef\x8e\x11"
+        yA = 17876792090518
+        EA = getReg69Map.Slider
+        uA = "Min"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 31979168267747
+        sA = "D\xfc5"
+        PA = 11039695431503
+        TA = "Max"
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 19274661443863
+        OA = "\xd8\xcc\x94\x06L\xbd\xca"
+        cA = 1470311301657
+        XA = "Default"
+        sA = y
+        OA = T
+        vA = reg10
+        iA = m
+        x3 = reg2
+        alternateIntegerToBytesText = 28942198174341
+        WA = "\xe7\xf9K"
+        HA = 17698072959748
+        cA = "FOV"
+        PA = y.FOV
+        JA = {
+            Min = 70,
+            Max = 100,
+            Default = y.FOV
+        }
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 15320873177148
+        XA = "\xc2\xa1\x86\x81r\x10\xdc6"
+        yA = 13899160931456
+        uA = "Callback"
+        local function kA(fov, ...)
+            reg47.FOV = fov
+            m = reg48()
+            N = game:GetService("Workspace")
+            vAlias = N.CurrentCamera
+            vAlias.FieldOfView = fov
+        end
+        qA = {
+            Title = "FOV",
+            Desc = "Adjust your FOV",
+            Step = 1,
+            Value = JA,
+            Callback = kA
+        }
+        reg70 = getReg69Map:Slider(qA)
+        fA = T
+        zA = reg10
+        ZA = m
+        JA = reg2
+        uA = 29553480507334
+        pA = "\xaf\xe1\xa5\x88\xc1"
+        YA = 34078541538197
+        RA = "Title"
+        zA = T
+        YA = reg10
+        JA = m
+        uA = reg2
+        kA = 31008432760790
+        ZA = "F\xde\x1c\xe0m\x8e/\x8b\xf3\xabu\x82`83\x9a\xf1}\xdew"
+        pA = 28819772320663
+        fA = "Reset FOV to Default"
+        YA = T
+        pA = reg10
+        uA = m
+        kA = reg2
+        TA = 20000365658066
+        JA = "\x9a\x1f\x9d\x00"
+        ZA = 18935879751945
+        zA = "Icon"
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 34835703832319
+        uA = "\xf1\x91\x8e\x0c\x86G\\\xc8\x95/"
+        JA = 31288083274017
+        YA = "refresh-cw"
+        ZA = T
+        JA = reg10
+        TA = m
+        yA = reg2
+        XA = 7158169006090
+        PA = 13936129576797
+        EA = getReg69Map.Button
+        kA = "7S&\xdf\r)\xeb\xf2"
+        uA = 4315851956951
+        pA = "Callback"
+        local function ZA(...)
+            m = reg70:Set(70)
+            b = game:GetService("Workspace")
+            vAlias = b.CurrentCamera
+            vAlias.FieldOfView = 70
+            b = {
+                Title = "Camera",
+                Content = "FOV Reset to 70",
+                Duration = 2
+            }
+            m = reg39:Notify(b)
+        end
+        AA = {
+            Title = "Reset FOV to Default",
+            Icon = "refresh-cw",
+            Callback = ZA
+        }
+        EA = getReg69Map:Button(AA)
+        reg71 = 16
+        local function fA(humanoidContainer, ...)
+            N = humanoidContainer:WaitForChild("Humanoid")
+            N.WalkSpeed = reg71
+            N.UseJumpPower = false
+            N.JumpHeight = reg72
+        end
+        reg72 = 7.2
+        XA = "\xfe\xc4{\x89\x92Yb\xc9g"
+        reg73 = fA
+        zA = reg44
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 13936129576797
+        uA = "N\x8a\xaf\xd2\x84\xa3N$A"
+        kA = 13807838115298
+        JA = 13807838115298
+        YA = "Character"
+        fA = reg44.Character
+        if reg44.Character then
+            fA = reg73
+            pA = reg44
+            JA = T
+            uA = reg10
+            yA = m
+            XA = reg2
+            PA = 24763204470817
+            TA = "bu\xa3\xb4\xb8\xf7\xb2\x15f"
+            kA = 812738394533
+            ZA = "Character"
+            YA = reg44.Character
+            zA = reg73(reg44.Character)
+        end
+        zA = reg44
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 26500649483377
+        uA = "t[&\x18\xdb\x88\x8a*:\xacok\xb7\xee"
+        JA = 2925524971624
+        YA = "CharacterAdded"
+        fA = reg44.CharacterAdded
+        local function YA(integerToBytesArgument, ...)
+            m = reg73(integerToBytesArgument)
+        end
+        zA = reg44.CharacterAdded.Connect
+        zA = reg44.CharacterAdded:Connect(YA)
+        pA = T
+        ZA = reg10
+        kA = m
+        TA = reg2
+        yA = 12442373145179
+        uA = "\x1d\xe1\x96\x15\xdd"
+        JA = 1895065243040
+        YA = "Title"
+        ZA = T
+        JA = reg10
+        TA = m
+        yA = reg2
+        XA = 9180165200785
+        kA = "d,\x01\xc0\x15\xcd\t\xfdB"
+        uA = 16436461400457
+        pA = "WalkSpeed"
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 10534261316860
+        TA = "\xed\x87}L"
+        kA = 19088878354974
+        ZA = "Desc"
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 10929002320638
+        yA = "\xbf\xfe\xa6\xdb\xb1k3x\xe1l\x0f\xc9g\xebM\x1b\xca\x01C\xbf\x1c"
+        TA = 33687548115759
+        JA = "Adjust your WalkSpeed"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 31020442911254
+        XA = "6\x0e\xd0\xf2"
+        yA = 6655672852668
+        uA = "Step"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 19133947015254
+        sA = "\xff~/\x8e\xb8"
+        PA = 34672747026618
+        TA = "Value"
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 8345231449340
+        OA = "jJ\xbf"
+        cA = 1379801066327
+        XA = "Min"
+        cA = T
+        OA = reg10
+        WA = m
+        iA = reg2
+        x3 = 13346085029705
+        HA = "=\x9d\x8f"
+        vA = 9521002534348
+        sA = "Max"
+        vA = T
+        HA = reg10
+        x3 = m
+        alternateIntegerToBytesText = reg2
+        r3 = 15732820965116
+        iA = "\x1f\x89\x93<\xc6\x8f\xe3"
+        WA = 26497545461659
+        OA = "Default"
+        HA = y
+        iA = T
+        x3 = reg10
+        secondaryIntegerToBytesText = m
+        number = reg2
+        e3 = 19842329751233
+        r3 = "\xaf}\xfa\xf5A\x027\xf2\x11"
+        alternateIntegerToBytesText = 20753671772458
+        WA = "WalkSpeed"
+        vA = y.WalkSpeed
+        yA = {
+            Min = 16,
+            Max = 100,
+            Default = y.WalkSpeed
+        }
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 12099931283142
+        OA = "\xf5T\x92\xed\xce\x82j\xe6"
+        cA = 25496456022572
+        XA = "Callback"
+        local function PA(d, ...)
+            reg47.WalkSpeed = d
+            m = reg48()
+            m = reg44.Character
+            if reg44.Character then
+                F = reg44
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 76729441052
+                j = "\xcd\xdd\x8c\x92)/@\xa9\xae"
+                successNotify = 30235803163938
+                A = "Character"
+                D = reg44.Character
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 10717601361051
+                j = "\x87\xf1\xbe\x9aomv\x18"
+                F = reg44.Character.FindFirstChildOfClass
+                successNotify = 11692749635634
+                A = "Humanoid"
+                m = reg44.Character:FindFirstChildOfClass("Humanoid")
+            end
+            N = m
+            if m then
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 6981299412877
+                q = "\xbcr\xb22=\x8cP\xaf\x8d"
+                A = 29718402666831
+                m = "WalkSpeed"
+                D = d
+                N.WalkSpeed = d
+            end
+        end
+        fA = getReg69Map.Slider
+        zA = {
+            Title = "WalkSpeed",
+            Desc = "Adjust your WalkSpeed",
+            Step = 1,
+            Value = yA,
+            Callback = PA
+        }
+        fA = getReg69Map:Slider(zA)
+        ZA = T
+        JA = reg10
+        TA = m
+        yA = reg2
+        XA = 9063613109422
+        kA = "\xe9\x88\x97^\xad"
+        uA = 31759154056579
+        pA = "Title"
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 12595859895262
+        TA = "V\xac_\xb27\xb4\x85\xa4*`r"
+        kA = 27449394773911
+        ZA = "Jump Height"
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 22350655865740
+        yA = "E\xdb\xff\xba"
+        TA = 11406378088048
+        JA = "Desc"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 24320274764803
+        XA = "\x84.[&\xe3(\xea\x8e\xfby\x0cJVS5\n\x86vK?\xa8\x00W"
+        yA = 13439169786368
+        uA = "Adjust your Jump Height"
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 23131462606124
+        PA = "#X9\xb2"
+        XA = 12989841080004
+        kA = "Step"
+        XA = T
+        PA = reg10
+        OA = m
+        vA = reg2
+        HA = 28819192531452
+        cA = "\x0e\xbe\x08J\x9e"
+        sA = 2237802448051
+        yA = "Value"
+        sA = T
+        cA = reg10
+        HA = m
+        WA = reg2
+        iA = 16914059995965
+        vA = "\xd2\x15h"
+        OA = 19342456723325
+        PA = "Min"
+        OA = T
+        vA = reg10
+        iA = m
+        x3 = reg2
+        alternateIntegerToBytesText = 14144359641341
+        WA = "\xd3$("
+        HA = 6017202367381
+        cA = "Max"
+        HA = T
+        WA = reg10
+        alternateIntegerToBytesText = m
+        r3 = reg2
+        secondaryIntegerToBytesText = 17964131078432
+        x3 = "HZh\xaaui\x10"
+        iA = 19989783487737
+        vA = "Default"
+        WA = y
+        zA = getReg69Map.Slider
+        x3 = T
+        alternateIntegerToBytesText = reg10
+        number = m
+        e3 = reg2
+        w3 = 33332436280972
+        secondaryIntegerToBytesText = "\xfb\xb1y\xdeM\xe5{\x11a4"
+        r3 = 23467509181283
+        iA = "JumpHeight"
+        HA = y.JumpHeight
+        XA = {
+            Min = 7,
+            Max = 100,
+            Default = y.JumpHeight
+        }
+        sA = T
+        cA = reg10
+        HA = m
+        WA = reg2
+        iA = 101078522826
+        vA = "\xd5\x9aZ\x10Yy\xda\x82"
+        OA = 32837050181578
+        PA = "Callback"
+        local function sA(d, ...)
+            reg47.JumpHeight = d
+            m = reg48()
+            m = reg44.Character
+            if reg44.Character then
+                F = reg44
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 22464692858994
+                j = "\xc5\t\xb9Q\xd5qD\xd8\xf7"
+                successNotify = 34585317954467
+                A = "Character"
+                D = reg44.Character
+                F = reg44.Character.FindFirstChildOfClass
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 9841945285590
+                j = "w\x1f$\xaa\x7f\xfa\x82\xe5"
+                successNotify = 28340066126065
+                A = "Humanoid"
+                m = reg44.Character:FindFirstChildOfClass("Humanoid")
+            end
+            N = m
+            if m then
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 14867623207827
+                q = "\xe1\xa4G\xa5KR\x17V\xc6\xbd2\xc0"
+                A = 8015138069959
+                m = "UseJumpPower"
+                N.UseJumpPower = false
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 29218388788783
+                q = "\x18K\x9a}\xd3\xfbQ\x8c\x8a\xde"
+                A = 24279072492878
+                m = "JumpHeight"
+                D = d
+                N.JumpHeight = d
+            end
+        end
+        YA = {
+            Title = "Jump Height",
+            Desc = "Adjust your Jump Height",
+            Step = 1,
+            Value = XA,
+            Callback = sA
+        }
+        zA = getReg69Map:Slider(YA)
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 9830621968812
+        TA = "F\xfc\x18\xc5#"
+        kA = 13891904217538
+        ZA = "Title"
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 9009323550850
+        yA = "\xd9\x80g[\xa2z\x8e_jj\xfa#\xc7Kn\xe074\xb6\x1f"
+        TA = 26075095720592
+        JA = "Fly Speed Multiplier"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 29929974123135
+        XA = "\xc9\x141~"
+        yA = 10729398228705
+        uA = "Desc"
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 28312681079633
+        PA = "\xf0\xd8\x86\x81\xa41\x8b\xa7\x88\xf8|O\xc1\xa2gX\xf8\xd6\x98\xc6{"
+        XA = 23384502376827
+        kA = "Adjust your Fly Speed"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 26112647817213
+        sA = "c+\xcc\xba"
+        PA = 16076254272360
+        TA = "Step"
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 23908029835817
+        OA = "\xb2bKZ\x19"
+        YA = getReg69Map.Slider
+        cA = 24372749582163
+        XA = "Value"
+        cA = T
+        OA = reg10
+        WA = m
+        iA = reg2
+        x3 = 3018650956837
+        HA = "\x80\x0c1"
+        vA = 31870519620438
+        sA = "Min"
+        vA = T
+        HA = reg10
+        x3 = m
+        alternateIntegerToBytesText = reg2
+        r3 = 20918958405929
+        iA = "\x96E\xc3"
+        WA = 30546611034523
+        OA = "Max"
+        WA = T
+        iA = reg10
+        r3 = m
+        secondaryIntegerToBytesText = reg2
+        number = 7123894891550
+        alternateIntegerToBytesText = "\xcdCJ@\xec\xff\x9b"
+        x3 = 33680017764307
+        HA = "Default"
+        PA = {
+            Min = 1,
+            Max = 50,
+            Default = 1
+        }
+        cA = T
+        OA = reg10
+        WA = m
+        iA = reg2
+        x3 = 13507217535618
+        HA = "\xf8\xc9j\x8dS\xd4\x89X"
+        vA = 9015771261490
+        sA = "Callback"
+        local function cA(integerToBytesArgument, ...)
+
+        end
+        pA = {
+            Title = "Fly Speed Multiplier",
+            Desc = "Adjust your Fly Speed",
+            Step = 1,
+            Value = PA,
+            Callback = cA
+        }
+        YA = getReg69Map:Slider(pA)
+        pA = reg42
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 34372094206768
+        TA = "\xde\xac[\x9c\xac\xf4\x9f"
+        kA = 33416381671828
+        ZA = "Stepped"
+        YA = reg42.Stepped
+        local function ZA(...)
+            m = reg67
+            if reg67 then
+                N = reg44
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 6854341193370
+                f = "OT\x8bO\xc4Sk`?"
+                q = 30467923367240
+                D = "Character"
+                b = reg44.Character
+                m = reg44.Character
+            end
+            if m then
+                t = "N\x08\x1bFl\xa7.\xf1D"
+                F = reg44
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 29787328537446
+                j = "X\xb28T\xe5\xf3\x1d\x94\xff"
+                z = 19118233802459
+                successNotify = 19118233802459
+                A = "Character"
+                D = reg44.Character
+                A = reg44.Character.GetDescendants
+                F = {
+                    reg44.Character:GetDescendants()
+                }
+                N = reg44.Character[3]
+                m = reg44.Character[1]
+                D = reg44.Character[1]
+                for N, A in reg44.Character[1], pairs(a(F)) do
+                    F = N
+                    f = reg11
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 20370391606322
+                    z = "I'\x1a:dH\x03\xc4"
+                    Q = 12015932702738
+                    j = 12015932702738
+                    q = "BasePart"
+                    vAlias = A:IsA("BasePart")
+                    if vAlias then
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 13639292103789
+                        j = "\xe4\x8d\x1d\t\x86\x98:k\xb2\x83"
+                        successNotify = 968466174342
+                        vAlias = "CanCollide"
+                        A.CanCollide = false
+                    end
+                end
+            end
+        end
+        pA = reg42.Stepped.Connect
+        pA = reg42.Stepped:Connect(ZA)
+        JA = T
+        uA = reg10
+        yA = m
+        XA = reg2
+        PA = 24675443373906
+        TA = "e6\x0fT\xda"
+        kA = 24054092836916
+        ZA = "Title"
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 6471061605908
+        yA = "\x81\x93\x0b\xe7\x12\x8d"
+        TA = 17337400679098
+        JA = "NoClip"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 30632740797026
+        XA = "[\x82\x08\xc4{"
+        YA = getReg69Map.Toggle
+        yA = 14710942279642
+        uA = "Value"
+        TA = y
+        XA = T
+        PA = reg10
+        OA = m
+        vA = reg2
+        HA = 4952842716700
+        cA = "\x18\xb4\x94\xf5k\x03"
+        sA = 34848436746905
+        yA = "NoClip"
+        kA = y.NoClip
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 7439494060214
+        sA = "-\xa9\x8d\xa4\x0bB\x03\xb4"
+        PA = 32540940325764
+        TA = "Callback"
+        local function yA(noClip, ...)
+            reg47.NoClip = noClip
+            m = reg48()
+        end
+        pA = {
+            Title = "NoClip",
+            Value = y.NoClip,
+            Callback = yA
+        }
+        YA = getReg69Map:Toggle(pA)
+        reg74 = false
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 10829698261191
+        yA = "\xf4\x9c\x1f\x16'"
+        TA = 25497391568364
+        JA = "Title"
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 22493068193378
+        XA = "\xe3\xd8\xf1\xba%\xb7\x15\xc8K\xea\x04\x82x"
+        yA = 26508450033123
+        uA = "Infinite Jump"
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 2647225474263
+        PA = "\xccj9V\xce"
+        XA = 13876938253942
+        kA = "Value"
+        yA = y
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 5123329906931
+        OA = "&\x94B\x1f^\xbe?o\"\x834X"
+        cA = 18537162452420
+        XA = "InfiniteJump"
+        TA = y.InfiniteJump
+        XA = T
+        PA = reg10
+        OA = m
+        vA = reg2
+        HA = 7757438290339
+        cA = "\xca\x80\x9d\xc2\xbc\xa7\xe1Y"
+        sA = 13302599774729
+        yA = "Callback"
+        local function XA(infiniteJump, ...)
+            reg47.InfiniteJump = infiniteJump
+            m = reg48()
+        end
+        ZA = {
+            Title = "Infinite Jump",
+            Value = y.InfiniteJump,
+            Callback = XA
+        }
+        YA = getReg69Map.Toggle
+        YA = getReg69Map:Toggle(ZA)
+        ZA = game
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 12650952530329
+        XA = ";\xe9\x85U\xd4V\xd0.\xb0U\x86\x17\x07'V\x01"
+        yA = 28373482363737
+        uA = "UserInputService"
+        JA = game:GetService("UserInputService")
+        uA = T
+        kA = reg10
+        XA = m
+        PA = reg2
+        sA = 33948903630028
+        yA = "6\x86\xed\xcai\x01\x04\xf2\x9a\xbd}"
+        TA = 10608595073976
+        ZA = "JumpRequest"
+        YA = JA.JumpRequest
+        local function JA(...)
+            vAlias = reg74
+            if reg74 then
+                m = game
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 30083747446504
+                q = "\xd8E:@h\xca\xf3"
+                A = 1393672127204
+                N = "Players"
+                b = game:GetService("Players")
+                N = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 4301534573064
+                A = "\xfa-\xd2\x18\x8d\x1b\xa6\x18\x04\x0f\x14"
+                F = 208344322050
+                m = "LocalPlayer"
+                vAlias = b.LocalPlayer
+                N = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                b = b.LocalPlayer
+                successNotify = 20837565864712
+                A = "\x8d6\x0e;\x17\xd1m\x8d'"
+                F = 16648305333429
+                m = "Character"
+                vAlias = b.Character
+                N = b.Character
+                vAlias = not b.Character
+                if not b.Character then
+                    return
+                end
+                D = reg11
+                vAlias = b.Character.FindFirstChildOfClass
+                Q = 21719690311937
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 21719690311937
+                q = "\x9a\xc8\"\xbd\xb2\xbcJ\xb4"
+                f = 18894547210088
+                A = 18894547210088
+                m = "Humanoid"
+                vAlias = b.Character:FindFirstChildOfClass("Humanoid")
+                D = vAlias
+                if vAlias then
+                    f = reg11
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 21735381409607
+                    z = "\x17\x114_\x18\xed+\xc4aO]j\tC\x84\x8fj"
+                    j = 26985822979208
+                    q = "HumanoidStateType"
+                    F = Enum.HumanoidStateType
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 4388284134126
+                    vAlias = vAlias.ChangeState
+                    j = "\x05\xc4\xc8\x8b\xfdD\x18"
+                    successNotify = 21919851252678
+                    A = "Jumping"
+                    m = Enum.HumanoidStateType.Jumping
+                    vAlias = vAlias(D, Enum.HumanoidStateType.Jumping)
+                end
+            end
+        end
+        ZA = YA.Connect
+        ZA = YA:Connect(JA)
+        local function ZA(integerToBytesArgument, ...)
+            reg75 = reg44
+            D = 71
+            reg76 = reg44.Character
+            if not reg44.Character then
+                return
+            end
+            A = reg11
+            q = reg10
+            z = reg2
+            t = 6076479655877
+            Q = 6076479655877
+            successNotify = "\nj~\xa4\xb6\xa6\xd6\xd9"
+            j = 32661643678084
+            f = 32661643678084
+            m = reg44.Character:FindFirstChildOfClass("Humanoid")
+            F = 43
+            reg77 = m
+            if integerToBytesArgument == false then
+                reg65 = false
+                reg66 = false
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 30787026271968
+                Y = "\x8f\xd8\xcad\xf3\xa6\xde2N'\x1e\x98\x88\xb1Z\x01\x07"
+                t = 21912153130539
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                q = m.SetStateEnabled
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 33808333089656
+                t = "\xfe\x95\xce\xa3hx\x8f\xe0"
+                G = 17563341038608
+                j = "Climbing"
+                f = Enum.HumanoidStateType.Climbing
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Climbing, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 9139743579250
+                Y = "`\xb8O\x8f0|\x7f\xd3\x18\x1aX\xe0i80\xe0\x9e"
+                t = 7978558521239
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 16009287254681
+                t = "'\xee\xc2\x1e\xb7\xae\xc5\xda\x13\x0f%"
+                G = 2419188397771
+                j = "FallingDown"
+                q = m.SetStateEnabled
+                f = Enum.HumanoidStateType.FallingDown
+                q = m:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 6978943740709
+                Y = "\xc0\xba+r\x92\xf1\xac3g[\x99z\xbb\xd1\xaa\x13\xb8"
+                t = 6273042649392
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 1437501024081
+                t = "\xc8\xbc{\x1d\xd0\xd7"
+                G = 26096875745315
+                j = "Flying"
+                f = Enum.HumanoidStateType.Flying
+                q = m.SetStateEnabled
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Flying, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 23084466000611
+                Y = "\xbc\x05\xed\xc4eL\xf2\xc2\xfaeoP7!\xa7\xda\x01"
+                q = m.SetStateEnabled
+                t = 10870276997798
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 1268058923534
+                t = "\xc1\xffB\xed7y\xc9\xdf"
+                G = 23732642734014
+                j = "Freefall"
+                f = Enum.HumanoidStateType.Freefall
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Freefall, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 5575490526686
+                Y = "\xd8\x81w\xa7]\xdf8\x8e\x00\xc4\xacV\xee\xf3\t\xcaj"
+                t = 26822397024554
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 6755772756720
+                t = "\xf0<\x19\x04\xd9EC\x8f\x91"
+                q = m.SetStateEnabled
+                G = 26944275112377
+                j = "GettingUp"
+                f = Enum.HumanoidStateType.GettingUp
+                q = m:SetStateEnabled(Enum.HumanoidStateType.GettingUp, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 7052065711328
+                Y = "\x93\xb2\xcd\x19\xeb\xdcl\xd1\x1a\xd5\xe4q&4U\xef\xd0"
+                q = m.SetStateEnabled
+                t = 32656221642079
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 726098542010
+                t = "\xa6Z\xf4\x88\xe7j\xfc"
+                G = 16247486777935
+                j = "Jumping"
+                f = Enum.HumanoidStateType.Jumping
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Jumping, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 15923912516498
+                Y = "\xa7M\x14c\xc3\x88fh\x13\xa8\x0f\xa7qJ\xc2\x9d\x7f"
+                t = 22669047350797
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 14442327952649
+                t = "\x13\x8c:\xe0l\xfa"
+                G = 18278448095588
+                j = "Landed"
+                f = Enum.HumanoidStateType.Landed
+                q = m.SetStateEnabled
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Landed, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 31064385318786
+                Y = "q\x92\x994\x88\xc6Q\xe9N\x19\x99~\x19\xe8\xa8\x114"
+                t = 5648996312027
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                q = m.SetStateEnabled
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 7453456019324
+                t = "2\xf7.\x9bI=\xd0"
+                G = 1130224918179
+                j = "Physics"
+                f = Enum.HumanoidStateType.Physics
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Physics, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 10808032314998
+                Y = "\x94\xf0\xf6\x877D\xe7V\xc9R\xb5L\x1c\xfcd\xcd\x10"
+                t = 25682462721434
+                z = "HumanoidStateType"
+                q = m.SetStateEnabled
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 12570115125069
+                t = "\xa16e\xd8.\xfb\x0f\xc9\xd2'9\x93\xf1\xe3\x10\xc7"
+                G = 24700093059528
+                j = "PlatformStanding"
+                f = Enum.HumanoidStateType.PlatformStanding
+                q = m:SetStateEnabled(Enum.HumanoidStateType.PlatformStanding, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 25290743374726
+                Y = "\xdfd\xd1\x04e\xa2\x9f\xe3\x0eg\xb7\xd0\x0bO\t2\xe0"
+                t = 130592047843
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 17021291144598
+                t = "\xd1\xceK\xbc\x0f\xa3Y"
+                G = 15117633986643
+                j = "Ragdoll"
+                f = Enum.HumanoidStateType.Ragdoll
+                q = m.SetStateEnabled
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 13925713207342
+                Y = "\"\x89\x86P\xc7U54\xdaSL\xc7\x01\x86G\xc8\xb9"
+                t = 8243986056779
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 20590328274053
+                t = "\x13&\xc3\x91\xf9\x8a\xe4"
+                G = 11254631071629
+                j = "Running"
+                f = Enum.HumanoidStateType.Running
+                q = m.SetStateEnabled
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Running, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 14767152219309
+                Y = "v\xf8\x8d\x11\x08\t\x973\xac\x83%\xd2\xdc\xb1\xcf\xa2#"
+                t = 27990465933907
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                q = m.SetStateEnabled
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 12584791254303
+                t = "\xc7g=\xefzA\x94\x9d&-\x8b\x86\x87n\x04\xd0"
+                G = 1911869429039
+                j = "RunningNoPhysics"
+                f = Enum.HumanoidStateType.RunningNoPhysics
+                q = m:SetStateEnabled(Enum.HumanoidStateType.RunningNoPhysics, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 15334880708284
+                q = m.SetStateEnabled
+                Y = "o\x91\x88\x84\xe1p\xbb\xd7s\x97\x95\xb4\xd8\xe5x^\x8f"
+                t = 146608633863
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 26415112438930
+                t = "\x9dJ%\xe5\x06f"
+                G = 4410055428313
+                j = "Seated"
+                f = Enum.HumanoidStateType.Seated
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 8119783241376
+                Y = "\xac\x15\xa8\xaf\xed7oj\xbax\x98\x93;y\xb5\xee6"
+                t = 28335482464694
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                q = m.SetStateEnabled
+                Z = 6812310087302
+                t = "L\x8a\xc4\xedm\x9e\x82Bu$\xb7\x88\xdb\x93\xe8\x1f\xe3"
+                G = 542742365964
+                j = "StrafingNoPhysics"
+                f = Enum.HumanoidStateType.StrafingNoPhysics
+                q = m:SetStateEnabled(Enum.HumanoidStateType.StrafingNoPhysics, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 25007284517367
+                Y = "\x82+\xa0\xe9%R\xd80f\x00>X\xb7\x82\x82n\xf3"
+                t = 18591737961126
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                q = m.SetStateEnabled
+                Z = 22238899401096
+                t = "v\xb0L\xd0!*\xb9x"
+                G = 9283277749457
+                j = "Swimming"
+                f = Enum.HumanoidStateType.Swimming
+                q = m:SetStateEnabled(Enum.HumanoidStateType.Swimming, true)
+                A = m
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 20442104442077
+                Y = "-/\x11iX\x18}\x9fS\xc6]\x108/?\xba6"
+                t = 22757981522880
+                z = "HumanoidStateType"
+                successNotify = Enum.HumanoidStateType
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 20096466804427
+                t = "\xe4\xc2\xf8\x9c&\x8eR\x1b]\xe3r\xdek\x07I\xcd"
+                G = 28672595288107
+                q = m.ChangeState
+                j = "RunningNoPhysics"
+                f = Enum.HumanoidStateType.RunningNoPhysics
+                q = m:ChangeState(Enum.HumanoidStateType.RunningNoPhysics)
+                q = reg44.Character
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 32405833760080
+                Q = "\xc4\x1c$\xbcF\xc0>"
+                z = 6166368874078
+                f = "Animate"
+                A = reg44.Character.Animate
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 17821595740738
+                z = "\xef\xa1M\x06\xdd\xcb\xce\xee"
+                j = 18112340996057
+                q = "Disabled"
+                A.Disabled = false
+                A = m
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 7473086786722
+                z = "\x1f7\nF\xca\x80\xd9\x1dp\r\x86\x81\xc4"
+                j = 28682101769265
+                q = "PlatformStand"
+                m.PlatformStand = false
+            else
+                reg65 = true
+                f = reg64
+                successNotify = reg64
+                for f = 1, reg64 do
+                    q = f
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 3265579416984
+                    J = "l\xbb#YT"
+                    Z = 11550517322894
+                    t = "spawn"
+                    Q = task.spawn
+                    local function t(...)
+                        F = 9192743130222
+                        D = true
+                        m = true
+                        while not D do
+                            if m then
+                                N = reg75
+                                F = reg11
+                                A = reg10
+                                successNotify = reg1
+                                j = reg2
+                                z = 2331268726406
+                                f = "\xad\xd6O\xd58\xb2\x918\xd4"
+                                q = 12583222943159
+                                D = "Character"
+                                m = reg75.Character
+                                F = reg11
+                                N = reg75.Character
+                                A = reg10
+                                m = reg75.Character.FindFirstChildOfClass
+                                successNotify = reg1
+                                j = reg2
+                                z = 5199731772955
+                                f = "\xcf\xee\x1a\xa7\xd5\x8b\x92\xb8"
+                                q = 1580939144313
+                                D = "Humanoid"
+                                m = reg75.Character:FindFirstChildOfClass("Humanoid")
+                                f = reg11
+                                D = m
+                                successNotify = reg10
+                                Q = reg1
+                                G = reg2
+                                t = 2432414443660
+                                z = "\xef\x14oc\x05_/nq.\xe0\x0c\x85"
+                                j = 11076457013893
+                                q = "MoveDirection"
+                                A = m.MoveDirection
+                                f = reg11
+                                successNotify = reg10
+                                Q = reg1
+                                G = reg2
+                                t = 5515491054817
+                                z = "\x11b\x92\x13\x19 +Za"
+                                Q = 13186653732185
+                                j = 13186653732185
+                                q = "Magnitude"
+                                F = m.MoveDirection.Magnitude
+                                A = 0
+                                m = m.MoveDirection.Magnitude > 0
+                                if F > 0 then
+                                    q = reg11
+                                    f = reg10
+                                    m = reg75.Character.TranslateBy
+                                    z = reg1
+                                    Q = reg2
+                                    G = 570324875697
+                                    j = "\x05\xe8h\x8b~\xc7]\xe3\x1c;F|e"
+                                    successNotify = 21092520957717
+                                    A = "MoveDirection"
+                                    F = D.MoveDirection
+                                    m = reg75.Character:TranslateBy(D.MoveDirection)
+                                end
+                            end
+                            return
+                        end
+                        A = reg42.Heartbeat:Wait()
+                        if A then
+                            successNotify = reg75
+                            z = reg11
+                            Q = reg10
+                            Y = reg1
+                            p = reg2
+                            Z = 7632886706279
+                            t = "$\xc0vJ\xbe\xa9Z\xd8}"
+                            G = 11388938127162
+                            j = "Character"
+                            f = reg75.Character
+                            A = reg75.Character
+                            if reg75.Character then
+                                successNotify = reg75
+                                z = reg11
+                                Q = reg10
+                                Y = reg1
+                                p = reg2
+                                Z = 32827124375476
+                                t = "\xd4A-\x1d\x07\xd9\xb9\xd7\x92"
+                                G = 6357259261820
+                                j = "Character"
+                                f = reg75.Character
+                                z = reg11
+                                Q = reg10
+                                Y = reg1
+                                p = reg2
+                                Z = 28863520262864
+                                t = "\xf6\x934\x92\x07S\xee\x80"
+                                successNotify = reg75.Character.FindFirstChildOfClass
+                                G = 1831504561850
+                                j = "Humanoid"
+                                A = reg75.Character:FindFirstChildOfClass("Humanoid")
+                            end
+                            D = A
+                            vAlias = true
+                        end
+                    end
+                    G = task.spawn(t)
+                end
+                f = reg44.Character
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 6683306889476
+                G = "\xb5\xb7\x94\xeb\x9c9\x9b"
+                Q = 9126362733539
+                successNotify = "Animate"
+                q = reg44.Character.Animate
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 22602281777691
+                Q = "Z#jWn\x9c\x86\x03"
+                z = 10656005266159
+                f = "Disabled"
+                q.Disabled = true
+                q = next
+                f = m
+                z = m.GetPlayingAnimationTracks
+                j = m.GetPlayingAnimationTracks[2]
+                for j, z in m:GetPlayingAnimationTracks() do
+                    f = j
+                    z:AdjustSpeed(0)
+                end
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 27512053129773
+                p = "32p\xde\xb4\x8dX\x07\x15\x0bb\xf7\xa4gs\xaeA"
+                Y = 9057612843916
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 19606014020016
+                Y = "\xa1|u\x0e\xc4\xd4=\xe0"
+                f = m.SetStateEnabled
+                t = 8083462688910
+                z = "Climbing"
+                successNotify = Enum.HumanoidStateType.Climbing
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Climbing, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 6028313802321
+                p = "\x82o\xa0t\xceX\xd9\xc0k2\xce\xbb\x0c\x95\x7fY?"
+                Y = 8600762760637
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 34196730714769
+                Y = "\xc3>]@\xbd\xe1\xa5F\x89\xf7\x8b"
+                t = 14307099488213
+                z = "FallingDown"
+                successNotify = Enum.HumanoidStateType.FallingDown
+                f = m.SetStateEnabled
+                f = m:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 3744425335204
+                p = "\x1d\x8f3\x9b\x90:\x93\x84H.\x8b\xa5\xe3(W\x1b\x91"
+                Y = 18045236382865
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 23733209130930
+                Y = "\x0f\x10\xb0\x99\x9dq"
+                t = 1198515066513
+                z = "Flying"
+                successNotify = Enum.HumanoidStateType.Flying
+                f = m.SetStateEnabled
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Flying, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 28314289739639
+                p = "\xeex\xe1\xed\xb0\xc1\x955\x98}i\xf1t\xd9\x8ct\x94"
+                Y = 14370466080178
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 3709756060686
+                Y = "\xdf1\xb6\xd4\xf5%\x1a\x89"
+                f = m.SetStateEnabled
+                t = 16004683521548
+                z = "Freefall"
+                successNotify = Enum.HumanoidStateType.Freefall
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Freefall, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 9772602866645
+                p = "\x87a\xa4\xb5V\xd8\tC\xccu\xc1\xc9\xa4\r\xdb92"
+                Y = 20616428510165
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 10650229118605
+                Y = "\xefZXX\x1fD\x08B\x81"
+                t = 15872787496946
+                f = m.SetStateEnabled
+                z = "GettingUp"
+                successNotify = Enum.HumanoidStateType.GettingUp
+                f = m:SetStateEnabled(Enum.HumanoidStateType.GettingUp, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 3728354572371
+                p = "k\xdb\xa8.\xd11MD\xb0\xcfi\x82\xa3XE\xc3D"
+                Y = 34650193939626
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 10836414600559
+                Y = "F\\\xa3jU\xfe\r"
+                f = m.SetStateEnabled
+                t = 8820340992028
+                z = "Jumping"
+                successNotify = Enum.HumanoidStateType.Jumping
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Jumping, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 17652929445299
+                p = "\x97\xb8s=\xf6_\x0co\x08wT#\xe6X\x93\xe6\xeb"
+                Y = 12311227688289
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                f = m.SetStateEnabled
+                J = 27463803161351
+                Y = "ae\x0b\xd2\xd1\x1b"
+                t = 16922567121090
+                z = "Landed"
+                successNotify = Enum.HumanoidStateType.Landed
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Landed, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 5842804431790
+                p = "F\x9c\x88\xa3p;\x08\xea\xb0\r\x8a\xd4\xf1\x83[\x86\xb2"
+                Y = 32342402142230
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                f = m.SetStateEnabled
+                J = 21891001956371
+                Y = "\xc6\x81\x957\x1b\xbf\x99"
+                t = 29027150273546
+                z = "Physics"
+                successNotify = Enum.HumanoidStateType.Physics
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Physics, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                f = m.SetStateEnabled
+                g = 30456013951759
+                p = "\x97k\x16Jn`?b\x92\x8b<:\x14\xa0\x93\xa3\x94"
+                Y = 19903443571123
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 31643497896293
+                Y = "W\xce\xd3y\xcd\xcb\xe6[d\x88s\x9d\xf9@\xe9\xa3"
+                t = 13426799615153
+                z = "PlatformStanding"
+                successNotify = Enum.HumanoidStateType.PlatformStanding
+                f = m:SetStateEnabled(Enum.HumanoidStateType.PlatformStanding, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 19291525142875
+                p = "\x98\xa1(\x8a\x9d\x9d@S6\xea\x05\x1a@\x1fC\xf9e"
+                Y = 21228838211645
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                f = m.SetStateEnabled
+                Z = reg2
+                J = 6421891213121
+                Y = "{2\x00I\xed\x83\xde"
+                t = 21475963443923
+                z = "Ragdoll"
+                successNotify = Enum.HumanoidStateType.Ragdoll
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                f = m.SetStateEnabled
+                g = 34112250169559
+                p = "\x1c\xee\x1b\xfb\xee\xbfV6\x04 mVw\xbb\x81\xd5\r"
+                Y = 16530347203069
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 4886339785741
+                Y = "\xd4S\x81\x97n\x0c\x94"
+                t = 20465962083139
+                z = "Running"
+                successNotify = Enum.HumanoidStateType.Running
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Running, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 22012210176077
+                p = "\x91\xf2,\xd5\xfe:\xa1\x93GVK\xbb\x88A\xd4\xb3\xf5"
+                Y = 16963181623303
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 34596757409241
+                Y = ">\x85\xa8\xb5{a\x0c\xc9t\x94\xaf\xe5\x05\xb5=a"
+                t = 20162990716273
+                z = "RunningNoPhysics"
+                f = m.SetStateEnabled
+                successNotify = Enum.HumanoidStateType.RunningNoPhysics
+                f = m:SetStateEnabled(Enum.HumanoidStateType.RunningNoPhysics, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 29952128782222
+                p = "h}\xa2\xa0\x86\xcb\x8eHE\x8f\xa7\xe8\x1co\xe0\xb88"
+                Y = 15056620206288
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 8638073730255
+                Y = "|\xddAh~S"
+                t = 27067382861563
+                f = m.SetStateEnabled
+                z = "Seated"
+                successNotify = Enum.HumanoidStateType.Seated
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 18046168917732
+                f = m.SetStateEnabled
+                p = "E\xe4\\\xfeMO\xe3\x8aY\xb6X\xc34\xdc#$\xd2"
+                Y = 5177775685069
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 27528969084233
+                Y = "i\x87\xd88\xd22\x1bk\xff\xb7\xb4\xc3{K\xe5\xc83"
+                t = 6096003354231
+                z = "StrafingNoPhysics"
+                successNotify = Enum.HumanoidStateType.StrafingNoPhysics
+                f = m:SetStateEnabled(Enum.HumanoidStateType.StrafingNoPhysics, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 29931889552787
+                p = "\xb8;\xc059\xe9\xee\xe9\x19\xda-\xc6p_\xa9\x967"
+                Y = 9040239096161
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 9763811076278
+                Y = "\x0cP\xb6\x13\x1c%k\x95"
+                t = 11330793488501
+                z = "Swimming"
+                f = m.SetStateEnabled
+                successNotify = Enum.HumanoidStateType.Swimming
+                f = m:SetStateEnabled(Enum.HumanoidStateType.Swimming, false)
+                q = m
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 32920516917661
+                p = "\xfd\x87\xbd=Y\xadA\xed\xdf^\xd0\xca\xab+\xc4\xf6\xa9"
+                Y = 5838187675962
+                Q = "HumanoidStateType"
+                j = Enum.HumanoidStateType
+                f = m.ChangeState
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 13835666757502
+                Y = ";\xa3j\xf1\xb9\x06g\xf7"
+                t = 27530528606567
+                z = "Swimming"
+                successNotify = Enum.HumanoidStateType.Swimming
+                f = m:ChangeState(Enum.HumanoidStateType.Swimming)
+                q = m
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 6807923184952
+                Q = "#\x8cr\xd4\x03\xbe5f\xb2\xc5\xa5\xb8\xd1"
+                z = 4724210837900
+                f = "PlatformStand"
+                m.PlatformStand = true
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 646163467874
+                G = ">\\~t\xf5"
+                Q = 12203805234610
+                successNotify = "spawn"
+                q = task.spawn
+                local function createBodyGyro(...)
+                    b = reg77.RigType == Enum.HumanoidRigType.R6
+                    if reg77.RigType == Enum.HumanoidRigType.R6 then
+                        D = reg76
+                        q = reg11
+                        f = reg10
+                        F = reg76.WaitForChild
+                        z = reg1
+                        Q = reg2
+                        G = 14684011858664
+                        j = "e%%\x85\x8a"
+                        createBodyGyro = 34555315037019
+                        A = "Torso"
+                        b = reg76:WaitForChild("Torso")
+                    end
+                    m = b
+                    if not b then
+                        b = reg76
+                        F = reg11
+                        A = reg10
+                        createBodyGyro = reg1
+                        Q = "\x08G4\x1eL\xa8\x99\xa2\xc1\xa7"
+                        j = reg2
+                        z = 34571737660548
+                        f = "\xaf(\x90$@W\x89#\xbd\xe7"
+                        q = 2185071908696
+                        D = "UpperTorso"
+                        N = reg76.WaitForChild
+                        m = reg76:WaitForChild("UpperTorso")
+                    end
+                    b = m
+                    F = Instance.new("BodyGyro", m)
+                    F.P = 90000
+                    F.maxTorque = Vector3.new(9000000000, 9000000000, 9000000000)
+                    F.cframe = m.CFrame
+                    A = Instance.new("BodyVelocity", m)
+                    A.velocity = Vector3.new(0, .1, 0)
+                    createBodyGyro = reg11
+                    t = reg2
+                    z = 11703011218683
+                    f = "new"
+                    A.maxForce = Vector3.new(9000000000, 9000000000, 9000000000)
+                    q = reg65
+                    m = reg65
+                    while not q do
+                        if m then
+                            m = reg42
+                            f = reg11
+                            createBodyGyro = reg10
+                            Q = reg1
+                            G = reg2
+                            t = 4358434438550
+                            z = "\xb1)V\x8bt\xfe\x13\x9c\xb4H\xc1\xd4\x04"
+                            j = 23363878120936
+                            q = "RenderStepped"
+                            vAlias = reg42.RenderStepped
+                            m = reg42.RenderStepped.Wait
+                            m = reg42.RenderStepped:Wait()
+                            j = reg68
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 34156899863143
+                            Y = "N"
+                            t = 34850740327577
+                            z = "l"
+                            createBodyGyro = reg68.l
+                            z = reg68
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 13072387384412
+                            p = "\xfd"
+                            Y = 4293822207562
+                            Q = "r"
+                            j = reg68.r
+                            f = reg68.l + reg68.r
+                            q = reg68.l + reg68.r ~= 0
+                            m = reg68.l + reg68.r ~= 0
+                            if not (reg68.l + reg68.r ~= 0) then
+                                j = reg68
+                                Q = reg11
+                                G = reg10
+                                p = reg1
+                                Z = reg2
+                                J = 1262876133987
+                                Y = "\x13"
+                                t = 2483966796884
+                                z = "f"
+                                createBodyGyro = reg68.f
+                                z = reg68
+                                G = reg11
+                                t = reg10
+                                Z = reg1
+                                J = reg2
+                                g = 25041283758561
+                                p = "j"
+                                Y = 29836863478225
+                                Q = "b"
+                                j = reg68.b
+                                f = reg68.f + reg68.b
+                                q = reg68.f + reg68.b ~= 0
+                                m = reg68.f + reg68.b ~= 0
+                            end
+                            if createBodyGyro + reg68.r ~= 0 then
+                            else
+                                f = 1
+                                q = -1
+                                D = -1
+                                D = 0
+                                t = reg68
+                                reg69UpdateF = 23570772133193
+                                p = reg11
+                                Z = reg10
+                                k = reg1
+                                T = reg2
+                                j = reg42.RenderStepped
+                                y = 32201328652555
+                                g = "/"
+                                J = 13559335427612
+                                Y = "l"
+                                G = reg68.l
+                                Y = reg68
+                                Z = reg11
+                                P = "\xf1"
+                                J = reg10
+                                T = reg1
+                                y = reg2
+                                X = 23570772133193
+                                k = "\xf6"
+                                T = 605299938235
+                                g = 605299938235
+                                p = "r"
+                                t = reg68.r
+                                Q = reg68.l + reg68.r
+                                G = 0
+                                z = reg68.l + reg68.r ~= 0
+                                createBodyGyro = reg68.l + reg68.r ~= 0
+                                if not (reg68.l + reg68.r ~= 0) then
+                                    t = reg68
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 11097189574181
+                                    g = "\x10"
+                                    J = 29660423957423
+                                    Y = "f"
+                                    G = reg68.f
+                                    Y = reg68
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 7648440061202
+                                    k = "l"
+                                    g = 10706328020811
+                                    p = "b"
+                                    t = reg68.b
+                                    Q = reg68.f + reg68.b
+                                    z = reg68.f + reg68.b ~= 0
+                                    createBodyGyro = reg68.f + reg68.b ~= 0
+                                end
+                                vAlias = reg42.RenderStepped
+                                if createBodyGyro then
+                                    j = reg11
+                                    z = reg10
+                                    t = reg1
+                                    Y = reg2
+                                    p = 24137168177947
+                                    G = "\x074V:\xaa\xb4\xe7\xac"
+                                    Q = 27952024948561
+                                    createBodyGyro = "velocity"
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 19328235195945
+                                    T = ";\xad\xb3j\x14\x06\x94\x92V\x0e\x10D\x10"
+                                    k = 24762837464957
+                                    Z = "CurrentCamera"
+                                    Y = workspace.CurrentCamera
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 3861203149710
+                                    k = "\xedIL\xfcH\xd0"
+                                    g = 29436001282491
+                                    p = "CFrame"
+                                    t = workspace.CurrentCamera.CFrame
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 23325024849475
+                                    g = "sg\xceT7`\xd5v_\x05"
+                                    J = 33192191223507
+                                    Y = "lookVector"
+                                    G = workspace.CurrentCamera.CFrame.lookVector
+                                    p = reg68
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 14677239495358
+                                    T = "a"
+                                    k = 15737985697879
+                                    Z = "f"
+                                    Y = reg68.f
+                                    Z = reg68
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 4624942181137
+                                    y = "\xd5"
+                                    T = 12462700658190
+                                    J = "b"
+                                    p = reg68.b
+                                    t = reg68.f + reg68.b
+                                    Q = workspace.CurrentCamera.CFrame.lookVector * (reg68.f + reg68.b)
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 1689740349990
+                                    y = ".\xa0H\xb2\xda`\xc1\x16\x13\x08a\xb7\xdc"
+                                    T = 13115278798069
+                                    J = "CurrentCamera"
+                                    p = workspace.CurrentCamera
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 14274959811660
+                                    T = "\xe9\xa3\xce\xaf\xa7\x93"
+                                    k = 4125287487646
+                                    Z = "CFrame"
+                                    Y = workspace.CurrentCamera.CFrame
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 5556349465333
+                                    X = "\xdd\n?"
+                                    y = 33041627336344
+                                    g = "new"
+                                    Z = CFrame.new
+                                    T = reg68
+                                    X = reg11
+                                    P = reg10
+                                    c = reg1
+                                    W = reg2
+                                    v = 29126679317990
+                                    getReg69Map = "\xbf"
+                                    reg69UpdateF = 2386311017616
+                                    y = "l"
+                                    k = reg68.l
+                                    y = reg68
+                                    P = reg11
+                                    reg69UpdateF = reg10
+                                    W = reg1
+                                    v = reg2
+                                    H = 5914864775883
+                                    c = "\xba"
+                                    getReg69Map = 5041416745573
+                                    X = "r"
+                                    T = reg68.r
+                                    g = reg68.l + reg68.r
+                                    X = reg68
+                                    reg69UpdateF = reg11
+                                    getReg69Map = reg10
+                                    v = reg1
+                                    H = reg2
+                                    i = 2332319663452
+                                    W = "h"
+                                    c = 20902028672178
+                                    P = "f"
+                                    y = reg68.f
+                                    P = reg68
+                                    getReg69Map = reg11
+                                    c = reg10
+                                    H = reg1
+                                    i = reg2
+                                    xA = 26021425306787
+                                    v = "2"
+                                    W = 30159248258774
+                                    reg69UpdateF = "b"
+                                    X = reg68.b
+                                    T = reg68.f + reg68.b
+                                    k = (reg68.f + reg68.b) * .2
+                                    J = CFrame.new(reg68.l + reg68.r, (reg68.f + reg68.b) * .2, 0)
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 13276540358539
+                                    y = "\x81"
+                                    T = 30964141038583
+                                    Z = "p"
+                                    p = J.p
+                                    t = workspace.CurrentCamera.CFrame * J.p
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 29040318505764
+                                    X = "?\x11F!\xbf\x91\xd1\xf5\x95\xd9\xad\x00("
+                                    y = 26496692969065
+                                    g = "CurrentCamera"
+                                    Z = workspace.CurrentCamera
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 3553603117639
+                                    y = "\xc2!F HV"
+                                    T = 14176835049123
+                                    J = "CFrame"
+                                    p = workspace.CurrentCamera.CFrame
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 22958062635053
+                                    T = "\x93"
+                                    k = 8749443002102
+                                    Z = "p"
+                                    Y = workspace.CurrentCamera.CFrame.p
+                                    G = t - workspace.CurrentCamera.CFrame.p
+                                    z = workspace.CurrentCamera.CFrame.lookVector * (reg68.f + reg68.b) + t - workspace.CurrentCamera.CFrame.p
+                                    j = (workspace.CurrentCamera.CFrame.lookVector * (reg68.f + reg68.b) + t - workspace.CurrentCamera.CFrame.p) * 0
+                                    A.velocity = (workspace.CurrentCamera.CFrame.lookVector * (reg68.f + reg68.b) + t - workspace.CurrentCamera.CFrame.p) * 0
+                                    z = reg11
+                                    Q = reg10
+                                    Y = reg1
+                                    p = reg2
+                                    Z = 6284563262437
+                                    t = "\x9a"
+                                    G = 30688929179838
+                                    j = "f"
+                                    Q = reg68
+                                    t = reg11
+                                    Y = reg10
+                                    J = reg1
+                                    g = reg2
+                                    k = 29790739024245
+                                    Z = "\xe2"
+                                    p = 15774757008615
+                                    G = "f"
+                                    z = reg68.f
+                                    G = reg11
+                                    t = reg10
+                                    Z = reg1
+                                    J = reg2
+                                    g = 19448368251231
+                                    p = "^"
+                                    Y = 28028476060716
+                                    Q = "b"
+                                    t = reg68
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 2815964463232
+                                    g = ")"
+                                    J = 34849701670924
+                                    Y = "b"
+                                    G = reg68.b
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 2942137208872
+                                    J = "Z"
+                                    Z = 11975575503982
+                                    t = "l"
+                                    p = reg68
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 23976513315690
+                                    T = "h"
+                                    k = 23253001726246
+                                    Z = "l"
+                                    Y = reg68.l
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 22042762872354
+                                    k = "o"
+                                    g = 19981977658586
+                                    p = "r"
+                                    J = reg68
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 34695160068762
+                                    X = "\xf3"
+                                    y = 17236856578696
+                                    g = "r"
+                                    Z = reg68.r
+                                    createBodyGyro = {
+                                        f = reg68.f,
+                                        b = reg68.b,
+                                        l = reg68.l,
+                                        r = reg68.r
+                                    }
+                                    reg69 = createBodyGyro
+                                else
+                                    z = 0
+                                    j = false
+                                    z = reg11
+                                    Q = reg10
+                                    Y = reg1
+                                    p = reg2
+                                    Z = 25940374508128
+                                    t = "\xea|+\xb4\xf1\xd2\xe1\xe3"
+                                    G = 24881617309434
+                                    j = "velocity"
+                                    t = reg11
+                                    Y = reg10
+                                    J = reg1
+                                    g = reg2
+                                    k = 2018705662669
+                                    Z = "\x16\xe9\x95"
+                                    p = 2234946258434
+                                    G = "new"
+                                    z = Vector3.new
+                                    A.velocity = Vector3.new(0, 0, 0)
+                                    z = reg11
+                                    Q = reg10
+                                    Y = reg1
+                                    p = reg2
+                                    Z = 12706407145970
+                                    t = "\xc1Y\x83\xa8\xc2\x85"
+                                    G = 13081602178090
+                                    j = "cframe"
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 3936330124446
+                                    g = "3\x14\x9d\xbfR\x013\xf4\xad\x90\x15\xa1\xa3"
+                                    J = 11099269718014
+                                    Y = "CurrentCamera"
+                                    G = workspace.CurrentCamera
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 34378100008966
+                                    J = "\x91\x10\xe2I\xa3\x88"
+                                    Z = 13083559340341
+                                    t = "CFrame"
+                                    Q = workspace.CurrentCamera.CFrame
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 24375956201404
+                                    g = "\xd7\x07\xbc\xd3\xc5\xe5"
+                                    J = 28672979002370
+                                    Y = "Angles"
+                                    G = CFrame.Angles
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 24263093677268
+                                    y = "q\xbb\xa4"
+                                    T = 26053572865797
+                                    J = "rad"
+                                    p = math.rad
+                                    X = reg68
+                                    reg69UpdateF = reg11
+                                    getReg69Map = reg10
+                                    v = reg1
+                                    H = reg2
+                                    i = 10592306403807
+                                    W = "}"
+                                    c = 334857831119
+                                    P = "f"
+                                    y = reg68.f
+                                    P = reg68
+                                    getReg69Map = reg11
+                                    c = reg10
+                                    H = reg1
+                                    i = reg2
+                                    xA = 2284473510090
+                                    v = "\x94"
+                                    W = 24168970141683
+                                    reg69UpdateF = "b"
+                                    X = reg68.b
+                                    T = reg68.f + reg68.b
+                                    k = (reg68.f + reg68.b) * 50
+                                    g = (reg68.f + reg68.b) * 50 * 0
+                                    J = (reg68.f + reg68.b) * 50 * 0 / 50
+                                    Z = math.rad((reg68.f + reg68.b) * 50 * 0 / 50)
+                                    Y = -Z
+                                    t = CFrame.Angles(-Z, 0, 0)
+                                    z = workspace.CurrentCamera.CFrame * t
+                                    F.cframe = workspace.CurrentCamera.CFrame * t
+                                end
+                            end
+                        end
+                        j = F.Destroy
+                        j = F:Destroy()
+                        j = A.Destroy
+                        j = A:Destroy()
+                        z = reg75
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 16376234022231
+                        p = "\xc7\xe0\x18\xd1M\xfb\xceR\xe7"
+                        Y = 33884971650859
+                        Q = "Character"
+                        j = reg75.Character
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 23503649838332
+                        p = "C8>\xebL\x1a\x0b\xfa"
+                        Z = 10526218213180
+                        Y = 10526218213180
+                        Q = "Humanoid"
+                        z = FindFirstChildOfClass
+                        z = FindFirstChildOfClass(reg75.Character, "Humanoid")
+                        if z then
+                            z = reg75
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 11564548030706
+                            p = "R\xc8\x8f\xe4\xb5\x96\xe9\xe9\xed"
+                            Y = 11214800515601
+                            Q = "Character"
+                            j = reg75.Character
+                            G = reg11
+                            t = reg10
+                            Z = reg1
+                            J = reg2
+                            g = 27544143088404
+                            p = " \x04\x82\xf5d\xea\xbc\xaf"
+                            z = reg75.Character.FindFirstChildOfClass
+                            Y = 11721909495665
+                            Q = "Humanoid"
+                            z = reg75.Character:FindFirstChildOfClass("Humanoid")
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 31102453253420
+                            Y = "5~\xb8D\xb7u\x1f?\xf4\xba\xfcS\x16"
+                            t = 34340013736348
+                            j = "PlatformStand"
+                            z.PlatformStand = false
+                            break
+                        end
+                        return
+                    end
+                    Q = reg11
+                    if reg75.Character then
+                        Q = reg75
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 15234928634339
+                        Z = "h\xf1\x84o\x92\xdfC\xc4\xa5"
+                        p = 27833785601468
+                        G = "Character"
+                        z = reg75.Character
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 27645269715489
+                        Z = "\x8e\xab\xbel\xac'\xf5\xc8"
+                        p = 13627667078048
+                        G = "Humanoid"
+                        Q = reg75.Character.FindFirstChildOfClass
+                        Q = reg75.Character:FindFirstChildOfClass("Humanoid")
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 31474761760021
+                        p = "\x99kq\x98K\x08"
+                        Y = 16037897159743
+                        z = "Health"
+                        j = Q.Health
+                        createBodyGyro = Q.Health > 0
+                        q = Q.Health > 0
+                    end
+                end
+                f = task.spawn(createBodyGyro)
+                return
+            end
+        end
+        reg78 = ZA
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 27012987678737
+        XA = " \r\xfem\xfa"
+        yA = 24505178831973
+        uA = "Title"
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 12630309630347
+        PA = "\x9f\x04\x01"
+        XA = 12341217709059
+        kA = "Fly"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 26181922074640
+        sA = "K\x1c\x9bY\xe5"
+        PA = 28430189678796
+        TA = "Value"
+        XA = y
+        sA = T
+        cA = reg10
+        HA = m
+        WA = reg2
+        iA = 29715031816946
+        vA = "\xb6\r\xba"
+        OA = 25675863134231
+        PA = "Fly"
+        yA = y.Fly
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 8180367388103
+        OA = "p\xfd\xc1\xd0jCT\xf8"
+        cA = 6923647546121
+        XA = "Callback"
+        local function PA(fly, ...)
+            reg47.Fly = fly
+            m = reg48()
+            m = reg78(fly)
+        end
+        ZA = getReg69Map.Toggle
+        JA = {
+            Title = "Fly",
+            Value = y.Fly,
+            Callback = PA
+        }
+        ZA = getReg69Map:Toggle(JA)
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 7949334511606
+        XA = "\x98\xf3&\xff\xfb"
+        yA = 30197539288003
+        uA = "Title"
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 33183327653340
+        PA = "Z\xd4\x88H\xaa\xfb)\xf2\xff\xf7\xa8G-\x9d\xa1]\n\xb9u\x00\xad\xa1\xbe\xda"
+        XA = 32768269837626
+        kA = "Show Invisibility Button"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 1680529770795
+        sA = "b\xb0\xdbB_"
+        PA = 30544794649438
+        TA = "Value"
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 29280303093698
+        OA = "\xb3\x1em\x82\xf3\x90\xb7\xc4"
+        cA = 15847887139749
+        XA = "Callback"
+        local function PA(visible, ...)
+            m = reg54:FindFirstChild("Invisible_Btn")
+            N = m
+            if m then
+                m = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 19292636706108
+                A = "\x83\x9d$d\x7f\xa4\xa7"
+                F = 23308068571284
+                vAlias = "Visible"
+                m = visible
+                N.Visible = visible
+            end
+        end
+        ZA = getReg69Map.Toggle
+        JA = {
+            Title = "Show Invisibility Button",
+            Value = false,
+            Callback = PA
+        }
+        ZA = getReg69Map:Toggle(JA)
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 4059529607019
+        XA = "\xc9\x07yF"
+        yA = 23294531674859
+        uA = "T\x14a&"
+        ZA = getReg69Map.Toggle
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 8828530144653
+        PA = "\xc3hoTB\xf8N\x98+\x02\xd1e\xe0a\xd9h\x7f0m\x82\xd9\xb0\x8e "
+        XA = 30889352134669
+        kA = "Make Buttons Undraggable"
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 13083752139402
+        sA = "6\xb3\xa8\xfc\xeb"
+        PA = 27195391112350
+        TA = "Value"
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 9982805115826
+        OA = "6\x9f\xb9Ku/_^"
+        cA = 24908497126283
+        XA = "Callback"
+        local function PA(integerToBytesArgument, ...)
+
+        end
+        JA = {
+            ["T\x14a&"] = "Make Buttons Undraggable",
+            Value = false,
+            Callback = PA
+        }
+        ZA = getReg69Map:Toggle(JA)
+        JA = reg44
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 31255287522464
+        XA = "\xee\xcdK\x16\xea\x90\xedj\x0b\xc9-\x8e\x17\x0c"
+        yA = 33124636723758
+        uA = "CharacterAdded"
+        ZA = reg44.CharacterAdded
+        local function uA(...)
+            m = task.wait(.7)
+            if reg65 then
+                vAlias = reg78
+                m = reg78(true)
+            end
+        end
+        JA = reg44.CharacterAdded.Connect
+        JA = reg44.CharacterAdded:Connect(uA)
+        ZA = game
+        kA = T
+        TA = reg10
+        PA = m
+        sA = reg2
+        cA = 23062088902584
+        XA = "\xafR9\x04?\xa2\xb0\xfe\xf8%=\xc5\x99\xfc\xd2\xb4\x92"
+        yA = 28616102812983
+        uA = "ReplicatedStorage"
+        JA = game:GetService("ReplicatedStorage")
+        ZA = game
+        TA = T
+        yA = reg10
+        sA = m
+        cA = reg2
+        OA = 16803189207960
+        PA = "O\"k\x93x\xfc,"
+        XA = 15068320812077
+        kA = "Players"
+        reg79 = game:GetService("Players")
+        uA = game
+        yA = T
+        XA = reg10
+        cA = m
+        OA = reg2
+        vA = 28392235515075
+        sA = "\t\xe4\x07\n<\xae\x9b*\xa4y"
+        PA = 17585617311272
+        TA = "RunService"
+        reg80 = game:GetService("RunService")
+        kA = game
+        XA = T
+        PA = reg10
+        OA = m
+        vA = reg2
+        HA = 15998405022217
+        cA = "\xa0h\xe1\xbd\xa1\x94\xda(\xc1"
+        sA = 2478572203567
+        yA = "Workspace"
+        reg81 = game:GetService("Workspace")
+        yA = reg79
+        PA = T
+        sA = reg10
+        vA = m
+        HA = reg2
+        WA = 14219666032228
+        OA = "P\x08oR\xa6\xcf\x84m\x84\xeaL"
+        cA = 30828613310202
+        XA = "LocalPlayer"
+        TA = reg79.LocalPlayer
+        reg82 = reg79.LocalPlayer
+        XA = reg81
+        sA = T
+        cA = reg10
+        HA = m
+        WA = reg2
+        iA = 3520860551361
+        vA = "F\xf8\x8b\xb4\x1d\x95\tM\x9d#\x86\xf7\xd0"
+        OA = 15125432762967
+        PA = "CurrentCamera"
+        TA = reg81.CurrentCamera
+        reg83 = reg81.CurrentCamera
+        sA = T
+        cA = reg10
+        HA = m
+        WA = reg2
+        iA = 23564899820534
+        TA = JA.FindFirstChild
+        vA = "e\xc0\xa8Q\xfb\x91=\x7fV\xec\x18|\xfc"
+        OA = 3526274696148
+        PA = "GetPlayerData"
+        reg84 = JA:FindFirstChild("GetPlayerData", true)
+        local function sendReg84(...)
+            local function sendReg84(...)
+                local w = {
+                    PA
+                }
+                m = {
+                    reg84:InvokeServer()
+                }
+                return a(m)
+            end
+            D = {
+                pcall(sendReg84)
+            }
+            m = pcall(sendReg84)
+            if m then
+                return D[2]
+            end
+            return {}
+        end
+        reg85 = false
+        reg86 = false
+        reg87 = false
+        reg88 = false
+        reg89 = {}
+        reg90 = {}
+        reg92 = false
+        reg93 = {}
+        reg94 = sendReg84
+        local function secondaryA(...)
+            m = reg94()
+            for D, q in pairs(m) do
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 28565027277980
+                G = "\xb2\xdf\xfa\xf9"
+                Q = 23521655702301
+                successNotify = "Role"
+                f = q.Role
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 6948550372224
+                G = "\xb3\t\xffUm\xaf\xf3;"
+                Q = 30313085446001
+                successNotify = "Murderer"
+                vAlias = q.Role == "Murderer"
+                if not (q.Role == "Murderer") then
+                end
+                vAlias = reg79
+                successNotify = reg79.FindFirstChild
+                f = {
+                    reg79:FindFirstChild(D)
+                }
+                return a(f)
+            end
+        end
+        enableEspButton = reg80
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        text = m
+        D3 = reg2
+        reg10Alias = "lg\x8f[o-\xac\xed\xc8\xafPkY"
+        o3 = 21747663120106
+        C3 = "RenderStepped"
+        m3 = reg80.RenderStepped
+        local function createIntegerToBytesHighlight(...)
+            vAlias = reg94
+            b = reg94()
+            q = reg79.GetPlayers
+            A = {
+                reg79:GetPlayers()
+            }
+            N = reg79[2]
+            F = reg79[1]
+            for D, q in pairs(a(A)) do
+                j = reg82
+                A = D
+                successNotify = q ~= reg82
+                f = q ~= reg82
+                if q ~= reg82 then
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    k = "\xe4\xa7\x9e\x95O\x84\xa03\xc0"
+                    g = 23508916055681
+                    p = "\xbeq\xa2\x80\xda?\r/\xe8"
+                    Z = 5280666092796
+                    Y = 5280666092796
+                    Q = "Character"
+                    z = q.Character
+                    successNotify = q.Character
+                    if q.Character then
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 2396393019301
+                        p = "Z.^\xf7\x84\xef\xbbJ-"
+                        Y = 27428809640301
+                        Q = "Character"
+                        z = q.Character
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 8913622304944
+                        Z = "\xdf\x06\xa7\xc6\xc6\x17(\xcf\"~6\\\xf8\xa4R*"
+                        p = 1344526791287
+                        Q = q.Character.FindFirstChild
+                        G = "HumanoidRootPart"
+                        successNotify = q.Character:FindFirstChild("HumanoidRootPart")
+                    end
+                    vAlias = pairs
+                    f = successNotify
+                end
+                if not f then
+                end
+                J = 35056962966439
+                Z = "(\x16g\xf5"
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 35056962966439
+                G = "\t\xb7G7"
+                t = 21814083015870
+                Q = 21814083015870
+                successNotify = "Name"
+                f = q.Name
+                vAlias = b[q.Name]
+                f = b[q.Name]
+                successNotify = b[q.Name]
+                if b[q.Name] then
+                    Q = reg11
+                    G = reg10
+                    p = reg1
+                    Z = reg2
+                    J = 892170436966
+                    Y = "1\x11A\x1a"
+                    t = 13052118370913
+                    z = "Role"
+                    j = b[q.Name].Role
+                    successNotify = b[q.Name].Role
+                end
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 24901600517100
+                Y = "\xe7/\x10\x1eb\x92\xf1"
+                t = 19846234169710
+                z = "fromRGB"
+                vAlias = Color3.fromRGB
+                g = "\xe4L\xf0\xafT\x04,5"
+                j = Color3.fromRGB(0, 255, 0)
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 5288017448768
+                Y = "\x94<\x91\x81T8\xa8n"
+                p = 13237932950057
+                t = 13237932950057
+                z = "Murderer"
+                vAlias = successNotify == "Murderer"
+                if successNotify == "Murderer" then
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 28497823220210
+                    p = "\xba\xcf\x0b\xedXs|"
+                    Y = 22081702188945
+                    Q = "fromRGB"
+                    vAlias = Color3.fromRGB
+                    j = Color3.fromRGB(255, 0, 0)
+                else
+                    y = "\xae: \xa4ah\x8f"
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    X = 13867561106142
+                    T = 13867561106142
+                    J = "\t\x19Hc\x17m\x01"
+                    g = 8401630806171
+                    Z = 8401630806171
+                    t = "Sheriff"
+                    G = successNotify == "Sheriff"
+                    Q = successNotify == "Sheriff"
+                    if not (successNotify == "Sheriff") then
+                        Y = reg11
+                        p = reg10
+                        g = reg1
+                        k = reg2
+                        T = 5564539723935
+                        J = "f\xb2\xe7\xcb"
+                        Z = 6776500445450
+                        t = "Hero"
+                        G = successNotify == "Hero"
+                        Q = successNotify == "Hero"
+                    end
+                    if successNotify == "Sheriff" then
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 23740686591427
+                        Z = "\rQ,3k\xfc\xf9"
+                        p = 20989282058856
+                        G = "fromRGB"
+                        vAlias = Color3.fromRGB
+                        j = Color3.fromRGB(0, 0, 255)
+                    end
+                    vAlias = reg85
+                    if reg85 then
+                        p = reg89
+                        Y = reg89[q]
+                        t = not reg89[q]
+                        G = not reg89[q]
+                        if not not reg89[q] then
+                            Z = reg89
+                            p = reg89[q]
+                            J = reg11
+                            g = reg10
+                            y = reg1
+                            X = reg2
+                            P = 15317472157941
+                            T = "\\~\xe4O^\x0b"
+                            k = 27323486272311
+                            Z = "Parent"
+                            Y = reg89[q].Parent
+                            t = not reg89[q].Parent
+                            G = not reg89[q].Parent
+                        end
+                        if G then
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 22655272936148
+                            J = "k\xfc^"
+                            Z = 11605265351911
+                            t = "new"
+                            vAlias = Instance.new
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 16476010426138
+                            J = "\xeeD>\xd2\xff\xea&DB"
+                            Z = 21197931637147
+                            t = "Highlight"
+                            G = Instance.new("Highlight")
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 17636142883899
+                            Z = "E\xd8\xc7\xcb"
+                            p = 29896990070068
+                            vAlias = "Name"
+                            Y = reg11
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 25254655471260
+                            J = "7\xe5S\x0e\xa0\xf7"
+                            Z = 19044922603130
+                            t = "MM2ESP"
+                            G.Name = "MM2ESP"
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 13022500764062
+                            Z = "\xd5\x05\x89\x8a\xcb\xd5WI\x8bE*\xe8\xbb\x00`\xe6"
+                            p = 31458045878094
+                            vAlias = "FillTransparency"
+                            G.FillTransparency = 0.5
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 33046315637047
+                            Z = ":+\x03\xdc\x99p4\xef8\x0e\xaa+\xf3\x00\xa4ng|+"
+                            p = 6718559970317
+                            vAlias = "OutlineTransparency"
+                            G.OutlineTransparency = 0
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 25973886832732
+                            Z = "\xef\x16\xa3\x17\x82\x1f\xdb\xaf\xe2"
+                            p = 29613015652371
+                            vAlias = "DepthMode"
+                            J = reg11
+                            g = reg10
+                            y = reg1
+                            X = reg2
+                            P = 29895312529397
+                            T = "4\xb4\xe9\x0e\xca\xb4nff\xba\x85\xc5\x1am\xec\x1e\xcaj"
+                            k = 21392614029811
+                            Z = "HighlightDepthMode"
+                            Y = Enum.HighlightDepthMode
+                            Z = reg11
+                            J = reg10
+                            T = reg1
+                            y = reg2
+                            X = 31799505329867
+                            k = "\xf11\xa4\xa5\x0e\xee\xc4y\xdf\x9a\xc7"
+                            g = 31327945886403
+                            p = "AlwaysOnTop"
+                            t = Enum.HighlightDepthMode.AlwaysOnTop
+                            G.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+                            vAlias = reg89
+                            t = G
+                            reg89[q] = G
+                        end
+                        G = reg89
+                        vAlias = reg89[q]
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 16454479805384
+                        Z = "=ie\x99`\xca"
+                        p = 15426522990853
+                        G = "Parent"
+                        p = reg11
+                        Z = reg10
+                        k = reg1
+                        T = reg2
+                        y = 16605793132361
+                        g = "b\xab\xc4\t\x86\xf1\x1d<\x1c"
+                        J = 30053708967054
+                        Y = "Character"
+                        t = q.Character
+                        vAlias.Parent = q.Character
+                        G = reg89
+                        vAlias = reg89[q]
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 26154805433680
+                        Z = "\xb9\xb4\x17\xe2GH\x1b"
+                        p = 16335172346579
+                        G = "Adornee"
+                        p = reg11
+                        Z = reg10
+                        k = reg1
+                        T = reg2
+                        y = 23059725555742
+                        g = "\x82F)\x90\"\xc6\x03\x92G"
+                        J = 6998009083347
+                        Y = "Character"
+                        t = q.Character
+                        vAlias.Adornee = q.Character
+                        G = reg89
+                        vAlias = reg89[q]
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 3749512727050
+                        Z = "Bj\xb91\xa6S\xce1-"
+                        p = 24002867316584
+                        G = "FillColor"
+                        t = j
+                        vAlias.FillColor = j
+                        G = reg89
+                        vAlias = reg89[q]
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 6683306440963
+                        Z = "B\x93|\x1b9\xf5(\x9ao\x9f\xbf\x9c"
+                        p = 34756860409654
+                        G = "OutlineColor"
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 5709527457377
+                        k = "\xfe\x90\xb1"
+                        g = 28775540584164
+                        p = "new"
+                        t = Color3.new
+                        vAlias.OutlineColor = Color3.new(1, 1, 1)
+                    else
+                        G = reg89
+                        vAlias = reg89[q]
+                        if reg89[q] then
+                            G = reg89
+                            vAlias = reg89[q]
+                            G = reg89[q].Destroy
+                            G = reg89[q]:Destroy()
+                            vAlias = reg89
+                            reg89[q] = nil
+                        end
+                        vAlias = reg92
+                        if reg92 then
+                            t = reg11
+                            Y = reg10
+                            J = reg1
+                            g = reg2
+                            k = 548631241704
+                            Z = "u7YR`\xa0\xf2\x91\x80"
+                            p = 21959531884859
+                            G = "Character"
+                            vAlias = q.Character
+                            Y = reg11
+                            G = q.Character.FindFirstChild
+                            p = reg10
+                            g = reg1
+                            k = reg2
+                            T = 27894355359215
+                            J = "Z\xbf\xfaf"
+                            Z = 10881745040405
+                            t = "Head"
+                            G = q.Character:FindFirstChild("Head")
+                            if G then
+                                Z = reg93
+                                p = reg93[q]
+                                Y = not reg93[q]
+                                t = not reg93[q]
+                                if not not reg93[q] then
+                                    J = reg93
+                                    Z = reg93[q]
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 25743457015793
+                                    y = "Z\x05\xb3\xefW\xbf"
+                                    T = 23605410506547
+                                    J = "Parent"
+                                    p = reg93[q].Parent
+                                    Y = not reg93[q].Parent
+                                    t = not reg93[q].Parent
+                                end
+                                if t then
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 6674641968733
+                                    g = "@?\x03"
+                                    J = 29669477792703
+                                    Y = "new"
+                                    vAlias = Instance.new
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 1720306384416
+                                    g = "\x10\x8dB\xb5a\x8b\x14\x07\xee\xb5\xad\x89"
+                                    J = 31596902360400
+                                    Y = "BillboardGui"
+                                    t = Instance.new("BillboardGui")
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 5625641619343
+                                    J = "\xf9g3\x18"
+                                    Z = 23532689314807
+                                    vAlias = "Name"
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 10896560157117
+                                    g = "\xf1\x18xv9)\x01"
+                                    J = 28174484813276
+                                    Y = "NameESP"
+                                    t.Name = "NameESP"
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 34479173964157
+                                    J = "@\xabG\xcd"
+                                    Z = 11477034523879
+                                    vAlias = "Size"
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 28954868162229
+                                    T = "\x97\xcd\x1b"
+                                    k = 13348026139056
+                                    Z = "new"
+                                    Y = UDim2.new
+                                    t.Size = UDim2.new(0, 60, 0, 20)
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 30446469828961
+                                    J = "Q\x0b\xd5\xdd\xc0:\x871\xbc\x117"
+                                    Z = 32007341794928
+                                    vAlias = "StudsOffset"
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 31443417515567
+                                    T = "!\xcb\x19"
+                                    k = 4460197744169
+                                    Z = "new"
+                                    Y = Vector3.new
+                                    t.StudsOffset = Vector3.new(0, 2, 0)
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 4731324911400
+                                    J = "\xa5L\xc5\xa5\xcc\xa8i\x8c\xeb\x12\xf6"
+                                    Z = 26462049409060
+                                    vAlias = "AlwaysOnTop"
+                                    t.AlwaysOnTop = true
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 963952424257
+                                    k = "\x9chc"
+                                    g = 24509837284693
+                                    p = "new"
+                                    vAlias = Instance.new
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 10217593400229
+                                    k = "\xdd\xc5\x01\xc8\x0e\x97\r&J"
+                                    g = 25281727121831
+                                    p = "TextLabel"
+                                    Y = Instance.new("TextLabel")
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 12145892651687
+                                    g = "\x84F\xae\x16"
+                                    J = 21597763947306
+                                    vAlias = "Size"
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 9190393682823
+                                    y = "\x02n("
+                                    T = 29330391181647
+                                    J = "new"
+                                    p = UDim2.new
+                                    Y.Size = UDim2.new(1, 0, 1, 0)
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 30034014376863
+                                    g = "\xcc!+\x91j?\xf7uE(\x9a\x02\x15\x159\x10\x81\x1d\xb2\xc1v\x8a"
+                                    J = 2465903093427
+                                    vAlias = "BackgroundTransparency"
+                                    Y.BackgroundTransparency = 1
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 8923705390722
+                                    g = "/\x11=\x89\x8f\x9b\xc4_jn"
+                                    J = 29827414204292
+                                    vAlias = "TextScaled"
+                                    Y.TextScaled = false
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 29218838042856
+                                    g = "\xeb\x83\xef\x9c\x00\xb4\x96}"
+                                    J = 19961066356049
+                                    vAlias = "TextSize"
+                                    Y.TextSize = 12
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 11407339984789
+                                    g = "\x07p\x14\xf6"
+                                    J = 12795826678135
+                                    vAlias = "Font"
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 822767888925
+                                    X = "\xde\xc0\xc3\x13"
+                                    y = 30755533685946
+                                    g = "Font"
+                                    Z = Enum.Font
+                                    g = reg11
+                                    k = reg10
+                                    X = reg1
+                                    P = reg2
+                                    reg69UpdateF = 23503052049978
+                                    y = "\x99\xeb\xe6^\x8a\xe7\xbf%v\""
+                                    T = 1130703426413
+                                    J = "GothamBold"
+                                    p = Enum.Font.GothamBold
+                                    Y.Font = Enum.Font.GothamBold
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 1212293933843
+                                    g = "/\x00d|F2\x02\x95\xe5&\x99\x94 H*X\xd1iH\x08P"
+                                    J = 4921626775974
+                                    vAlias = "TextSt\x18x\xc4\xffaz\xf5*\x11<\xa6O!\xea'"
+                                    Y["TextSt\x18x\xc4\xffaz\xf5*\x11<\xa6O!\xea'"] = 0
+                                    p = reg11
+                                    Z = reg10
+                                    k = reg1
+                                    T = reg2
+                                    y = 943260558145
+                                    g = "\xb6}\t\xba\x95="
+                                    J = 8745565509195
+                                    vAlias = "Parent"
+                                    p = t
+                                    Y.Parent = t
+                                    p = t
+                                    vAlias = reg93
+                                    reg93[q] = t
+                                end
+                                t = reg93
+                                vAlias = reg93[q]
+                                Y = reg11
+                                p = reg10
+                                g = reg1
+                                k = reg2
+                                T = 27182006516176
+                                J = "\xbf\x1d\x8a\xa3\xfd\xe3"
+                                Z = 26496079830039
+                                t = "Parent"
+                                Y = G
+                                vAlias.Parent = G
+                                Y = reg93
+                                t = reg93[q]
+                                p = reg11
+                                Z = reg10
+                                k = reg1
+                                T = reg2
+                                y = 21726787811091
+                                g = "\x96\x92\xf9\xfb\xd1\x8b;\xa1\xbb"
+                                J = 33367621555804
+                                Y = "TextLabel"
+                                vAlias = reg93[q].TextLabel
+                                Y = reg11
+                                p = reg10
+                                g = reg1
+                                k = reg2
+                                T = 21950204654900
+                                J = "\xa8\xa0\xe16"
+                                Z = 97427816426
+                                t = "Text"
+                                Z = reg11
+                                J = reg10
+                                T = reg1
+                                y = reg2
+                                X = 20694882389833
+                                k = "\x8d\x05KC"
+                                g = 16103640695536
+                                p = "Name"
+                                Y = q.Name
+                                vAlias.Text = q.Name
+                                Y = reg93
+                                t = reg93[q]
+                                p = reg11
+                                Z = reg10
+                                k = reg1
+                                T = reg2
+                                y = 10169990544
+                                g = "U\xc0\xa7\t\xe5\xa5\x7fxD"
+                                J = 32541530357435
+                                Y = "TextLabel"
+                                vAlias = reg93[q].TextLabel
+                                Y = reg11
+                                p = reg10
+                                g = reg1
+                                k = reg2
+                                T = 1877024592572
+                                J = "\xbdj\xc0\xaf\x8d\xe6\xaabB\x91"
+                                Z = 33986226861153
+                                t = "TextColor3"
+                                Y = j
+                                vAlias.TextColor3 = j
+                            end
+                        else
+                            G = reg93
+                            vAlias = reg93[q]
+                            if reg93[q] then
+                                G = reg93
+                                vAlias = reg93[q]
+                                G = reg93[q].Destroy
+                                G = reg93[q]:Destroy()
+                                vAlias = reg93
+                                reg93[q] = nil
+                                vAlias = reg86
+                                if reg86 then
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 24702024553495
+                                    J = "Vq\xc7\xa4\x9c[\xe5\x16\xc0"
+                                    Z = 8832470159641
+                                    t = "Character"
+                                    G = q.Character
+                                    Y = reg11
+                                    p = reg10
+                                    g = reg1
+                                    k = reg2
+                                    T = 10776592537198
+                                    J = "qo?)m\x7f\x8d\xd6\xf2\x1fZ\xd7\xc6\xdbF\x1f"
+                                    Z = 27129239410393
+                                    reg69UpdateF = "\xb6BtW\"\xaf\x01\x80"
+                                    t = "HumanoidRootPart"
+                                    vAlias = q.Character.HumanoidRootPart
+                                    G = q.Character.HumanoidRootPart
+                                    vAlias = reg83
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 6708633390768
+                                    T = "uB\x87\x0e\xf2\xab\xae\xfd"
+                                    y = 32150088590936
+                                    k = 32150088590936
+                                    Z = "Position"
+                                    p = q.Character.HumanoidRootPart.Position
+                                    Z = reg83.WorldToViewportPoint
+                                    Z = {
+                                        reg83:WorldToViewportPoint(q.Character.HumanoidRootPart.Position)
+                                    }
+                                    t = Z(reg83, q.Character.HumanoidRootPart.Position)
+                                    Y = Z[2]
+                                    Z = reg90
+                                    p = reg90[q]
+                                    vAlias = not reg90[q]
+                                    if not reg90[q] then
+                                        J = reg11
+                                        g = reg10
+                                        y = reg1
+                                        X = reg2
+                                        P = 23634785899103
+                                        T = "\xb96\xba"
+                                        k = 25694379491681
+                                        Z = "new"
+                                        vAlias = Drawing.new
+                                        J = reg11
+                                        g = reg10
+                                        y = reg1
+                                        X = reg2
+                                        P = 5438995282312
+                                        T = "\xecAr "
+                                        k = 4912517464090
+                                        Z = "Line"
+                                        p = Drawing.new("Line")
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 33532753472308
+                                        k = "\xa1\x87\xa6h\x83l\xd3\x86c"
+                                        g = 5824463661148
+                                        vAlias = "Thickness"
+                                        p.Thickness = 2
+                                        Z = p
+                                        vAlias = reg90
+                                        reg90[q] = p
+                                    end
+                                    if Y then
+                                        p = reg90
+                                        vAlias = reg90[q]
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 27979557217483
+                                        k = "\xa7\x10\xf6\x87\xdd \x9f"
+                                        g = 24370845347902
+                                        p = "Visible"
+                                        vAlias.Visible = true
+                                        p = reg90
+                                        vAlias = reg90[q]
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 4080480313293
+                                        k = "3\xf6c\xb8\x14"
+                                        g = 17171682165227
+                                        p = "Color"
+                                        Z = j
+                                        vAlias.Color = j
+                                        p = reg90
+                                        vAlias = reg90[q]
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 32263739936495
+                                        k = "N\xbc\xa6t"
+                                        g = 20273145958698
+                                        p = "From"
+                                        k = reg11
+                                        T = reg10
+                                        P = reg1
+                                        reg69UpdateF = reg2
+                                        getReg69Map = 24334205175720
+                                        X = "c\x9d\xee"
+                                        y = 20093767157399
+                                        g = "new"
+                                        Z = Vector2.new
+                                        y = reg83
+                                        P = reg11
+                                        reg69UpdateF = reg10
+                                        W = reg1
+                                        v = reg2
+                                        H = 22218405068711
+                                        c = "G\xaf\xc6\xcb\xb2\xb9\xa5\xe8(T\xe3\x1c"
+                                        getReg69Map = 6127621590377
+                                        X = "ViewportSize"
+                                        T = reg83.ViewportSize
+                                        X = reg11
+                                        P = reg10
+                                        c = reg1
+                                        W = reg2
+                                        v = 25449620065152
+                                        getReg69Map = "\xfa"
+                                        reg69UpdateF = 3949035091220
+                                        y = "X"
+                                        k = reg83.ViewportSize.X
+                                        g = reg83.ViewportSize.X / 2
+                                        y = reg83
+                                        P = reg11
+                                        reg69UpdateF = reg10
+                                        W = reg1
+                                        v = reg2
+                                        H = 16507688859432
+                                        c = "\x97\x08\xad\xa07[\xf33\xf6\xfe\x95\xbd"
+                                        getReg69Map = 35011081981162
+                                        X = "ViewportSize"
+                                        T = reg83.ViewportSize
+                                        X = reg11
+                                        P = reg10
+                                        c = reg1
+                                        W = reg2
+                                        v = 34562638805300
+                                        getReg69Map = "\n"
+                                        reg69UpdateF = 5781655831473
+                                        y = "Y"
+                                        k = reg83.ViewportSize.Y
+                                        vAlias.From = Vector2.new(reg83.ViewportSize.X / 2, reg83.ViewportSize.Y)
+                                        p = reg90
+                                        vAlias = reg90[q]
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 34286404925775
+                                        k = "\x01I"
+                                        g = 5106982330472
+                                        p = "To"
+                                        k = reg11
+                                        T = reg10
+                                        P = reg1
+                                        reg69UpdateF = reg2
+                                        getReg69Map = 1477679532054
+                                        X = "\x18\x11\xe3"
+                                        y = 28529438974547
+                                        g = "new"
+                                        Z = Vector2.new
+                                        T = reg11
+                                        y = reg10
+                                        reg69UpdateF = reg1
+                                        getReg69Map = reg2
+                                        c = 7017510669633
+                                        P = "a"
+                                        X = 9516340843525
+                                        k = "X"
+                                        g = t.X
+                                        y = reg11
+                                        X = reg10
+                                        getReg69Map = reg1
+                                        c = reg2
+                                        W = 30564814965989
+                                        reg69UpdateF = "\xde"
+                                        P = 17631454040207
+                                        T = "Y"
+                                        k = t.Y
+                                        vAlias.To = Vector2.new(t.X, t.Y)
+                                    else
+                                        p = reg90
+                                        vAlias = reg90[q]
+                                        Z = reg11
+                                        J = reg10
+                                        T = reg1
+                                        y = reg2
+                                        X = 1358255317729
+                                        k = "\x8c\x13n\xc8\x97\xc7\xe8"
+                                        g = 32116613880390
+                                        p = "Visible"
+                                        vAlias.Visible = false
+                                    end
+                                else
+                                    G = reg90
+                                    vAlias = reg90[q]
+                                    if reg90[q] then
+                                        G = reg90
+                                        vAlias = reg90[q]
+                                        t = reg11
+                                        Y = reg10
+                                        J = reg1
+                                        g = reg2
+                                        k = 31720176742189
+                                        Z = "!Z\xd2/o.,"
+                                        p = 2458476861127
+                                        G = "Visible"
+                                        vAlias.Visible = false
+                                    end
+                                end
+                            end
+                            vAlias = reg86
+                            if reg86 then
+                                Y = reg11
+                                p = reg10
+                                g = reg1
+                                k = reg2
+                                T = 24702024553495
+                                J = "Vq\xc7\xa4\x9c[\xe5\x16\xc0"
+                                Z = 8832470159641
+                                t = "Character"
+                                G = q.Character
+                                Y = reg11
+                                p = reg10
+                                g = reg1
+                                k = reg2
+                                T = 10776592537198
+                                J = "qo?)m\x7f\x8d\xd6\xf2\x1fZ\xd7\xc6\xdbF\x1f"
+                                Z = 27129239410393
+                                reg69UpdateF = "\xb6BtW\"\xaf\x01\x80"
+                                t = "HumanoidRootPart"
+                                vAlias = q.Character.HumanoidRootPart
+                                G = q.Character.HumanoidRootPart
+                                vAlias = reg83
+                                J = reg11
+                                g = reg10
+                                y = reg1
+                                X = reg2
+                                P = 6708633390768
+                                T = "uB\x87\x0e\xf2\xab\xae\xfd"
+                                y = 32150088590936
+                                k = 32150088590936
+                                Z = "Position"
+                                p = q.Character.HumanoidRootPart.Position
+                                Z = reg83.WorldToViewportPoint
+                                Z = {
+                                    reg83:WorldToViewportPoint(q.Character.HumanoidRootPart.Position)
+                                }
+                                t = Z(reg83, q.Character.HumanoidRootPart.Position)
+                                Y = Z[2]
+                                Z = reg90
+                                p = reg90[q]
+                                vAlias = not reg90[q]
+                                if not reg90[q] then
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 23634785899103
+                                    T = "\xb96\xba"
+                                    k = 25694379491681
+                                    Z = "new"
+                                    vAlias = Drawing.new
+                                    J = reg11
+                                    g = reg10
+                                    y = reg1
+                                    X = reg2
+                                    P = 5438995282312
+                                    T = "\xecAr "
+                                    k = 4912517464090
+                                    Z = "Line"
+                                    p = Drawing.new("Line")
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 33532753472308
+                                    k = "\xa1\x87\xa6h\x83l\xd3\x86c"
+                                    g = 5824463661148
+                                    vAlias = "Thickness"
+                                    p.Thickness = 2
+                                    Z = p
+                                    vAlias = reg90
+                                    reg90[q] = p
+                                end
+                                if Y then
+                                    p = reg90
+                                    vAlias = reg90[q]
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 27979557217483
+                                    k = "\xa7\x10\xf6\x87\xdd \x9f"
+                                    g = 24370845347902
+                                    p = "Visible"
+                                    vAlias.Visible = true
+                                    p = reg90
+                                    vAlias = reg90[q]
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 4080480313293
+                                    k = "3\xf6c\xb8\x14"
+                                    g = 17171682165227
+                                    p = "Color"
+                                    Z = j
+                                    vAlias.Color = j
+                                    p = reg90
+                                    vAlias = reg90[q]
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 32263739936495
+                                    k = "N\xbc\xa6t"
+                                    g = 20273145958698
+                                    p = "From"
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 24334205175720
+                                    X = "c\x9d\xee"
+                                    y = 20093767157399
+                                    g = "new"
+                                    Z = Vector2.new
+                                    y = reg83
+                                    P = reg11
+                                    reg69UpdateF = reg10
+                                    W = reg1
+                                    v = reg2
+                                    H = 22218405068711
+                                    c = "G\xaf\xc6\xcb\xb2\xb9\xa5\xe8(T\xe3\x1c"
+                                    getReg69Map = 6127621590377
+                                    X = "ViewportSize"
+                                    T = reg83.ViewportSize
+                                    X = reg11
+                                    P = reg10
+                                    c = reg1
+                                    W = reg2
+                                    v = 25449620065152
+                                    getReg69Map = "\xfa"
+                                    reg69UpdateF = 3949035091220
+                                    y = "X"
+                                    k = reg83.ViewportSize.X
+                                    g = reg83.ViewportSize.X / 2
+                                    y = reg83
+                                    P = reg11
+                                    reg69UpdateF = reg10
+                                    W = reg1
+                                    v = reg2
+                                    H = 16507688859432
+                                    c = "\x97\x08\xad\xa07[\xf33\xf6\xfe\x95\xbd"
+                                    getReg69Map = 35011081981162
+                                    X = "ViewportSize"
+                                    T = reg83.ViewportSize
+                                    X = reg11
+                                    P = reg10
+                                    c = reg1
+                                    W = reg2
+                                    v = 34562638805300
+                                    getReg69Map = "\n"
+                                    reg69UpdateF = 5781655831473
+                                    y = "Y"
+                                    k = reg83.ViewportSize.Y
+                                    J = Vector2.new(reg83.ViewportSize.X / 2, reg83.ViewportSize.Y)
+                                    vAlias.From = Vector2.new(reg83.ViewportSize.X / 2, reg83.ViewportSize.Y)
+                                    p = reg90
+                                    vAlias = reg90[q]
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 34286404925775
+                                    k = "\x01I"
+                                    g = 5106982330472
+                                    p = "To"
+                                    k = reg11
+                                    T = reg10
+                                    P = reg1
+                                    reg69UpdateF = reg2
+                                    getReg69Map = 1477679532054
+                                    X = "\x18\x11\xe3"
+                                    y = 28529438974547
+                                    g = "new"
+                                    Z = Vector2.new
+                                    T = reg11
+                                    y = reg10
+                                    reg69UpdateF = reg1
+                                    getReg69Map = reg2
+                                    c = 7017510669633
+                                    P = "a"
+                                    X = 9516340843525
+                                    k = "X"
+                                    g = t.X
+                                    y = reg11
+                                    X = reg10
+                                    getReg69Map = reg1
+                                    c = reg2
+                                    W = 30564814965989
+                                    reg69UpdateF = "\xde"
+                                    P = 17631454040207
+                                    T = "Y"
+                                    k = t.Y
+                                    J = Vector2.new(t.X, t.Y)
+                                    vAlias.To = Vector2.new(t.X, t.Y)
+                                else
+                                    p = reg90
+                                    vAlias = reg90[q]
+                                    Z = reg11
+                                    J = reg10
+                                    T = reg1
+                                    y = reg2
+                                    X = 1358255317729
+                                    k = "\x8c\x13n\xc8\x97\xc7\xe8"
+                                    g = 32116613880390
+                                    p = "Visible"
+                                    vAlias.Visible = false
+                                end
+                            else
+                                G = reg90
+                                vAlias = reg90[q]
+                                if reg90[q] then
+                                    G = reg90
+                                    vAlias = reg90[q]
+                                    t = reg11
+                                    Y = reg10
+                                    J = reg1
+                                    g = reg2
+                                    k = 31720176742189
+                                    Z = "!Z\xd2/o.,"
+                                    p = 2458476861127
+                                    G = "Visible"
+                                    vAlias.Visible = false
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+            if reg87 then
+                vAlias = reg81
+                F = reg11
+                A = reg10
+                Y = 3713419588012
+                successNotify = reg1
+                j = reg2
+                t = "\xf6)\"\x15a\xb9\xc6"
+                G = 3713419588012
+                f = "*\xe7d\x1cY\r,"
+                successNotify = 5031659362096
+                q = 5031659362096
+                D = "GunDrop"
+                F = true
+                N = reg81.FindFirstChild
+                N = reg81:FindFirstChild("GunDrop", true)
+                D = N
+                if N then
+                    q = reg11
+                    f = reg10
+                    F = N.IsA
+                    G = reg1
+                    t = reg2
+                    Y = 32309415054145
+                    j = "\x0c+\xcb3\xed\xc3\xbe&"
+                    successNotify = 9937077385846
+                    A = "BasePart"
+                    D = N:IsA("BasePart")
+                end
+                if D then
+                    vAlias = reg83
+                    f = reg11
+                    successNotify = reg10
+                    t = reg1
+                    Y = reg2
+                    J = 26791991111364
+                    Z = "\xea\x92G\xb5\x07l@\x8f"
+                    p = 26791991111364
+                    G = "\xd8\xf6\xa8\x16\xb9{}\n"
+                    t = 4705483304091
+                    j = 4705483304091
+                    q = "Position"
+                    A = N.Position
+                    q = reg83.WorldToViewportPoint
+                    q = {
+                        reg83:WorldToViewportPoint(N.Position)
+                    }
+                    D = q(reg83, N.Position)
+                    A = reg91
+                    vAlias = not reg91
+                    F = q[2]
+                    if not reg91 then
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 4391530089416
+                        G = "\xfa\x96\x17"
+                        j = 11413688592697
+                        q = "new"
+                        vAlias = Drawing.new
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 676514281363
+                        G = "\xf6\xfc\x99\x17"
+                        j = 16724588436154
+                        q = "Line"
+                        A = Drawing.new("Line")
+                        reg91 = A
+                        vAlias = A
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 27246569401334
+                        G = "\xd3\x86ru\x8d\xe1\xbf\xdb\xd9"
+                        j = 17431808000535
+                        q = "Thickness"
+                        A.Thickness = 2
+                        vAlias = A
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 16367057243288
+                        G = "\xa5\xe9\xd6\x12\x8b"
+                        j = 15011688643610
+                        q = "Color"
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 17359728589458
+                        p = "@\x90\x11\xd6D\xcbF"
+                        Y = 31739281087183
+                        j = "fromRGB"
+                        f = Color3.fromRGB
+                        A.Color = Color3.fromRGB(255, 255, 0)
+                    end
+                    if F then
+                        vAlias = reg91
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 22790950697922
+                        G = "bO-\x1e\xef6!"
+                        j = 30707281154645
+                        q = "Visible"
+                        reg91.Visible = true
+                        vAlias = reg91
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 33935073633885
+                        G = "\xf8\x9e?+"
+                        j = 3322790112859
+                        q = "From"
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 6080306142832
+                        p = "E\xa1\xc0"
+                        Y = 27873823423784
+                        j = "new"
+                        f = Vector2.new
+                        Y = reg83
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 30276639830881
+                        k = "\x1cC\x80\xbd\x96M\x16n\x94V\x17g"
+                        g = 3379575659315
+                        p = "ViewportSize"
+                        t = reg83.ViewportSize
+                        p = reg11
+                        Z = reg10
+                        k = reg1
+                        T = reg2
+                        y = 9497515701586
+                        g = "\x86"
+                        J = 20673204438631
+                        Y = "X"
+                        G = reg83.ViewportSize.X
+                        j = reg83.ViewportSize.X / 2
+                        Y = reg83
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 2896331417588
+                        k = "`\xd5A_\x9e&u\xfa\x86S\x8c\xa1"
+                        g = 18825525548433
+                        p = "ViewportSize"
+                        t = reg83.ViewportSize
+                        p = reg11
+                        Z = reg10
+                        k = reg1
+                        T = reg2
+                        y = 2854973698920
+                        g = "`"
+                        J = 32108741295293
+                        Y = "Y"
+                        G = reg83.ViewportSize.Y
+                        reg91.From = Vector2.new(reg83.ViewportSize.X / 2, reg83.ViewportSize.Y)
+                        vAlias = reg91
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 5081752238907
+                        G = "m\xf0"
+                        j = 12747652631345
+                        q = "To"
+                        G = reg11
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 30424105164221
+                        p = "\xcc\xde\xdb"
+                        Y = 27971464252133
+                        j = "new"
+                        f = Vector2.new
+                        t = reg11
+                        Y = reg10
+                        J = reg1
+                        g = reg2
+                        k = 1367221678316
+                        Z = "\x1c"
+                        p = 29369786334801
+                        G = "X"
+                        j = D.X
+                        Y = reg11
+                        p = reg10
+                        g = reg1
+                        k = reg2
+                        T = 24638028181330
+                        J = "R"
+                        Z = 12916393216422
+                        t = "Y"
+                        G = D.Y
+                        reg91.To = Vector2.new(D.X, D.Y)
+                    else
+                        vAlias = reg91
+                        f = reg11
+                        successNotify = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 17901591736702
+                        G = "\x81\x85\xd9\x03Im\x06"
+                        j = 5615102636624
+                        q = "Visible"
+                        reg91.Visible = false
+                    end
+                else
+                    vAlias = reg91
+                    if reg91 then
+                        vAlias = reg91
+                        F = reg11
+                        q = reg10
+                        j = reg1
+                        G = reg2
+                        t = 26469075957206
+                        successNotify = "\xe5U\xae\xb0\n\xc9k"
+                        f = 13506637250271
+                        D = "Visible"
+                        reg91.Visible = false
+                    end
+                end
+            else
+                vAlias = reg91
+                if reg91 then
+                    vAlias = reg91
+                    D = reg11
+                    F = reg10
+                    successNotify = reg1
+                    t = "\xea;7D\x0e\xa3\x91"
+                    j = reg2
+                    G = 28146274948059
+                    f = "\x9fd\xc8\x013\xd6i"
+                    q = 27714294033654
+                    N = "Visible"
+                    reg91.Visible = false
+                end
+                return
+            end
+        end
+        enableEspButton = reg80.RenderStepped.Connect
+        enableEspButton = reg80.RenderStepped:Connect(createIntegerToBytesHighlight)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        text = m
+        D3 = reg2
+        reg10Alias = "\xdf\xcc\x01\xeeT"
+        o3 = 29065866525803
+        createIntegerToBytesHighlight = "spawn"
+        m3 = task.spawn
+        local function updateCFrame(...)
+            N = reg11
+            b = "wait"
+            vAlias = task.wait
+            m = task.wait(1)
+            while m do
+                vAlias = reg88
+                vAlias = reg81
+                N = reg11
+                z = 9881527386867
+                D = reg10
+                q = reg1
+                f = reg2
+                j = "\xe2\xed\xc5\x95Ki\x93"
+                successNotify = 9881527386867
+                A = "\x9d\xd9\xeb\x89\xf0m2"
+                q = 21936000539354
+                F = 21936000539354
+                b = "GunDrop"
+                N = true
+                m = reg81.FindFirstChild
+                m = reg81:FindFirstChild("GunDrop", true)
+                b = m
+                m = m
+                if m then
+                    A = reg82
+                    f = reg11
+                    D = reg81
+                    successNotify = reg10
+                    Q = reg1
+                    G = reg2
+                    t = 10590813862945
+                    z = "Y#\x05\x8ds\xb3\xee?\xd3"
+                    j = 2943844426086
+                    q = "Character"
+                    F = reg82.Character
+                    N = reg82.Character
+                    if reg82.Character then
+                        A = reg82
+                        f = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 17683464972720
+                        z = "\x90\xf7\xc9\xb5z\xdc\xd4\x11\x10"
+                        j = 30626602962935
+                        q = "Character"
+                        F = reg82.Character
+                        f = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 30018806394984
+                        z = "\x07\x88jJc4U\x02\xc0\xde.\x85\xe4n5s"
+                        j = 547451151410
+                        q = "HumanoidRootPart"
+                        A = reg82.Character.FindFirstChild
+                        N = reg82.Character:FindFirstChild("HumanoidRootPart")
+                    end
+                    m = N
+                    vAlias = reg81
+                end
+                if m then
+                    N = reg82
+                    F = reg11
+                    A = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 25299321936926
+                    f = "\x9b0\xd1\x042\xb1e\x9dW"
+                    q = 27129163661181
+                    D = "Character"
+                    m = reg82.Character
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 4887845575213
+                    q = "\xde@\x05\xd9;\x88\x03\xec\x151\x8a\x9cG\x92m%"
+                    A = 3795453746584
+                    N = "HumanoidRootPart"
+                    vAlias = reg82.Character.HumanoidRootPart
+                    D = reg11
+                    N = reg82.Character.HumanoidRootPart
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 10999799221316
+                    q = "\x1d\xc4\x84\xd6\rU"
+                    A = 12322045618391
+                    m = "CFrame"
+                    vAlias = reg82.Character.HumanoidRootPart.CFrame
+                    D = reg82.Character.HumanoidRootPart.CFrame
+                    m = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 2781747001338
+                    q = "R*R\x98<\xc8"
+                    A = 26588996965835
+                    vAlias = "CFrame"
+                    A = reg11
+                    q = reg10
+                    j = reg1
+                    z = reg2
+                    Q = 15079816718672
+                    successNotify = "V\xec\x14@C\xcc"
+                    f = 28700571785351
+                    F = "CFrame"
+                    m = b.CFrame
+                    N.CFrame = b.CFrame
+                    A = reg11
+                    q = reg10
+                    j = reg1
+                    z = reg2
+                    Q = 21304262775009
+                    successNotify = "\x95\x86\xe5\x7f"
+                    f = 20199126112544
+                    F = "wait"
+                    vAlias = task.wait
+                    m = task.wait(.15)
+                    F = reg11
+                    A = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 26141135886986
+                    f = "m\xd2\xa1,\"O\xa8\x99\xe5\x89\xed\xb3PM\xc1"
+                    vAlias = b.FindFirstChildOfClass
+                    q = 12412978715699
+                    m = "ProximityPrompt"
+                    vAlias = b:FindFirstChildOfClass("ProximityPrompt")
+                    F = vAlias
+                    if vAlias then
+                        m = fireproximityprompt(vAlias)
+                    end
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 28908627753127
+                    j = "\xf4\x94\xf3\xd9"
+                    successNotify = 3383604649779
+                    A = "wait"
+                    vAlias = task.wait
+                    m = task.wait(.15)
+                    m = reg11
+                    A = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 22276977259416
+                    f = "M\x00\x97\xd4\x1b\xe5"
+                    q = 27245426679421
+                    vAlias = "CFrame"
+                    m = reg82.Character.HumanoidRootPart.CFrame
+                    N.CFrame = reg82.Character.HumanoidRootPart.CFrame
+                end
+            end
+        end
+        enableEspButton = task.spawn(updateCFrame)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        text = m
+        D3 = reg2
+        reg10Alias = "&\x15\xac\x13B"
+        o3 = 34525229655841
+        updateCFrame = "Title"
+        additionalIntegerToBytesText = T
+        o3 = reg10
+        D3 = m
+        text = "E\xc3\x9c^se*\r\x0f\x81"
+        reg10Alias = 30178083227441
+        b3 = "Enable ESP"
+        o3 = T
+        reg10Alias = reg10
+        D3 = "\xd3\x9fSC\xee"
+        F3[1] = 22713389261291
+        text = 22713389261291
+        additionalIntegerToBytesText = "Value"
+        m3 = W.Toggle
+        text = T
+        D3 = reg10
+        F3[2] = "4\xd3L\x81etb\x16"
+        F3[3] = 12450083949640
+        F3[1] = 12450083949640
+        reg10Alias = "Callback"
+        local function integerToBytesText(integerToBytesArgument, ...)
+
+        end
+        enableEspButton = {
+            Title = "Enable ESP",
+            Value = false,
+            Callback = integerToBytesText
+        }
+        m3 = W:Toggle(enableEspButton)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        integerToBytesText = m
+        D3 = reg2
+        reg10Alias = "\xc9\x95\xcd\xa8."
+        o3 = 29637204834064
+        updateCFrame = "Title"
+        additionalIntegerToBytesText = T
+        o3 = reg10
+        D3 = m
+        integerToBytesText = "?qF\xa4]rtZ\xa6\xfft\x93Z"
+        reg10Alias = 1345772448616
+        b3 = "Enable Tracer"
+        m3 = W.Toggle
+        o3 = T
+        reg10Alias = reg10
+        D3 = "\xad\xb3\x1c\xadv"
+        F3[1] = 25559470915284
+        integerToBytesText = 25559470915284
+        additionalIntegerToBytesText = "Value"
+        integerToBytesText = T
+        D3 = reg10
+        F3[2] = "\xef\x1aW\xc3\x8a\x92\xb5\xf0"
+        F3[3] = 9909451624286
+        F3[1] = 9909451624286
+        reg10Alias = "Callback"
+        local function integerToBytesNumber(integerToBytesArgument, ...)
+
+        end
+        enableEspButton = {
+            Title = "Enable Tracer",
+            Value = false,
+            Callback = integerToBytesNumber
+        }
+        m3 = W:Toggle(enableEspButton)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        integerToBytesNumber = m
+        D3 = reg2
+        reg10Alias = "\xde\xa6\xfaDt"
+        o3 = 23557695253621
+        updateCFrame = "Title"
+        additionalIntegerToBytesText = T
+        o3 = reg10
+        D3 = m
+        integerToBytesNumber = "RO5\xc5\xe6j\xf4\xdbn"
+        reg10Alias = 4537618140342
+        b3 = "Trace Gun"
+        o3 = T
+        reg10Alias = reg10
+        m3 = W.Toggle
+        D3 = "\xab\xd6O\x86\xe3"
+        F3[1] = 27296269224549
+        integerToBytesNumber = 27296269224549
+        additionalIntegerToBytesText = "Value"
+        integerToBytesNumber = T
+        D3 = reg10
+        F3[2] = "\xddH\x1dZ\xf5\xa0\xad\x84"
+        F3[3] = 13527090323867
+        F3[1] = 13527090323867
+        reg10Alias = "Callback"
+        local function mAlias(integerToBytesArgument, ...)
+
+        end
+        enableEspButton = {
+            Title = "Trace Gun",
+            Value = false,
+            Callback = mAlias
+        }
+        m3 = W:Toggle(enableEspButton)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        mAlias = m
+        D3 = reg2
+        reg10Alias = "\x1f\x91\xa6\xbf\xfe"
+        o3 = 16727329776929
+        updateCFrame = "Title"
+        additionalIntegerToBytesText = T
+        o3 = reg10
+        D3 = m
+        mAlias = "Xt\xa4P\xf3\xf5\xc5\x1eN,CE\x8e"
+        reg10Alias = 29089182986607
+        b3 = "Auto Grab Gun"
+        o3 = T
+        m3 = i.Toggle
+        reg10Alias = reg10
+        D3 = "\xc4I\xbc\xa9\x1d"
+        F3[1] = 2931329705020
+        mAlias = 2931329705020
+        additionalIntegerToBytesText = "Value"
+        mAlias = T
+        D3 = reg10
+        F3[2] = "\xdd\xe0\xaci\xeb\xdb\xa3\xa9"
+        F3[3] = 2330780960500
+        F3[1] = 2330780960500
+        reg10Alias = "Callback"
+        local function tAlias(integerToBytesArgument, ...)
+
+        end
+        enableEspButton = {
+            Title = "Auto Grab Gun",
+            Value = false,
+            Callback = tAlias
+        }
+        m3 = i:Toggle(enableEspButton)
+        b3 = T
+        additionalIntegerToBytesText = reg10
+        tAlias = m
+        D3 = reg2
+        reg10Alias = "\xc9\xe2XD\xc8"
+        o3 = 4326521993546
+        updateCFrame = "Title"
+        additionalIntegerToBytesText = T
+        o3 = reg10
+        D3 = m
+        tAlias = "\x9a\x8d\xc0Y\xa9\xe2\x03\xa0"
+        reg10Alias = 9924615811290
+        b3 = "Kill All"
+        o3 = T
+        reg10Alias = reg10
+        D3 = "I'\x06 "
+        F3[1] = 24398711625227
+        tAlias = 24398711625227
+        additionalIntegerToBytesText = "Desc"
+        reg10Alias = T
+        tAlias = reg10
+        F3[1] = "uE\x9e\xfbn\x03\xd6\xeb\x13\x82L\x02\x001S\xe3\xcf\xc8\n;\x8a\x9fju\x1d>\xca\x1a\xcf\x00\xe4M5Dbi\xf1\xc8\x10|\xb6~./\xfb6V7\xf2I\xe5_\x80T\xbf"
+        F3[2] = 1032846972481
+        D3 = 1032846972481
+        o3 = "Teleports all players to you and stabs (Requires Knife)"
+        tAlias = T
+        D3 = reg10
+        m3 = xA.Button
+        F3[4] = reg2
+        F3[2] = "8\x1a\x15\x18\x98\x88\xb5\xfc"
+        F3[3] = 24655310100331
+        F3[1] = 24655310100331
+        reg10Alias = "Callback"
+        local function useHumanoidRootPart(...)
+            N = reg82:FindFirstChild("Backpack")
+            m = not reg82.Character
+            if not not reg82.Character then
+                D = not N
+                m = not N
+            end
+            if m then
+                return
+            end
+            F = "Knife"
+            D = reg82.Character:FindFirstChild("Knife")
+            if not D then
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                D = N.FindFirstChild
+                Q = 26623717986007
+                successNotify = "2\xc9\x9cI\xbf"
+                f = 616302021862
+                F = "Knife"
+                m = N:FindFirstChild("Knife")
+            end
+            if not D then
+                vAlias = reg39
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 26667654667588
+                j = "\xbe^\xb1\t\xd6"
+                successNotify = 27976417929513
+                A = "Title"
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 25851992544928
+                z = "p\xda7\xb5i\xa0\xbc\xa3"
+                j = 9211065318689
+                q = "Kill All"
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 33767553994559
+                Q = "r>\xb2\x05\x99\xe2\xe0"
+                z = 15046646311565
+                f = "Content"
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 30089079195320
+                G = "J\xfd\xa0\xcbI\xc3\xb1C]\x0b\xb8\xc2\xbeG\x0b\xfe\x8c\xd0\x18\x02\x85r\xa0/\xe0\x99\x17\x8f\xef0:_*\xf4\x05\xa2z[\x1bMh\xe5"
+                Q = 2165668096165
+                successNotify = "You are not the Murderer (Knife not found)"
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 6055315476418
+                t = "\xf0\x84\x8a\xd9"
+                G = 20573867788699
+                j = "Icon"
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 28257289212120
+                Y = ":"
+                t = 20236895304242
+                z = "x"
+                F = {
+                    Title = "Kill All",
+                    Content = "You are not the Murderer (Knife not found)",
+                    Icon = "x"
+                }
+                m = reg39.Notify
+                m = reg39:Notify(F)
+                return
+            end
+            F = reg82.Character:FindFirstChild("HumanoidRootPart")
+            vAlias = reg82.Character:FindFirstChild("Humanoid")
+            A = vAlias
+            if F then
+            end
+            if not F then
+                return
+            end
+            f = reg11
+            G = reg2
+            Q = 12005234518389
+            if D.Parent == N then
+                vAlias = vAlias.EquipTool
+                vAlias = A:EquipTool(D)
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 23475112524033
+                z = "\x01d\xe9\x8f"
+                j = 34153718769456
+                q = "wait"
+                vAlias = task.wait
+                m = task.wait(.1)
+            end
+            z = reg79.GetPlayers
+            j = {
+                reg79:GetPlayers()
+            }
+            for f, z in ipairs(a(j)) do
+                j = f
+                t = reg82
+                G = z ~= reg82
+                Q = z ~= reg82
+                if z ~= reg82 then
+                    Z = reg11
+                    P = "\xe6\xba\x7f\xb9\x1em6\x8f*"
+                    J = reg10
+                    T = reg1
+                    y = reg2
+                    X = 17386601375757
+                    k = "v\x14\xa8\x13\xf9W\x075\xeb"
+                    T = 16073032736610
+                    g = 16073032736610
+                    p = "Character"
+                    Y = z.Character
+                    G = z.Character
+                    if z.Character then
+                        Z = reg11
+                        J = reg10
+                        T = reg1
+                        y = reg2
+                        X = 20199972104871
+                        k = "e\x19E\"\xa6\xc1\xae\x1aZ"
+                        g = 27041089474696
+                        p = "Character"
+                        Y = z.Character
+                        J = reg11
+                        g = reg10
+                        p = z.Character.FindFirstChild
+                        y = reg1
+                        X = reg2
+                        P = 20386208973173
+                        T = "\x1aH\xd8\xf5\x0f\x99H\xa8{\xcf\x87\xccI\x93\xd4\x18"
+                        k = 9943013480030
+                        Z = "HumanoidRootPart"
+                        G = z.Character:FindFirstChild("HumanoidRootPart")
+                    end
+                    Q = G
+                    vAlias = ipairs
+                end
+                if Q then
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 1941653828832
+                    Z = "\x94z>`\xf1\x11\xed\xb1\x8b"
+                    p = 5299712038113
+                    G = "Character"
+                    Q = z.Character
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 20323958773300
+                    Z = "\x8c\xae_\xf2\x9f<>\x82P\x8e{\x06\xbc\x07\x19\x7f"
+                    p = 33491649636617
+                    G = "HumanoidRootPart"
+                    vAlias = z.Character.HumanoidRootPart
+                    Q = z.Character.HumanoidRootPart
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 2776452866533
+                    p = "\xe2\x0c\xf9\x19\x98\xf0@0"
+                    Y = 16764756985044
+                    vAlias = "Anchored"
+                    Q.Anchored = true
+                    G = reg11
+                    t = reg10
+                    Z = reg1
+                    J = reg2
+                    g = 3609450545985
+                    p = "\xd4\xf6\xe2G\xc0\xeb"
+                    Y = 10373522154625
+                    vAlias = "CFrame"
+                    p = reg11
+                    Z = reg10
+                    k = reg1
+                    T = reg2
+                    y = 2788669203579
+                    g = "A\x9a\xb1\xb9E\xad"
+                    J = 26544412551893
+                    Y = "CFrame"
+                    t = F.CFrame
+                    J = reg11
+                    g = reg10
+                    y = reg1
+                    X = reg2
+                    P = 4420799152580
+                    T = "\xc7\xbb\xf4"
+                    k = 24184646591651
+                    Z = "new"
+                    Y = CFrame.new
+                    p = CFrame.new(0, 0, -2)
+                    G = F.CFrame * p
+                    Q.CFrame = F.CFrame * p
+                end
+            end
+            vAlias = D:FindFirstChild("Stab")
+            q = vAlias
+            if vAlias then
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 24336224754666
+                Q = "\xce\xd4\xeby\x15"
+                vAlias = vAlias.FireServer
+                z = 15988757943190
+                f = "Slash"
+                vAlias = vAlias(q, "Slash")
+            end
+            j = reg11
+            vAlias = task.wait
+            f = task.wait(.1)
+            G = reg79.GetPlayers
+            Q = {
+                reg79:GetPlayers()
+            }
+            for j, Q in ipairs(a(Q)) do
+                p = reg11
+                Z = reg10
+                k = reg1
+                X = "\xe8J_\x89\x1eO7A\xc5"
+                T = reg2
+                z = j
+                y = 17133202033574
+                g = "\xa1J^\xce,\x03\x89\x08\r"
+                k = 13550595545004
+                J = 13550595545004
+                Y = "Character"
+                t = Q.Character
+                G = Q.Character
+                if Q.Character then
+                    p = reg11
+                    Z = reg10
+                    k = reg1
+                    T = reg2
+                    y = 10370060331550
+                    g = "\xad\xb6\x1d\xe1\x00\x91\x0by\x08"
+                    J = 11226323831194
+                    Y = "Character"
+                    t = Q.Character
+                    Z = reg11
+                    J = reg10
+                    T = reg1
+                    y = reg2
+                    X = 14891794711972
+                    k = "\xa4\xe1\xc1\x16\x84>\x1bCH\xebJ\x03,\xe5\xc9\x91"
+                    Y = Q.Character.FindFirstChild
+                    g = 25381323926742
+                    p = "HumanoidRootPart"
+                    G = Q.Character:FindFirstChild("HumanoidRootPart")
+                end
+                if G then
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 4333755417353
+                    J = "=\x9dR\xc5{B\xb79\xc2"
+                    Z = 11366138985465
+                    t = "Character"
+                    G = Q.Character
+                    Y = reg11
+                    p = reg10
+                    g = reg1
+                    k = reg2
+                    T = 522983196445
+                    J = "\x0f\xd1\x85\xf2c,S\r!{n\xfb\xe4\x9ba\xc5"
+                    Z = 4701377451278
+                    t = "HumanoidRootPart"
+                    vAlias = Q.Character.HumanoidRootPart
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 10485513142859
+                    Z = "Tp5\xe8\xa5\xb2\x9a\x88"
+                    p = 29244137150721
+                    G = "Anchored"
+                    vAlias.Anchored = false
+                end
+            end
+            if D.Parent == reg82.Character then
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 30528478689951
+                z = "\xb92\t\xf2\xe0\x8f"
+                j = 21618965109112
+                vAlias = "Parent"
+                f = N
+                D.Parent = N
+            end
+            successNotify = {
+                Title = "Success",
+                Content = "Kill All attempted.",
+                Icon = "check"
+            }
+            f = reg39:Notify(successNotify)
+        end
+        enableEspButton = {
+            Title = "Kill All",
+            Desc = "Teleports all players to you and stabs (Requires Knife)",
+            Callback = useHumanoidRootPart
+        }
+        m3 = xA:Button(enableEspButton)
+        reg95 = false
+        reg99 = {}
+        local function alternateReg(...)
+            m = reg82.Character
+            if not reg82.Character then
+                N = reg82
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 22942421241695
+                f = "PI\x9d\x97m\x83+\xb4\x15\xd3\x87\xff?\x1d"
+                q = 22325881207806
+                D = "CharacterAdded"
+                b = reg82.CharacterAdded
+                N = reg82.CharacterAdded.Wait
+                m = reg82.CharacterAdded:Wait()
+            end
+            reg97 = m:WaitForChild("Humanoid")
+            z = 21563357843526
+            reg98 = m:WaitForChild("HumanoidRootPart")
+            reg99 = {}
+            f = m
+            successNotify = {
+                m:GetDescendants()
+            }
+            q = m[3]
+            for q, f in m[1], ipairs(a(successNotify)) do
+                D = q
+                G = reg11
+                k = "\xf1tI5\xcb\x89\x92y"
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 3547827718189
+                p = "\xae\xd6\x98J\xa6>'\xa8"
+                Z = 26105261163416
+                Y = 26105261163416
+                Q = "BasePart"
+                z = f:IsA("BasePart")
+                successNotify = z
+                if z then
+                    t = reg11
+                    Y = reg10
+                    J = reg1
+                    g = reg2
+                    k = 23861386852663
+                    Z = "\xb3\x0e\"\xf3\xd8\x84\xe2{\xe8k\x14!"
+                    p = 21549319248360
+                    G = "Transparency"
+                    Q = f.Transparency
+                    z = f.Transparency == 0
+                    successNotify = f.Transparency == 0
+                end
+                if successNotify then
+                    Q = reg11
+                    G = reg10
+                    p = reg1
+                    Z = reg2
+                    J = 28689738973546
+                    Y = "kfE\x81\xe5\xe1"
+                    t = 14016507930805
+                    z = "insert"
+                    successNotify = table.insert
+                    z = reg99
+                    j = table.insert(reg99, f)
+                end
+            end
+        end
+        reg100 = alternateReg
+        local function updateIntegerToBytesTransparency(...)
+            vAlias = not reg95
+            reg95 = not reg95
+            for D, A in ipairs(reg99) do
+                F = D
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 6965497280464
+                j = "\x1f\xd4\x01I^\x01\x11\xd5\x03\x8b\x8a\xd2"
+                successNotify = 11901776868553
+                f = vAlias
+                m = "Transparency"
+                z = reg95
+                successNotify = reg95 and 0.5
+                q = reg95 and 0.5 or 0
+                A.Transparency = reg95 and 0.5 or 0
+            end
+        end
+        D3 = reg80
+        F3[2] = T
+        F3[3] = reg10
+        F3[5] = "\x98\xd8&\x12\xde^\xbdE|"
+        F3[6] = 30603260298303
+        F3[4] = 30603260298303
+        F3[1] = "Heartbeat"
+        useHumanoidRootPart = reg80.Heartbeat
+        F3[1] = function(...)
+            b = reg95
+            m = reg95
+            if reg95 then
+                D = reg98
+                b = reg98
+                if reg98 then
+                    D = reg97
+                    b = reg97
+                end
+                vAlias = y
+                m = b
+            end
+            if m then
+                m = reg98
+                N = reg11
+                D = reg10
+                q = reg1
+                f = reg2
+                successNotify = 18842738703786
+                A = "RFQ\xf3x\xd0"
+                F = 18411997874374
+                b = "CFrame"
+                vAlias = reg98.CFrame
+                b = reg98.CFrame
+                m = reg97
+                D = reg11
+                F = reg10
+                f = reg1
+                successNotify = reg2
+                j = 16923414769867
+                q = "j~t\xabW\x19\xffU`0Kg"
+                A = 9551943561146
+                N = "CameraOffset"
+                vAlias = reg97.CameraOffset
+                N = reg97.CameraOffset
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 34656560090309
+                successNotify = "W\xd5\xa6"
+                f = 27466966342765
+                F = "new"
+                m = CFrame.new
+                D = CFrame.new(0, -200000, 0)
+                vAlias = reg98.CFrame * D
+                D = reg98.CFrame * D
+                vAlias = reg98
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 19580703795650
+                f = "D\xe7G\xf6\xf8\x16"
+                q = 152021211594
+                m = "CFrame"
+                F = D
+                reg98.CFrame = D
+                vAlias = reg97
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 3257664664315
+                f = "\xa54\x00S\xe2\x06\xf8\xf23\xcb\xb2v"
+                q = 16069855035993
+                m = "CameraOffset"
+                A = D.ToObjectSpace
+                A = D:ToObjectSpace(b)
+                f = reg11
+                successNotify = reg10
+                Q = reg1
+                G = reg2
+                t = 17386050563983
+                z = "4\xd2\xd00\x85\xbb\x94\xac"
+                j = 20030900614134
+                q = "Position"
+                F = A.Position
+                reg97.CameraOffset = A.Position
+                m = reg80
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 558399198218
+                successNotify = "\xd7\xe1Q\xdb8\xf6'\x9b1\x98\xefA\x90"
+                f = 31465097648088
+                F = "RenderStepped"
+                vAlias = reg80.RenderStepped
+                m = reg80.RenderStepped.Wait
+                m = reg80.RenderStepped:Wait()
+                vAlias = reg98
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 5349340782379
+                f = "\xf3yvMFu"
+                q = 3036347295902
+                m = "CFrame"
+                F = b
+                reg98.CFrame = b
+                vAlias = reg97
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 16711151203004
+                f = "\x03\x9e\xa4\x07h\x06b\r\xf7`d#"
+                q = 6175657767026
+                m = "CameraOffset"
+                F = N
+                reg97.CameraOffset = N
+            end
+        end
+        D3 = reg80.Heartbeat.Connect
+        D3 = reg80.Heartbeat:Connect(F3[1])
+        D3 = reg79.LocalPlayer
+        F3[2] = T
+        F3[3] = reg10
+        F3[5] = "\xf9\xdb\xeb?o\xb6\xc5\\{\x9c\xcd{\xd1\xdc"
+        F3[6] = 5750173401543
+        F3[4] = 5750173401543
+        F3[1] = "CharacterAdded"
+        useHumanoidRootPart = reg79.LocalPlayer.CharacterAdded
+        F3[1] = function(...)
+            b = reg100()
+        end
+        D3 = reg79.LocalPlayer.CharacterAdded.Connect
+        D3 = reg79.LocalPlayer.CharacterAdded:Connect(F3[1])
+        useHumanoidRootPart = reg100
+        D3 = reg100()
+        F3[1] = T
+        F3[2] = reg10
+        F3[6] = reg2
+        F3[4] = "\x93p\xd86f\xa4\xac\xbc\xb7\xcc\xed\xd4C"
+        F3[5] = 28077545991368
+        F3[3] = 28077545991368
+        D3 = "Invisible_Btn"
+        F3[3] = "UDim2"
+        F3[2] = UDim2
+        F3[4] = T
+        F3[5] = reg10
+        F3[7] = "\x00\xfeS"
+        F3[8] = 34388732512073
+        F3[6] = 34388732512073
+        F3[3] = "new"
+        F3[5] = .65
+        F3[1] = UDim2.new
+        F3[6] = 0
+        F3[3] = 0.5
+        F3[4] = 0
+        F3[2] = UDim2.new(0.5, 0, .65, 0)
+        F3[3] = T
+        F3[4] = reg10
+        F3[6] = "\xeb\xcfU\xaaD\x04/\r\x02"
+        F3[7] = 3495412726129
+        F3[5] = 3495412726129
+        F3[1] = "INVISIBLE"
+        useHumanoidRootPart = FA("Invisible_Btn", F3[2], "INVISIBLE", updateIntegerToBytesTransparency)
+        F3[1] = T
+        F3[2] = reg10
+        F3[6] = reg2
+        F3[4] = "\xb7\x98\xe2G\x8a\x82\xa8"
+        F3[5] = 19587126452139
+        F3[3] = 19587126452139
+        D3 = "Gun_Btn"
+        F3[3] = "UDim2"
+        F3[2] = UDim2
+        F3[4] = T
+        F3[5] = reg10
+        F3[7] = "Q\x06\xdb"
+        F3[8] = 24654110554306
+        F3[6] = 24654110554306
+        F3[5] = .65
+        F3[3] = "new"
+        F3[6] = 0
+        F3[1] = UDim2.new
+        F3[3] = 0.5
+        F3[4] = 0
+        F3[2] = UDim2.new(0.5, 0, .65, 0)
+        F3[3] = T
+        F3[4] = reg10
+        F3[6] = "\xdb\xd0\xbcm\xd44>"
+        F3[7] = 18542971233681
+        F3[5] = 18542971233681
+        F3[1] = "GET GUN"
+        F3[4] = "GetGunNow"
+        F3[3] = GetGunNow
+        useHumanoidRootPart = FA("Gun_Btn", F3[2], "GET GUN", F3[3])
+        F3[2] = T
+        F3[3] = reg10
+        F3[5] = "\x9a\xfc\xf9\x18J"
+        F3[6] = 19557250470941
+        F3[4] = 19557250470941
+        F3[1] = "Title"
+        F3[3] = T
+        F3[4] = reg10
+        F3[6] = "\x9eJ\xb2\xf2u\x8e\xbbT1\x1eP,In\x06"
+        F3[7] = 33822104056836
+        F3[5] = 33822104056836
+        F3[2] = "Enable Name ESP"
+        F3[4] = T
+        F3[5] = reg10
+        F3[7] = "Q\x01^\xfcC"
+        F3[8] = 22257483797903
+        F3[6] = F3[5]("Q\x01^\xfcC", 22257483797903)
+        F3[3] = "Title"
+        F3[4] = false
+        F3[6] = T
+        F3[7] = reg10
+        F3[9] = "\xa3S\x87\xc2F\x1c~\x94"
+        F3[10] = 15717841484860
+        F3[8] = F3[7]("\xa3S\x87\xc2F\x1c~\x94", 15717841484860)
+        useHumanoidRootPart = W.Toggle
+        F3[5] = "Value"
+        F3[6] = function(integerToBytesArgument, ...)
+
+        end
+        D3 = {
+            Title = "Enable Name ESP",
+            Title = false,
+            Value = F3[6]
+        }
+        useHumanoidRootPart = W:Toggle(D3)
+        reg101 = false
+        F3[1] = function(...)
+            vAlias = reg101
+            while vAlias do
+                m = reg80
+                G = "\x9dC\xf56@\xde\x12\xd0\xfb"
+                t = 15566164174135
+                A = reg11
+                q = reg10
+                j = reg1
+                z = reg2
+                Q = 15566164174135
+                successNotify = "\x96\x88\x031\xc1\x15s\xea\x82"
+                j = 14804730700532
+                f = 14804730700532
+                F = "Heartbeat"
+                vAlias = reg80.Heartbeat
+                m = reg80.Heartbeat.Wait
+                m = reg80.Heartbeat:Wait()
+                F = reg101
+                m = reg101
+                while not F do
+                    if m then
+                        m = reg80
+                        A = reg11
+                        q = reg10
+                        j = reg1
+                        z = reg2
+                        Q = 896306131456
+                        successNotify = "\xc3\xfd\"\x08\x1a\xae>\xc1\x17"
+                        f = 16383438479513
+                        F = "Heartbeat"
+                        vAlias = reg80.Heartbeat
+                        m = reg80.Heartbeat.Wait
+                        m = reg80.Heartbeat:Wait()
+                        m = reg82
+                        A = reg11
+                        q = reg10
+                        j = reg1
+                        z = reg2
+                        Q = 13933491542119
+                        successNotify = "\xec\xcf\x85\xdb\r\xdf\xdd\xf8\x99"
+                        f = 2421492397701
+                        F = "Character"
+                        vAlias = reg82.Character
+                        b = reg82.Character
+                        f = reg11
+                        successNotify = reg10
+                        F = reg82.Character
+                        Q = reg1
+                        G = reg2
+                        t = 25743253866128
+                        z = "0\xe4z\xb4@\"\x10\x89\xbcny)\xce\xce\x85L"
+                        j = 27353179459026
+                        A = reg82.Character.FindFirstChild
+                        q = "HumanoidRootPart"
+                        A = reg82.Character:FindFirstChild("HumanoidRootPart")
+                        m = A
+                        if not A then
+                            q = reg82.Character
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 19321527822364
+                            G = "\xad#\x9d\xce\xbc"
+                            Q = 1350665779956
+                            f = reg82.Character.FindFirstChild
+                            successNotify = "Torso"
+                            f = reg82.Character:FindFirstChild("Torso")
+                            A = f
+                            if not f then
+                                j = reg11
+                                z = reg10
+                                t = reg1
+                                Y = reg2
+                                p = 26263141966054
+                                f = reg82.Character.FindFirstChild
+                                G = "4\xb5I\xb7\x08\x11z\xeac\xe1"
+                                Q = 9484754061726
+                                successNotify = "UpperTorso"
+                                f = reg82.Character:FindFirstChild("UpperTorso")
+                                A = f
+                            end
+                            m = f
+                            vAlias = reg82.Character
+                        end
+                        N = m
+                        vAlias = reg82.Character
+                    end
+                    F = reg101
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 18195128604684
+                    j = "6Q\x1d\x9a\x91\xac\x87\xba"
+                    successNotify = 18667683544301
+                    A = "Velocity"
+                    F = (nil).Velocity
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 19452150594064
+                    j = "\xc4n.\x8e\xea\xad\xac\xe9"
+                    successNotify = 10145394913506
+                    A = "Velocity"
+                    f = (nil).Velocity * 10000
+                    Q = reg11
+                    G = reg10
+                    p = reg1
+                    Z = reg2
+                    J = 4165588543643
+                    Y = "p\xcfM"
+                    t = 34400962819155
+                    z = "new"
+                    successNotify = Vector3.new
+                    j = Vector3.new(0, 10000, 0)
+                    q = (nil).Velocity * 10000 + j
+                    N.Velocity = (nil).Velocity * 10000 + j
+                    q = reg80
+                    successNotify = reg11
+                    j = reg10
+                    Z = 7688108056237
+                    G = reg1
+                    t = reg2
+                    Y = 7688108056237
+                    Q = "\xac\rz\xc9;P\xcc5\xa5N\xceZM"
+                    G = 5473420608291
+                    z = 5473420608291
+                    f = "RenderStepped"
+                    A = reg80.RenderStepped
+                    q = reg80.RenderStepped.Wait
+                    q = reg80.RenderStepped:Wait()
+                    q = vAlias
+                    A = b
+                    if b then
+                        successNotify = m[(nil).Velocity]
+                        Q = reg11
+                        G = reg10
+                        p = reg1
+                        Z = reg2
+                        J = 6942922288366
+                        Y = "I~\xae0nk"
+                        t = 25021919470094
+                        z = "Parent"
+                        j = b.Parent
+                        f = b.Parent
+                        if b.Parent then
+                            vAlias = m[(nil).Velocity]
+                            f = N
+                        end
+                        vAlias = m[(nil).Velocity]
+                        A = f
+                    end
+                    vAlias = q
+                    if A then
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 4331121019100
+                        j = "F\xb4w\xafX\xee\x14\x00"
+                        successNotify = 27131435111824
+                        A = "Velocity"
+                        N.Velocity = (nil).Velocity
+                    end
+                    q = reg80
+                    Z = 4057067840060
+                    p = "\xf4.\xa7C\xf4[A"
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 4057067840060
+                    Q = "\x92\xe3\"U\x17\x82\xbb"
+                    G = 4677973747444
+                    z = 4677973747444
+                    f = "Stepped"
+                    A = reg80.Stepped
+                    q = reg80.Stepped.Wait
+                    q = reg80.Stepped:Wait()
+                    q = vAlias
+                    if b then
+                        successNotify = vAlias
+                        Q = reg11
+                        G = reg10
+                        p = reg1
+                        Z = reg2
+                        J = 5796500032156
+                        Y = "\xde\x04\xe4y\x94X"
+                        t = 28479680895363
+                        z = "Parent"
+                        j = b.Parent
+                        f = b.Parent
+                        if b.Parent then
+                            vAlias = vAlias
+                            f = N
+                        end
+                        A = f
+                    end
+                    vAlias = vAlias
+                    if b then
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 10130719346559
+                        j = "\xb8{\x9fw\x95\xc2\x92@"
+                        successNotify = 22317062806545
+                        J = "&\xfe\xde"
+                        A = "Velocity"
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 10565292734757
+                        t = "\x11|\x1d"
+                        G = 815229320948
+                        j = "new"
+                        f = Vector3.new
+                        successNotify = Vector3.new(0, .1, 0)
+                        q = (nil).Velocity + successNotify
+                        N.Velocity = (nil).Velocity + successNotify
+                        D = -0.1
+                    end
+                end
+                q = vAlias
+                vAlias = vAlias
+                m = not b
+            end
+        end
+        reg102 = F3[1]
+        F3[4] = T
+        F3[5] = reg10
+        F3[7] = "\xca\xcd\xe3\x82\x12"
+        F3[8] = 4558437675018
+        F3[6] = 4558437675018
+        F3[3] = "Title"
+        F3[5] = T
+        F3[6] = reg10
+        F3[8] = " \xac\xdb>4\xba\xf0\x80\xc8!#"
+        F3[9] = 9054885721516
+        F3[7] = 9054885721516
+        F3[4] = "Touch Fling"
+        F3[6] = T
+        F3[7] = reg10
+        F3[1] = "Toggle"
+        F3[1] = rA.Toggle
+        F3[9] = "\xda\x8d\xc7\xd9\xf6"
+        F3[10] = 8232240570411
+        F3[8] = F3[7]("\xda\x8d\xc7\xd9\xf6", 8232240570411)
+        F3[5] = "Title"
+        F3[6] = false
+        F3[8] = T
+        F3[9] = reg10
+        F3[11] = "\xe1\xac\xee\x15>\xaeg\xc2"
+        F3[12] = 5514390481429
+        F3[10] = F3[9]("\xe1\xac\xee\x15>\xaeg\xc2", 5514390481429)
+        F3[7] = "Value"
+        F3[8] = function(integerToBytesCondition, ...)
+            if integerToBytesCondition then
+                reg101 = true
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 33435309723361
+                f = ";\t\xfd\x9e"
+                q = 27190987667421
+                D = "wrap"
+                m = coroutine.wrap
+                D = reg102
+                N = coroutine.wrap(reg102)
+                m = N()
+            else
+                reg101 = false
+            end
+        end
+        F3[2] = {
+            Title = "Touch Fling",
+            Title = false,
+            Value = F3[8]
+        }
+        F3[1] = F3[1](rA, F3[2])
+        F3[1] = false
+        F3[2] = 27
+        F3[3] = 28
+        n[27] = false
+        F3[1] = {}
+        n[28] = F3[1]
+        F3[5] = function(...)
+            A = reg79.GetPlayers
+            F = {
+                reg79:GetPlayers()
+            }
+            N = reg79[3]
+            for N, A in pairs(a(F)) do
+                F = N
+                successNotify = reg82
+                f = A ~= reg82
+                q = A ~= reg82
+                if A ~= reg82 then
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 30475585439117
+                    G = "\x06\xe2\x05'\x17k\x8bp\xb1"
+                    Q = 15022064579260
+                    successNotify = "Character"
+                    f = A.Character
+                    q = A.Character
+                end
+                if q then
+                    Q = reg11
+                    G = reg10
+                    g = "\x97Q\xf7\x91\xdd\x974LT"
+                    p = reg1
+                    Z = reg2
+                    J = 22952997526453
+                    Y = "\x01z\x85\xb2\xe67\xad\x06\xba"
+                    p = 27841581828066
+                    t = 27841581828066
+                    z = "Character"
+                    j = A.Character
+                    Q = A.Character.GetDescendants
+                    z = {
+                        A.Character:GetDescendants()
+                    }
+                    f = A.Character[2]
+                    q = A.Character[1]
+                    for successNotify, z in pairs(a(z)) do
+                        G = reg11
+                        j = successNotify
+                        t = reg10
+                        Z = reg1
+                        J = reg2
+                        g = 25564305153212
+                        p = "\xf8f2\x0bj\x10\x8a\x84"
+                        Z = 16191729284715
+                        Y = 16191729284715
+                        Q = "BasePart"
+                        vAlias = z:IsA("BasePart")
+                        if vAlias then
+                            Q = reg11
+                            G = reg10
+                            p = reg1
+                            Z = reg2
+                            J = 8954849940284
+                            Y = "\x84\xdeY\x94H\xf1\x99\x9e8\xa5"
+                            t = 9235006281889
+                            vAlias = "CanCollide"
+                            z.CanCollide = true
+                        end
+                    end
+                end
+            end
+        end
+        F3[4] = function(player, ...)
+            m = false
+            if false then
+                q = reg11
+                f = reg10
+                z = reg1
+                Q = reg2
+                G = 30208929572231
+                j = "\x10\xe2n\x12\xb1\x99 \xf8\xab"
+                successNotify = 7105997373131
+                A = "Character"
+                F = player.Character
+                q = player.Character.GetDescendants
+                A = {
+                    player.Character:GetDescendants()
+                }
+                N = player.Character[2]
+                m = player.Character[1]
+                F = player.Character[1]
+                for D, q in pairs(a(A)) do
+                    A = D
+                    z = reg11
+                    Q = reg10
+                    Y = reg1
+                    p = reg2
+                    Z = 34670893717974
+                    t = "\xc3\xe9\xe1\x00\xb3\xebN\xbb"
+                    G = 15278155578252
+                    j = "BasePart"
+                    successNotify = q:IsA("BasePart")
+                    f = successNotify
+                    if successNotify then
+                        z = reg11
+                        Q = reg10
+                        Y = reg1
+                        p = reg2
+                        Z = 20285036507284
+                        t = "\"\xb6\x19y&\x83$$>I"
+                        G = 7996705026970
+                        j = "CanCollide"
+                        successNotify = q.CanCollide
+                        f = q.CanCollide
+                    end
+                    if f then
+                        f = reg11
+                        successNotify = reg10
+                        Q = reg1
+                        G = reg2
+                        t = 10760895912689
+                        z = "\x18\xc5B\xd0\xa6\x83\xaaS\x8e\x19"
+                        j = 11172761302098
+                        vAlias = "CanCollide"
+                        q[reg11[11172761302098]] = false
+                    end
+                end
+            end
+        end
+        F3[1] = 29
+        n[29] = F3[4]
+        F3[4] = 30
+        n[30] = F3[5]
+        F3[5] = 31
+        F3[7] = function(...)
+            for N, A in pairs(m) do
+                A:Disconnect()
+            end
+            b = table.clear(n[28])
+            b = n[30]()
+        end
+        F3[6] = function(...)
+            A = reg79.GetPlayers
+            F = {
+                reg79:GetPlayers()
+            }
+            N = reg79[3]
+            m = reg79[1]
+            for N, A in reg79[1], pairs(a(F)) do
+                F = N
+                reg103 = A
+                A = 61
+                q = reg103
+                f = reg82
+                vAlias = reg103 ~= reg82
+                if reg103 ~= reg82 then
+                    q = reg80
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 16577195687864
+                    Q = "\xc5\xf2\xe7k\x0bS\xb7"
+                    z = 1272680555256
+                    f = "Stepped"
+                    vAlias = reg80.Stepped
+                    q = reg80.Stepped.Connect
+                    local function onStepped(...)
+                        m = n[29](reg103)
+                    end
+                    q = reg80.Stepped:Connect(onStepped)
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 22711054296956
+                    G = "\x1f\x11\xe2^&\xa9"
+                    Q = 11872965166928
+                    successNotify = "insert"
+                    vAlias = table.insert
+                    successNotify = n[28]
+                    onStepped = table.insert(n[28], q)
+                end
+            end
+            N = "PlayerAdded"
+            local function onPlayerAdded(player, ...)
+                reg104 = player
+                m = player
+                onPlayerAdded = reg82
+                if player ~= reg82 then
+                    m = reg80
+                    D = reg11
+                    F = reg10
+                    f = reg1
+                    successNotify = reg2
+                    j = 20520888052842
+                    q = "\xf3\xbat\xcd\x1c*\xa7"
+                    A = 23236876974040
+                    onPlayerAdded = "Stepped"
+                    vAlias = reg80.Stepped
+                    local function onStepped(...)
+                        m = n[29](reg104)
+                    end
+                    m = reg80.Stepped.Connect
+                    m = reg80.Stepped:Connect(onStepped)
+                    onStepped = m
+                    F = reg11
+                    A = reg10
+                    successNotify = reg1
+                    j = reg2
+                    z = 15413400363320
+                    f = "\x95zP\x81\xce\xcf"
+                    q = 33867355832463
+                    D = "insert"
+                    vAlias = table.insert
+                    D = n[28]
+                    m = table.insert(n[28], m)
+                end
+            end
+            b = reg79.PlayerAdded:Connect(onPlayerAdded)
+        end
+        n[31] = F3[6]
+        F3[6] = 32
+        n[32] = F3[7]
+        F3[10] = T
+        F3[11] = reg10
+        F3[13] = "7x\xf1\xc0\xaa"
+        F3[14] = 17730988969072
+        F3[12] = 17730988969072
+        F3[9] = "Title"
+        F3[11] = T
+        F3[12] = reg10
+        F3[14] = "#H\x02\x9a\xd1M\xf8\x9c\x9a\x1a"
+        F3[15] = 27220511159339
+        F3[13] = 27220511159339
+        F3[10] = "Anti Fling"
+        F3[12] = T
+        F3[7] = "Toggle"
+        F3[13] = reg10
+        F3[15] = "\x8b\xa6wc\x83"
+        F3[16] = 3047125808558
+        F3[14] = F3[13]("\x8b\xa6wc\x83", 3047125808558)
+        F3[11] = "Title"
+        F3[14] = T
+        F3[7] = rA.Toggle
+        F3[15] = reg10
+        F3[12] = false
+        F3[17] = "\x8f\xcd33\xfe\x88\xad\xdb"
+        F3[18] = 19845362135891
+        F3[16] = F3[15]("\x8f\xcd33\xfe\x88\xad\xdb", 19845362135891)
+        F3[13] = "Value"
+        F3[14] = function(secondaryN, ...)
+            n[27] = secondaryN
+            if secondaryN then
+                m = n[31]
+                N = n[31]()
+            else
+                m = n[32]
+                N = n[32]()
+            end
+        end
+        F3[8] = {
+            Title = "Anti Fling",
+            Title = false,
+            Value = F3[14]
+        }
+        F3[10] = "game"
+        F3[7] = F3[7](rA, F3[8])
+        F3[8] = "loadstring"
+        F3[7] = loadstring
+        F3[9] = game
+        F3[12] = T
+        F3[13] = reg10
+        F3[15] = "\xa1`\xbe\xfd \xc6\x86lr\xee#\xc7\xe8G8^\xf3\xfa\x07\xa90\"\xa3\x1f\x18y\xdd\xbf\xe6^\xb4\xaf.T\xc6\x80\xa7\x87\x84\xf8\xb0\xcc\xfe\xd8\xd65\xbc:gu\xc7E\xfdu\xa7\x08F!\n\x1a\xfc\xa3\xa3.\xbf\xb4\x9e\xd3\xffH\xd8\xa7\xb0!q\x85\x8f5EhG7\xea\xac#\x10\x95\x8a\xa1\xaa\xc65&\xde\x98o]}\xc0\x84qU\xf8\xab\xe1\x80)&\xe2\xb64"
+        F3[16] = 28756483612793
+        F3[14] = 28756483612793
+        F3[11] = "https://raw.githubusercontent.com/universal-roblox/Test/refs/heads/main/obfuscated_script-1778376760892.lua.txt"
+        F3[12] = "HttpGet"
+        F3[12] = game.HttpGet
+        F3[10] = {
+            game:HttpGet("https://raw.githubusercontent.com/universal-roblox/Test/refs/heads/main/obfuscated_script-1778376760892.lua.txt")
+        }
+        F3[8] = loadstring(a(F3[10]))
+        F3[7] = F3[8]()
+        F3[10] = T
+        F3[11] = reg10
+        F3[7] = "Toggle"
+        F3[13] = "vF1\"\xb4"
+        F3[14] = 35174352271830
+        F3[12] = 35174352271830
+        F3[9] = "Title"
+        F3[11] = T
+        F3[12] = reg10
+        F3[14] = "\xeb\x86\xd6\xd2\x07\xc6>\xe6\x13\xa7\xb3\xdf\x10\xc7\xaf\x8b x\xe0\xa2\x1f\xbc\xb2/"
+        F3[15] = 16329796714618
+        F3[13] = 16329796714618
+        F3[10] = "Custom Touch Fling Power"
+        F3[12] = T
+        F3[13] = reg10
+        F3[15] = "Z\xf0\xbd\x9fi"
+        F3[16] = 31094908954339
+        F3[14] = F3[13]("Z\xf0\xbd\x9fi", 31094908954339)
+        F3[11] = "Title"
+        F3[14] = T
+        F3[12] = false
+        F3[15] = reg10
+        F3[17] = "Y\x02n\xfa\xc4\x93\xad\x9d"
+        F3[18] = 18910261434798
+        F3[7] = rA.Toggle
+        F3[16] = F3[15]("Y\x02n\xfa\xc4\x93\xad\x9d", 18910261434798)
+        F3[13] = "Value"
+        F3[14] = function(integerToBytesCondition, ...)
+            if integerToBytesCondition then
+                CustomTouchFlingEnabled = true
+                F = reg11
+                A = reg10
+                successNotify = reg1
+                j = reg2
+                z = 27902791871202
+                f = "\x911\xb3\xd1"
+                q = 10886564356782
+                D = "wrap"
+                m = coroutine.wrap
+                N = coroutine.wrap(CustomTouchFlingLoop)
+                m = N()
+            else
+                CustomTouchFlingEnabled = false
+            end
+        end
+        F3[8] = {
+            Title = "Custom Touch Fling Power",
+            Title = false,
+            Value = F3[14]
+        }
+        F3[7] = F3[7](rA, F3[8])
+        F3[10] = T
+        F3[11] = reg10
+        F3[13] = "\x15y\xf1=Q"
+        F3[14] = 32623493731564
+        F3[12] = 32623493731564
+        F3[9] = "Title"
+        F3[11] = T
+        F3[12] = reg10
+        F3[14] = "S\xc0\x13\x8f\x12oi\x01\xb7\x13\xc5\xa4\xc0\x1f\x08\x98\x06"
+        F3[15] = 61840897825
+        F3[13] = 61840897825
+        F3[10] = "Fling Power Value"
+        F3[12] = T
+        F3[13] = reg10
+        F3[15] = "\x1b*\xc0t|"
+        F3[16] = 29571192345898
+        F3[14] = F3[13]("\x1b*\xc0t|", 29571192345898)
+        F3[11] = "Title"
+        F3[15] = reg10
+        F3[17] = "\xf1\xf1\xda"
+        F3[18] = 14739789684059
+        F3[16] = F3[15]("\xf1\xf1\xda", 14739789684059)
+        F3[13] = "Value"
+        F3[17] = reg10
+        F3[14] = 1
+        F3[19] = "\xb9\xa8\x07"
+        F3[20] = 23509551031065
+        F3[18] = F3[17]("\xb9\xa8\x07", 23509551031065)
+        F3[15] = "Min"
+        F3[19] = reg10
+        F3[7] = "Slider"
+        F3[16] = 10000
+        F3[21] = "\x01i\xf8L\xf2\xd4d"
+        F3[22] = 33568327226947
+        F3[20] = F3[19]("\x01i\xf8L\xf2\xd4d", 33568327226947)
+        F3[17] = "Max"
+        F3[18] = 100
+        F3[12] = {
+            Value = 1,
+            Min = 10000,
+            Max = 100
+        }
+        F3[14] = T
+        F3[7] = rA.Slider
+        F3[15] = reg10
+        F3[17] = "F\xb5\xfeO\xd82\x05>"
+        F3[18] = 6596579400693
+        F3[16] = 6596579400693
+        F3[13] = "Callback"
+        F3[14] = function(integerToBytesArgument, ...)
+
+        end
+        F3[8] = {
+            Title = "Fling Power Value",
+            Title = F3[12],
+            Callback = F3[14]
+        }
+        F3[7] = F3[7](rA, F3[8])
+        F3[9] = "task"
+        F3[8] = task
+        F3[10] = T
+        F3[11] = reg10
+        F3[13] = "\x84.[a1"
+        F3[14] = 17747472316128
+        F3[12] = 17747472316128
+        F3[9] = "spawn"
+        F3[7] = task.spawn
+        F3[9] = function(...)
+            m = task.wait(1)
+            workspace.CurrentCamera.FieldOfView = reg47.FOV
+            if reg47.Fly then
+                f = reg78
+                successNotify = reg78(true)
+            end
+            z = reg82
+            f = reg82.Character
+            if reg82.Character then
+                z = reg82
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 11430009959509
+                p = "\xcdc\x98\xd26\xf5\xcbn\x1e"
+                Y = 24463191742893
+                Q = "Character"
+                j = reg82.Character
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 27469349927477
+                p = "4\x8a\xd1\xcc\xe4\x12\xf9\xb1"
+                Y = 20913924123228
+                Q = "Humanoid"
+                z = FindFirstChildOfClass
+                z = FindFirstChildOfClass(reg82.Character, "Humanoid")
+                f = z
+            end
+            if f then
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 18167220977418
+                G = "\r\xde\x0e1\x16\xcd\x81bV"
+                Q = 20304170463939
+                successNotify = "WalkSpeed"
+                z = reg47
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 353877575102
+                p = "fE\xf6z\xef\xe5\xf6\x1e\x9f"
+                Y = 11917890276565
+                Q = "WalkSpeed"
+                j = reg47.WalkSpeed
+                f.WalkSpeed = reg47.WalkSpeed
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 11546307164276
+                G = "\xcd?3\x85\x9f\x04\x19\x04\xd7\x8f\xb9X"
+                Q = 24460244748175
+                successNotify = "UseJumpPower"
+                f.UseJumpPower = false
+                j = reg11
+                z = reg10
+                t = reg1
+                Y = reg2
+                p = 13461075389317
+                G = "\x17\x02\xc2\xab\xef(G\xb9\xa4\xd7"
+                Q = 12268807513582
+                successNotify = "JumpHeight"
+                z = reg47
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 12008737167724
+                p = "\x0fV\x1e\xea\x8a[1\xeb\xab\x8a"
+                Y = 22298529099239
+                Q = "JumpHeight"
+                j = reg47.JumpHeight
+                f.JumpHeight = reg47.JumpHeight
+            end
+            j = reg54:FindFirstChild("Shoot_Btn")
+            if j then
+                z = reg11
+                Q = reg10
+                Y = reg1
+                p = reg2
+                Z = 20424069114866
+                t = "\xe4\xa7\x8a\xb1\xd1\x90\xf3"
+                G = 32811237042878
+                successNotify = "Visible"
+                Q = reg47
+                t = reg11
+                Y = reg10
+                J = reg1
+                g = reg2
+                k = 28017661842252
+                Z = "\xd0b.WL~\x1e\r5xK\x186S\x9f"
+                p = 32178761612446
+                G = "ShowShootButton"
+                z = reg47.ShowShootButton
+                Visible = reg47.ShowShootButton
+            end
+            z = reg54:FindFirstChild("KillAll_Btn")
+            if z then
+                Q = reg11
+                G = reg10
+                p = reg1
+                Z = reg2
+                J = 3458324702436
+                Y = "\xa1\x11\x83\x08\xa9w\xb1"
+                t = 15443085309349
+                successNotify = "Visible"
+                G = reg47
+                Y = reg11
+                p = reg10
+                g = reg1
+                k = reg2
+                T = 29983511025557
+                J = "W\x9f\xeeU\xceT\x8c\x13\xdc\x15\xb0o\xee\x1d\x1e\x0bk"
+                Z = 21083904964782
+                t = "ShowKillAllButton"
+                Q = reg47.ShowKillAllButton
+                z.Visible = reg47.ShowKillAllButton
+            end
+            Q = reg54:FindFirstChild("Gun_Btn")
+            if Q then
+                G = reg11
+                t = reg10
+                Z = reg1
+                J = reg2
+                g = 17715526695050
+                p = "\xd9\xf8\x1b\xed\xa8\xfe!"
+                Y = 21047846852705
+                successNotify = "Visible"
+                t = reg47
+                p = reg11
+                Z = reg10
+                k = reg1
+                T = reg2
+                y = 23182416905992
+                g = "\xfa\xc8\xe3Qw\xfa\x05AU_\x9dK8\x0f\x16\xe1\xd1"
+                J = 21301372727081
+                Y = "ShowGrabGunButton"
+                G = reg47.ShowGrabGunButton
+                Q.Visible = reg47.ShowGrabGunButton
+            end
+            G = reg54:FindFirstChild("Invisible_Btn")
+            if G then
+                t = reg11
+                Y = reg10
+                J = reg1
+                g = reg2
+                k = 28861187421283
+                Z = "\x97\xd1Vq\x99'6"
+                p = 11162982320949
+                successNotify = "Visible"
+                Y = reg47
+                Z = reg11
+                J = reg10
+                T = reg1
+                y = reg2
+                X = 11793772184396
+                k = "\xaf\xf7\x80\xa8\x82\xebN\xb2\xb7\xed\xad\x88\x12\xfd\xc9\xa3\xc3[\x1c"
+                g = 11811908948637
+                p = "ShowInvisibleButton"
+                t = reg47.ShowInvisibleButton
+                G.Visible = reg47.ShowInvisibleButton
+            end
+        end
+        F3[8] = task.spawn(F3[9])
+        F3[10] = T
+        F3[11] = reg10
+        F3[13] = "`t\x1b\xe2u"
+        F3[14] = 19430326648422
+        F3[12] = 19430326648422
+        F3[9] = "Title"
+        F3[11] = T
+        F3[12] = reg10
+        F3[14] = ";\xffI;`\x0bm\xfcS@\x97\xb8)\xe7e\xc0\x0f\xd4\xab\xcdv@"
+        F3[15] = 24026414551236
+        F3[13] = 24026414551236
+        F3[10] = "Reset Button Positions"
+        F3[12] = T
+        F3[13] = reg10
+        F3[15] = "\xad\xc4\xc1q"
+        F3[16] = 7519521430730
+        F3[14] = F3[13]("\xad\xc4\xc1q", 7519521430730)
+        F3[11] = "Title"
+        F3[13] = T
+        F3[14] = reg10
+        F3[16] = "n\x15\xf6\x10\x1e\xca\xc2|\x8e\x7f\x0e\x7f\x90v\xfd\x8d\x9a\xf0K\xcc9\xa3)\xc3\x12\xa3{\xa8\x11\x04Nw\xcb\xe3{\x85\xfc\x18\\\xcd\x92\xdd\x7fC\xe7\xbf\xf2\x95\xad7"
+        F3[17] = 33631749401623
+        F3[15] = F3[14]("n\x15\xf6\x10\x1e\xca\xc2|\x8e\x7f\x0e\x7f\x90v\xfd\x8d\x9a\xf0K\xcc9\xa3)\xc3\x12\xa3{\xa8\x11\x04Nw\xcb\xe3{\x85\xfc\x18\\\xcd\x92\xdd\x7fC\xe7\xbf\xf2\x95\xad7", 33631749401623)
+        F3[12] = "Reset Button Positions"
+        F3[14] = T
+        F3[15] = reg10
+        F3[17] = "\"\x1b\x13)\xb93$\xf2"
+        F3[18] = 11431052938761
+        F3[16] = F3[15]("\"\x1b\x13)\xb93$\xf2", 11431052938761)
+        F3[7] = "Button"
+        F3[13] = "Desc"
+        F3[14] = function(...)
+            N = reg10
+            A = reg1
+            f = 3874655203644
+            F = "\xcb\x8eL\xf8Ke\xe8"
+            reg47.Buttons = {}
+            m = reg48()
+            for N, A in pairs(F[1]) do
+                F = N
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 25918799204522
+                Q = "8\xb2\xe8\xda"
+                p = "\xcb\xb8f\x0e\xa7\x0e\xb4\x9f\x99"
+                z = 30822596189247
+                f = "Name"
+                q = A.Name
+                successNotify = reg11
+                j = reg10
+                G = reg1
+                t = reg2
+                Y = 22324111275130
+                Q = "\"q\x94\xfa;<h\xfe?"
+                G = 804851350075
+                z = 804851350075
+                f = "Shoot_Btn"
+                vAlias = A.Name == "Shoot_Btn"
+                if A.Name == "Shoot_Btn" then
+                    q = reg11
+                    f = reg10
+                    z = reg1
+                    Q = reg2
+                    G = 17774935693192
+                    j = "\x12w\xcb\x15\xe6\xddtD"
+                    successNotify = 32400746449406
+                    vAlias = "Position"
+                    j = reg11
+                    z = reg10
+                    t = reg1
+                    Y = reg2
+                    p = 11947826711244
+                    G = "\xb6\xbe\xc2"
+                    Q = 34991291243907
+                    successNotify = "new"
+                    q = UDim2.new
+                    f = UDim2.new(.4, 0, .4, 0)
+                    A.Position = f
+                else
+                    successNotify = reg11
+                    j = reg10
+                    G = reg1
+                    t = reg2
+                    Y = 17882586552285
+                    Q = "\x90\xfd\x92e"
+                    z = 21641139564025
+                    f = "Name"
+                    q = A.Name
+                    successNotify = reg11
+                    j = reg10
+                    p = "\xae\xf1I\xba-\x1e\x08)\x97\xae\xb2"
+                    G = reg1
+                    t = reg2
+                    Y = 16601940730658
+                    Q = "6\xc4\xabm^\xe0\x96\xebG\x004"
+                    G = 34593430188616
+                    z = 34593430188616
+                    f = "KillAll_Btn"
+                    vAlias = A.Name == "KillAll_Btn"
+                    if A.Name == "KillAll_Btn" then
+                        q = reg11
+                        f = reg10
+                        z = reg1
+                        Q = reg2
+                        G = 31717551085849
+                        j = "\x88A_\xb8\xc9H-\xba"
+                        successNotify = 26862917424707
+                        vAlias = "Position"
+                        j = reg11
+                        z = reg10
+                        t = reg1
+                        Y = reg2
+                        p = 34906007230278
+                        G = "z$Q"
+                        Q = 22053561542580
+                        successNotify = "new"
+                        q = UDim2.new
+                        f = UDim2.new(.55, 0, .4, 0)
+                        A.Position = f
+                    else
+                        successNotify = reg11
+                        j = reg10
+                        G = reg1
+                        t = reg2
+                        Y = 20832423759347
+                        Q = "\x7f\xf4\x083"
+                        z = 32088852456368
+                        f = "Name"
+                        q = A.Name
+                        p = "0z(\xf6(\xe3\x1f\x8d\xc8\xc2&"
+                        successNotify = reg11
+                        j = reg10
+                        G = reg1
+                        t = reg2
+                        Y = 33464839933008
+                        Q = "\xb7\x19\xd1\xe1L\x1e\xb5\xf2O\x8ej"
+                        G = 3070420068942
+                        z = 3070420068942
+                        f = "GrabGun_Btn"
+                        vAlias = A.Name == "GrabGun_Btn"
+                        if A.Name == "GrabGun_Btn" then
+                            q = reg11
+                            f = reg10
+                            z = reg1
+                            Q = reg2
+                            G = 30009393612217
+                            j = "\x01\x85^\xad\x19\x91\x02\xfa"
+                            successNotify = 34442119605547
+                            vAlias = "Position"
+                            j = reg11
+                            z = reg10
+                            t = reg1
+                            Y = reg2
+                            p = 12245041459597
+                            G = "\xb2\xccp"
+                            Q = 19155660074720
+                            successNotify = "new"
+                            q = UDim2.new
+                            f = UDim2.new(.7, 0, .4, 0)
+                            A.Position = f
+                        else
+                            successNotify = reg11
+                            j = reg10
+                            G = reg1
+                            t = reg2
+                            Y = 13634234414612
+                            Q = "\xfe\xb3\xf7\x97"
+                            z = 17332343328138
+                            f = "Name"
+                            q = A.Name
+                            successNotify = reg11
+                            p = "Rn\"R\x08(\n\x95\x9c\xa5\xed\x92b"
+                            j = reg10
+                            G = reg1
+                            t = reg2
+                            Y = 22956174566990
+                            Q = "\xb8\x0c\x86_e\x8f\x9a\xa0;8\xb4\xd0\""
+                            G = 11843067125921
+                            z = 11843067125921
+                            f = "Invisible_Btn"
+                            vAlias = A.Name == "Invisible_Btn"
+                            if A.Name == "Invisible_Btn" then
+                                q = reg11
+                                f = reg10
+                                z = reg1
+                                Q = reg2
+                                G = 32329373661574
+                                j = "\x9c\xb29\x82:V!*"
+                                successNotify = 15827563370491
+                                vAlias = "Position"
+                                j = reg11
+                                z = reg10
+                                t = reg1
+                                Y = reg2
+                                p = 23861460045921
+                                G = "\xa0V\x90"
+                                Q = 6335426616761
+                                successNotify = "new"
+                                q = UDim2.new
+                                f = UDim2.new(.85, 0, .4, 0)
+                                A.Position = f
+                            end
+                        end
+                    end
+                end
+            end
+            N = {
+                Title = "Yukio Hub",
+                Content = "Button positions reset!",
+                Duration = 3
+            }
+            b = reg39:Notify(N)
+        end
+        F3[8] = {
+            Title = "Reset Button Positions",
+            Title = "Reset Button Positions",
+            Desc = F3[14]
+        }
+        F3[7] = getReg69Map.Button
+        F3[7] = F3[7](getReg69Map, F3[8])
+        return
+    end
+    local function gA(...)
+        m = reg13()
+    end
+    IA = {
+        gA()
+    }
+    return a(IA)
+end
+local data = {
+    integerToBytes((unpack or table.unpack)(U))
+}
+return (unpack or table.unpack)(data)
